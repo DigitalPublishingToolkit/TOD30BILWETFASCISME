@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Hoezo Bilwet?
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bilwet
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,17 +17,16 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 2. Hoezo Bilwet? Een inleiding
+# 1. Hoezo Bilwet? Een inleiding
 
 Door Bilwet. Verschenen op de Bilwebsite thing.desk.nl/bilwet/,
 geschreven in 1994.
 
-![](media/image1.jpg){width="5.59405949256343in"
-height="3.8414195100612423in"}
+![](imgs/hoezobilwet1.jpg)
 
-The Media are here to go
+*The Media are here to go*
 
-Het universum van de Bilwet fellow travellers
+*Het universum van de Bilwet fellow travellers*
 
 ## I. ‘Dag, wij zijn van Bilwet’
 
@@ -143,9 +142,7 @@ Bilwet is in 1983 opgericht door de Amsterdamse sociofilosoof Basjan van
 Stam ter gelegenheid van het verschijnen van zijn eerste boek
 *Seksisme/fascisme: rekonstruktie van een mannenideaal*. Gedurende een
 verblijf van Geert Lovink in Berlijn ontstonden de plannen om tezamen
-een boek te maken over seks en oorlog, hetgeen resulteerde in *Het*
-
-*Beeldenrijk* (1985). Geert Lovink was ooit politicoloog en schreef voor
+een boek te maken over seks en oorlog, hetgeen resulteerde in *Het Beeldenrijk* (1985). Geert Lovink was ooit politicoloog en schreef voor
 het weekblad *bluf!*, wat Bilwet ook ging doen. Begin 1986 traden Arjen
 Mulder (bioloog en *Waarheid*-filmrecensent) en Ger Peeters uit Nijmegen
 (socioloog/fulltime reiziger) toe tot het gezelschap en werden er
@@ -166,5 +163,4 @@ Bollmann, alweer de derde uitgave in het Duits. In februari was de
 Bilwet op tournee in Groot-Duitschland, onder de titel *Datendandy Tour
 1994*.
 
-![](media/image2.jpg){width="3.469108705161855in"
-height="4.081395450568679in"}
+![](imgs/hoezobilwet2.jpg)

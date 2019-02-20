@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bilwet
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,14 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 18. Kuifje in de ban van het beest
-
-# Over de opvoeding tot mannelijkheid
+# 17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
 
 Door Bilwet. Uit De datadandy, geschreven in 1994.
 
-> ‘Wie over het fascisme spreekt en het ook heeft over seksisme, doet er
-> beter aan helemaal niets te zeggen.’ (Johan Sjerpstra)
+‘Wie over het fascisme spreekt en het ook heeft over seksisme, doet er beter aan helemaal niets te zeggen.’ (Johan Sjerpstra)
 
 Na zijn moeizame reis door de Sovjet-Unie, wordt Kuifje naar de Congo
 gestuurd. Dat is spannend. Daar zijn leeuwen en olifanten en luipaarden

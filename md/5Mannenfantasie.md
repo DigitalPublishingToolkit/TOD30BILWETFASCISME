@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Mannenfantasie mannenfantasie: Een Theweleitkritiek
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Arjen Mulder
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 5. Mannenfantasie mannenfantasie 
-
-# Een Theweleitkritiek
+# 4. Mannenfantasie mannenfantasie: Een Theweleitkritiek
 
 Door Arjen Mulder. Geschreven in of na 1985.
 
@@ -44,15 +42,17 @@ schiet je iets op met die kritiek? Beginnen we bij het begin.
 Het empirische object van Theweleits wetenschappelijke studie, het
 feitenmateriaal waarop hij zijn onderzoek richt, wordt gevormd door de
 teksten die geschreven zijn door vrijkorpssoldaten in het Duitsland van
-de jaren ’20 en ’30. Theweleit omschrijft dit materiaal als ‘Geschriften
-van “de eerste soldaten van het Derde Rijk”. Het gaat hierbij om
-levensherinneringen van officieren die erbij betrokken waren, om romans
-van schrijvers die de stof in militaire zin verwerkt hebben, om
-schilderingen van de gevechten na de oorlog voor zover het ik-standpunt
-van de auteur erin overweegt en ze dus nog geen “historische werken”
-genoemd kunnen worden; bovendien om heroïsche beschrijvingen van de
-vrijkorpsstrijd achteraf, die met name in de jaren ’30 begonnen te
-verschijnen.’[^1]
+de jaren ’20 en ’30. Theweleit omschrijft dit materiaal als:
+
+> Geschriften
+> van “de eerste soldaten van het Derde Rijk”. Het gaat hierbij om
+> levensherinneringen van officieren die erbij betrokken waren, om romans
+> van schrijvers die de stof in militaire zin verwerkt hebben, om
+> schilderingen van de gevechten na de oorlog voor zover het ik-standpunt
+> van de auteur erin overweegt en ze dus nog geen “historische werken”
+> genoemd kunnen worden; bovendien om heroïsche beschrijvingen van de
+> vrijkorpsstrijd achteraf, die met name in de jaren ’30 begonnen te
+> verschijnen.[^1]
 
 Het theoretische object van de studie - het onderwerp waarover Theweleit
 theorieën formuleert op basis van een bestudering van het
@@ -90,13 +90,17 @@ verklaringen uitsluit en overbodig maakt.
 Opgemerkt dient te worden dat Theweleits studieobject niet het fascisme
 is. Hij plaatst zijn werk te midden van ‘studies die de moeite nemen de
 ontstaansgeschiedenis van het fascisme te onderzoeken’.[^5] Hij laat
-hierop echter al snel volgen: ‘Ik zie de onderzochte literatuur als
+hierop echter al snel volgen:
+
+> Ik zie de onderzochte literatuur als
 onderdeel van een historische periode (niet louter als uitdrukking
 ervan), als onderdeel van de fascistische manier om met het leven “klaar
 te komen”, als onderdeel ook van de fascistische actie. De verlangens
 die erin naar voren komen en de manier waarop ze naar voren komen zijn
 voor mij van betekenis; niet waar de literatuur “op uit was”, niet wat
-ze al dan niet (naar het heette) aanrichtte.’[^6] Hieruit blijkt al wel
+ze al dan niet (naar het heette) aanrichtte.[^6]
+
+Hieruit blijkt al wel
 dat Theweleit geen scherp onderscheid maakt tussen de Soldaatman als
 onderdeel van de ontstaansgeschiedenis van het fascisme en de Soldaatman
 als onderdeel van het fascisme zelf. Dat er volgens Theweleit ook
@@ -149,7 +153,7 @@ binnenstromen. Het lichaamspantser is antirevolutionair.
 De ervaring van een scheiding tussen een verlangend innerlijk en een
 alle verlangens afwijzend uiterlijk zou volgens Theweleit te wijten zijn
 aan de opvoeding die de Soldaatmannen genoten in het Wilhelminische
-Duitsland van het eind van de 19^e^ eeuw. De moeders beschouwden alles
+Duitsland van het eind van de 19e eeuw. De moeders beschouwden alles
 wat er aan het lichaam van hun baby’s stroomde - poep, pies, spuug - als
 vies, on-netjes, afkeuringswaardig, en ze weigerden dat lichaam op wat
 voor manier dan ook te koesteren. Kwestie van preutsheid. Voordat het
@@ -428,7 +432,7 @@ gedroegen, ze in dit kader bezig zijn met een kronkel die vastzat in de
 kleinst mogelijke eenheid uit diezelfde wereldgeschiedenis: hun eigen
 lichaam.
 
-> ‘Het is de historisch-maatschappelijk-politieke ruimte, die ze met hun
+> Het is de historisch-maatschappelijk-politieke ruimte, die ze met hun
 > fantasie en hun affecten “bezet” houden. De impuls om deze ruimte te
 > betreden lijkt niet voort te komen uit een werkelijke wil daartoe,
 > maar eerder uit een vluchtbeweging. Hun bezetting van de grote
@@ -437,7 +441,7 @@ lichaam.
 > mensheid impliceert de ontkenning van de kleine, nabij, de
 > microgeschiedenis. Hun vlucht in de verte, in het openbare,
 > maatschappelijke, wil de nabijheid ontwijken, het persoonlijke, het
-> individuele of misschien beter het afzonderlijke.’[^16]
+> individuele of misschien beter het afzonderlijke.[^16]
 
 Tegelijkertijd is het merkwaardige van Theweleits fascismebeeld, dat in
 dit kader de soldaatmannen er eigenlijk niets aan konden doen dat ze er
@@ -466,7 +470,7 @@ ontwikkeling van de burgerlijke, patriarchale maatschappij. Anderzijds
 richt hij de aandacht op de moeders van de soldaatmannen, die op zich
 ‘normaal’ functionerende onderdelen van die maatschappij waren.
 
-> ‘Als de psychoanalyse moediger was geweest had ze gezien dat de
+> Als de psychoanalyse moediger was geweest had ze gezien dat de
 > maatschappij moorddadig was, en zich niet blindgestaard op de
 > “doodsdrift”. Meer specifiek was vooral de rol van de moeders, met
 > name die in de tweefrontenlagen (=middenklassen), niet langer buiten
@@ -480,15 +484,15 @@ richt hij de aandacht op de moeders van de soldaatmannen, die op zich
 > zijn minst na 1945 duidelijk moeten zijn geworden. Toch gebeurde dat
 > niet. En ook nu nog zijn tot op zekere hoogte zelfs vrouwen, die voor
 > de bevrijding van vrouwen werken en leven bang erover te
-> spreken.’[^20]
+> spreken.[^20]
 
 En hij voegt hier tussen haakjes aan toe:
 
-> ‘Akkoord: te gemakkelijk valt daaruit een nieuwe versie van de
+> Akkoord: te gemakkelijk valt daaruit een nieuwe versie van de
 > vrouwelijke schuld aan alle kwaad te construeren. Anderzijds: hoe
 > gemakkelijk zou zich uit de twee-eenheid moeder-kind een nieuw
 > revolutionair bewustzijn kunnen ontwikkelen van vrouwen als
-> producenten van niet-moorddadige mensen.’[^21]
+> producenten van niet-moorddadige mensen.[^21]
 
 Theweleit wil de moederkoe slachten. Maar tegelijk maakt hij in een
 historische schets duidelijk dat ze hooguit medeverantwoordelijk is voor
@@ -496,7 +500,7 @@ de beestachtige begeerten van haar zonen. Hij beschrijft haar als het
 eindproduct van de ontwikkeling van de burgerlijke maatschappij sedert
 de 11e eeuw. Dit ontwikkelingsproces is op te vatten als
 
-> ‘de functieverandering, waaraan vrouwen in de patriarchale
+> de functieverandering, waaraan vrouwen in de patriarchale
 > verhoudingen in de loop van de geschiedenis onderworpen werden. De
 > productieve kracht van vrouwen is in het patriarchaat zo goed als
 > uitgesloten van de mannelijke, de openbaar maatschappelijke productie.
@@ -507,7 +511,7 @@ de 11e eeuw. Dit ontwikkelingsproces is op te vatten als
 > directe wijze uitgebuit en onderworpen, ze werden ook voor nog veel
 > erger gebruikt, namelijk om als absorptiefactor te dienen van de
 > productiekracht van mannen van de overheerste klassen ten gunste van
-> de heersende.’[^22]
+> de heersende.[^22]
 
 De mannen uit de overheerste klassen mochten hun verlangens naar
 vrijheid en geluk niet op de voor hen onbereikbare macht richten, dat
@@ -517,11 +521,11 @@ zeggen heel de stroom van hun verlangen naar vrede, vrijheid en avontuur
 werd door slimme heersers op de vrouw gericht. Gevolg: een tweede vorm
 van vrouwenonderdrukking.
 
-> ‘De vrouw wordt onderdrukt door haar op een voetstuk te plaatsen, door
+> De vrouw wordt onderdrukt door haar op een voetstuk te plaatsen, door
 > haar grenzeloos te maken, onwerkelijk zodat ze een principe wordt, het
 > principe van het stromen, van de verte, van de onbestemde eindeloze
 > verlokking. Deze vrouwenverering gaat gepaard met een ontkenning van
-> de concrete, vleselijke realiteit van vrouwen.’[^23]
+> de concrete, vleselijke realiteit van vrouwen.[^23]
 
 In deze tweezijdige onderdrukking zagen de moeders van het Duitsland van
 de laat-19^e^ eeuw zich geplaatst. Het lichaam van deze vrouwen werd
@@ -988,7 +992,7 @@ politieke overtuiging kan heel goed gepaard gaan met reactionaire
 organisatievormen van het verlangen (zie bijvoorbeeld de communistische
 partijen). Deleuze en Guattari besluiten hun anti-Oedipale arbeid aldus:
 
-> ‘De opgave van de schizoanalyse bestaat er uiteindelijk in, om in
+> De opgave van de schizoanalyse bestaat er uiteindelijk in, om in
 > ieder geval de natuur van de libidineuze bezettingen van het
 > maatschappelijke veld, haar mogelijke innerlijke conflicten, haar
 > betrekking tot voorbewuste bezettingen van dit veld, kortom, het
@@ -1003,7 +1007,7 @@ partijen). Deleuze en Guattari besluiten hun anti-Oedipale arbeid aldus:
 > doeleinden voorhouden, ze bevindt zich overal, ze is één met de
 > voltooiing, de verwerkelijking van het proces van de
 > verlangenproductie, dit proces dat zich altijd al verwerkelijkt en
-> voltooit, in zoverre en zolang als het zich voltrekt…’[^31]
+> voltooit, in zoverre en zolang als het zich voltrekt…[^31]
 
 Aan deze opdracht heeft Theweleit zich gehouden. Hij heeft (tot op
 zekere hoogte) een geslaagde schizoanalyse gegeven van de Soldaatman en
@@ -1073,7 +1077,7 @@ uiteindelijk iedere macht uit voortkomt en naar streeft.
 
 Maar is dit de natuurlijke, de enig mogelijke gang van zaken?
 
-> ‘Het axioma, de mythe van een werkelijke of mogelijke accumulatie,
+> Het axioma, de mythe van een werkelijke of mogelijke accumulatie,
 > beheerst ons volledig, hoewel we eigenlijk weten, dat men nooit iets
 > accumuleert, dat de kapitalen zichzelf verteren - zoals de moderne
 > reuzensteden of een overladen geheugen. Wat iedere accumulatiepoging
@@ -1091,7 +1095,7 @@ Maar is dit de natuurlijke, de enig mogelijke gang van zaken?
 > mateloosheid van de productie. Dit “iets” is niet het “verlangen”,
 > maar iets dat bewerkt, dat de macht precies in die mate uiteenvalt,
 > als waarin ze zich onherroepelijk uitbreidt. En dat is tegenwoordig
-> overal het geval.’[^33]
+> overal het geval.[^33]
 
 Iets in ons verzet zich tegen de productie, tegen de macht (ook tegen de
 macht van het verlangen). Is dat de paranoïde pool van de

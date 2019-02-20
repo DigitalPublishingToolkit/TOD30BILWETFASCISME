@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Seksisme racisme: Hoezo Kuifje dood?
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 14. Seksisme racisme
-
-# Hoezo Kuifje dood?
+# 13. Seksisme racisme: Hoezo Kuifje dood?
 
 Door Bas-Jan van Stam. Verschenen in *Bluf!* nr. 67, 5 mei 1983.
 
@@ -30,8 +28,7 @@ rationaliteit, de mythe van de heldhaftigheid, en die van de Westerse
 superioriteit. Die mythes onderzoek ik op hun seksistische grond. Naar
 aanleiding daarvan dit verhaal.*
 
-![](media/image1.png){width="3.530589457567804in"
-height="6.1188123359580056in"}
+![](imgs/seksismeracisme2.png)
 
 ## I. Alledaags racisme versus politiek racisme
 
@@ -201,14 +198,9 @@ worden. Natuurlijk niet letterlijk ofzo, maar door het symbool van de
 castratie wordt zijn seksuele identiteit tot het individuele centrum van
 de politiek-economische crisis gebombardeerd.
 
-![](media/image2.png){width="6.296083770778653in"
-height="1.6633672353455817in"}
-
-![](media/image3.png){width="6.254793307086614in"
-height="1.4950492125984252in"}
-
-![](media/image4.png){width="1.5148512685914262in"
-height="1.854387576552931in"}
+![](imgs/seksismeracisme1punt1.png)
+![](imgs/seksismeracisme1punt2.png)
+![](imgs/seksismeracisme1punt3.png)
 
 Het castratiemes gaat van hand tot hand: de papegaai, de kapitein, de
 n\*\*\*\* met de zaag, de scheepsarts, de deur van de behandelkamer, de
@@ -396,8 +388,7 @@ enzovoorts belangen moet opofferen aan de Strijd tegen het Beest, dus.
 Fascisme zelf fungeert trouwens ook vaak als een, om niet te zeggen het
 symbool van het Beest en het beestachtige.
 
-![](media/image5.png){width="6.263888888888889in"
-height="0.9097222222222222in"}
+![](imgs/seksismeracisme3.png)
 
 ## VII. Conclusies
 
@@ -510,8 +501,7 @@ slapen, vadertje Staat waakte over ons. Hij was in het geheel niet
 geïnteresseerd in onze dromen. Als we maar sliepen, dan kwam alles wel
 in orde.
 
-![](media/image6.png){width="6.263888888888889in"
-height="3.3291666666666666in"}
+![](imgs/seksismeracisme4.png)
 
 [^1]: Bas-Jan van Stam, *Seksisme Fascisme: rekonstruktie van een
     mannenideaal: over de korrespondentie tussen een ouwe Griek, een

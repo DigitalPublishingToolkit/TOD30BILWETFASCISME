@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Kuifosofie: Over Hergé en de Alfa-Kunst
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 15. Kuifosofie
-
-# Over Hergé en de Alfa-Kunst
+# 14. Kuifosofie: Over Hergé en de Alfa-Kunst
 
 Door Bas-Jan van Stam. Geschreven in of na 1991.
 

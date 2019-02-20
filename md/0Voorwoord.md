@@ -1,15 +1,15 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Voorwoord: Van non-fascisme tot kuifosofie - een mannenfeminisme
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
+Author: Sepp Eckenhaussen
+Author-email:   sepp@planet.nl
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
@@ -17,8 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 0. Voorwoord\
-Van non-fascisme tot kuifosofie – een mannenfeminisme
+# Voorwoord: Van non-fascisme tot kuifosofie – een mannenfeminisme
 
 Door Sepp Eckenhaussen.
 
@@ -85,10 +84,9 @@ het algemeen.
 
 ### Hoofdstuk 1: Hoezo Bilwet?
 
-Een definitie van Bilwet is schier onmogelijk, maar een beetje
+Een belangrijke vraag is natuurlijk wie of wat Bilwet nu eigenlijk was. Een definitie van Bilwet is schier onmogelijk, maar een beetje
 achtergrondinformatie is voor oningewijden en later geborenen onmisbaar.
-Daarom is het eerste hoofdstuk van dit boek, *Hoezo Bilwet?,* een van de
-zelf geformuleerde versies van wat Bilwet nou precies was, hoe het zich
+Daarom is het eerste hoofdstuk van dit boek, *Hoezo Bilwet?,* waarin het collectief zelf beschrijft wat Bilwet was, hoe het zich
 bewoog en wat het zich afvroeg.
 
 ### Hoofdstuk 2: De vertoogmixer van Klaus Theweleit
@@ -404,7 +402,7 @@ datadandy* (1994), wat nooit in het Nederlands verschenen is.[^8] Deze
 tekst is dus zowel ‘officieel’ van Bilwet, als van een latere datum dan
 de rest. Toch is de relatie met de Bas-Jans tekst over filosofenmode
 helder, omdat ook in deze tekst de esthetische doctrine uit Adolf
-Hitlers geschriften besproken worden. In deze tekst gingen Bilwet terug
+Hitlers geschriften besproken worden. Bilwet gaat hier namelijk terug
 naar de oorsprong van die doctrine: Hitlers jeugd, zoals beschreven in
 *Mein Kampf.* De Bilweters analyseerden het oedipale schema dat
 ‘duimendik’ op Hitlers jeugdherinneringen ligt en waarbinnen de kunst
@@ -454,15 +452,17 @@ Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de
 kuifosofie.* ‘Seksisme racisme: hoezo Kuifje dood?’ is een Freudiaanse
 lezing van *Kuifje in Afrika,* waarin Bas-Jan de mythische en
-ongrijpbare vormen van het alledaags racisme bespreekt*.* De stelling is
-dat ‘pas als je \[de\] hele omweg van de politiek-economische crisis,
-het racisme van \[de jaren ‘30\], de ‘’dreiging’’ van de Sovjet-Unie, de
-enorme werkloosheid, enzovoorts, naar de individuele droomwereld en zijn
-sekspolitieke symbolen hebt afgelegd, pas dan krijg je zich op die
-mythische machinerie van het fascisme. \[…\] Wat blijkt namelijk? Dat
-Hergé door middel van zijn stripheld Kuifje de maatschappelijke
-politiek-economische crisis vertaalt in een individuele, sekspolitieke
-crisis.’[^9] Met andere woorden, Kuifje is het ultieme voorbeeld van
+ongrijpbare vormen van het alledaags racisme bespreekt*.* De stelling is: 
+> Pas als je \[de\] hele omweg van de politiek-economische crisis,
+> het racisme van \[de jaren ‘30\], de ‘’dreiging’’ van de Sovjet-Unie, de
+> enorme werkloosheid, enzovoorts, naar de individuele droomwereld en zijn
+> sekspolitieke symbolen hebt afgelegd, pas dan krijg je zich op die
+> mythische machinerie van het fascisme. \[…\] Wat blijkt namelijk? Dat
+> Hergé door middel van zijn stripheld Kuifje de maatschappelijke
+> politiek-economische crisis vertaalt in een individuele, sekspolitieke
+crisis.[^9]
+
+Met andere woorden, Kuifje is het ultieme voorbeeld van
 mannenidealenpropaganda. Propaganda die we nota bene zonder enige
 bedenking, zonder haar zelfs als propaganda te herkennen, tot op de dag
 van vandaag aan onze kinderen blijven voeren!

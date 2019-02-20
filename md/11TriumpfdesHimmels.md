@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Triumpf des Himmels: Over Wim Wenders' Himmel über Berlin
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Arjen Mulder
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 11. Triumpf des Himmels
-
-# Over Wim Wenders’ Himmel über Berlin
+# 10. Triumpf des Himmels: Over Wim Wenders’ Himmel über Berlin
 
 Door Arjen Mulder. Verschenen in *Arcade: Jaarboek voor Ambulante
 Wetenschappen*, nr. 1, 1989. Geschreven in mei - september 1988 als
@@ -222,10 +220,7 @@ mythe: ons leven is nooit begonnen (we herinneren ons er althans niets
 van), we zijn er, merken we op een gegeven moment (en dat is het eind
 van de kindertijd, het begin van de versplintering). Als we ontdekken
 dat we er zijn, zijn we er geweest; daarna kunnen we alleen nog
-verlangen
-
-'naar wat een ander vroeger was', zoals Wenders' scenarioschrijver Peter
-Handke lang geleden alweer in een toneelstuk had laten zeggen door
+verlangen'naar wat een ander vroeger was', zoals Wenders' scenarioschrijver Peter Handke lang geleden alweer in een toneelstuk had laten zeggen door
 Kaspar Hauser.
 
 Na de openingstekst zien we wolken, zondoorschenen wolken, we vliegen
@@ -918,9 +913,7 @@ waarnaar voortdurend verwezen wordt (de nationaalsocialistische)
 totalitair kan worden genoemd: er is geen ontkomen aan. Wenders weet wat
 hij doet, maar misschien realiseren wij ons onvoldoende wat dat is en
 voor wie hij het doet. (‘The international reception of any achievement
-depends
-
-upon its capacity for arousing fertile misunderstandings everywhere’,
+depends upon its capacity for arousing fertile misunderstandings everywhere’,
 was de verklaring die Siegfried Kracauer in 1947 gaf voor het
 internationale succes van Duitse films van kort na de Eerste
 Wereldoorlog.)

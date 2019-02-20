@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Emotionaliteit, alledaagsheid en verzet: Een andere kijk op fascisme/racisme/seksisme
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,25 +17,23 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 6. Emotionaliteit, alledaagsheid en verzet
-
-# Een andere kijk op fascisme/racisme/seksisme
+# 5. Emotionaliteit, alledaagsheid en verzet: Een andere kijk op fascisme/racisme/seksisme
 
 Door Bas-Jan van Stam. Geschreven in juni 1984.
 
-> ‘Wie niet over het kapitalisme wil praten zou ook over het fascisme
-> moeten zwijgen.’
->
-> (Max Horkheimer, 1939)
->
-> ‘Wie alléén over het kapitalisme wil spreken, zou eveneens over het
-> fascisme moeten zwijgen.’
->
-> (J. van Santen, 1982)
->
-> ‘Waarom zijn mannen het stilzwijgend eens dat ze het niet over
-> seksisme moeten hebben als ze over fascisme en kapitalisme willen
-> praten?’
+‘Wie niet over het kapitalisme wil praten zou ook over het fascisme
+moeten zwijgen.’
+
+(Max Horkheimer, 1939)
+
+‘Wie alléén over het kapitalisme wil spreken, zou eveneens over het
+fascisme moeten zwijgen.’
+
+(J. van Santen, 1982)
+
+‘Waarom zijn mannen het stilzwijgend eens dat ze het niet over
+seksisme moeten hebben als ze over fascisme en kapitalisme willen
+praten?’
 
 ## I. Fascisme, racisme, seksisme
 
@@ -162,7 +160,7 @@ belangrijk is dat er verschillende manieren zijn om tegen ‘fascisme’ aan
 te kijken, is het volgende: *De manier waarop je naar ‘fascisme’ kijkt
 is bepalend voor ten minste twee gevolgen: ten eerste is de manier van
 kijken in hoge mate bepalend voor wat je ziet; ten tweede bepaalt
-datgene wat je ziet in hoge mate het hoe en wat van de bestrijding. *
+datgene wat je ziet in hoge mate het hoe en wat van de bestrijding.*
 
 Dat lijkt misschien een opmerking die het karakter heeft van het
 intrappen van een open deur, maar juist met betrekking tot dit onderwerp

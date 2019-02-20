@@ -1,19 +1,19 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Inleiding: Dialoog tijdens het redigeren van de Bilwet-fascismemap
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Sepp Eckenhaussen en Geert Lovink
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: CC NC-SA 4.0
 ...
 
 
@@ -23,8 +23,7 @@ Door Sepp Eckenhaussen en Geert Lovink.
 
 ## I. Hoe het allemaal begon
 
-![](media/image1.jpg){width="2.37255249343832in"
-height="3.5930227471566054in"}
+![](imgs/inleiding1.jpg)
 
 Tussen 1983 en 1999 kwamen Bas-Jan van Stam, Geert Lovink, Arjen Mulder,
 Ger Peeters en Lex Wouterloot onregelmatig - en in verschillende
@@ -75,10 +74,9 @@ vast te leggen.[^2]
 
 ## II. Het ontstaan van de fascismemap
 
-![](media/image2.jpg){width="2.316661198600175in"
-height="3.4418602362204727in"}
+![](imgs/inleiding2.jpg)
 
-Na het verschijnen van een lovende recensie van Het Beeldenrijk die
+Na het verschijnen van een lovende recensie van *Het Beeldenrijk* die
 Arjen Mulder, toenmalige filmrecensent van CPN-dagblad *De Waarheid*,
 schreef, trad hij toe bij de groep. Ook Ger Peeters (Nijmegen) en Lex
 Wouterloot werden niet veel later lid. Een van de eerste activiteiten
@@ -107,7 +105,7 @@ later uitgegeven als Bilwets tweede boek, *Bewegingsleer*).[^4]
 
 De actualiteit van het historisch fascisme verdween langzaam maar zeker
 op de achtergrond en werd overgenomen door de opkomst van 'nieuwe media'
-en het naderende einde van de Koude Oorlog en de 20^e^ eeuw. Het
+en het naderende einde van de Koude Oorlog en de 20e eeuw. Het
 herdenken bleef ook begin jaren negentig nog prominent op de agenda met
 50 jaar dit en dat, maar werd overvleugeld door technologie, neoliberaal
 beleid, crisis en oorlog (in de Golf, Joegoslavië, Afrika) die de agenda
@@ -150,8 +148,7 @@ buitenlanders en andere 'minderheden'.
 
 ## III. Dialoog
 
-![](media/image3.jpg){width="2.2921445756780403in"
-height="3.313953412073491in"}
+![](imgs/inleiding3.jpg)
 
 Sepp Eckenhaussen: Door terug te gaan naar Bilwets werk uit de jaren ’80
 en ’90, keren we ook terug naar de geboorte van de mediatheorie. Ik
@@ -167,14 +164,14 @@ radar en de computer, maar ook aan de FM-band en de muziekcassette. De
 naoorlogse Electronica en de popmuziek zijn volgens Kittler
 ‘afvalproducten van WO II’.
 
-Sepp: Hoe is Bilwet’s fascismeanalyse uit de jaren ’80 en ’90 bruikbaar
+Sepp: Hoe is Bilwets fascismeanalyse uit de jaren ’80 en ’90 bruikbaar
 te maken voor de hedendaagse context? Wat moeten we *nu *met dit boek?
 
 Geert: Allereerst is er het motief van Foucault, dat BAK – basis voor
 actuele kunst in Utrecht ook onlangs oppakte: het niet-fascistische
 leven.[^8] Maar wat is dat? Wat moeten we dan voorkomen, waar moeten we
 waakzaam voor zijn, wat bestrijden? Of moeten dat allemaal juist achter
-ons laten. Kunnen we dat wel? Hebben we de hel van de 20^e^ eeuw
+ons laten. Kunnen we dat wel? Hebben we de hel van de 20e eeuw
 daadwerkelijk overstegen en is de collectieve psyché (en die van het
 individu) werkelijk zo veranderd, dat het niet meer ontvankelijk is voor
 massapsychose en het projecteren van maatschappelijke problemen op
@@ -250,11 +247,14 @@ precies? Op wikikids.nl lees ik:
 
 Dit is de Jip-en-Janneke-definitie van fascisme als een historisch
 netjes afgerond en ethisch afgesloten fenomeen. Die ging jullie niet ver
-genoeg. Zoals Bas-Jans *boek Sekisme/racisme* uit 1984 al toont, was er
+genoeg. Zoals Bas-Jans *boek Seksisme/fascisme* uit 1983 al toont, was er
 blijkbaar een tendens in de jaren ’80 om fascisme niet alleen als
 politieke stroming te zien, maar het op een of andere manier gelijk te
-stellen zowel racisme als seksisme. Waarom? En tot welke definitie leidt
+stellen aan seksisme. De omslag van dat boek laat bovendien zien dat het ook nog iets met racisme te maken had. Waarom? En tot welke definitie leidt
 dit? Waar blijft de historische component in zo’n nieuwe definitie?
+
+![](imgs/inleiding4.jpg)
+
 
 Geert: Het ging ons niet om gelijkstellen maar om het leggen van
 verbanden als het gaat om de oorzaken van fascisme als politieke
@@ -294,18 +294,20 @@ detail besproken, dus laten hier als voorbeeld Bifo even volgen:
 > the will, against the subjugation of human events to the automaton.
 > \[…\] Impotence is the distinctive quality of our time. Impotence and
 > rage that impotence provokes – especially amongst white men – is, in
-> my opinion, the deep and current return of fascism.[]{#_ftnref1
-> .anchor}[^12]
+> my opinion, the deep and current return of fascism.[^12]
 
 Hedendaags fascisme staat dus gelijk aan impotentie (inderdaad, een
 mannenkwaal). Het probleem met zulke *sweeping claims *is dat ze het
 vaak al te makkelijk maken voor hun critici. Bifo moet dan bijvoorbeeld
-aan het einde van de tekst meteen toegeven: ‘Those who cannot dance to
-the rhythm of neo-liberal competition are expelled from the planet,
-expelled from life, expelled from the right to survival, unless
-marginalised people create automous spaces of extra-economic
-exchange. Do you have to define this? Is the right word ‘fascism’? I
-don’t know.’ Je kunt dat wegwuiven, maar het is wel een echt probleem.
+aan het einde van de tekst meteen toegeven:
+> Those who cannot dance to
+> the rhythm of neo-liberal competition are expelled from the planet,
+> expelled from life, expelled from the right to survival, unless
+> marginalised people create automous spaces of extra-economic
+> exchange. Do you have to define this? Is the right word ‘fascism’? I
+don’t know.
+
+Je kunt dat wegwuiven, maar het is wel een echt probleem.
 Zowel monomanie als inflatie van begrippen liggen op de loer, want juist
 verruimende vaagheid van begrippen is nodig voor een alomvattende
 tunnelvisie. In een Theweleitkritiek uit de jaren '80 schreef Arjen al:
@@ -347,7 +349,7 @@ vertelde ooit in een interview met Jo van der Spek over jou:
 > totdat ik zei, dat 'niet' is een werkwoord, je moet zonder moeite
 > nieten. Toen was het acceptabel. Dus je moet verkeerd lezen, dan
 > schiet je op, dan kom je verder. Het is het weggooien van ballast, het
-> streven naar niks.[]{#_ftnref2 .anchor}[^13]
+> streven naar niks.[^13]
 
 Jullie hebben dan ook nogal eens een zeperd gemaakt. Klimaatbewustzijn
 wegzetten als ecofascistische biopolitiek bijvoorbeeld, of sporten
@@ -398,7 +400,7 @@ bezighield: hoe kunnen de media ‘ontwapend’ worden en ontdaan worden van
 hun autoritaire en militaire oorsprong? Moeten we daarvoor eerst de
 geschiedenis kennen een (psycho)analyse hebben gemaakt? Ik vind dat nog
 steeds een relevante vraag ook al snap ik wel dat we met de tijd steeds
-verder wegraken van die 20^e^-eeuwse ‘oorsprong’. De democratisering van
+verder wegraken van die 20e-eeuwse ‘oorsprong’. De democratisering van
 de kanalen, technologieën en gerelateerde vakkennis blijft een inzet.
 Dat heet in saai pragmatische Nederlands ‘mediawijsheid’ en daar zou
 veel meer aandacht voor moeten zijn. We moeten niet terug naar dat ene
@@ -413,7 +415,7 @@ fascisme-analyse en mediatheorie in gesprek gaan. In 2018 interviewden
 Sara-Lot van Uum en ik je samen voor het UvA-studentenblad *Simulacrum*
 over memes en hedendaags fascisme, een interview dat uiteindelijk
 neerkwam op de vraag: kunnen we een fascisme-psychoanalyse van
-hedendaagse mediafenomenen maken?[]{#_ftnref3 .anchor}[^15] Je was toen
+hedendaagse mediafenomenen maken?[^15] Je was toen
 ambivalent in je antwoord: de productiesnelheid van memes is te hoog
 voor een goede psychoanalyse, maar we kunnen ons ook niet doodstaren op
 die productiesnelheid zelf zoals Deleuzianen doen (‘Oh! Wat een
@@ -485,7 +487,7 @@ naam.
 Sepp: Ja ik denk dat je gelijk hebt met je analyse over collectief
 schrijverschap. Maar hoe zit het met die generatieoverdracht? De
 fascisme-discussie in de jaren '70 en '80 was een mannendiscussie. De
-allermeeste auteurs die geciteerd worden in deze bundel, inclusief
+allermeeste auteurs die geciteerd worden in deze bundel,
 inleiding incluis, zijn mannen. De vertaling van Theweleit werd opgezet
 door 'mannentijdschrift' *Manuskript*. Er wordt meer dan eens verwezen
 naar 'mannenpraatgroepen'. En niet te vergeten, Bilwet was een

@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: De gewonnen, de verloren, de permanente oorlog
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink en Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 8. De gewonnen, de verloren, de permanente oorlog
+# 6. De gewonnen, de verloren, de permanente oorlog
 
 Door Geert Lovink en Bas-Jan van Stam. Eerder verschenen in
 *Manuskript*, november 1984.
@@ -27,7 +27,7 @@ Door Geert Lovink en Bas-Jan van Stam. Eerder verschenen in
 ### ‘De beste roman van over de Tweede Wereldoorlog’
 
 *Helden zonder glorie* kwam voor het eerst uit in 1948 in Amerika; in
-Nederland zes jaar later. In dit boek heeft Norman Mailer observaties en
+Nederland zes jaar later.[^1] In dit boek heeft Norman Mailer observaties en
 ervaringen verwerkt uit de periode 1944-1946 toen hij in dienst was van
 het Amerikaanse leger in het gebied van de Grote Oceaan. De strijd tegen
 de Japanners dus. Over die tijd en dat gebied gaat het boek. Dat wil
@@ -42,7 +42,7 @@ het laatste regeltje door: ‘Een reuzevondst!’ De uitgave waaruit hier
 geciteerd wordt (1968, zwarte beertjes: ‘pocketbooks voor iedereen’, nr.
 47) telt 540 nauwbedrukte pagina’s en het lult en het lult maar door...
 Toch staat dit boek bekend als ‘de beste roman over de Tweede
-Wereldoorlog.’[^1]
+Wereldoorlog.’
 
 De roman telt vier hoofdstukken. In het eerste vindt de invasie vanuit
 zee plaats. Vervolgens komen in een heel lang hoofdstuk, 290 bladzijden,
@@ -449,7 +449,7 @@ subjecten.
 > veranderen in tijgers.
 
 Aldus de tekst op de achterkant van *De SS’ers* van Armando en Hans
-Sleutelaar. Het boek verscheen in 1967 en draagt als ondertitel:
+Sleutelaar.[^2] Het boek verscheen in 1967 en draagt als ondertitel:
 ‘Nederlandse vrijwilligers in de Tweede Wereldoorlog.’
 
 Het schrijven over soldaten die aan de foute kant hebben meegevochten
@@ -714,10 +714,14 @@ het front dachten.
 > niet, hoor! Ik stuif met die bajonet er op af, en hoera. De hele
 > agressiviteit van mij, die kwam er helemaal niet uit. Want wat troffen
 > we aan? Twee Russen! Ik heb ze nauwelijks gezien. Doodsbang…
+> 
+> [...]
+> 
+> Na de eerste schermutselingen was ik ergens teleurgesteld. Ik had me
+> dit voorgesteld als… nou ja, een enorme belevenis, waarbij ik zwaar zou
+> moeten denken, wat ik nou wel en wat ik nou niet deed.
 
-‘Na de eerste schermutselingen was ik ergens teleurgesteld. Ik had me
-dit voorgesteld als… nou ja, een enorme belevenis, waarbij ik zwaar zou
-moeten denken, wat ik nou wel en wat ik nou niet deed.’ Maar dat was
+Maar dat was
 niet het geval. Ze deden automatisch wat ze geleerd was tijdens de
 opleiding en de directe confrontatie bleef uit.
 
@@ -950,7 +954,7 @@ militarisme wil daarmee de al te vanzelfsprekende link tussen
 psychoseksuele en politiek-maatschappelijke identiteiten doorbreken. In
 zo’n aan het alledaagse spraakgebruik ontleende stelling als ‘het leger
 maakt een man van je’ ligt zowel de ontdekking als de strategie
-besloten.[^2] Met behulp van een aan de psychoanalyse ontleend
+besloten.[^3] Met behulp van een aan de psychoanalyse ontleend
 therapeutisch model zouden de onderdrukte en gedisciplineerde verlangens
 en gevoelens van mannen aan de praat gebracht en bevrijd kunnen worden.
 Het militarisme, c.q. het leger, representeert namelijk niet alleen het
@@ -1035,7 +1039,7 @@ overleven zonder gek van angst te worden? De psychoanalyse wist hier wel
 raad mee: vragen voorleggen over situaties die met seksualiteit te maken
 hebben, bijvoorbeeld: ‘hoe zou je het vinden als je zus met een
 n\*\*\*\* omgang heeft?’, en uit het antwoord rolt of ze wel of niet een
-stabiele persoonlijkheid bezitten.[^3]
+stabiele persoonlijkheid bezitten.[^4]
 
 Ook na de Tweede Wereldoorlog is de rol van de psychoanalyse geen andere
 geweest dan dat ze zich met succes trachtte te integreren binnen het
@@ -1044,7 +1048,7 @@ steeds) zo dat bij de keuring van dienstplichtigen een niet exclusief
 heteroseksueel ‘verkeer’ reden is tot buitengewoon
 dienstplichtigstelling. Bij de S-5 procedure wordt altijd een
 psychiatrisch rapport opgesteld, waarin het afwijkende getraceerd wordt
-in het verleden.[^4]
+in het verleden.[^5]
 
 Als integraal onderdeel van het leger, c.q. het militarisme, is de taak
 van de psychoanalyse en psychologie de psychische stabiliteit van
@@ -1170,7 +1174,7 @@ deze buiten de eigenlijke gevechtshandelingen geplaatst. ‘De oorlog is
 een machine, een bewegende machine, waarbij de plaats van handeling, het
 front, is opgeheven.’
 
-In de nieuwe oorlog staan beweging en snelheid centraal.[^5] Discipline
+In de nieuwe oorlog staan beweging en snelheid centraal.[^6] Discipline
 en kameraadschap zijn niet langer nodig om de fysieke confrontatie met
 de fysiek aanwezige vijand aan te kunnen gaan (er is geen front meer,
 dus ook geen confrontatie); maar discipline en kameraadschap zijn nodig
@@ -1195,10 +1199,10 @@ overgebleven zijn uit de Tweede Wereldoorlog, aan te sluiten op de
 machines/systemen van de nieuwe oorlog. Het militaire apparaat oefent
 niet voor de nieuwe oorlog, maar voor zijn inpassing in en aanpassing
 aan de nieuwe oorlog. Deze in- en aanpassing wordt goed beschreven in
-BUNKERBUIT van Onkruit.[^6] Daarin gaat het vooral om de controle over
+BUNKERBUIT van Onkruit.[^7] Daarin gaat het vooral om de controle over
 ziekenhuizen, snelwegen en treinen met behulp van
 informatie-overbrengings-systemen. Niet voor niets is de PTT daarin
-uiterst belangrijk.[^7] Waar het in BUNKERBUIT om gaat zijn dan ook niet
+uiterst belangrijk.[^8] Waar het in BUNKERBUIT om gaat zijn dan ook niet
 oorlogsscenario’s maar aanpassingsscenario's. Het leger past zich aan
 aan de nieuwe oorlog.
 
@@ -1376,15 +1380,15 @@ ervan te veranderen in een spel van verleiding.
 [^1]: Normal Mailer, *Helden zonder glorie* (Utrecht: A.W. Bruna & Zoon,
     1968 (1957)).
 
-[^2]: Zie voor dit denken Marcel Bullinga, *Het leger maakt een man van
+[^2]: Armando en Hans Sleutelaar, *De SS'ers: Nederlandse vrijwilligers in de Tweede Wereldoorlog* (Amsterdam: De bezige bij, 1967).
+
+[^3]: Zie voor dit denken Marcel Bullinga, *Het leger maakt een man van
     je* (1958).
 
-[^3]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
-    door sterretjes (\*
+[^4]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+    door sterretjes (\*). Zie voor een verantwoording het voorwoord van deze bundel.
 
-    ). Zie voor een verantwoording het voorwoord van deze bundel.
-
-[^4]: Bij de keuring van dienstplichtigen in Nederland werd de
+[^5]: Bij de keuring van dienstplichtigen in Nederland werd de
     ABOHZIS-gezondheidsclassificatie gehanteerd, die werkte met een
     schaal van 1 (niets aan de hand) en 5 (ongeschikt voor
     dienstplicht). De ‘S’ stond voor ‘stabiliteit’. S5 betekent dus: te
@@ -1392,15 +1396,15 @@ ervan te veranderen in een spel van verleiding.
     toegekend aan o.a. sterk ongemotiveerde dienstplichtigen, geestelijk
     gehandicapten en homoseksuelen.
 
-[^5]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
+[^6]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
     Muur* (Rotterdam: Uitgeverij 010, 1984), recentelijk opnieuw
     uitgegeven door het Institute of Network Cultures:
     <http://networkcultures.org/blog/publication/de-muur/>.
 
-[^6]: Onkruit, een groep antimilitaristische activisten, stal in 1983
+[^7]: Onkruit, een groep antimilitaristische activisten, stal in 1983
     een aantal documenten uit twee commandobunkers in Noordwijk en
     Katwijk en actieweekblad *Bluf!* publiceerde een selectie hiervan in
     *Bunker in bunkerbuit: de plannen die de oorlog mogelijk maken*
     (Amsterdam: Bluf!, 1983).
 
-[^7]: PTT was de voorganger van PostNL, het nationale postorderbedrijf.
+[^8]: PTT was de voorganger van PostNL, het nationale postorderbedrijf.

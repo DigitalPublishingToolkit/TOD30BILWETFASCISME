@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: De vertoogmixer van Klaus Theweleit: Een boek bij de dood van Orfeus
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink en Arjen Mulder
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 3. De vertoogmixer van Klaus Theweleit
-
-# Een boek bij de dood van Orfeus
+# 2. De vertoogmixer van Klaus Theweleit: Een boek bij de dood van Orfeus
 
 Door Geert Lovink en Arjen Mulder. Eerder verschenen in *De Groene
 Amsterdammer*, 15 maart 1989.
@@ -292,14 +290,16 @@ misschien verlossende troost van het schrijven: uit de rij van de
 moordenaars springen, de misdaad observeren.’ Een inzicht dat ook Benn
 ten slotte bereikte.
 
-Dan stelt Theweleit zijn uiteindelijke vraag: ‘Is dat het enige
-alternatief? Dat men om kunstmatige werkelijkheden te produceren, en
-vooral om te schrijven, anderen offert of zichzelf verteert? (…) Of
-heeft deze offerdwang te maken met de mate waarin een kunstmedium (de
-taal, de muziek, de schilderkunst, de film) zich verbindt of moet
-verbinden of meent te moeten verbinden met de politieke macht; je kunt
-ook zeggen: met de eis van de eigen werkzaamheid om in concurrentie te
-treden met de politieke macht?’
+Dan stelt Theweleit zijn uiteindelijke vraag:
+
+> Is dat het enige
+> alternatief? Dat men om kunstmatige werkelijkheden te produceren, en
+> vooral om te schrijven, anderen offert of zichzelf verteert? (…) Of
+> heeft deze offerdwang te maken met de mate waarin een kunstmedium (de
+> taal, de muziek, de schilderkunst, de film) zich verbindt of moet
+> verbinden of meent te moeten verbinden met de politieke macht; je kunt
+> ook zeggen: met de eis van de eigen werkzaamheid om in concurrentie te
+> treden met de politieke macht?
 
 Daarover zullen de volgende delen gaan. *Buch der Könige 1* sluit af in
 1958. Dan schrijft H.D. (Hilda Doolittle) tijdens een psychoanalyse het

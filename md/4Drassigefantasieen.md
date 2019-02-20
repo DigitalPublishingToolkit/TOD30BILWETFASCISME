@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Drassige fantasieën achter de dijken: Bij de Nederlandse vertaling van Männerphantasien
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink en Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 4. Drassige fantasieën achter de dijken
-
-# Bij de Nederlandse vertaling van *Männerphantasien*
+# 3. Drassige fantasieën achter de dijken: Bij de Nederlandse vertaling van *Männerphantasien*
 
 Door Geert Lovink en Bas-Jan van Stam. Eerder verschenen in *Bluf!*, 21
 november 1985.
@@ -43,8 +41,7 @@ deze stelling. Want hoewel de politieke en economische situatie nu op
 belangrijke punten totaal verschilt met de vooroorlogse, blijken de
 fantasieën uit die tijd nog steeds levend te zijn.
 
-![](media/image1.png){width="3.3703707349081364in"
-height="3.955109361329834in"}
+![](imgs/drassigefantasieen1.png)
 
 Dat is meteen het rare van *Mannenfantasie*. Zo’n beetje alles uit die
 tijd staat in het museum of kun je kopen in het Centrum voor Gebruikte
@@ -133,8 +130,7 @@ werkelijke leven maar hun fantasie-leven. Ook al is het natuurlijk zo,
 dat ze in werkelijkheid niet bepaald op een moderne wijze met vrouwen
 omgingen.
 
-![](media/image2.png){width="4.611111111111111in"
-height="3.428888888888889in"}
+![](imgs/drassigefantasieen2.png)
 
 Tegenover de Witte Vrouw staat dus de Rode Vrouw. In de romans worden
 zij wel met naam en toenaam genoemd. En zodra in hun verhalen een vrouw
@@ -176,8 +172,7 @@ Precies omdat fysieke angsten direct ‘vertaald’ werden in gewelddadige
 fantasieën trad bij hen een automatisme in werking waarbij deze
 fantasieën ook vanzelfsprekend in de praktijk gebracht werden.
 
-![](media/image3.png){width="4.0916732283464565in"
-height="3.4907403762029747in"}
+![](imgs/drassigefantasieen3.png)
 
 Belangrijk hierbij is dat Theweleit ervan uit gaat dat gevoelens niet
 iets ‘puurs’, iets ‘zuiver natuurlijks’ zijn, maar dat ze in de loop van
@@ -240,8 +235,7 @@ kleine naar het allergrootste pantser bestond. Een buitengewoon star
 beeld, dat nog het meest op een blokkendoos lijkt, waarin de
 verschillende onderdelen bij elkaar een stevige muur vormen.
 
-![](media/image4.png){width="2.823249125109361in"
-height="4.481481846019247in"}
+![](imgs/drassigefantasieen4.png)
 
 In hun ogen waren de socialistische radendemocratieën dan ook exact het
 tegendeel van wat zij bij politieke machtsvorming voor ogen zagen. Die
@@ -372,8 +366,7 @@ strijd?’ Het enige dat je kan zeggen is, dat hij de nadruk legt op het
 besef of ’t bewustzijn over lichamen en seksualiteit in de dagelijkse
 omgang.
 
-![](media/image5.png){width="2.8796292650918636in"
-height="4.883337707786526in"}
+![](imgs/drassigefantasieen5.png)
 
 *Is het in zo’n kijk antifascistisch om te streven naar chaos?*
 

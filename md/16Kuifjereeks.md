@@ -1,12 +1,12 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: De Kuifjereeks: Zes Kleurplaten van Bilwet
 Article-status: accepted
 Author: name(s) of author(s)
 Author-email:   corresponding address
@@ -17,16 +17,13 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 16. De Kuifje Reeks
-
-# Zes Kleurplaten van Bilwet
+# 15. De Kuifjereeks: Zes Kleurplaten van Bilwet
 
 Door Bas-Jan van Stam. Geschilderd en geschreven in 1987.
 
 ## I. Leve Kuifje en Bobbie (Willkommen Tim und Struppi!)
 
-![](media/image1.jpg){width="3.329331802274716in"
-height="4.227723097112861in"}
+![](imgs/kuifjeserie1.jpg)
 
 *Leve Kuifje en Bobbie (Willkommen Tim und Struppi!)* brengt twee
 essentiële beelden uit begin jaren dertig bijeen: de intocht van Kuifje
@@ -49,8 +46,7 @@ Bilwet, dat anno 1983 werd opgericht.
 
 ## II. De gemaskerde Kuifje
 
-![](media/image2.jpg){width="3.355818022747157in"
-height="4.306930227471566in"}
+![](imgs/kuifjeserie2.jpg)
 
 *De gemaskerde Kuifje* refereert aan een motief uit Kuifje-album *De
 juwelen van*
@@ -65,8 +61,7 @@ Of is het toch Kuifje? Wie is Kuifje? Het persoonlijke is maskerade.
 
 ## III. Fallisch Landschap
 
-![](media/image3.jpg){width="3.4590758967629047in"
-height="4.415840988626422in"}
+![](imgs/kuifjeserie3.jpg)
 
 *Fallisch Landschap* is een actuele collage van een verschrikt
 omkijkende Bobbie uit het album *Kuifje in Afrika*, geplaatst in een
@@ -86,8 +81,7 @@ kijker zoal te bieden heeft.
 
 ## IV. Die zweite Sonne
 
-![](media/image4.jpg){width="3.2378729221347333in"
-height="4.099009186351706in"}
+![](imgs/kuifjeserie4.jpg)
 
 *Die zweite Sonne* is een dissociatie van twee afbeeldingen uit het
 album *De Geheimzinnige Ster*: de omslag gecombineerd met de stoomwolk
@@ -111,8 +105,7 @@ techniek.
 
 ## V. Zelfportret met spiegel
 
-![](media/image5.jpg){width="3.379455380577428in"
-height="4.396038932633421in"}
+![](imgs/kuifjeserie5.jpg)
 
 *Zelfportret met spiegel* is verwijzing naar *Kuifje in Afrika*. Het
 toont Kuifje gezeten in een draagkoets waarmee hij op safari is gegaan.
@@ -130,8 +123,7 @@ iedereen een monster. Als je in de spiegel kijkt, zie je het ondier.
 
 ## VI. Madonna met Kindje Kuif
 
-![](media/image6.jpg){width="3.2372298775153108in"
-height="4.148514873140857in"}
+![](imgs/kuifjeserie6.jpg)
 
 *Madonna met Kindje Kuif* bouwt voort op een anonieme ansichtkaart,
 gekocht tijdens de donkere dagen voor de Kerst op de Kerstmarkt in

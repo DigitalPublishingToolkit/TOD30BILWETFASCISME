@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: 'Alleen door een wonder kan ik behouden worden': Over Boris, Bor en de Wolf
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink en Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,15 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-![](media/image1.emf){width="5.763888888888889in"
-height="8.134722222222223in"}
+![](imgs/borboris0.png)
 
-**\
-**
 
-# 13. ‘Alleen door een wonder kan ik behouden worden’ 
-
-# Over Boris, Bor en de Wolf
+# 12. ‘Alleen door een wonder kan ik behouden worden’: Over Boris, Bor en de Wolf
 
 Door Geert Lovink en Bas-Jan van Stam. Lezing gehouden in de Van
 Hall-hal op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
@@ -33,21 +28,19 @@ Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf.
 
 ## I.
 
-![](media/image2.JPG){width="4.500837707786527in"
-height="3.524752843394576in"}
+![](imgs/borboris1.jpg)
 
 Uit het nagelaten werk van Nietzsche:
 
 ‘Ein Gott der Liebe könnte eines Tages sprechen, gelangweilt durch seine
 Tugend: “versuchen wir’s einmal mit der Teufelei!”
 
-- und siehe da, ein neuer Ursprung des Bösen! Aus Langeweile und Tugend!
+-- und siehe da, ein neuer Ursprung des Bösen! Aus Langeweile und Tugend!
 –’
 
 ## II.
 
-![](media/image3.JPG){width="2.9603258967629045in"
-height="2.762376421697288in"}
+![](imgs/borboris2.JPG)
 
 Er zijn vele soorten wolven: goed en boos, echt en mythisch. De wolf in
 de roman *Wolf* van de volksschrijver Gerard Reve is een soort van goede
@@ -76,8 +69,7 @@ Enkele pagina’s verder ontmoet Wolf een leuke jongen, André geheten:
 
 ## III.
 
-![](media/image4.JPG){width="2.702970253718285in"
-height="2.3353007436570428in"}
+![](imgs/borboris3.JPG)
 
 In de Winkler Prins wordt de dierkundige wolf beschreven als een:
 
@@ -92,8 +84,7 @@ In de Winkler Prins wordt de dierkundige wolf beschreven als een:
 
 ## IV.
 
-![](media/image5.JPG){width="2.5383234908136485in"
-height="1.9801979440069992in"}
+![](imgs/borboris4.JPG)
 
 In een boekje voor de jeugd uit de ‘Natuur-Serie’, dat bedoeld is om
 kinderen lief te laten zijn voor de echte natuur en dat dit keer over de
@@ -122,8 +113,7 @@ Onverwacht krijgt Wolf namelijk een erfenis:
 
 ## VI.
 
-![](media/image6.JPG){width="1.8217814960629921in"
-height="2.735964566929134in"}
+![](imgs/borboris6.jpg)
 
 Dat orde en discipline verschijnselen zijn die ook in de echte natuur
 voorkomen, maakt het kindernatuurboekje uit de Natuur-Serie duidelijk:
@@ -138,8 +128,7 @@ voorkomen, maakt het kindernatuurboekje uit de Natuur-Serie duidelijk:
 
 ## VII.
 
-![](media/image7.JPG){width="3.2491371391076114in"
-height="1.9306922572178478in"}
+![](imgs/borboris7.JPG)
 
 Uit de ‘gegevens over de wolf’ die we in het Natuur-Serieboekje vinden,
 blijkt nog eens dat de natuurwolf niks met de Boze Wolf te maken heeft.
@@ -150,8 +139,7 @@ dier.
 
 ## VIII.
 
-![](media/image8.JPG){width="2.237623578302712in"
-height="3.5332874015748033in"}
+![](imgs/borboris8.JPG)
 
 > De wolf liep zonder een woord te spreken naar grootmoeders bed en at
 > haar op. Daarna trok hij haar kleren aan, zette haar mutsje op, ging
@@ -185,8 +173,7 @@ height="3.5332874015748033in"}
 
 ## IX.
 
-![](media/image9.JPG){width="2.613860454943132in"
-height="2.8891021434820647in"}
+![](imgs/borboris9.JPG)
 
 De ongelooflijke vraatzucht van de Boze Wolf met het daaropvolgende
 ongegeneerde slapen en snurken, staat ook in *De wolf en de zeven
@@ -207,8 +194,7 @@ geitjes* centraal:
 
 ## X.
 
-![](media/image10.JPG){width="2.653464566929134in"
-height="4.134608486439195in"}
+![](imgs/borboris10.JPG)
 
 Dat de Boze Wolf een dodelijk gevaar is dat alleen bestreden kan worden
 door de wolf zélf te doden, maken zulke sprookjes wel duidelijk. De Boze
@@ -223,8 +209,7 @@ Strauss vormden kennelijk een bedreiging voor de linkse sibbe-cultuur.
 
 ## XI.
 
-![](media/image11.JPG){width="2.6527777777777777in"
-height="2.446307961504812in"}
+![](imgs/borboris11.JPG)
 
 Het sprookje van de Boze Wolf houdt de waarschuwing in, dat het slecht
 met je afloopt wanneer je je niet aan de regels houdt. In zulke gevallen
@@ -234,8 +219,7 @@ orde te herstellen.
 
 ## XII.
 
-![](media/image12.JPG){width="3.022178477690289in"
-height="2.6336636045494313in"}
+![](imgs/borboris12.JPG)
 
 Die natuurlijke orde lijkt overigens soms verdacht veel op een mythische
 orde. Het kinder-wolvenboekje uit de Natuur-Serie besteedde dan wel geen
@@ -255,8 +239,7 @@ er gebeurde.
 
 ## XIII.
 
-![](media/image13.JPG){width="3.1485148731408574in"
-height="2.516916010498688in"}
+![](imgs/borboris13.JPG)
 
 Voor de oude Germanen waren wolven belangrijke dieren. Ze brachten als
 helpers van Odin niet alleen geluk, maar je kon jezelf ook in een wolf
@@ -290,8 +273,7 @@ Waarom moest hij dit vreemde kostuum aan doen?’
 
 ## XIV.
 
-![](media/image14.JPG){width="3.1485148731408574in"
-height="2.6823075240594925in"}
+![](imgs/borboris14.JPG)
 
 Nog een stukje Germaanse mythologie. Ditmaal uit de proza-Edda, een
 oud-Germaans Bijbelboek, en daarin wordt verteld over de geboorte van
@@ -309,8 +291,7 @@ Odin, die wolven en raven hield:
 
 ## XV.
 
-![](media/image15.JPG){width="3.277227690288714in"
-height="1.6480905511811024in"}
+![](imgs/borboris15.JPG)
 
 Wanneer politiewolven losgelaten worden, kunnen de gekste dingen
 gebeuren. Dat gebeurt min of meer ook in de Germaanse mythologie.
@@ -347,8 +328,7 @@ zijn, maar hij probeert juist zoveel mogelijk kinderen te vangen.
 
 ## XVI.
 
-![](media/image16.JPG){width="2.3663363954505687in"
-height="2.56619094488189in"}
+![](imgs/borboris16.JPG)
 
 We wisten al dat Bor de vader van de wolvengod Odin was. In de
 Fabeltjeskrant hebben ze hetzelfde verband gelegd. Hier is Bor de Wolf
@@ -366,8 +346,7 @@ Fabeltjeskrant lezen we het volgende bericht:
 
 ## XVII.
 
-![](media/image17.JPG){width="2.9405938320209972in"
-height="2.408099300087489in"}
+![](imgs/borboris17.JPG)
 
 Is Bor de Wolf in de Fabeltjeskrant alleen vanwege zijn voorliefde tot
 het Enge Bos nog enigszins een slechte wolf, in het werk van Hergé, in
@@ -400,8 +379,7 @@ schakelt hem met een rake vuistslag uit.
 
 ## XVIII.
 
-![](media/image18.JPG){width="3.069306649168854in"
-height="3.1791371391076115in"}
+![](imgs/borboris18.JPG)
 
 Als naoorlogse atoomgeleerde en rakettenbouwer heeft professor
 Zonnebloem natuurlijk wat met het fascisme van doen. Zonnebloems
@@ -427,8 +405,7 @@ fascisme iets met elkaar van doen hebben, een meer verborgen versie.
 
 ## XIX.
 
-![](media/image19.JPG){width="2.881187664041995in"
-height="2.4129068241469818in"}
+![](imgs/borboris19.JPG)
 
 Het eerste optreden van Boris in *Mannen op de maan* is dat hij wraak
 neemt op de vuistslag die Kuifje hem bijna vijftien jaar eerder
@@ -453,8 +430,7 @@ hem voornaam maakt. Kortom: eens een Bor de Wolf, altijd een Boze Wolf.
 
 ## XX.
 
-![](media/image20.tiff){width="3.6235290901137356in"
-height="2.4867016622922136in"}
+![](imgs/borboris20.jpg)
 
 In Gerard Reves Wolf speelt gelukkig ook een Kuifje-figuur mee, meneer
 Stafman geheten, want anders zou het met Wolf die toch al niet begreep
@@ -483,8 +459,7 @@ boete doet en in zijn twijfel krijgt hij kwade sm-gedachtes:
 
 ## XXI.
 
-![](media/image21.JPG){width="2.5052285651793524in"
-height="2.9603958880139984in"}
+![](imgs/borboris21.JPG)
 
 Zodra Boris gevangen is genomen legt hij een verklaring af die typisch
 is voor de SS. ‘‘’Ik zal jullie maar meteen zeggen,’’ verklaart hij,
@@ -496,8 +471,7 @@ Boris inderdaad geen enkele vraag meer en Boris zwijgt.
 
 ## XXII.
 
-![](media/image22.JPG){width="3.140223097112861in"
-height="2.8613867016622923in"}
+![](imgs/borboris22.JPG)
 
 Hoewel Boris stevig vastgebonden is, weet hij niettemin te ontsnappen.
 Samen met zijn zielige handlanger Wolff overvalt hij Kuifje en de
@@ -510,8 +484,7 @@ door Boris hart gaat.
 
 ## XXIII.
 
-![](media/image23.JPG){width="3.18292760279965in"
-height="3.3267322834645667in"}
+![](imgs/borboris23.JPG)
 
 Kuifje begrijpt nu dat Wolff berouw heeft, raapt zijn bril die tijdens
 de worsteling met Boris gevallen is op, geeft hem aan Wolff terug en
@@ -533,8 +506,7 @@ waar Wolf hem de eerste keer ontmoette en met precies hetzelfde tentje:
 
 ## XXIV.
 
-![](media/image24.JPG){width="3.277318460192476in"
-height="2.9108902012248468in"}
+![](imgs/borboris24.JPG)
 
 Boris was het Absolute Kwaad dat alleen maar tot inkeer gebracht kon
 worden door zijn dood, zoals dat een echte Boze Wolf ook betaamt. Maar

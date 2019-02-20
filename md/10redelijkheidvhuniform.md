@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: De redelijkheid van het uniform: Over mode voor filosofen
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Bas-Jan van Stam
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 10. De redelijkheid van het uniform
-
-# Over mode voor filosofen
+# 9. De redelijkheid van het uniform: Over mode voor filosofen
 
 Door Bas-Jan van Stam. Verschenen in Arcade nr. 1, 1989.
 
@@ -29,9 +27,7 @@ Mensen die draagkrachtig genoeg zijn om geen tweedehands kleren te
 hoeven kopen, zullen dat ook niet gauw in hun hoofd halen. Je weet
 namelijk maar nooit of ze van een dooie zijn. Het risico dat de kleding
 besmet is met het bedervend miasme van de dood, loopt men liever niet.
-Deze onzichtbare smetstof hecht zich aan vezels en weefsels en geen
-
-Biologisch-dynamisch wasmiddel dat daartegen opgewassen is. Dit komt
+Deze onzichtbare smetstof hecht zich aan vezels en weefsels en geen Biologisch-dynamisch wasmiddel dat daartegen opgewassen is. Dit komt
 doordat de dood niet dood kan omdat hij de dood-zelve is. Gebruikte
 kledij waar op het oog niets aan mankeert kan de dood overbrengen, ook
 al komt het niet van een dode want dan moet ze wel afkomstig zijn van
@@ -82,7 +78,7 @@ irritatie. In een ander verhaal, waarin het Verre Oosten door het
 Midden-Oosten is vervangen, worden de psychoseksuele lasten beter
 beschreven:
 
-## De seks
+### De seks
 
 Een vrouw rijdt met haar man door een stad in Frankrijk. Ineens ziet ze
 in een etalage een jurk die haar bevalt. Ze vraagt haar man even te

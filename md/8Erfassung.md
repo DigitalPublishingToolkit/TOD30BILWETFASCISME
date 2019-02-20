@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 8. Erfassung, Aussonderung, Vernichtung
-
-# Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik
+# 7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik
 
 Door Geert Lovink. Geschreven in juli 1986.
 
@@ -148,7 +146,7 @@ de demagogie van de voorstanders:
 > hand van een ander wenst te sterven. Een demagogisch eufemisme
 > dus.[^6]
 
-Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet.
+Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet:
 
 > Het belangrijkste van die film is te beseffen wat er nu gebeurt, wat
 > er nu gaande is. Een tijdje geleden vroeg iemand wat ik vond van het
@@ -160,7 +158,7 @@ Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet.
 > Shoah betreft belangrijker te constateren dat zoveel mensen nu nog in
 > diezelfde mentaliteit leven van afzijdigheid en misdadigheid.[^7]
 
-Boudewijn Büch is iemand die het voor haar opneemt.
+Boudewijn Büch is iemand die het voor haar opneemt:
 
 > Hoewel ik haar woord- en begripskeuze soms wat ongelukkig vind, vooral
 > haar niet aflatende vergelijkingen die behelzen dat
@@ -186,7 +184,7 @@ van denken noemde, waaruit alle differentiatie is verdwenen omdat alles
 wordt afgemeten aan de hoogst verheven morele code.’ En dat leidt tot
 eigenaardige generalisaties waarin ‘schaduwloze volkeren’ als Duitsland
 en Japan, die de schaduwzijde in het leven verdringen en daardoor van
-tijd tot tijd erupties van ‘kwaad’ teweegbrengen.
+tijd tot tijd erupties van ‘kwaad’ teweegbrengen:
 
 > Getuigt dit nu van “intellectuele subtiliteit” en “psychische
 > differentiatie” (uit het hoge niveau van leven vóór Plato) om deze
@@ -478,9 +476,7 @@ vernietiging voorafging en die Karl-Heinz Roth en Götz Aly op papier
 hebben gezet.
 
 In het voorjaar van ’84 verscheen hun boek *Die restlose Erfassung:
-Volks­*
-
-*zählen, Identifizieren, Aussondern im Nationalsozialismus*. Niet
+Volks­zählen, Identifizieren, Aussondern im Nationalsozialismus*. Niet
 toevallig in het heetst van de strijd tegen de volkstelling in april ’83
 hadden ze al in *Die Tageszeitung* hun historisch onderzoek in het kort
 uit de doeken gedaan. In tegenstelling tot Nederland in ’71 speelden in
@@ -527,9 +523,7 @@ arbeidsboekje had. Later kwamen hier nog gegevens bij, ‘WD’ als deze man
 was opgeroepen voor de Wehrmacht en vanaf 1941 een ‘Z’ als het een
 zigeuner was. Tevens kwam bij de kaart een kopie van de ‘Kennkarte’ (de
 legitimatieplicht was vrijwel gelijktijdig ingevoerd). In de eerste drie
-oorlogsjaren kon men uit de Volkskartei genoeg mensen halen
-
-die men nodig had. Ze waren immers gemaakt voor het gebruik, te kunnen
+oorlogsjaren kon men uit de Volkskartei genoeg mensen halen die men nodig had. Ze waren immers gemaakt voor het gebruik, te kunnen
 schiften. Registreren, sorteren en deporteren (naar fabrieken, het front
 of het concentratiekamp) gingen zo vloeiend in elkaar over. De
 kaartenbak was hierin de beslissende instantie.
@@ -538,9 +532,7 @@ In de zomer van 1943 kwamen Nazifunctionarissen tot de ontdekking dat de
 Volkskartei die tijdens de Blitzkrieg zulk goed werk had gedaan, niet
 meer te gebruiken was voor de op handen zijnde ‘Totaler Krieg’. Vrouwen
 en jeugdigen die nu tewerkgesteld moesten worden waren niet als aparte
-categorie in de
-
-Volkskartei opgenomen en konden niet ‘erfasst’ worden. Ook gaf het geen
+categorie in de Volkskartei opgenomen en konden niet ‘erfasst’ worden. Ook gaf het geen
 overzicht van de miljoenen buitenlandse dwangarbeiders omdat alleen
 Duitse ‘Volksgenossen’ in de Volkskartei zaten. Registratie en
 aanmelding dreigden in het honderd te lopen. Mobiliteit, chaos en
@@ -602,16 +594,10 @@ Jodenvervolging dit wezenlijke aspect ontbreekt. Zelfs de historicus
 Hilberg die hierover het standaardwerk schreef, meent dat de systematiek
 in Nederland geweten moet worden aan de ‘geografische ligging’. Zij
 vinden het tekenend dat de voorbereidingen zo onderbelicht zijn
-gebleven. De algemeen gangbare
-
-mening is ook immers dat technieken, in dit geval de statistiek en
-registratie, ‘waardenvrij’ zijn en door iedereen gebruikt kunnen worden.
+gebleven. De algemeen gangbare mening is ook immers dat technieken, in dit geval de statistiek en registratie, ‘waardenvrij’ zijn en door iedereen gebruikt kunnen worden.
 Daardoor blijven ze hun algemene geldigheid houden en wordt hun
 geschiedenis ook niet geschreven. En pas als die bestudeerd wordt kan
-beoordeeld worden waar en
-
-hoe er een fascistische draai aan zulke machtsinstrumentaria gegeven
-wordt.
+beoordeeld worden waar en hoe er een fascistische draai aan zulke machtsinstrumentaria gegeven wordt.
 
 Zoals alles heeft ook de statistiek voor ’33 en na ’45 bestaan. Een
 continuïteit die zowel personeel als wat de denkbeelden betreft
@@ -620,7 +606,7 @@ Bondsrepubliek die onderzoek doet naar ‘het lage geboortecijfer van de
 Duitsers’ en de hoge bij Turken of naar de ‘bevolkingsexplosie in de
 Derde Wereld’. Maar wat mij na lezing van dit boek het beste bij is
 gebleven is de dreigende lading van het woord ‘Erfassung’ dat in
-tegenstelling tot ‘Führer’ allerminst uit de Duitse taal is verdwenen.
+tegenstelling tot ‘Führer’ allerminst uit de Duitse taal is verdwenen:
 
 > Meteen in het nieuwe jaar van 1941 stond de Joden wat te wachten: de
 > zeer belangrijke verordening nr. 6 van 10 januari 1941, voorschrijvend
@@ -653,10 +639,7 @@ van aangrenzende thema's. Daar hoort een voorgeschiedenis bij van de
 gegroeide belangstelling voor de Nazi-gezondheidspolitiek. Pas in 1980
 werd er voorgoed gebroken met het taboe om over de Duitse artsenij
 tijdens het Nazibewind te zwijgen. Toen werd de Gesundheitstag in
-West-Berlijn gehouden dat als
-
-thema had ‘Medizin und National-Sozialismus Tabuisierte Vergangenheit
-Ungebrochene Tradition?’. Vijf dagen werd daar gepraat over een
+West-Berlijn gehouden dat als thema had ‘Medizin und National-Sozialismus Tabuisierte Vergangenheit Ungebrochene Tradition?’. Vijf dagen werd daar gepraat over een
 geschiedenis die voor het eerst aan het daglicht kwam en rees de vraag
 naar de continuïteit. De bijdragen die daar gehouden zijn werd gebundeld
 en uitgegeven. De doorbraak valt vooral af te lezen aan de lange
@@ -911,10 +894,7 @@ in de inrichtingen waar te veel patiënten bij elkaar lagen. Daar kwam
 bij dat in de Eerste Wereldoorlog tienduizenden verhongerd waren. De
 psychiatrie was met haar genezingsmethoden verouderd en had een slechte
 naam. Alleen uit deze situatie en de hervormingsdrang vallen de latere
-radicale maatregelen van
-
-de Nazi's te verklaren. De belangrijkste voorstellen ter verandering
-pleitten voor differentiatie, flexibiliteit en bezuinigingen waar
+radicale maatregelen van de Nazi's te verklaren. De belangrijkste voorstellen ter verandering pleitten voor differentiatie, flexibiliteit en bezuinigingen waar
 mogelijk. De ‘bezigheidstherapie’ werd in die tijd uitgevonden, evenals
 het idee van de kleine inrichting met paviljoens. De ‘euthanasie’ paste
 binnen dit nieuwe concept waarin ruimte gemaakt werd voor nieuwe
@@ -1230,8 +1210,9 @@ allereerst oude en aan de rand van de maatschappij levende mensen in
 gevaar. Ze zouden onder een psychologische druk gezet worden en
 inderdaad naar de dood gaan verlangen als ze het gevoel zouden krijgen
 dat hun familie en het verplegend personeel van hen verwachten dat ze
-‘vrijwillig’ en ‘bijtijds’ uit het leven stappen.[^32] Voorts zou de
-vertrouwensrelatie tussen arts en patiënt onherroepelijk verstoord
+‘vrijwillig’ en ‘bijtijds’ uit het leven stappen.[^32]
+
+Voorts zou de vertrouwensrelatie tussen arts en patiënt onherroepelijk verstoord
 worden. In plaats van een debat over de verandering van de wetgeving te
 eisen zou men er beter aan doen de leef- en verzorgingsmogelijkheden van
 oude, zieke en stervende mensen te verbeteren zodat een menswaardig
@@ -1248,7 +1229,9 @@ de maatschappelijke / gewelddadige verhoudingen om geformuleerd zou
 kunnen worden.[^33] En alsof het doodsverlangen uit de diepte van het
 individu zou komen, terwijl men eigenlijk door het idee van de
 ‘nutteloze verlenging van het leven’ tot zo’n verklaring gedwongen
-wordt. Gezien het feit dat geen enkele politieke partij principiële
+wordt.
+
+Gezien het feit dat geen enkele politieke partij principiële
 bezwaren heeft tegen verandering van de wet ziet ook Aly alleen nog maar
 hoop in de buitenparlementaire oppositie in CDU/CSU-kringen: de
 conservatieve en in het bijzonder de katholieke theologen. Een sombere
@@ -1262,8 +1245,9 @@ dat men het antwoord op dit soort kritiek schuldig blijft. Dat komt
 omdat hier de kern van de Grüne-ideologie geraakt wordt. Zelfhulp en
 decentralisatie vormen de trefwoorden van hun gezondheidszorg-politiek.
 Een ideologie die moeiteloos aansluit bij de in crisis geraakte
-grootschalige gezondheidsfabriek op zoek naar 'alternatieven'. Over de
-afbraak van het sociale verzekeringsstelsel die nu in volle gang is
+grootschalige gezondheidsfabriek op zoek naar 'alternatieven'.
+
+Over de afbraak van het sociale verzekeringsstelsel die nu in volle gang is
 wordt in hun ‘Gesund Sein 2000 Wege und Vorschläge’ met geen woord
 gerept. Het toverwoord luidt ‘Selbstbedienung’ en dat in tijd waarin het
 inkomen van grote groepen van de bevolking achteruitgaat. Een

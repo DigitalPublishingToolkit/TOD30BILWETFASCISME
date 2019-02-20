@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Bilwet Fascismemap
+P-id: Theory on Demand
+A-id: 30
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Spurensicherung - Spurenvernichtung: Over de herdenking bij historische plaatsen in Berlijn
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Geert Lovink
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,9 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 9. Spurensicherung - Spurenvernichtung
-
-# Over de herdenking bij historische plaatsen in Berlijn
+# 8. Spurensicherung - Spurenvernichtung: Over de herdenking bij historische plaatsen in Berlijn
 
 Door Geert Lovink. Geschreven in juli-september 1986.
 
@@ -192,26 +190,16 @@ daar al dan niet aan vastgeknoopt kunnen worden.
 Harry Mulisch schreef in 1961 wekelijks artikelen in Elseviers Weekblad
 over het proces tegen de Nazimisdadiger Adolf Eichmann dat toen in
 Jeruzalem werd gehouden. Deze werden in ’62 gebundeld en uitgegeven
-onder de titel ‘De Zaak
-
-40/61’ (die nummers slaan niet op jaartallen maar op Eichmanns dossier
-bij de Israëlitische politie). Eichmann werd in 1960 in Argentinië
+onder de titel ‘De Zaak 40/61’ (die nummers slaan niet op jaartallen maar op Eichmanns dossier bij de Israëlitische politie). Eichmann werd in 1960 in Argentinië
 opgespoord en door de Israëliërs ontvoerd. Na een langdurig verhoor en
 het opsporen van overlevenden die konden getuigen, begon in maart ’61
-het proces. Maandenlang kreeg het
-
-grote aandacht in de massamedia. Op 31 mei 1962 werd hij opgehangen. Het
-proces tegen Eichmann was een kristallisatiepunt geworden van
+het proces. Maandenlang kreeg het grote aandacht in de massamedia. Op 31 mei 1962 werd hij opgehangen. Het proces tegen Eichmann was een kristallisatiepunt geworden van
 bekentenissen, filosofische uitspraken en juridische uitspraken over de
 vervolging van (Nazi) oorlogsmisdadigers.[^3] Op het hoogtepunt van de
 Koude Oorlog, tijdens de eerste bemande ruimtevluchten en de bouw van de
 Berlijnse Muur werd dit proces aanleiding tot een eerste herziening van
 het beeld dat er toentertijd van de fascisten en het fascisme was.
-Mulisch hekelt in zijn boek het beeld dat
-
-van Eichmann gemaakt werd als zou de ‘kern’ van deze man bestaan uit een
-wrede, gewelddadige massamoordenaar, een psychopathisch beest. Voor hem
-is Eichmann een machine, een plichtsgetrouw ambtenaar die onverschillig
+Mulisch hekelt in zijn boek het beeld dat van Eichmann gemaakt werd als zou de ‘kern’ van deze man bestaan uit een wrede, gewelddadige massamoordenaar, een psychopathisch beest. Voor hem is Eichmann een machine, een plichtsgetrouw ambtenaar die onverschillig
 wat voor bevelen ten uitvoer brengt. Een medium zonder geloof of
 hypnose, het symbool van de ‘vooruitgang’.
 
@@ -826,7 +814,7 @@ kunnen zijn.
 *Im Scheunenviertel* is het meest bijzondere boek dat ik over het
 verdwenen Berlijn ken. Op de voorkant legt de samensteller Eike Geisel
 kort uit waar het over gaat, want deze buurt die vroeger een
-schrikaanjagend begrip was, zegt nu niemand meer iets.
+schrikaanjagend begrip was, zegt nu niemand meer iets:
 
 > Het Berlijnse ‘’Scheunenviertel’’ was het toevluchtsoord voor de
 > Poolse en Russische Joden die in de verwarring van oorlog en revolutie
@@ -885,7 +873,7 @@ verziekt) calculeren deze pacifisten-ecologen nogmaals met de dood van
 miljoenen anderen. Ze slikken bezuinigingen en verarming voor zoete
 koek. Hier willen Pohrt en Geisel een onverbiddelijk radicaal, rationeel
 en kritische analyse tegenover zetten. Dikwijls doen ze dat via de omweg
-van het fascisme.[^24]*Im Scheunenviertel* zie ik als de meest geslaagde
+van het fascisme.[^24] *Im Scheunenviertel* zie ik als de meest geslaagde
 poging daartoe, geschiedenis en kritiek met elkaar te verbinden.
 
 Als tweede onderdeel zijn er een twintigtal tekstfragmenten van beroemde
