@@ -6,7 +6,7 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: Voorwoord: Van non-fascisme tot kuifosofie - een mannenfeminisme
+Article-title: Voorwoord: Kuifosofie, antifascisme en mannenfeminisme
 Article-status: accepted
 Author: Sepp Eckenhaussen
 Author-email:   sepp@planet.nl
@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Voorwoord: Van non-fascisme tot kuifosofie – een mannenfeminisme
+# Voorwoord: Kuifosofie, antifascisme en mannenfeminisme
 
 Door Sepp Eckenhaussen.
 
