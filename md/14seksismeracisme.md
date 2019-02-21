@@ -30,6 +30,8 @@ aanleiding daarvan dit verhaal.*
 
 ![](imgs/seksismeracisme2.png)
 
+Afb. 1: Hoezo Kuifje dood?
+
 ## I. Alledaags racisme versus politiek racisme
 
 Zo’n beetje iedereen zal wel eens de ervaring hebben gehad, dat racisten
@@ -201,6 +203,9 @@ de politiek-economische crisis gebombardeerd.
 ![](imgs/seksismeracisme1punt1.png)
 ![](imgs/seksismeracisme1punt2.png)
 ![](imgs/seksismeracisme1punt3.png)
+
+Afb. 2: De castratie van Bobbie.
+
 
 Het castratiemes gaat van hand tot hand: de papegaai, de kapitein, de
 n\*\*\*\* met de zaag, de scheepsarts, de deur van de behandelkamer, de
@@ -390,6 +395,8 @@ symbool van het Beest en het beestachtige.
 
 ![](imgs/seksismeracisme3.png)
 
+Afb. 3: Hoezo Kuifje dood???
+
 ## VII. Conclusies
 
 Is Ton H., is het Fascisme dan niet beestachtig? Uiteindelijk denk ik
@@ -502,6 +509,8 @@ geïnteresseerd in onze dromen. Als we maar sliepen, dan kwam alles wel
 in orde.
 
 ![](imgs/seksismeracisme4.png)
+
+Afb. 4: Ridder Kuifje.
 
 [^1]: Bas-Jan van Stam, *Seksisme Fascisme: rekonstruktie van een
     mannenideaal: over de korrespondentie tussen een ouwe Griek, een

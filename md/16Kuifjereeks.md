@@ -13,7 +13,7 @@ Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: CC BY-NC-SA 4.0
 ...
 
 
@@ -21,9 +21,10 @@ Rights: CC BY-NC 4.0
 
 Door Bas-Jan van Stam. Geschilderd en geschreven in 1987.
 
-## I. Leve Kuifje en Bobbie (Willkommen Tim und Struppi!)
 
 ![](imgs/kuifjeserie1.jpg)
+
+Leve Kuifje en Bobbie (Wilkommen Tim und Struppi!).
 
 *Leve Kuifje en Bobbie (Willkommen Tim und Struppi!)* brengt twee
 essentiële beelden uit begin jaren dertig bijeen: de intocht van Kuifje
@@ -44,24 +45,18 @@ wel deden). ‘Tanzt den Adolf Hitler.’ Sterk beïnvloed door Freud, Reich
 en Theweleit zien we in dit beeld tevens de oerscene afgebeeld van
 Bilwet, dat anno 1983 werd opgericht.
 
-## II. De gemaskerde Kuifje
 
 ![](imgs/kuifjeserie2.jpg)
 
+De gemaskerde Kuifje.
+
 *De gemaskerde Kuifje* refereert aan een motief uit Kuifje-album *De
-juwelen van*
+juwelen van Bianca Castafiore*, waarin de held op een avond door het bos wandelt en ontroerd raakt door de weemoedige muziek van een groep zigeuners. Hij roept naar Bobbie en zegt dat ze terug moeten. Het masker is ontleend aan het fotoalbum bij de speelfilm *Kuifje en het geheim van het gulden vlies* (1962) waarin echte acteurs de stripfiguren naspeelden. Wie gaat er verscholen achter het Kuifje-masker? Herleest Foucault en Nietzsche. Of is het toch Kuifje? Wie is Kuifje? Het persoonlijke is maskerade.
 
-*Bianca Castafiore*, waarin de held op een avond door het bos wandelt en
-ontroerd raakt door de weemoedige muziek van een groep zigeuners. Hij
-roept naar Bobbie en zegt dat ze terug moeten. Het masker is ontleend
-aan het fotoalbum bij de speelfilm *Kuifje en het geheim van het gulden
-vlies* (1962) waarin echte acteurs de stripfiguren naspeelden. Wie gaat
-er verscholen achter het Kuifje-masker? Herleest Foucault en Nietzsche.
-Of is het toch Kuifje? Wie is Kuifje? Het persoonlijke is maskerade.
-
-## III. Fallisch Landschap
 
 ![](imgs/kuifjeserie3.jpg)
+
+Fallisch Landschap
 
 *Fallisch Landschap* is een actuele collage van een verschrikt
 omkijkende Bobbie uit het album *Kuifje in Afrika*, geplaatst in een
@@ -79,9 +74,10 @@ erotisch coloriet. Het fluorescerende effect van het rood en blauw zorgt
 ervoor dat we benieuwd blijven naar wat dit vreemde, verzonken eiland de
 kijker zoal te bieden heeft.
 
-## IV. Die zweite Sonne
 
 ![](imgs/kuifjeserie4.jpg)
+
+Die zweite Sonne
 
 *Die zweite Sonne* is een dissociatie van twee afbeeldingen uit het
 album *De Geheimzinnige Ster*: de omslag gecombineerd met de stoomwolk
@@ -103,9 +99,10 @@ De radioactieve energie mocht niet in handen van de vijand komen, maar
 moest aangewend worden voor de ‘vreedzame doeleinden’ van wetenschap en
 techniek.
 
-## V. Zelfportret met spiegel
 
 ![](imgs/kuifjeserie5.jpg)
+
+Zelfportret met spiegel
 
 *Zelfportret met spiegel* is verwijzing naar *Kuifje in Afrika*. Het
 toont Kuifje gezeten in een draagkoets waarmee hij op safari is gegaan.
@@ -121,9 +118,10 @@ sociaal residu. Kuifje als een nietszeggende, lege persoonlijkheid staat
 model voor iedere auteur, lezer of gebruiker. Iedereen is Kuifje,
 iedereen een monster. Als je in de spiegel kijkt, zie je het ondier.
 
-## VI. Madonna met Kindje Kuif
 
 ![](imgs/kuifjeserie6.jpg)
+
+Madonna met Kinfje en Kuif
 
 *Madonna met Kindje Kuif* bouwt voort op een anonieme ansichtkaart,
 gekocht tijdens de donkere dagen voor de Kerst op de Kerstmarkt in

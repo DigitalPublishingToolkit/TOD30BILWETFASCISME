@@ -13,7 +13,7 @@ Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: CC BY-NC-SA 4.0
 ...
 
 
@@ -25,7 +25,6 @@ ingekorte versie van een deel uit een gepland filmboek over Wenders,
 Riefenstahl en Schwarzenegger.
 
 ‘Jeder Engel ist schrecklich.’
-
 (Rainer Maria Rilke)
 
 ## I.
