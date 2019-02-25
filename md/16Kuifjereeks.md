@@ -17,7 +17,7 @@ Rights: CC BY-NC-SA 4.0
 ...
 
 
-# 15. De Kuifjereeks: Zes Kleurplaten van Bilwet
+# 15. De Kuifjereeks: Zes kleurplaten van Bilwet
 
 Door Bas-Jan van Stam. Geschilderd en geschreven in 1987.
 

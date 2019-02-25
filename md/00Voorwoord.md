@@ -446,7 +446,7 @@ uit in de analyse van een fascistisch wolfsfiguur in het Kuifje-album
 *Mannen op de maan*, wat ons brengt bij de laatste Bilwet-analyselijn in
 dit boek: kuifosofie.
 
-### Hoofdstukken 13-18: Kuifosofie en Datadandy
+### Hoofdstukken 13-17: Kuifosofie en Datadandy
 
 Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de

@@ -2,36 +2,107 @@
 # Colofon 
 
 Theory on Demand #30 
-
-**Bilwet Fascismemap (1984-1994)**
+<br/>**Bilwet Fascismemap (1984-1994)**
 
 Auteurs: Bilwet, Arjen Mulder, Bas-Jan van Stam, Geert Lovink
-
-Redacteur: Sepp Eckenhaussen
-
-Cover design: Katja van Stiphout 
-
-Published by the Institute of Network Cultures, Amsterdam, 2019
-
-ISBN 978-94-92302-32-8
+<br/>Redacteur: Sepp Eckenhaussen
+<br/>Cover design: Katja van Stiphout 
+<br/>Published by the Institute of Network Cultures, Amsterdam, 2019
+<br/>ISBN 978-94-92302-32-8
 
 **Contact** 
+<br/>Institute of Network Cultures
+<br/>Phone: +3120 5951865
+<br/>Email: info@networkcultures.org
+<br/>Web: http://www.networkcultures.org
 
-Institute of Network Cultures
+Deze publicatie is uitgegeven onder de Creative Commons Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA 4.0)-licensie.
 
-Phone: +3120 5951865
-
-Email: info@networkcultures.org
-
-Web: http://www.networkcultures.org
-
-This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA 4.0)
-
-Deze publicatie is beschikbaar via verschillende print-on-demand-services en kostenloos te downloaden van http://www.networkcultures.org/publications.
+Deze publicatie kan besteld worden bij verschillende print-on-demand-services en is kostenloos te downloaden via http://www.networkcultures.org/publications.
 
 ![](/Users/Sepp/Documents/GitHub/TOD30BILWETFASCISME/md/imgs/networkcultures.jpg)
 
 #Inhoudsopgave
+
+<a href="ch003.xhtml"> **Voorwoord: Kuifosofie, antifascisme en mannenfeminisme** </a>    <br />
+Sepp Eckenhaussen
+
+<a href="ch004.xhtml"> **Inleiding: Dialoog tijdens het redigeren van de Bilwet-fascismemap** </a>    <br />
+Sepp Eckenhaussen en Geert Lovink
+
+
+## Bilwet en Theweleit
+
+<a href="ch005.xhtml"> **1. Hoezo Bilwet? Een inleiding** </a>    <br />
+Bilwet (1994)
+
+<a href="ch006.xhtml"> **2. De vertoogmixer van Klaus Theweleit: Een boek bij de dood van Orfeus** </a>    <br />
+Geert Lovink en Arjen Mulder (1989)
+
+<a href="ch007"> **3. Drassige fantasieën achter de dijken: Bij de Nederlandse vertaling van Männerphantasien** </a>    <br />
+Geert Lovink een Bas-Jan van Stam (1985)
+
+<a href="ch008.xhtml"> **4. Mannenfantasie mannenfantasie: Een Theweleitkritiek** </a>    <br />
+Arjen Mulder (1985 of later)
+
+
+## De niet-fascistische lijn
+
+<a href="ch009.xhtml"> **5. Emotionaliteit, alledaagsheid en verzet: Een andere kijk op fascisme/racisme/seksisme** </a>    <br />
+Bas-Jan van Stam (1984)
+
+<a href="ch010.xhtml"> **6. De gewonnen, de verloren, de permanente oorlog** </a>    <br />
+Geert Lovink en Bas-Jan van Stam (1984)
+
+
+## Verdwenen sporen
+
+<a href="ch011.xhtml"> **7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik** </a>    <br />
+Geert Lovink (1986)
+
+<a href="ch012.xhtml"> **8. Spurensicherung - Spurenvernichtung: Over de herdenking bij historische plaatsen in Berlijn** </a>    <br />
+Geert Lovink (1986)
+
+
+## Cultuurspeculatie
+
+<a href="ch013.xhtml"> **9. De redelijkheid van het uniform: Over mode voor filosofen** </a>    <br />
+Bas-Jan van Stam (1989)
+
+<a href="ch014.xhtml"> **10. Triumpf des Himmels: Over Wim Wenders' Himmel über Berlin** </a>    <br />
+Arjen Mulder (1989)
+
+<a href="ch015.xhtml"> **11. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*** </a>    <br />
+Bilwet (1994)
+
+<a href="ch016.xhtml"> **12. 'Alleen door een wonder kan ik behouden worden': Over Boris, Bor en de Wolf** </a>    <br />
+Geert Lovink en Bas-Jan van Stam (1987)
+
+
+## Kuifosofie en Datadandy
+
+<a href="ch017.xhtml"> **13. Seksisme racisme: Hoezo Kuifje dood?** </a>    <br />
+Bas-Jan van Stam (1983)
+
+<a href="ch018.xhtml"> **14. Kuifosofie: Over Hergé en de Alfa-kunst** </a>    <br />
+Bas-Jan van Stam (1991 of later)
+
+<a href="ch019.xhtml"> **15. De Kuifjereeks: Zes kleurplaten van Bilwet** </a>    <br />
+Bas-Jan van Stam (1987)
+
+<a href="ch020.xhtml"> **16. Pissen voor de Führer: Het onschuldig fascisme van Hergé** </a>    <br />
+Bilwet (1994)
+
+<a href="ch021.xhtml"> **17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid** </a>    <br />
+Bilwet (1994)
+
+
+## Bijlage
+
+<a href="ch022.xhtml"> **Bijlage 1: Opzet Bilwet-fascismemap** </a>    <br />
+Geert Lovink (1986)
+
+
 
 
 # Voorwoord: Kuifosofie, antifascisme en mannenfeminisme
@@ -463,7 +534,7 @@ uit in de analyse van een fascistisch wolfsfiguur in het Kuifje-album
 *Mannen op de maan*, wat ons brengt bij de laatste Bilwet-analyselijn in
 dit boek: kuifosofie.
 
-### Hoofdstukken 13-18: Kuifosofie en Datadandy
+### Hoofdstukken 13-17: Kuifosofie en Datadandy
 
 Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de
@@ -9901,7 +9972,7 @@ met de rekbaarheid van de elementen te spelen.
 
 
 
-# 10. Triumpf des Himmels: Over Wim Wenders’ Himmel über Berlin
+# 10. Triumpf des Himmels: Over Wim Wenders’ *Himmel über Berlin*
 
 Door Arjen Mulder. Verschenen in *Arcade: Jaarboek voor Ambulante
 Wetenschappen*, nr. 1, 1989. Geschreven in mei - september 1988 als
@@ -12492,7 +12563,7 @@ Hergé-maffia.
 
 
 
-# 15. De Kuifjereeks: Zes Kleurplaten van Bilwet
+# 15. De Kuifjereeks: Zes kleurplaten van Bilwet
 
 Door Bas-Jan van Stam. Geschilderd en geschreven in 1987.
 
@@ -13133,7 +13204,7 @@ van Hergé laat het moment van de subversiviteit open.
 
 # 17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
 
-Door Bilwet. Uit De datadandy, geschreven in 1994.
+Door Bilwet. Uit *De datadandy*, geschreven in 1994.
 
 ‘Wie over het fascisme spreekt en het ook heeft over seksisme, doet er beter aan helemaal niets te zeggen.’ (Johan Sjerpstra)
 

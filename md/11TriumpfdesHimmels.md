@@ -17,7 +17,7 @@ Rights: CC BY-NC-SA 4.0
 ...
 
 
-# 10. Triumpf des Himmels: Over Wim Wenders’ Himmel über Berlin
+# 10. Triumpf des Himmels: Over Wim Wenders’ *Himmel über Berlin*
 
 Door Arjen Mulder. Verschenen in *Arcade: Jaarboek voor Ambulante
 Wetenschappen*, nr. 1, 1989. Geschreven in mei - september 1988 als

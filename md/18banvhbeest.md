@@ -19,7 +19,7 @@ Rights: CC BY-NC-SA 4.0
 
 # 17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
 
-Door Bilwet. Uit De datadandy, geschreven in 1994.
+Door Bilwet. Uit *De datadandy*, geschreven in 1994.
 
 ‘Wie over het fascisme spreekt en het ook heeft over seksisme, doet er beter aan helemaal niets te zeggen.’ (Johan Sjerpstra)
 
