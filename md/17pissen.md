@@ -19,7 +19,7 @@ Rights: CC BY-NC-SA 4.0
 
 # 16. Pissen voor de Führer: Het onschuldig fascisme van Hergé
 
-Door Bilwet. Uit *De datadandy,* geschreven in 1994.
+Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
 Het is nacht. Kuifje laat Bobby uit en ontdekt aan de heldere hemel een
 nieuwe ster in de Grote Beer. Bij de plaatselijke sterrenwacht gaat hij

@@ -19,7 +19,7 @@ Rights: CC BY-NC-SA 4.0
 
 # 11. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*
 
-Door Bilwet. Uit *De datadandy,* geschreven in 1994.
+Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
 In het voorwoord van zijn Duitsche Bewegingsleer[^1] schrijft A. Hitler
 (1898-1945) dat hij het gedeelte over zijn jeugdjaren met name daarom

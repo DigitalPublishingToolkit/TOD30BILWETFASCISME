@@ -25,7 +25,7 @@ Door Sepp Eckenhaussen en Geert Lovink.
 
 ![](imgs/inleiding1.jpg)
 
-Afb. 1: Bas-Jan en Geert in Frankrijk.
+Afb. 1: Bas-Jan en Geert met het ijzeren paard op vier poten bij de ingang van het Wertheimpark in Amsterdam. Deze foto, gebruikt op de achterflap van *Het Beeldenrijk*, is een referentie naar de tragedie van Oedipoes. In deze mythe bewaakt een sphynx de toegangen en uitgangen van de stad Thebe door middel van het beroemde raadsel: welk dier loopt 's ochtends op vier, 's middags op twee en 's avonds op drie poten?
 
 Tussen 1983 en 1999 kwamen Bas-Jan van Stam, Geert Lovink, Arjen Mulder,
 Ger Peeters en Lex Wouterloot onregelmatig - en in verschillende
@@ -78,7 +78,7 @@ vast te leggen.[^2]
 
 ![](imgs/inleiding2.jpg)
 
-Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot.
+Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.
 
 Na het verschijnen van een lovende recensie van *Het Beeldenrijk* die
 Arjen Mulder, toenmalige filmrecensent van CPN-dagblad *De Waarheid*,
@@ -154,7 +154,7 @@ buitenlanders en andere 'minderheden'.
 
 ![](imgs/inleiding3.jpg)
 
-Afb. 3: De tafel in Geerts huis waar 'twee jongens en een typmachine' werkten aan de fascismemap.
+Afb. 3: De tafel in Geerts kamer in het kraakpand Lindenstraat 10, Amsterdam, waar 'twee jongens en een typmachine' werkten aan de fascismemap.
 
 Sepp Eckenhaussen: Door terug te gaan naar Bilwets werk uit de jaren ’80
 en ’90, keren we ook terug naar de geboorte van de mediatheorie. Ik
@@ -261,7 +261,7 @@ dit? Waar blijft de historische component in zo’n nieuwe definitie?
 
 ![](imgs/inleiding4.jpg)
 
-Afb. 4: De omslag van *Sekisme/Fascisme*.
+Afb. 4: De omslag van *Sekisme/Fascisme* (1983).
 
 
 Geert: Het ging ons niet om gelijkstellen maar om het leggen van

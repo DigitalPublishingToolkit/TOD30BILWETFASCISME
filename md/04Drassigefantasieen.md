@@ -41,9 +41,9 @@ deze stelling. Want hoewel de politieke en economische situatie nu op
 belangrijke punten totaal verschilt met de vooroorlogse, blijken de
 fantasieën uit die tijd nog steeds levend te zijn.
 
-![](imgs/drassigefantasieen1.png)
+![](imgs/drassigefantasieen1.jpg)
 
-Afb. 1: Flüsse des deutschen Faschismus...
+Afb. 1: Flüsse des deutschen Faschismus... Alle foto's in dit hoofdstuk zijn afkomstig uit *Frauen, Fluten, Körper, Geschichte*, het eerste deel van Klaus Theweleits tweedelige *Männerphantasien* (1980(1977)), in dit geval p. 269.
 
 Dat is meteen het rare van *Mannenfantasie*. Zo’n beetje alles uit die
 tijd staat in het museum of kun je kopen in het Centrum voor Gebruikte
@@ -132,9 +132,9 @@ werkelijke leven maar hun fantasie-leven. Ook al is het natuurlijk zo,
 dat ze in werkelijkheid niet bepaald op een moderne wijze met vrouwen
 omgingen.
 
-![](imgs/drassigefantasieen2.png)
+![](imgs/drassigefantasieen2.jpg)
 
-Afb. 2: Rossback en Hauenstein. De Freikorps-auteur Dwinger laat de communiste 'Marja' verkondigen: 'Ik zet de natuur op haar kop, bij mij stromen de rivieren bergopwaarts.'
+Afb. 2: Rossback en Hauenstein (leider van de Organisation Heinz in Oostenrijk in 1921 en het Ruhrgebied in 1923). Theweleit, *Männerphantasien I*, 69. De Freikorps-auteur Dwinger laat de communiste 'Marja' verkondigen: 'Ik zet de natuur op haar kop, bij mij stromen de rivieren bergopwaarts.' 
 
 Tegenover de Witte Vrouw staat dus de Rode Vrouw. In de romans worden
 zij wel met naam en toenaam genoemd. En zodra in hun verhalen een vrouw
@@ -176,9 +176,9 @@ Precies omdat fysieke angsten direct ‘vertaald’ werden in gewelddadige
 fantasieën trad bij hen een automatisme in werking waarbij deze
 fantasieën ook vanzelfsprekend in de praktijk gebracht werden.
 
-![](imgs/drassigefantasieen3.png)
+![](imgs/drassigefantasieen3.jpg)
 
-Afb. 3: Greta Garbo en Herbert Marshall in *The Painted Veil* (1935) 
+Afb. 3: Greta Garbo en Herbert Marshall in *The Painted Veil* (1935). Theweleit, *Männerphantasien I*, 145.
 
 Belangrijk hierbij is dat Theweleit ervan uit gaat dat gevoelens niet
 iets ‘puurs’, iets ‘zuiver natuurlijks’ zijn, maar dat ze in de loop van
@@ -241,9 +241,9 @@ kleine naar het allergrootste pantser bestond. Een buitengewoon star
 beeld, dat nog het meest op een blokkendoos lijkt, waarin de
 verschillende onderdelen bij elkaar een stevige muur vormen.
 
-![](imgs/drassigefantasieen4.png)
+![](imgs/drassigefantasieen4.jpg)
 
-Afb. 4: *Jumbo,* affiche na 1918.
+Afb. 4: *Jumbo,* affiche na 1918. Theweleit, *Männerphantasien I*, 101.
 
 In hun ogen waren de socialistische radendemocratieën dan ook exact het
 tegendeel van wat zij bij politieke machtsvorming voor ogen zagen. Die
@@ -374,9 +374,9 @@ strijd?’ Het enige dat je kan zeggen is, dat hij de nadruk legt op het
 besef of ’t bewustzijn over lichamen en seksualiteit in de dagelijkse
 omgang.
 
-![](imgs/drassigefantasieen5.png)
+![](imgs/drassigefantasieen5.jpg)
 
-Afb. 5: Omslag van de roman *Lava* (1921).
+Afb. 5: Omslag van Roman von Hermann Hageners roman *Lava* (1921).Theweleit, *Männerphantasien I*, 246.
 
 
 *Is het in zo’n kijk antifascistisch om te streven naar chaos?*

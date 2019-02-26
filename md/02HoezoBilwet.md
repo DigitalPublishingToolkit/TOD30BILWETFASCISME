@@ -24,7 +24,7 @@ geschreven in 1994.
 
 ![](imgs/hoezobilwet1.jpg)
 
-Afb. 1: Bilweters met stralingsangst en ruimteverlangen
+Afb. 1: Bilweters Bas-Jan, Geert en Arjen  in kraakpand Vrankrijk bij de presentatie van *De Bewegingsleer* (1990).
 
 
 *The Media are here to go*
@@ -168,4 +168,4 @@ Bilwet op tournee in Groot-Duitschland, onder de titel *Datendandy Tour
 
 ![](imgs/hoezobilwet2.jpg)
 
-Afb. 2: Bilwet, het schilderij.
+Afb. 2: Bilwet, het schilderij, gemaakt door Bas-Jan (1992).

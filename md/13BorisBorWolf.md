@@ -19,8 +19,8 @@ Rights: CC BY-NC 4.0
 
 # 12. ‘Alleen door een wonder kan ik behouden worden’: Over Boris, Bor en de Wolf
 
-Door Geert Lovink en Bas-Jan van Stam. Lezing gehouden in de Van
-Hall-hal op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
+Door Geert Lovink en Bas-Jan van Stam. Lezing met lichtbeelden gehouden in de hal van kraakpand Van
+Hall (van Hallstraat 625-627, Amsterdam) op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
 Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf.
 
 

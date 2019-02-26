@@ -684,7 +684,7 @@ Door Sepp Eckenhaussen en Geert Lovink.
 
 ![](imgs/inleiding1.jpg)
 
-Afb. 1: Bas-Jan en Geert in Frankrijk.
+Afb. 1: Bas-Jan en Geert met het ijzeren paard op vier poten bij de ingang van het Wertheimpark in Amsterdam. Deze foto, gebruikt op de achterflap van *Het Beeldenrijk*, is een referentie naar de tragedie van Oedipoes. In deze mythe bewaakt een sphynx de toegangen en uitgangen van de stad Thebe door middel van het beroemde raadsel: welk dier loopt 's ochtends op vier, 's middags op twee en 's avonds op drie poten?
 
 Tussen 1983 en 1999 kwamen Bas-Jan van Stam, Geert Lovink, Arjen Mulder,
 Ger Peeters en Lex Wouterloot onregelmatig - en in verschillende
@@ -737,7 +737,7 @@ vast te leggen.[^2]
 
 ![](imgs/inleiding2.jpg)
 
-Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot.
+Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.
 
 Na het verschijnen van een lovende recensie van *Het Beeldenrijk* die
 Arjen Mulder, toenmalige filmrecensent van CPN-dagblad *De Waarheid*,
@@ -813,7 +813,7 @@ buitenlanders en andere 'minderheden'.
 
 ![](imgs/inleiding3.jpg)
 
-Afb. 3: De tafel in Geerts huis waar 'twee jongens en een typmachine' werkten aan de fascismemap.
+Afb. 3: De tafel in Geerts kamer in het kraakpand Lindenstraat 10, Amsterdam, waar 'twee jongens en een typmachine' werkten aan de fascismemap.
 
 Sepp Eckenhaussen: Door terug te gaan naar Bilwets werk uit de jaren ’80
 en ’90, keren we ook terug naar de geboorte van de mediatheorie. Ik
@@ -920,7 +920,7 @@ dit? Waar blijft de historische component in zo’n nieuwe definitie?
 
 ![](imgs/inleiding4.jpg)
 
-Afb. 4: De omslag van *Sekisme/Fascisme*.
+Afb. 4: De omslag van *Sekisme/Fascisme* (1983).
 
 
 Geert: Het ging ons niet om gelijkstellen maar om het leggen van
@@ -1264,7 +1264,7 @@ geschreven in 1994.
 
 ![](imgs/hoezobilwet1.jpg)
 
-Afb. 1: Bilweters met stralingsangst en ruimteverlangen
+Afb. 1: Bilweters Bas-Jan, Geert en Arjen  in kraakpand Vrankrijk bij de presentatie van *De Bewegingsleer* (1990).
 
 
 *The Media are here to go*
@@ -1408,7 +1408,7 @@ Bilwet op tournee in Groot-Duitschland, onder de titel *Datendandy Tour
 
 ![](imgs/hoezobilwet2.jpg)
 
-Afb. 2: Bilwet, het schilderij.
+Afb. 2: Bilwet, het schilderij, gemaakt door Bas-Jan (1992).
 
 
 
@@ -1768,9 +1768,9 @@ deze stelling. Want hoewel de politieke en economische situatie nu op
 belangrijke punten totaal verschilt met de vooroorlogse, blijken de
 fantasieën uit die tijd nog steeds levend te zijn.
 
-![](imgs/drassigefantasieen1.png)
+![](imgs/drassigefantasieen1.jpg)
 
-Afb. 1: Flüsse des deutschen Faschismus...
+Afb. 1: Flüsse des deutschen Faschismus... Alle foto's in dit hoofdstuk zijn afkomstig uit *Frauen, Fluten, Körper, Geschichte*, het eerste deel van Klaus Theweleits tweedelige *Männerphantasien* (1980(1977)), in dit geval p. 269.
 
 Dat is meteen het rare van *Mannenfantasie*. Zo’n beetje alles uit die
 tijd staat in het museum of kun je kopen in het Centrum voor Gebruikte
@@ -1859,9 +1859,9 @@ werkelijke leven maar hun fantasie-leven. Ook al is het natuurlijk zo,
 dat ze in werkelijkheid niet bepaald op een moderne wijze met vrouwen
 omgingen.
 
-![](imgs/drassigefantasieen2.png)
+![](imgs/drassigefantasieen2.jpg)
 
-Afb. 2: Rossback en Hauenstein. De Freikorps-auteur Dwinger laat de communiste 'Marja' verkondigen: 'Ik zet de natuur op haar kop, bij mij stromen de rivieren bergopwaarts.'
+Afb. 2: Rossback en Hauenstein (leider van de Organisation Heinz in Oostenrijk in 1921 en het Ruhrgebied in 1923). Theweleit, *Männerphantasien I*, 69. De Freikorps-auteur Dwinger laat de communiste 'Marja' verkondigen: 'Ik zet de natuur op haar kop, bij mij stromen de rivieren bergopwaarts.' 
 
 Tegenover de Witte Vrouw staat dus de Rode Vrouw. In de romans worden
 zij wel met naam en toenaam genoemd. En zodra in hun verhalen een vrouw
@@ -1903,9 +1903,9 @@ Precies omdat fysieke angsten direct ‘vertaald’ werden in gewelddadige
 fantasieën trad bij hen een automatisme in werking waarbij deze
 fantasieën ook vanzelfsprekend in de praktijk gebracht werden.
 
-![](imgs/drassigefantasieen3.png)
+![](imgs/drassigefantasieen3.jpg)
 
-Afb. 3: Greta Garbo en Herbert Marshall in *The Painted Veil* (1935) 
+Afb. 3: Greta Garbo en Herbert Marshall in *The Painted Veil* (1935). Theweleit, *Männerphantasien I*, 145.
 
 Belangrijk hierbij is dat Theweleit ervan uit gaat dat gevoelens niet
 iets ‘puurs’, iets ‘zuiver natuurlijks’ zijn, maar dat ze in de loop van
@@ -1968,9 +1968,9 @@ kleine naar het allergrootste pantser bestond. Een buitengewoon star
 beeld, dat nog het meest op een blokkendoos lijkt, waarin de
 verschillende onderdelen bij elkaar een stevige muur vormen.
 
-![](imgs/drassigefantasieen4.png)
+![](imgs/drassigefantasieen4.jpg)
 
-Afb. 4: *Jumbo,* affiche na 1918.
+Afb. 4: *Jumbo,* affiche na 1918. Theweleit, *Männerphantasien I*, 101.
 
 In hun ogen waren de socialistische radendemocratieën dan ook exact het
 tegendeel van wat zij bij politieke machtsvorming voor ogen zagen. Die
@@ -2101,9 +2101,9 @@ strijd?’ Het enige dat je kan zeggen is, dat hij de nadruk legt op het
 besef of ’t bewustzijn over lichamen en seksualiteit in de dagelijkse
 omgang.
 
-![](imgs/drassigefantasieen5.png)
+![](imgs/drassigefantasieen5.jpg)
 
-Afb. 5: Omslag van de roman *Lava* (1921).
+Afb. 5: Omslag van Roman von Hermann Hageners roman *Lava* (1921).Theweleit, *Männerphantasien I*, 246.
 
 
 *Is het in zo’n kijk antifascistisch om te streven naar chaos?*
@@ -10935,7 +10935,7 @@ ernst werden.’ De hemel behoede ons voor deze ernst.
 
 # 11. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*
 
-Door Bilwet. Uit *De datadandy,* geschreven in 1994.
+Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
 In het voorwoord van zijn Duitsche Bewegingsleer[^1] schrijft A. Hitler
 (1898-1945) dat hij het gedeelte over zijn jeugdjaren met name daarom
@@ -11289,8 +11289,8 @@ waar het tegen is, want het is voor niets en tegen alles en iedereen.
 
 # 12. ‘Alleen door een wonder kan ik behouden worden’: Over Boris, Bor en de Wolf
 
-Door Geert Lovink en Bas-Jan van Stam. Lezing gehouden in de Van
-Hall-hal op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
+Door Geert Lovink en Bas-Jan van Stam. Lezing met lichtbeelden gehouden in de hal van kraakpand Van
+Hall (van Hallstraat 625-627, Amsterdam) op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
 Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf.
 
 
@@ -12565,7 +12565,7 @@ Hergé-maffia.
 
 # 15. De Kuifjereeks: Zes kleurplaten van Bilwet
 
-Door Bas-Jan van Stam. Geschilderd en geschreven in 1987.
+Door Bas-Jan van Stam. Geschilderd en geschreven in eind jaren '80.
 
 
 ![](imgs/kuifjeserie1.jpg)
@@ -12695,7 +12695,7 @@ inwijdt in de oneindigheid.
 
 # 16. Pissen voor de Führer: Het onschuldig fascisme van Hergé
 
-Door Bilwet. Uit *De datadandy,* geschreven in 1994.
+Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
 Het is nacht. Kuifje laat Bobby uit en ontdekt aan de heldere hemel een
 nieuwe ster in de Grote Beer. Bij de plaatselijke sterrenwacht gaat hij
@@ -13204,7 +13204,7 @@ van Hergé laat het moment van de subversiviteit open.
 
 # 17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
 
-Door Bilwet. Uit *De datadandy*, geschreven in 1994.
+Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
 ‘Wie over het fascisme spreekt en het ook heeft over seksisme, doet er beter aan helemaal niets te zeggen.’ (Johan Sjerpstra)
 
