@@ -22,8 +22,7 @@ Rights: CC BY-NC 4.0
 Door Sepp Eckenhaussen.
 
 Dit boek brengt de teksten over hedendaags fascisme samen die het
-schrijverskrakerscollectief Bilwet schreef tussen 1983 en 1999. Het gaat
-om een lezing met lichtbeelden, een brochure voor de Antimilitaristische
+schrijverskrakerscollectief Bilwet schreef tussen 1983 en 1999. Er zijn een lezing met lichtbeelden, een brochure voor de Antimilitaristische
 Dagen ’85, filmkritieken, een serie postkaarten, recensies van
 oorlogsromans, mijmeringen in Berlijn, een ambulant-wetenschappelijk
 artikel over filosofenmode en nog zo wat. Wat zijn de gemeenschappelijke
@@ -55,9 +54,9 @@ Beauvoir, de Dollemina’s, de strijd voor het vrouwenkiesrecht, de eerste
 Maagdenhuisbezetting in ‘69, de vrouwenbeweging en baas in eigen buik
 zijn algemeen bekend. Boeken zoals Alice Schwarzers *Het ‘kleine
 verschil’ en de grote gevolgen: vrouwen over zichzelf, begin van een
-bevrijding* de gemoederen in de maatschappelijke discussie nogal hoog
-oplopen.[^2] Door de opkomst van de continentaal-Europese discipline
-‘vrouwenstudies’ en instituten zoals het ATRIA is deze kennis bovendien
+bevrijding* deden de gemoederen in de maatschappelijke discussie hoog
+oplopen.[^2] Door de opkomst van de continentaal-Europese discipline van de 
+vrouwenstudies en kennisinstituten zoals het ATRIA in Amsterdam is deze kennis bovendien
 op een actieve/activistische manier verduurzaamd.[^3]
 
 De geschiedenis van de antifascistische discussies, die chronologisch

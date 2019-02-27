@@ -2,12 +2,12 @@
 # Colofon 
 
 Theory on Demand #30 
-<br/>**Bilwet Fascismemap (1984-1994)**
+<br/>**Bilwet Fascismemap (1983-1994)**
 
 Auteurs: Bilwet, Arjen Mulder, Bas-Jan van Stam, Geert Lovink
 <br/>Redacteur: Sepp Eckenhaussen
 <br/>Cover design: Katja van Stiphout 
-<br/>Published by the Institute of Network Cultures, Amsterdam, 2019
+<br/>Uitgegeven door het Institute of Network Cultures, Amsterdam, 2019
 <br/>ISBN 978-94-92302-32-8
 
 **Contact** 
@@ -110,8 +110,7 @@ Geert Lovink (1986)
 Door Sepp Eckenhaussen.
 
 Dit boek brengt de teksten over hedendaags fascisme samen die het
-schrijverskrakerscollectief Bilwet schreef tussen 1983 en 1999. Het gaat
-om een lezing met lichtbeelden, een brochure voor de Antimilitaristische
+schrijverskrakerscollectief Bilwet schreef tussen 1983 en 1999. Er zijn een lezing met lichtbeelden, een brochure voor de Antimilitaristische
 Dagen ’85, filmkritieken, een serie postkaarten, recensies van
 oorlogsromans, mijmeringen in Berlijn, een ambulant-wetenschappelijk
 artikel over filosofenmode en nog zo wat. Wat zijn de gemeenschappelijke
@@ -143,9 +142,9 @@ Beauvoir, de Dollemina’s, de strijd voor het vrouwenkiesrecht, de eerste
 Maagdenhuisbezetting in ‘69, de vrouwenbeweging en baas in eigen buik
 zijn algemeen bekend. Boeken zoals Alice Schwarzers *Het ‘kleine
 verschil’ en de grote gevolgen: vrouwen over zichzelf, begin van een
-bevrijding* de gemoederen in de maatschappelijke discussie nogal hoog
-oplopen.[^2] Door de opkomst van de continentaal-Europese discipline
-‘vrouwenstudies’ en instituten zoals het ATRIA is deze kennis bovendien
+bevrijding* deden de gemoederen in de maatschappelijke discussie hoog
+oplopen.[^2] Door de opkomst van de continentaal-Europese discipline van de 
+vrouwenstudies en kennisinstituten zoals het ATRIA in Amsterdam is deze kennis bovendien
 op een actieve/activistische manier verduurzaamd.[^3]
 
 De geschiedenis van de antifascistische discussies, die chronologisch

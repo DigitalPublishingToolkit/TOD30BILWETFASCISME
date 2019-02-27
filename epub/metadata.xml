@@ -1,6 +1,6 @@
 <dc:identifier id="epub-id-1">urn:isbn:978-94-92302-31-1</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">Bilwet Fascismemap (1984-1994)</dc:title>
+<dc:title id="epub-title-1">Bilwet Fascismemap (1983-1994)</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
 <dc:date id="epub-date">02-2019</dc:date>

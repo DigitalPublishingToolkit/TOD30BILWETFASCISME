@@ -19,12 +19,12 @@ Rights: CC BY-NC-SA 4.0
 # Colofon 
 
 Theory on Demand #30 
-<br/>**Bilwet Fascismemap (1984-1994)**
+<br/>**Bilwet Fascismemap (1983-1994)**
 
 Auteurs: Bilwet, Arjen Mulder, Bas-Jan van Stam, Geert Lovink
 <br/>Redacteur: Sepp Eckenhaussen
 <br/>Cover design: Katja van Stiphout 
-<br/>Published by the Institute of Network Cultures, Amsterdam, 2019
+<br/>Uitgegeven door het Institute of Network Cultures, Amsterdam, 2019
 <br/>ISBN 978-94-92302-32-8
 
 **Contact** 
