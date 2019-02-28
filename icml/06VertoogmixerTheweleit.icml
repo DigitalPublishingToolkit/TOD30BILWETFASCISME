@@ -296,9 +296,15 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, 15 maart 1989.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>‘Laat de doden maar een beetje zingen. En laat de dader alsjeblieft zijn mond houden.’ (Armando)</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Waarom schrijven schrijvers? In de hedendaagse literatuurkritiek is deze vraag zo goed als taboe. Klaus Theweleit trekt zich daar echter niets van aan. Onvervaard is hij begonnen aan een onmatig omvangrijk project waarmee hij aan wil tonen dat schrijvers schrijven omdat zij aan een ‘Orfeussyndroom’ lijden. Neem Gottfried Benn. Neem Bertolt Brecht. Neem Franz Kafka. Allemaal schrijvers die hun grote werken schrijven ten koste van hun geliefde. Na</Content>
 			</CharacterStyleRange>
