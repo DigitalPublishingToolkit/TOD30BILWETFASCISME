@@ -118,6 +118,20 @@
 		<Font Self="di31aaFontnTrade Gothic (T1) Light Oblique" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light Oblique" PostScriptName="TradeGothic-LightOblique" Status="Substituted" FontStyleName="Light Oblique" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light Oblique" FullNameNative="Trade Gothic Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="di31aaFontnTrade Gothic (T1) Bold No. 2" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Bold No. 2" PostScriptName="TradeGothic-BoldTwo" Status="Substituted" FontStyleName="Bold No. 2" FontType="Type1" WritingScript="0" FullName="Trade Gothic Bold No. 2" FullNameNative="Trade Gothic Bold No. 2" FontStyleNameNative="Bold No. 2" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di3dc4" Name="TradeGothic LT Bold">
+		<Font Self="di3dc4FontnTradeGothic LT Bold Regular" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Regular" PostScriptName="TradeGothicLT-Bold" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold" FullNameNative="Trade Gothic LT Bold" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dc4FontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold Oblique" FullNameNative="Trade Gothic LT Bold Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3dc5" Name="TradeGothic LT Light">
+		<Font Self="di3dc5FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dc5FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3ded" Name="TradeGothic LT">
+		<Font Self="di3dedFontnTradeGothic LT Regular" FontFamily="TradeGothic LT" Name="TradeGothic LT Regular" PostScriptName="TradeGothicLT" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT" FullNameNative="Trade Gothic LT" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dedFontnTradeGothic LT Italic" FontFamily="TradeGothic LT" Name="TradeGothic LT Italic" PostScriptName="TradeGothicLT-Oblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Oblique" FullNameNative="Trade Gothic LT Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dedFontnTradeGothic LT Bold" FontFamily="TradeGothic LT" Name="TradeGothic LT Bold" PostScriptName="TradeGothicLT-BoldTwo" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold No. 2" FullNameNative="Trade Gothic LT Bold No. 2" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dedFontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldTwoOblique" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold No. 2 Oblique" FullNameNative="Trade Gothic LT Bold No. 2 Oblique" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -180,10 +194,11 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Colophon-paragraph" Name="Colophon-paragraph" Imported="false" NextStyle="ParagraphStyle/Colophon-paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="afe21f9b-0d82-4e4c-a8a2-5ff351d9f485" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" SpaceAfter="0">
+		<ParagraphStyle Self="ParagraphStyle/Colophon-paragraph" Name="Colophon-paragraph" Imported="false" NextStyle="ParagraphStyle/Colophon-paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="b3b797a2-18d4-4740-b344-bcf106e7953e" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular" SpaceAfter="0">
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" Imported="false" NextStyle="ParagraphStyle/Figure" SplitDocument="false" EmitCss="true" StyleUniqueId="76949bf4-68a2-4982-9251-c1d48c08e5f6" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
@@ -200,11 +215,11 @@
 		</ParagraphStyle>
 		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text" Name="$ID/Page &gt; Running Text">
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="4cf021a1-d31b-48d7-976e-424ef17fb81b" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="b3e829da-9e5e-4b70-8028-434c962267d7" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
@@ -452,16 +467,22 @@
 				<Br />
 				<Br />
 				<Br />
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Colophon-paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT</AppliedFont>
+				</Properties>
 				<Content>Theory on Demand #30</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Bold">
 				<Content>Bilwet Fascismemap (1983-1994)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -481,6 +502,11 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Bold">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT</AppliedFont>
+				</Properties>
 				<Content>Contact</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">

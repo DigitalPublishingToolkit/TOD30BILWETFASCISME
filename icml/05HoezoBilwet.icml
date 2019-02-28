@@ -114,10 +114,13 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di31aa" Name="Trade Gothic (T1)">
-		<Font Self="di31aaFontnTrade Gothic (T1) Light" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light" PostScriptName="TradeGothic-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light" FullNameNative="Trade Gothic Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
-		<Font Self="di31aaFontnTrade Gothic (T1) Light Oblique" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light Oblique" PostScriptName="TradeGothic-LightOblique" Status="Substituted" FontStyleName="Light Oblique" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light Oblique" FullNameNative="Trade Gothic Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
-		<Font Self="di31aaFontnTrade Gothic (T1) Bold No. 2" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Bold No. 2" PostScriptName="TradeGothic-BoldTwo" Status="Substituted" FontStyleName="Bold No. 2" FontType="Type1" WritingScript="0" FullName="Trade Gothic Bold No. 2" FullNameNative="Trade Gothic Bold No. 2" FontStyleNameNative="Bold No. 2" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
+	<FontFamily Self="di3e68" Name="TradeGothic LT Bold">
+		<Font Self="di3e68FontnTradeGothic LT Bold Regular" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Regular" PostScriptName="TradeGothicLT-Bold" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold" FullNameNative="Trade Gothic LT Bold" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3e68FontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold Oblique" FullNameNative="Trade Gothic LT Bold Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3e69" Name="TradeGothic LT Light">
+		<Font Self="di3e69FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3e69FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -158,11 +161,11 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="fae747c5-c5cc-4402-a595-b339f91f1715" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Oblique">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="1278e6a2-debd-4e01-aa16-e65372c40a72" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+				<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" Name="$ID/[No character style]" />
@@ -199,11 +202,11 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="4cf021a1-d31b-48d7-976e-424ef17fb81b" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="b4110f0c-8880-4146-838e-16b0e6dd9af2" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
@@ -454,7 +457,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Door Bilwet. Verschenen op de Bilwebsite thing.desk.nl/bilwet/, geschreven in 1994.</Content>
+				<Content>Bilwet</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Verschenen op de Bilwebsite thing.desk.nl/bilwet/, geschreven in 1994.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

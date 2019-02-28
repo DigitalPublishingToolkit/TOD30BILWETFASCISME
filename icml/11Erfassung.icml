@@ -110,10 +110,13 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di31aa" Name="Trade Gothic (T1)">
-		<Font Self="di31aaFontnTrade Gothic (T1) Light" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light" PostScriptName="TradeGothic-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light" FullNameNative="Trade Gothic Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
-		<Font Self="di31aaFontnTrade Gothic (T1) Light Oblique" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light Oblique" PostScriptName="TradeGothic-LightOblique" Status="Substituted" FontStyleName="Light Oblique" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light Oblique" FullNameNative="Trade Gothic Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
-		<Font Self="di31aaFontnTrade Gothic (T1) Bold No. 2" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Bold No. 2" PostScriptName="TradeGothic-BoldTwo" Status="Substituted" FontStyleName="Bold No. 2" FontType="Type1" WritingScript="0" FullName="Trade Gothic Bold No. 2" FullNameNative="Trade Gothic Bold No. 2" FontStyleNameNative="Bold No. 2" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
+	<FontFamily Self="di43b8" Name="TradeGothic LT Bold">
+		<Font Self="di43b8FontnTradeGothic LT Bold Regular" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Regular" PostScriptName="TradeGothicLT-Bold" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold" FullNameNative="Trade Gothic LT Bold" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di43b8FontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold Oblique" FullNameNative="Trade Gothic LT Bold Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di43b9" Name="TradeGothic LT Light">
+		<Font Self="di43b9FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di43b9FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -154,11 +157,11 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="fae747c5-c5cc-4402-a595-b339f91f1715" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Oblique">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="e34d3dea-861e-4fae-84e1-f8bbb41fa72b" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+				<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 	</RootCharacterStyleGroup>
@@ -193,28 +196,29 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="4cf021a1-d31b-48d7-976e-424ef17fb81b" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="59b7d8cb-da70-4da3-a115-2b50f569d70a" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" StyleUniqueId="d2e8c8fa-5b94-4e7a-bb29-68921689c08e" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" LeftIndent="17.007874015748033" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" StyleUniqueId="3fee8b93-a216-4eee-be8b-5b84a2b88542" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="17.007874015748033" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="ee68ac51-269b-4c72-a163-64faa266e470" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="ebe6dc6e-7256-4435-b316-8348d361e7bf" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">10</Leading>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
@@ -287,7 +291,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Door Geert Lovink. Geschreven in juli 1986.</Content>
+				<Content>Geert Lovink</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geschreven in juli 1986.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -795,9 +805,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Het planmatige wordt zo benadrukt om af te komen van het hardnekkige beeld van de fascisten als woedende horde, beesten die wild om zich heen grijpen, die zo te zien in een roes (zonder voorbedachte rade?), zonder voorbereidingen slachtoffers maken. Hun overvaltactiek doet dat vermoeden. Maar in de voorbereidingen blijkt dat het rationele mensen zijn geweest. Dat tenminste is</Content>
-				<Br />
-				<Content>de uitkomst van de geschiedenis van de registratie die aan de vernietiging voorafging en die Karl-Heinz Roth en Götz Aly op papier hebben gezet.</Content>
+				<Content>Het planmatige wordt zo benadrukt om af te komen van het hardnekkige beeld van de fascisten als woedende horde, beesten die wild om zich heen grijpen, die zo te zien in een roes (zonder voorbedachte rade?), zonder voorbereidingen slachtoffers maken. Hun overvaltactiek doet dat vermoeden. Maar in de voorbereidingen blijkt dat het rationele mensen zijn geweest. Dat tenminste is de uitkomst van de geschiedenis van de registratie die aan de vernietiging voorafging en die Karl-Heinz Roth en Götz Aly op papier hebben gezet.</Content>
 				<Br />
 				<Content>In het voorjaar van ’84 verscheen hun boek </Content>
 			</CharacterStyleRange>
@@ -880,6 +888,8 @@
 							<Content>Ondergang: De vervolging en verdelging van het Nederlandse</Content>
 							<Br />
 						</CharacterStyleRange>
+					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	</Content>
 						</CharacterStyleRange>
@@ -1051,6 +1061,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Een korte geschiedenis van de euthanasie dient hier gegeven te worden alvorens de verschillende recente studies te behandelen. Na Darwin staan in de jaren twintig voorstanders van de ‘Vernichtung lebensunwerten Lebens’ op die tevens sterilisatie voorstaan. De wetgeving daarvoor komt in verbluffend korte tijd tot stand. Op 14 juli 1933 wordt de ‘Gesetz zur Verhütung erbkranken Nachwuchses’ van kracht. In dit kader past ook de maatregel uit datzelfde jaar landlopers in concentratiekampen te stoppen, lomscholen onder controle te stellen en alcoholici onder gedwongen behandeling te stellen. In de propaganda richt men zich openlijk tegen zieken die op kosten van de gezonden leven en geen nuttige arbeid verrichten (geen waren produceren dus zelf ook van geen waarde zijn). Vanaf ’37 zijn er aanwijzingen te vinden dat artsen bij ongeneeslijk zieken maar de ‘Gnadentod’ moeten vellen. Maar dat gaat niet vanzelf. In ’39 starten de voorbereidingen en vrijwel gelijktijdig met het begin van de Tweede Wereldoorlog beginnen in augustus en september twee ‘acties’. Ten eerste de ‘Kinderaktion’ waarbij een ‘Reichsausschuss’ oordeelt over gevallen van kinderen die al bij de geboorte een afwijking vertoonden. Het werd verplicht gesteld een formulier in te vullen waarover tot driemaal toe een ‘wetenschappelijk’ oordeel werd gegeven. Ongeveer 6000 kinderen werd zo vermoord.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Als tweede was er de meest bekend geworden ‘Aktion T-4’ (genoemd naar de Tiergartenstrasse 4 waar vanuit de selectie, transporten met autobussen en de klinieken waar de patiënten vergast werden, geregeld en beheerd werden). Tot aan de officiële stop van T-4, door Hitler afgekondigd op 24 augustus 1941 vanwege de openlijke protesten vanuit de kerken tegen euthanasie, vonden in zes klinieken waar de gaskamers en crematoriaovens gebouwd waren, in totaal 70.723 mensen de dood. Maar daarna hield het moorden niet op. Door de ‘Wilde Euthanasie’ vielen door verhongeren, vergiftiging van medicamenten en ‘Vernichtung durch Arbeit’ nog meer slachtoffers dan in de eerste T-4 fase. Bovendien werden zieke gevangenen uit concentratiekampen omgebracht, ‘gemengde kinderen’ in klinieken gedood en liep ook vanaf ’42 de tot dusver nog niet beschreven ‘Aktion Brandt’ die van bovenaf gepland was, maar decentraal ten uitvoer werd gebracht. Tevens werden in Polen en het bezette deel van de Sovjet-Unie zwakzinnige kinderen en volwassenen op aanwijzing van plaatselijke artsen, dus zonder de bureaucratische weg te doorlopen zoals bij T-4 via ‘Gutachten’ het geval was, door ‘Einsatztruppen’ doodgeschoten. Een summiere voorgeschiedenis en een uitgebreide uitleg over de verschillende stappen van de ‘T-4 Aktion’ is te vinden in het eerste overzicht dat Ernst Klee in 1983 schreef, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">

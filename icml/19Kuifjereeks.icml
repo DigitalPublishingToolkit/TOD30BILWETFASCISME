@@ -114,10 +114,13 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di31aa" Name="Trade Gothic (T1)">
-		<Font Self="di31aaFontnTrade Gothic (T1) Light" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light" PostScriptName="TradeGothic-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light" FullNameNative="Trade Gothic Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
-		<Font Self="di31aaFontnTrade Gothic (T1) Light Oblique" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light Oblique" PostScriptName="TradeGothic-LightOblique" Status="Substituted" FontStyleName="Light Oblique" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light Oblique" FullNameNative="Trade Gothic Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
-		<Font Self="di31aaFontnTrade Gothic (T1) Bold No. 2" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Bold No. 2" PostScriptName="TradeGothic-BoldTwo" Status="Substituted" FontStyleName="Bold No. 2" FontType="Type1" WritingScript="0" FullName="Trade Gothic Bold No. 2" FullNameNative="Trade Gothic Bold No. 2" FontStyleNameNative="Bold No. 2" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
+	<FontFamily Self="di3ead" Name="TradeGothic LT Bold">
+		<Font Self="di3eadFontnTradeGothic LT Bold Regular" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Regular" PostScriptName="TradeGothicLT-Bold" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold" FullNameNative="Trade Gothic LT Bold" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3eadFontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold Oblique" FullNameNative="Trade Gothic LT Bold Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3eae" Name="TradeGothic LT Light">
+		<Font Self="di3eaeFontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3eaeFontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -158,11 +161,11 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="fae747c5-c5cc-4402-a595-b339f91f1715" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Oblique">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="b18aa2aa-60f1-496b-99ce-8ace6abd447f" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+				<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" Name="$ID/[No character style]" />
@@ -190,21 +193,22 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="4cf021a1-d31b-48d7-976e-424ef17fb81b" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="e630a2c3-8557-4038-b7b4-59bbcd009df9" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="ee68ac51-269b-4c72-a163-64faa266e470" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="2e0b5a7a-2af0-4aab-a5c4-a89e78115570" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">10</Leading>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
@@ -454,7 +458,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Door Bas-Jan van Stam. Geschilderd en geschreven in eind jaren &apos;80.</Content>
+				<Content>Bas-Jan van Stam</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geschilderd en geschreven in de late jaren tachtig.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -466,9 +476,9 @@
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-150 -190.47619047619048" LeftDirection="-150 -190.47619047619048" RightDirection="-150 -190.47619047619048" />
-									<PathPointType Anchor="-150 74.61987251593555" LeftDirection="-150 74.61987251593555" RightDirection="-150 74.61987251593555" />
-									<PathPointType Anchor="56.88024998839773 74.61987251593555" LeftDirection="56.88024998839773 74.61987251593555" RightDirection="56.88024998839773 74.61987251593555" />
-									<PathPointType Anchor="56.88024998839773 -190.47619047619048" LeftDirection="56.88024998839773 -190.47619047619048" RightDirection="56.88024998839773 -190.47619047619048" />
+									<PathPointType Anchor="-150 65.4545181852269" LeftDirection="-150 65.4545181852269" RightDirection="-150 65.4545181852269" />
+									<PathPointType Anchor="49.72763227779234 65.4545181852269" LeftDirection="49.72763227779234 65.4545181852269" RightDirection="49.72763227779234 65.4545181852269" />
+									<PathPointType Anchor="49.72763227779234 -190.47619047619048" LeftDirection="49.72763227779234 -190.47619047619048" RightDirection="49.72763227779234 -190.47619047619048" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -488,7 +498,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u3e85" Space="$ID/#Links_RGB" ActualPpi="73 73" EffectivePpi="131 131" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5561187664041995 0 0 0.5561187664041995 -150.94144980895075 -190.47619047619048" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0">
+					<Image Self="u3e85" Space="$ID/#Links_RGB" ActualPpi="73 73" EffectivePpi="136 136" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5368916776027998 0 0 0.5368916776027999 -150.90890039653692 -190.47619047619048" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
@@ -4466,8 +4476,10 @@ uBNttVL6qjxVNIjvnQgWrZBRUMTpAci9CIkpzHUCZNWuINKqIxGuinfx6Ppvi6//2Q==]]></Graphic
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
+				<Content>Leve Kuifje en Bobbie (Wilkommen Tim und Struppi!)</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Leve Kuifje en Bobbie (Wilkommen Tim und Struppi!).</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -5326,8 +5338,10 @@ Fp3bRM8o/oPkQ0zxwkyh/qM9piY+RKStUG0x5wstbX2a2D7D4RCxUVP/2Q==]]></GraphicProxy>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
+				<Content>De gemaskerde Kuifje</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>De gemaskerde Kuifje.</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -6149,8 +6163,10 @@ U/SM9z8E4rMpWkA9dWIr/wAwnDCOVMV+Wim1kgfzIErhFzeqsPon2kyvFl7h1eojHd3gwvD1Nf6v
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Fallisch Landschap</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -9437,8 +9453,10 @@ c3/arj/6EHsbbbxT7D/gHRPf/D/q+XQQj/MUv/ann/6H9iiz+Nf9Xn0E7v4T/q9Ok9J/u/8A7VSf
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Die zweite Sonne</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -13193,8 +13211,10 @@ x+DzVAiNKI/OutoQSv3IxtPrDxxsKoq1VrLkNYVFg101H2mk8D6a1p/T4U9evS+Fph0+meHy6//Z
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Zelfportret met spiegel</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -16473,14 +16493,14 @@ lvTP/Ez/AIn/AO5n/ar1/9k=]]></GraphicProxy>
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
+				<Content>Madonna met Kindje en Kuif</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Madonna met Kinfje en Kuif</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">

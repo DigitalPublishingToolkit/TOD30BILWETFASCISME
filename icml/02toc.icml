@@ -115,6 +115,14 @@
 		<Font Self="di31aaFontnTrade Gothic (T1) Light Oblique" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Light Oblique" PostScriptName="TradeGothic-LightOblique" Status="Substituted" FontStyleName="Light Oblique" FontType="Type1" WritingScript="0" FullName="Trade Gothic Light Oblique" FullNameNative="Trade Gothic Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="di31aaFontnTrade Gothic (T1) Bold No. 2" FontFamily="Trade Gothic (T1)" Name="Trade Gothic (T1) Bold No. 2" PostScriptName="TradeGothic-BoldTwo" Status="Substituted" FontStyleName="Bold No. 2" FontType="Type1" WritingScript="0" FullName="Trade Gothic Bold No. 2" FullNameNative="Trade Gothic Bold No. 2" FontStyleNameNative="Bold No. 2" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di3dd2" Name="TradeGothic LT Light">
+		<Font Self="di3dd2FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dd2FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3dd3" Name="TradeGothic LT Bold">
+		<Font Self="di3dd3FontnTradeGothic LT Bold Regular" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Regular" PostScriptName="TradeGothicLT-Bold" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold" FullNameNative="Trade Gothic LT Bold" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di3dd3FontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold Oblique" FullNameNative="Trade Gothic LT Bold Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -191,21 +199,21 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aTable of Contents" Name="$ID/Page &gt; Running Text:Table of Contents">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" Name="Page &gt; Running Text:Table of Contents:Chapter" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" SplitDocument="false" EmitCss="true" StyleUniqueId="cce24fd3-d872-4a41-a0c3-522b12159b54" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold No. 2" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" Name="Page &gt; Running Text:Table of Contents:Chapter" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" SplitDocument="false" EmitCss="true" StyleUniqueId="072df1ac-0b44-4af9-9b80-762fa5bada43" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">9</Leading>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 						<ParagraphShadingColor type="object">Color/#989c96</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" Name="Page &gt; Running Text:Table of Contents:Subtitle" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" SplitDocument="false" EmitCss="true" StyleUniqueId="33ca7afc-64aa-4aa8-90c1-ea2eb5b9d4a2" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" SpaceAfter="14.173228346456694" RuleBelowLineWeight="0.5" RuleBelowOffset="2.834645669291339" RuleBelow="true" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" Name="Page &gt; Running Text:Table of Contents:Subtitle" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" SplitDocument="false" EmitCss="true" StyleUniqueId="551b72dd-235d-43d7-acb6-39eb2ee76cdf" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="14.173228346456694" RuleBelowLineWeight="0.5" RuleBelowOffset="2.834645669291339" RuleBelow="true" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">9</Leading>
-						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 						<ParagraphShadingColor type="object">Color/#989c96</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
@@ -275,7 +283,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>Voorwoord: Kuifosofie, antifascisme en mannenfeminisme</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -289,7 +300,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>Inleiding: Dialoog tijdens het redigeren van de Bilwet-fascismemap</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -309,7 +323,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>1. Hoezo Bilwet? Een inleiding</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -323,7 +340,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>2. De vertoogmixer van Klaus Theweleit: Een boek bij de dood van Orfeus</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -337,8 +357,17 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>3. Drassige fantasieën achter de dijken: Bij de Nederlandse vertaling van Männerphantasien</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
+				<Content>3. Drassige fantasieën achter de dijken: Bij de Nederlandse vertaling van </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Italic">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
+				<Content>Männerphantasien</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
@@ -354,7 +383,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>4. Mannenfantasie mannenfantasie: Een Theweleitkritiek</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -374,7 +406,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>5. Emotionaliteit, alledaagsheid en verzet: Een andere kijk op fascisme/racisme/seksisme</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -388,7 +423,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>6. De gewonnen, de verloren, de permanente oorlog</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -408,7 +446,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -422,7 +463,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>8. Spurensicherung - Spurenvernichtung: Over de herdenking bij historische plaatsen in Berlijn</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -442,7 +486,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>9. De redelijkheid van het uniform: Over mode voor filosofen</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -456,8 +503,17 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>10. Triumpf des Himmels: Over Wim Wenders&apos; Himmel über Berlin</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
+				<Content>10. Triumpf des Himmels: Over Wim Wenders&apos; </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Italic">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
+				<Content>Himmel über Berlin</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
@@ -470,10 +526,13 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>11. Het fascisme der schoonheid: Over gezonde kunst in </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic" FontStyle="Italic">
 				<Content>Mijn kamp</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -487,7 +546,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>12. &apos;Alleen door een wonder kan ik behouden worden&apos;: Over Boris, Bor en de Wolf</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -507,7 +569,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>13. Seksisme racisme: Hoezo Kuifje dood?</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -521,7 +586,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>14. Kuifosofie: Over Hergé en de Alfa-kunst</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -535,7 +603,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>15. De Kuifjereeks: Zes kleurplaten van Bilwet</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -549,7 +620,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>16. Pissen voor de Führer: Het onschuldig fascisme van Hergé</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -563,7 +637,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -583,11 +660,18 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
 				<Content>Bijlage 1: Opzet Bilwet-fascismemap</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Geert Lovink (1986)</Content>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
