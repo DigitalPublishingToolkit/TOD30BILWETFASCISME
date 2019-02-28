@@ -180,9 +180,27 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)" Name="Page &gt; Running Text:Headings:Header4 (sub-subtitle)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)" SplitDocument="false" EmitCss="true" StyleUniqueId="ac999101-7f3d-495c-9a94-8f6ad6c1a7b4" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="10" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aTable of Contents" Name="$ID/Page &gt; Running Text:Table of Contents">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" Name="Page &gt; Running Text:Table of Contents:Chapter" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" SplitDocument="false" EmitCss="true" StyleUniqueId="8cf65f02-7f35-462b-8bb3-e4a2100e94f1" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" Name="Page &gt; Running Text:Table of Contents:Chapter" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" SplitDocument="false" EmitCss="true" StyleUniqueId="cce24fd3-d872-4a41-a0c3-522b12159b54" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold No. 2" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">9</Leading>
+						<AppliedFont type="string">Trade Gothic (T1)</AppliedFont>
+						<ParagraphShadingColor type="object">Color/#989c96</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" Name="Page &gt; Running Text:Table of Contents:Subtitle" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" SplitDocument="false" EmitCss="true" StyleUniqueId="33ca7afc-64aa-4aa8-90c1-ea2eb5b9d4a2" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" SpaceAfter="14.173228346456694" RuleBelowLineWeight="0.5" RuleBelowOffset="2.834645669291339" RuleBelow="true" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -193,24 +211,6 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="6cbced61-14c6-4cc7-bcce-26a550b1b7f4" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" SplitDocument="false" EmitCss="true" StyleUniqueId="5d9f8933-027b-4c6e-b684-973c35412731" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="30">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
 	</RootParagraphStyleGroup>
 	<TinDocumentDataObject>
 		<Properties>
@@ -273,148 +273,203 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>Voorwoord: Kuifosofie, antifascisme en mannenfeminisme</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Sepp Eckenhaussen</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Sepp Eckenhaussen</Content>
+				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>Inleiding: Dialoog tijdens het redigeren van de Bilwet-fascismemap</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Sepp Eckenhaussen en Geert Lovink</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Sepp Eckenhaussen en Geert Lovink</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Bilwet en Theweleit</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>1. Hoezo Bilwet? Een inleiding</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bilwet (1994)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bilwet (1994)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>2. De vertoogmixer van Klaus Theweleit: Een boek bij de dood van Orfeus</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink en Arjen Mulder (1989)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geert Lovink en Arjen Mulder (1989)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>3. Drassige fantasieën achter de dijken: Bij de Nederlandse vertaling van Männerphantasien</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink een Bas-Jan van Stam (1985)</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geert Lovink een Bas-Jan van Stam (1985)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>4. Mannenfantasie mannenfantasie: Een Theweleitkritiek</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Arjen Mulder (1985 of later)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Arjen Mulder (1985 of later)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>De niet-fascistische lijn</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>5. Emotionaliteit, alledaagsheid en verzet: Een andere kijk op fascisme/racisme/seksisme</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bas-Jan van Stam (1984)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bas-Jan van Stam (1984)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>6. De gewonnen, de verloren, de permanente oorlog</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink en Bas-Jan van Stam (1984)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geert Lovink en Bas-Jan van Stam (1984)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Verdwenen sporen</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink (1986)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geert Lovink (1986)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>8. Spurensicherung - Spurenvernichtung: Over de herdenking bij historische plaatsen in Berlijn</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink (1986)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geert Lovink (1986)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Cultuurspeculatie</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>9. De redelijkheid van het uniform: Over mode voor filosofen</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bas-Jan van Stam (1989)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bas-Jan van Stam (1989)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>10. Triumpf des Himmels: Over Wim Wenders&apos; Himmel über Berlin</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Arjen Mulder (1989)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Arjen Mulder (1989)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>11. Het fascisme der schoonheid: Over gezonde kunst in </Content>
 			</CharacterStyleRange>
@@ -422,83 +477,118 @@
 				<Content>Mijn kamp</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bilwet (1994)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bilwet (1994)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>12. &apos;Alleen door een wonder kan ik behouden worden&apos;: Over Boris, Bor en de Wolf</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink en Bas-Jan van Stam (1987)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Geert Lovink en Bas-Jan van Stam (1987)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Kuifosofie en Datadandy</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>13. Seksisme racisme: Hoezo Kuifje dood?</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bas-Jan van Stam (1983)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bas-Jan van Stam (1983)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>14. Kuifosofie: Over Hergé en de Alfa-kunst</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bas-Jan van Stam (1991 of later)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bas-Jan van Stam (1991 of later)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>15. De Kuifjereeks: Zes kleurplaten van Bilwet</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bas-Jan van Stam (1987)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bas-Jan van Stam (1987)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>16. Pissen voor de Führer: Het onschuldig fascisme van Hergé</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bilwet (1994)</Content>
 				<Br />
-				<Content> </Content>
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bilwet (1994)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Bilwet (1994)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Bilwet (1994)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Bijlage</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>Bijlage 1: Opzet Bilwet-fascismemap</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>   Geert Lovink (1986)</Content>
+				<Br />
+				<Content>Geert Lovink (1986)</Content>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
