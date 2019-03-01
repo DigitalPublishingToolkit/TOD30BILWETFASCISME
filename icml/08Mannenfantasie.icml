@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -117,6 +119,12 @@
 	<FontFamily Self="di4601" Name="TradeGothic LT Light">
 		<Font Self="di4601FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 		<Font Self="di4601FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di4669" Name="Times">
+		<Font Self="di4669FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di4669FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di4669FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di4669FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -235,10 +243,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -291,6 +302,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4660" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4660BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4660BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4660BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4660BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4661" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4661BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4661BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4661BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4662" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4662BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4662BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4662BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4662BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4663" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4663BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4663BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4663BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4664" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4664BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4664BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4664BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4665" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4665BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4666" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4666BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4666BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4666BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4666BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4667" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4667BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4667BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4667BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4668" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4668BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4668BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d6f" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -468,6 +524,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>II. De onbewuste stroming</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -516,7 +573,9 @@
 				<Br />
 				<Content>De eerste vijand van de fascist, dat was de vrouw. Vrouwelijkheid, erotiek en losbandigheid waren voor de soldaatman drie namen voor dezelfde dreiging: hij associeerde ze allemaal met zijn eigen verboden stromende innerlijk. Zoals hij zijn verlangens een halt moest toeroepen, zo moest ook de vrouwelijkheid worden bestreden. Dat gebeurde op drie fronten.</Content>
 				<Br />
-				<Content>De vrouw die haar verlangens liet blijken, die hem bedreigde met haar erotische begeerte: die moest dood. De erotische vrouw, door hem de rode vrouw genoemd en vaak gelijkgesteld met de proletarische, bolsjewistische en/of Joodse vrouw moest verminkt worden tot er een bloederige brei overbleef, ze moest tot modder, tot een blubberige stroom worden gemaakt. Motivatie: het feit dat ik van de rode vrouw een modderstroom kan maken, bewijst dat ik sterker ben dan zij, dan haar erotische verlangens, het bewijst dat ik géén stroom ben, niets stromends in mij heb want ik leef nog en zij is dood. Een typisch voorbeeld van wat ‘anti-productie’ is. Anti-productie is te definiëren als ‘het afbreken van leven en aan de andere kant het opbouwen van een nieuwe orde met behulp van de levenloos gemaakte realiteit.’</Content>
+				<Content>De vrouw die haar verlangens liet blijken, die hem bedreigde met haar erotische begeerte: die moest dood. De erotische vrouw, door hem de rode vrouw genoemd en vaak gelijkgesteld met de proletarische, bolsjewistische en/of Joodse vrouw moest verminkt worden tot er een bloederige brei overbleef, ze moest tot modder, tot een blubberige stroom worden gemaakt. Motivatie: het feit dat ik van de rode vrouw een modderstroom kan maken, bewijst dat ik sterker ben dan zij, dan haar erotische verlangens, het bewijst dat ik géén stroom ben, niets stromends in mij heb want ik leef nog en zij is dood. Een typisch voorbeeld van wat ‘anti-productie’ is. Anti-productie is te definiëren als ‘het afbreken van leven en aan de andere kant </Content>
+				<Br />
+				<Content>het opbouwen van een nieuwe orde met behulp van de levenloos gemaakte realiteit.’</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -789,7 +848,9 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Als de psychoanalyse moediger was geweest had ze gezien dat de maatschappij moorddadig was, en zich niet blindgestaard op de “doodsdrift”. Meer specifiek was vooral de rol van de moeders, met name die in de tweefrontenlagen (=middenklassen), niet langer buiten schot gebleven. Dat zij medeverantwoordelijk waren voor het bestaan van zonen die zich begerig in dodelijke macromachines (=molaire eenheden) lieten inpassen, bleef (en blijft) onuitgesproken. Het werk van moeders is geen object voor de wetenschap. De heilige koe moeder werd niet geslacht en door het fascisme (als beeld) opnieuw ingehuldigd. Dat zonder de beslissende hulp van moeders zulke vernietigende halfgeborenen niet mogelijk waren geweest zou toch op zijn minst na 1945 duidelijk moeten zijn geworden. Toch gebeurde dat niet. En ook nu nog zijn tot op zekere hoogte zelfs vrouwen, die voor de bevrijding van vrouwen werken en leven bang erover te spreken.</Content>
+				<Content>Als de psychoanalyse moediger was geweest had ze gezien dat de maatschappij moorddadig was, en zich niet blindgestaard op de “doodsdrift”. Meer specifiek was vooral de rol van de moeders, met name die in de tweefrontenlagen (=middenklassen), niet langer buiten schot gebleven. Dat zij medeverantwoordelijk waren voor het bestaan van zonen die zich begerig in dodelijke macromachines (=molaire eenheden) lieten inpassen, bleef (en blijft) onuitgesproken. Het werk van moeders is geen object voor de wetenschap. De heilige koe moeder werd niet geslacht en door het fascisme (als beeld) opnieuw ingehuldigd. Dat zonder de beslissende hulp van moeders zulke vernietigende halfgeborenen niet mogelijk waren geweest zou toch op zijn minst na 1945 duidelijk moeten zijn geworden. Toch gebeurde dat niet. En ook </Content>
+				<Br />
+				<Content>nu nog zijn tot op zekere hoogte zelfs vrouwen, die voor de bevrijding van vrouwen werken en leven bang erover te spreken.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1204,6 +1265,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>XIII. Het natuurlijke verlangen</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1343,7 +1405,9 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Zoals de communisten de mythe van de revolutionaire arbeider aanhingen: was eenmaal de onderdrukking weggenomen, dan barstte hij vanzelf los in de revolutie (maar wel onder leiding van de communisten). En Baudrillard kan ook niet beargumenteren waarom we het liefste niet willen en de spelingen van het lot het leukste vinden: ‘Ik geloof eenvoudig dat we boven alles de voorkeur geven aan de fatale samenhang.’</Content>
+				<Content> Zoals de communisten de mythe van de revolutionaire arbeider aanhingen: was eenmaal de onderdrukking weggenomen, dan barstte hij vanzelf los in de revolutie (maar wel onder leiding van de communisten). En Baudrillard kan ook niet beargumenteren waarom we het liefste niet willen en de spelingen </Content>
+				<Br />
+				<Content>van het lot het leukste vinden: ‘Ik geloof eenvoudig dat we boven alles de voorkeur geven aan de fatale samenhang.’</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1447,7 +1511,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Eenieder sterft alleen, de dood vereenzaamt ieder mens: hij voert het algemene naar het bijzondere lot: zo uit zich het bijzondere in het algemene.</Content>
 				<Br />
-				<Content>De consequentie van deze omkering in de filosofie van de dood is verbluffend, zowel voor de kennis als voor de kunst. Het bestaan van een ‘stromend onbewuste’ en de relatie daarvan met de dood, laat zich uit deze omkering verklaren. Daarom moet er hier iets dieper op in worden gegaan. Dit gebeurt door een boswandeling uit de Renaissance en één uit de Romantiek tegenover elkaar te plaatsen.</Content>
+				<Content>De consequentie van deze omkering in de filosofie van de dood is verbluffend, zowel voor de kennis als voor de kunst. Het bestaan van een ‘stromend onbewuste’ en de relatie daarvan met de dood, laat zich uit deze omkering verklaren. Daarom moet er hier iets dieper op </Content>
+				<Br />
+				<Content>in worden gegaan. Dit gebeurt door een boswandeling uit de Renaissance en één uit de Romantiek tegenover elkaar te plaatsen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1563,6 +1629,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Wagner zit midden in het bos. Hier is geen overzicht meer mogelijk (of gewenst) over Gods schepping. Hier is geen vaste vorm meer waar te nemen. Een bovenhistorisch standpunt in de bovenhemelse wereld bestaat voor Wagner niet meer. Alles is geschiedenis geworden: alles is in voortdurende beweging, zonder vaststaande orde, zonder God. Een wijsheid die de wereld spiegelt of de Orde der dingen nabootst is niet meer mogelijk.</Content>
 				<Br />
 				<Content>Maar juist doordat hij midden in het bos zit, is hij in staat haar essentie waar te nemen. Hij kan ervaren wat het bos werkelijk is, in plaats van enkel te kijken hoe het er van bovenaf uitziet. Hem wordt de ‘ene grote woudmelodie’ geopenbaard, het ‘goddelijke’ dat in plaats van God de Schepper is gekomen, het ‘raadselachtige’ in plaats van de spiegeling, het algemene in het bijzondere. Deze alomvattende, vloeiende woudmelodie is voor Wagner de zang van de ene, werkelijke Levenswil, die alle organismen van het woud doortrekt en aan het produceren brengt: een productie van ‘stemmen die in eindeloze verscheidenheid uit het woud opklinken’ en die de stemmenaccumulatie van de woudmelodie veroorzaken, waaruit uiteindelijk iedere stem mogelijk wordt…</Content>
@@ -2066,7 +2133,9 @@
 				<Content>Mannenfantasie</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> werd hier benaderd als een wetenschappelijk vertoog, dat wetenschappelijk kon zijn doordat het zich beriep op een samenhangende filosofie. Maar, verzette Theweleit zich niet uitdrukkelijk tegen de ‘wetenschappelijkheid’? De manier waarop de wetenschap de dingen bekijkt is niet minder kunstmatig en fictief dan bijvoorbeeld het kijken vanuit een centraal perspectief of andere mannelijke uitvindingen of fantasieën van dien aard.</Content>
+				<Content> werd hier benaderd als een wetenschappelijk vertoog, dat wetenschappelijk kon zijn doordat het zich beriep op een samenhangende filosofie. Maar, verzette Theweleit zich niet uitdrukkelijk tegen de ‘wetenschappelijkheid’? De manier waarop de wetenschap de dingen bekijkt is niet minder kunstmatig en fictief dan </Content>
+				<Br />
+				<Content>bijvoorbeeld het kijken vanuit een centraal perspectief of andere mannelijke uitvindingen of fantasieën van dien aard.</Content>
 				<Br />
 				<Content>‘‘’Je verlangen zegt me niets, het verschijnsel vergaat,</Content>
 				<Br />
@@ -2396,5 +2465,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>

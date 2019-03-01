@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -118,6 +120,12 @@
 		<Font Self="di4282FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 		<Font Self="di4282FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di42b6" Name="Times">
+		<Font Self="di42b6FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di42b6FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di42b6FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di42b6FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -219,10 +227,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -276,6 +287,51 @@
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42ad" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42adBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42adBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42adBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42adBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42ae" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42aeBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42aeBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42aeBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42af" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42afBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42afBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42afBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42afBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42b0" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42b0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b0BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b0BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42b1" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42b1BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b1BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b1BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42b2" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42b2BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42b3" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42b3BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b3BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b3BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b3BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42b4" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42b4BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b4BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b4BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u42b5" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u42b5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u42b5BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
 	<Story Self="u3d6f" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
@@ -321,6 +377,7 @@
 				<Br />
 				<Content>Waarom ik dan toch moeite heb met discussies over wel of niet racistisch en zo, is omdat het mij allereerst gaat om de manier waarop fascisme, racisme en seksisme met elkaar samenhangen en onderling als het ware een samenwerkingsverband aangaan. Precies die samenhang verliest men uit het oog, wanneer een discussie over de verschillen erop uitdraait die verschillen zo exact mogelijk te bepalen. Om een misschien wat simpel voorbeeld te geven: een batterijtje is inderdaad heel iets anders dan een horloge. Precies echter de kombinatie van klokje en batterijtje maakt dat het horloge ook werkt. Zo is het voor mij ook de politieke combinatie van seksisme en racisme die het mechanisme in werking zet, dat ik ‘fascisme’ noem. En het is precies zo&apos;n combinatie van factoren die ik met het verschijnsel ‘Centrumpartij’ (maar niet alleen dáár!) in werking zie treden.</Content>
 				<Br />
+				<Br />
 				<Content>De samenhang en samenwerking tussen (inderdaad van elkaar verschillende verschijnselen als) racisme en seksisme stel ik dus in mijn benadering centraal. Die samenhang noem ik in verwijzing naar het Duits Fascisme ‘fascisme’ als ze politiek werkzaam is. Omgekeerd is het dan ook zo dat ik het automatisch, per definitie, ook over racisme en seksisme heb als ik over ‘fascisme’ praat/schrijf.</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -340,6 +397,7 @@
 				<Content>Een herhaling van het Duits Fascisme is naar mijn overtuiging in onze tijd niet mogelijk. Dát Fascisme heeft een aantal ontstaansvoorwaarden gehad die zozeer met het Duitsland van toen te maken hebben, (een goed georganiseerde, revolutionaire arbeidersbeweging, een autoritaire traditie, het ‘Dictaat van Versailles’, nauwelijks een staatkundige eenheid en nog minder een democratische traditie, enzovoorts), dat het zich op die wijze niet in andere landen kon ontwikkelen en in andere tijden niet kán herhalen.</Content>
 				<Br />
 				<Content>Hoe kan ik dan aan de ene kant toch spreken van het Duitse Fascisme als de ‘zuivere vorm van Fascisme’, terwijl ik aan de andere kant aangeef dat dit Duitse Fascisme een aantal zeg maar typisch Duitse trekjes kent? Voor mij is dit bepaald geen academische vraag, maar is het veeleer de kern van de vraag naar de actualiteit van ‘fascisme’ en naar de betekenis van een verschijnsel als de Centrumpartij. Ik kan deze vraag ook niet zomaar beantwoorden: zo tegenstrijdig als mijn benadering van Fascisme / ‘fascisme’ is, een ‘zuivere vorm’ die ‘typisch Duits’ is, zo tegenstrijdig zijn ook mijn associaties wanneer ik aan het actuele (gevaar van) fascisme denk: Centrumpartij, rakettenbesluit, ME-optreden, Zuid-Amerika, Libanon, ‘overdosis heroïne’, Vietnam, porno-industrie, ‘stenengooiers’, maar ook heksen- en ketterverbrandingen, slavenhandel, religieus fanatisme…</Content>
+				<Br />
 				<Br />
 				<Content>Met mijn benadering van de ‘zuivere vorm’ van Fascisme wil ik bewust afstand nemen van al die chaotische, associatieve indrukken. Die distantie geef ik aan door fascisme vooralsnog tussen aanhalingstekens te plaatsen. ‘Fascisme’, dus. Ten aanzien van bijvoorbeeld de Centrumpartij heb ik het dan ook over een ‘fascistische’ partij. Deze aanhalingstekens betekenen echter niet dat ik ‘fascisme’ eigenlijk maar ‘zogenaamd fascisme’ vind, iets dat er misschien wel ergens op lijkt en zo, maar het eigenlijk toch ook weer niet is.</Content>
 				<Br />
@@ -508,7 +566,10 @@
 				<Br />
 				<Content>Dit roept bij mij dan de vraag op a) waar komt dit alledaagse, vanzelfsprekende en bijna automatisch werkzame racisme vandaan, en b) waarom vinden zoveel mensen een ‘fascistische’ politiek (Sterke Man, Sterke Staat) een aantrekkelijker vooruitzicht dan een minder overzichtelijk en minder eenduidig geheel? Wat heeft racisme te maken met de organisatie van het alledaagse leven? Waarom alsmaar dat gezeur over ‘die Turken die zich niet aan willen passen’, terwijl buitenlandse mensen die hier wonen en werken niets anders doen dan zich godvergeten alsmaar aanpassen, aanpassen en nog eens aanpassen?</Content>
 				<Br />
-				<Content>En sla er dan eens een willekeurige greep uit een stapel vakantiefolders op na: dán heet het ineens exotische gewoontes, rijke tradities, spreekwoordelijke gastvrijheid, gezellige drukte, zonovergoten droomparadijs, culinaire bijzonderheden, verrukkelijke keuken, avontuurlijke gerechten, veilige en zonnige stranden. Je zou dan ook geneigd zijn te denken dat er geen gezelliger, spontaner, warmer, vriendelijker, gastvrijer, beleefder, eerlijker, vreedzamer, royaler, handiger, fijnzinniger, gevoeliger, sensueler en gelukkiger mensen bestaan dan juist die ‘buitenlanders’. Om dan nog maar te zwijgen over ‘hun’ kindertjes: schattig, lief, puur, onbedorven, ongerept, levenslustig, speels, spontaan, vrolijk, blij, zo natuurlijk, zo leuk om te zien met hun bruine lijfjes en hun roetzwarte oogjes, lekkere krullekoppies … ‘engeltjes’ kortom. Vreemd dus dat diezelfde ‘buitenlanders’ waar we zoveel plezier mee kunnen maken en van wie we zoveel kunnen opsteken, dat zij in Nederland plotseling geen soort supermensen zijn maar gevaarlijk, onaangepast, asociaal, agressief en weet ik veel wat niet nog meer. Waaróm zijn die ‘engeltjes’ dan ineens achterlijk, vies, onbetrouwbaar enzovoorts? ‘Van die dingen dus, ja?’ om met (wijlen?) Cor van der Laak te spreken.</Content>
+				<Content>En sla er dan eens een willekeurige greep uit een stapel vakantiefolders op na: dán heet het ineens exotische gewoontes, rijke tradities, spreekwoordelijke gastvrijheid, gezellige drukte, zonovergoten droomparadijs, culinaire bijzonderheden, verrukkelijke keuken, avontuurlijke gerechten, veilige en zonnige stranden. Je zou dan ook geneigd zijn te denken dat er geen gezelliger, spontaner, warmer, vriendelijker, gastvrijer, beleefder, eerlijker, vreedzamer, royaler, handiger, fijnzinniger, gevoeliger, sensueler en gelukkiger mensen bestaan dan juist die ‘buitenlanders’. Om dan nog maar te zwijgen over ‘hun’ kindertjes: schattig, lief, puur, onbedorven, ongerept, levenslustig, speels, spontaan, vrolijk, blij, zo natuurlijk, zo leuk om te zien met hun bruine lijfjes en hun roetzwarte oogjes, lekkere krullekoppies … ‘engeltjes’ kortom. Vreemd dus dat diezelfde ‘buitenlanders’ waar we zoveel plezier mee kunnen maken en van wie we zoveel kunnen opsteken, dat zij in Nederland plotseling geen soort supermensen zijn maar gevaarlijk, onaangepast, asociaal, agressief en weet ik veel wat niet nog meer. Waaróm </Content>
+				<Br />
+				<Br />
+				<Content>zijn die ‘engeltjes’ dan ineens achterlijk, vies, onbetrouwbaar enzovoorts? ‘Van die dingen dus, ja?’ om met (wijlen?) Cor van der Laak te spreken.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -550,6 +611,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>VI. Emotionaliteit en seksisme</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -602,6 +664,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Ik maak me geen illusies over de helderheid van mijn formuleringen in de paragraaf hierboven. Ik bedoel: had ik het helder voor ogen dan zou ik het ook helder kunnen formuleren, maar dat heb ik nou eenmaal niet, dus…</Content>
 				<Br />
+				<Br />
 				<Content>Maar stel dát het inderdaad zo is dat mannen en vrouwen niet alleen emoties anders beleven maar ook andersoortige emoties kennen, én dat die verschillen inderdaad door machtsongelijkheid tussen mannen en vrouwen (mede) in stand gehouden worden; en stel ten slotte nog even dat ik dit allemaal glashelder op papier gezet had… Dan zou je dus kunnen denken: ‘Aha, dat zit dus zo! Nou, dat zullen we dan eens mooi gaan veranderen!’</Content>
 				<Br />
 				<Content>Voor mij ligt echter een andere verdienste van Freud erin, dat hij duidelijk gemaakt heeft dat je misschien wel een heldere analyse zou kunnen maken van de emotionele fundamenten van machtsongelijkheid tussen mannen en vrouwen, maar dat je er daarmee in de praktijk nog lang niet bent. Macht en de werking van macht is namelijk in hoge mate iets onbewusts en iets wat via symbolen werkt. Macht is vaak iets ongrijpbaars. Het is ook vaker zo dat macht de mensen </Content>
@@ -627,6 +690,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> gek dus). Ook vóór Freud was men zich dus wel van het bestaan van het Onbewuste bewust. Hetzij omdat gekken een geheimzinnige, c.q. onbewuste, band met de goden hadden; hetzij omdat ze juist zo&apos;n band met duivels en kwade geesten hadden. Daarnaast werd natuurlijk erkend dat de Kunst iets met het onbewuste te maken had. Kunstenaars werden namelijk geïnspireerd; oftewel door de goden of de Schoonheid (of wat dan ook) krachten ingeblazen die hen in staat stelden die wonderlijke producten te maken die kunstenaars nu eenmaal maken. In de Kunst werden dingen meegedeeld die van ‘een hogere orde’ waren. Een orde waarvan zelfs kunstenaars zich niet bewust waren, maar die ze door een gave (van de goden) konden uitbeelden en doorgeven. Laat staan dus dat mensen die niet ‘begaafd’ waren wisten hoe die hogere orde eruitzag.</Content>
+				<Br />
 				<Br />
 				<Content>Freud nu heeft van die goddelijke en verheven of duivelse en verdorven orde van het Onbewuste een heel wat platvloerser, oppervlakkiger en wereldser affaire gemaakt. De vreemde dingen waarvan de gekken spraken, de rare beelden die mensen in hun dromen dromen, en de wonderlijke producten van de Kunst die hebben allemaal elk op hun specifieke wijze betrekking op ‘de symbolische orde van het Onbewuste’.</Content>
 				<Br />
@@ -742,9 +806,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Het Vrouwelijke - Het Verleidelijke - De Ontroering - De Voorstelling: en pats! Hergé zou direct gestoord raken en opgenomen dienen te worden in een psychiatrische inrichting. Dat weet Hergé, DUS (?!) laat hij Kuifje in een door en door racistisch avontuur belanden. Dat zegt Pierre Sterckx althans en hij zegt het</Content>
-				<Br />
-				<Content>ook in volle ernst. Met andere woorden: emotioneel gezien is racisme dus een verkapt of een afgeleid soort seksisme. Alleen dat ‘DUS’, hoe zit het daarmee?</Content>
+				<Content>Het Vrouwelijke - Het Verleidelijke - De Ontroering - De Voorstelling: en pats! Hergé zou direct gestoord raken en opgenomen dienen te worden in een psychiatrische inrichting. Dat weet Hergé, DUS (?!) laat hij Kuifje in een door en door racistisch avontuur belanden. Dat zegt Pierre Sterckx althans en hij zegt het ook in volle ernst. Met andere woorden: emotioneel gezien is racisme dus een verkapt of een afgeleid soort seksisme. Alleen dat ‘DUS’, hoe zit het daarmee?</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -760,15 +822,14 @@
 				<Br />
 				<Content>Dat is dus nauwelijks een theoretische verklaring te noemen. Dat is naar mijn idee ook niet per se noodzakelijk. Ik kom er aan het eind van deze paragraaf nog wel op terug, maar eerst wil ik datzelfde mechanisme laten zien zoals dat werkzaam is via allerlei door fascisten gebruikte symbolen.</Content>
 				<Br />
-				<Content>Wanneer je de sfeer van het alledaagse als invalshoek voor het kijken naar en bestuderen van ‘fascisme’ neemt, dan wordt de wijze waarop binnen de emotionaliteit gebruik wordt gemaakt van symbolen uiterst belangrijk. Fascisme kun je dan typeren als een bij uitstek ‘mythische beweging’. Een beweging die dan bijvoorbeeld de mythe van het Arische en het Joodse Ras bij voortduring naar voren bracht; verder de mythe van Bloed en Bodem, de mythe van de Soldatenman en de Moedervrouw, de mythe van edele en ontaarde ‘rassen’, de mythe van het Duizendjarig Rijk, de mythe van de Geboren Leider, van de Volksgemeenschap, van de Germaanse Cultuur en Superioriteit, van de internationale Joodse samenzwering tegen het Duitse Volk, de mythe van</Content>
-				<Br />
-				<Content>het zuivere boerenleven, van de eer tot opoffering, de mythe van de Totale Oorlog, enzovoorts. Juist door de klaarblijkelijke aantrekkelijkheid van zulk soort mythes is de fascistische beweging groot geworden. De fascistische beweging sprak mannen rechtstreeks aan op hun man-zijn, op hun kameraadschap met andere mannen, op hun fysieke superioriteit, op hun ‘natuurlijke neiging tot agressie’ en hun al even ‘natuurlijke bereidheid tot gehoorzaamheid aan superieuren en de Leider’. De fascistische beweging sprak vrouwen aan op hun ‘moederinstincten’, op hun natuurlijke plaats achter de man, hun natuurlijke neiging tot zorgen, liefde geven, afwachten, passiviteit, opofferingsgezindheid, op hun cruciale betekenis van opvoedsters van de toekomstige Duitse mannen en vrouwen, op hun rol in het zuiver houden van het Duitse Volksbloed, op hun taak het Bloed door te geven: het bloed van menstruatie, geboorte en nageslacht dat terugvloeit naar de aarde als de zonen aan het front blijven en het bloed dat de aarde vruchtbaar maakt. Het Bloed van Leven, Dood en Moederschap. De vruchtbare bodem die bewerkt moet worden opdat ze haar vruchten geeft.</Content>
+				<Content>Wanneer je de sfeer van het alledaagse als invalshoek voor het kijken naar en bestuderen van ‘fascisme’ neemt, dan wordt de wijze waarop binnen de emotionaliteit gebruik wordt gemaakt van symbolen uiterst belangrijk. Fascisme kun je dan typeren als een bij uitstek ‘mythische beweging’. Een beweging die dan bijvoorbeeld de mythe van het Arische en het Joodse Ras bij voortduring naar voren bracht; verder de mythe van Bloed en Bodem, de mythe van de Soldatenman en de Moedervrouw, de mythe van edele en ontaarde ‘rassen’, de mythe van het Duizendjarig Rijk, de mythe van de Geboren Leider, van de Volksgemeenschap, van de Germaanse Cultuur en Superioriteit, van de internationale Joodse samenzwering tegen het Duitse Volk, de mythe van het zuivere boerenleven, van de eer tot opoffering, de mythe van de Totale Oorlog, enzovoorts. Juist door de klaarblijkelijke aantrekkelijkheid van zulk soort mythes is de fascistische beweging groot geworden. De fascistische beweging sprak mannen rechtstreeks aan op hun man-zijn, op hun kameraadschap met andere mannen, op hun fysieke superioriteit, op hun ‘natuurlijke neiging tot agressie’ en hun al even ‘natuurlijke bereidheid tot gehoorzaamheid aan superieuren en de Leider’. De fascistische beweging sprak vrouwen aan op hun ‘moederinstincten’, op hun natuurlijke plaats achter de man, hun natuurlijke neiging tot zorgen, liefde geven, afwachten, passiviteit, opofferingsgezindheid, op hun cruciale betekenis van opvoedsters van de toekomstige Duitse mannen en vrouwen, op hun rol in het zuiver houden van het Duitse Volksbloed, op hun taak het Bloed door te geven: het bloed van menstruatie, geboorte en nageslacht dat terugvloeit naar de aarde als de zonen aan het front blijven en het bloed dat de aarde vruchtbaar maakt. Het Bloed van Leven, Dood en Moederschap. De vruchtbare bodem die bewerkt moet worden opdat ze haar vruchten geeft.</Content>
 				<Br />
 				<Content>De natuur komt in deze mythen voortdurend om de hoek kijken. Alleen het is wel een bepaald soort natuur; een passieve natuur, die daar is om door de mens, c.q. de man, bewerkt te worden of een wilde, onstuimige natuur die de krachten en de driften van het mannelijke voorstellen.</Content>
 				<Br />
 				<Content>Bloed en Bodem zijn dan ook typisch vrouwelijke symbolen. (Denk bijvoorbeeld aan ‘gewone’ uitdrukkingen als Moeder Aarde, vruchtbare en/of maagdelijke gronden, en Moederland. Wat betreft ‘Moederland’ verwijst deze term naar het land van herkomst als het land waar je geboren bent, terwijl ‘Vaderland’ ook wel het land van herkomst betekent, maar dan meer de staatskundige aspecten en grenzen bedoelt; het vaderland heeft een politieke, het moederland een emotionele betekenis). Het ‘vrouwelijke’ heeft een emotionele, het ‘mannelijke’ een rationele betekenis. Die tegenstelling komt onder meer tot uiting in algemene vooroordelen ten aanzien van vrouwen en mannen; bijvoorbeeld dat vrouwen meer gevoelsmatig en mannen meer verstandig reageren en dat vrouwen dus geen verstand van politiek hebben (zo ze überhaupt verstand hebben) terwijl mannen nu juist wel geschikt zijn om te heersen en macht uit te oefenen. Het vooroordeel is dan dat dit verschillende reactiepatroon een biologisch bepaalde grond heeft in plaats van een cultuurhistorische.</Content>
 				<Br />
 				<Content>Juist omdat mensen zich niet van de culturele bepaaldheid van het verschil tussen mannen en vrouwen bewust zijn, denken ze dat vrouwen zus en mannen zo zijn omdat dat ‘van nature’ nu eenmaal bepaald is. Letterlijk wordt bijvoorbeeld agressief ‘haantjes’-gedrag van mannen verklaard door te wijzen op soortgelijk gedrag dat mannetjes apen, vogels, vissen in de natuur ‘ook’ vertonen. Idem dito wat betreft het koesterend, verzorgend enzovoorts gedrag van vrouwtjes mensen en dieren (hoewel ik persoonlijk nog nooit bijvoorbeeld een zwangere vrouwtjesmens met takken over straat heb zien zeulen ten einde een nest voor haar aanstaande kind te bouwen).</Content>
+				<Br />
 				<Br />
 				<Content>Deze hardnekkige verwisseling van ‘natuurlijke’ en ‘cultuurlijke’ oorsprong van het mannelijke en het vrouwelijke is onbewust. Sterker: die verwisseling </Content>
 			</CharacterStyleRange>
@@ -819,6 +880,9 @@
 				<Content>Veel verder kom ik ook niet. En buitengewoon concreet kun je mijn ‘voorstellen’ al evenmin noemen. Daar komt dan nog bij dat ik zelf de nodige twijfels blijf houden over deze manier van naar ‘fascisme’ kijken. Tot deze benadering word ik echter vooral aangezet vanuit een grondige twijfel die ik heb bij strategieën waarin wél de ene of andere oorzaak van racisme wordt aangewezen. Oorzaken, die eenmaal vastgesteld altijd weer uitdraaien op de vernietiging ervan of althans het streven daarnaar. De bommen op Hiroshima en Nagasaki waren bedoeld (?) een einde te maken aan de totalitaire dreiging van communisme en fascisme, maar de dreiging die daarvoor in de plaats is gekomen overtreft de dreiging die als oorzaak en legitimering werd aangegeven. Zulk soort streven naar ‘het wegnemen van de oorzaken’ leidt nu tot serieuze voorstellen om bijvoorbeeld de zogenaamde ‘oude wijken’ dan maar geheel plat te gooien en te vervangen door moderne sociale woningbouw. (Tja, inderdaad kun je problemen ‘oplossen’ door ze te vervangen door nog grotere problemen).</Content>
 				<Br />
 				<Content>(Bijna) tot slot nog een opmerking die ik misschien beter helemaal aan het begin had moeten maken. Namelijk dat het in de praktijk wel eens moeilijk kan zijn de samenhang tussen de drie in dit stuk besproken verschijnselen in hun onderlinge samenwerking te zien. Racisme ‘zie’ je bijvoorbeeld op je werk vooral wanneer het gaat om aanwerving of ontslag van personeel; seksisme ‘zie’ je in de praktijk eerder in de manieren waarop vrouwen door mannen behandeld worden. Racisme is vooral zichtbaar in het werk dat gedaan wordt (schoonmaken, de plaats aan de lopende band, zwaar en ongezond werk); seksisme is daarentegen eerder zichtbaar op andere plaatsen (koffiekamers, posters, handtastelijkheden, opmerkingen, enzovoorts). Toch hecht ik eraan die onderlinge samenwerking en samenhang tussen racisme (gericht tegen mensen met een ‘andere’ culturele achtergrond en een ‘andere’ huidskleur) en seksisme (gericht tegen mensen met een ‘andere’ emotionele achtergrond en een ‘andere’ lichaamsbouw) juist ook in antiracistische acties te blijven zien en te blijven benadrukken. Je hebt er namelijk niets aan als zeg maar ‘typische vrouweneisen’ ingewilligd worden en tegelijkertijd de arbeidsomstandigheden en arbeidsverhoudingen van ‘buitenlanders’ slechter worden. Zo goed als in z&apos;n algemeenheid geldt dat ‘vrouwen de zwarten van de wereld zijn’ zo goed ook kan dit al te gemakkelijk omgedraaid worden en tot resultaat hebben dat ‘zwarten als minderwaardig, onaangepast, labiel, gevaarlijk; kortom als vrouwen’ behandeld worden. (‘Goed, vrouwen horen niet achter het aanrecht thuis, maar dan moeten wel eerst die ‘buitenlanders’ naar hun land teruggaan’. Het land van herkomst fungeert dan voor ‘buitenlanders’ zoals het aanrecht dat voor vrouwen deed: Turkije is (g)een aanrecht!)</Content>
+				<Br />
+				<Br />
+				<Br />
 				<Br />
 				<Content>Helemaal tot slot nog dit: ik ben bepaald niet tevreden met deze tekst. Het rammelt aan alle kanten en soms trek ik conclusies waarvan ik me afvraag of ik er wel achter kan staan. Misschien had ik het anders moeten schrijven: minder verwarrend, minder ‘stellerig’, enz. Ik heb dus wel degelijk mijn twijfels. Maar dan nog denk ik liever dit en op deze manier dan de suggestie wekken dat er een, laat staan ‘de’ oplossing voor fascisme/racisme/seksis-</Content>
 				<Br />
@@ -1124,5 +1188,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>

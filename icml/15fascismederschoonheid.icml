@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -130,6 +132,12 @@
 		<Font Self="di3edbFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di3edbFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di3ee9" Name="Times">
+		<Font Self="di3ee9FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di3ee9FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di3ee9FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di3ee9FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -231,10 +239,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -287,6 +298,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee0" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee0BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee0BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee0BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee1" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee1BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee2" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee2BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee2BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee2BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee2BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee3" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee3BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee3BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee3BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee4" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee4BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee4BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee4BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee5" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee5BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee6" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee6BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee6BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee6BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee7" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee7BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee7BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee7BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u3ee8" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u3ee8BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u3ee8BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d6d" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -436,7 +492,9 @@
 				<Br />
 				<Content>Adolf verandert zichzelf van kunstschilder in bouwmeester en tenslotte in volksleider, dit alles gestuurd vanuit de Hoge. Maar tegelijk met het vergroten van zijn kunstzinnig denkraam, vergroot zich ook het bereik en potentieel aan onbewuste viezigheid. Alles wat zelfs maar in de verte appelleert aan het incestueuze kunstwerk, het zachte dons van het oedipale conflict, gaat zich op imaginair vlak vermenigvuldigen en neemt monstrueuze vormen aan. Zo veronderstelt het opperwezen de oppositie van het onderwezen en wordt de eindstrijd onvermijdelijk.</Content>
 				<Br />
-				<Content>Schoonheid parasiteert in het fascisme op het vuil. Schoonheid is een actief proces, geen op zichzelf staande waarde. Het is altijd datgene wat gereinigd is van negatieve smetten. Het kan als positieve bijdrage zichzelf nooit losmaken van de afbraak. De ware kunstenaar reinigt zichzelf in zijn scheppingsdrift.</Content>
+				<Content>Schoonheid parasiteert in het fascisme op het vuil. Schoonheid is een actief proces, geen op zichzelf staande waarde. Het is altijd datgene wat gereinigd is van negatieve smetten. Het </Content>
+				<Br />
+				<Content>kan als positieve bijdrage zichzelf nooit losmaken van de afbraak. De ware kunstenaar reinigt zichzelf in zijn scheppingsdrift.</Content>
 				<Br />
 				<Content>De slechte kunstenmaker daarentegen kliedert met zijn eigen vuil en verontreinigt daarmee het publiek. Hitlers waardering voor de Griekse kunst is dan ook hygiënisch: ‘Een bedorven lichaam wordt door een schitterenden geest geen greintje aesthetischer gemaakt. Datgene, wat het Grieksche schoonheidsideaal tot iets onsterfelijks heeft gemaakt, is het feit, dat hier de prachtigste lichamelijke schoonheid met den stralendsten geest en de edelste ziel vereenigd is.’</Content>
 				<Br />
@@ -453,6 +511,7 @@
 				<Content>De schoonheid is daardoor ook bij uitstek een droomtoestand. Het zien, beleven, voelen, ervaren, ondergaan van een kunstwerk doet de toeschouwer als in een droom verzeild raken. Het kunstwerk overweldigt hem, spreekt tot hem, laat hem reeds iets beleven van de eeuwigheid, de volmaakte harmonie, het niets en het alles, de pure extase. Alle gevoel voor werkelijkheid gaat verloren, want elke gedachte die door het kunstwerk geprikkeld wordt is er een aan zaken die verboden zijn. Uit deze verwarring kan hij alleen terugkeren op bevel van de Leider, die geleid door de voorzienigheid, weet waar het heen moet (ergens omschrijft Hitler zichzelf als ‘slaapwandelaar’).</Content>
 				<Br />
 				<Content>De schone kunst dient de gezondheid. Schoonheid staat in dienst van het lichaam. De sensuele ervaringen hebben altijd lichamelijke effecten, maar in het kader van de schoonheid zijn deze bijwerkingen geen doel maar geneesmiddel. Voor Hitler betekent deze esthetiek vooral een versterking van zijn wil. ‘Ik dank het hier aan, dat ik hard ben geworden en hard kan zijn’ (de fallisch ingestelden zullen dit citaat op hun wijze interpreteren). Gezonde Kunst waar positieve effecten van uitgaan is altijd fascistisch, in welke gestalte ze zich ook presenteert. Het is altijd de Dood die de beiaard van de schone kunst bespeelt.</Content>
+				<Br />
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -770,5 +829,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>

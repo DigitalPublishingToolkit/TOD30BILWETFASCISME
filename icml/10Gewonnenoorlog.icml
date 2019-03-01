@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -130,6 +132,12 @@
 		<Font Self="di43dbFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di43dbFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di43e8" Name="Times">
+		<Font Self="di43e8FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di43e8FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di43e8FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di43e8FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -250,10 +258,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -306,6 +317,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43df" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43dfBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43dfBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43dfBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43dfBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e0" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e0BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e0BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e1" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e1BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e1BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e2" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e2BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e2BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e2BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e3" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e3BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e3BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e3BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e4" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e4BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e5" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e5BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e5BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e5BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e6" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e6BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e6BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u43e7" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u43e7BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u43e7BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d6f" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -499,6 +555,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Ananke: de Griekse godin van het Noodlot; Ananke die de grenzen van het Zijn bewaart en bewaakt, wordt in het verhaal ‘echt’ beklommen, maar bestaat zij wel ‘echt’? Bestaat zij niet voornamelijk in en als verbeelding? Hoe dan ook, deze vervlechting van symbolische en feitelijke werkelijkheid is kenmerkend voor de verteltrant van Norman Mailer.</Content>
 				<Br />
+				<Br />
 				<Content>Met enkele citaten kan deze dubbelzinnigheid, deze vermenging van verbeelding en realiteit aangegeven worden. Bijvoorbeeld het vervolg van de passage over die verkenner die ontroerd wordt door de niet in woorden uit te drukken schoonheid van de berg:</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -525,6 +582,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Het innerlijke front</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -664,6 +722,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Aldus de tekst op de achterkant van </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -712,6 +771,7 @@
 				<Content> wegens laster, wat ze verloren).</Content>
 				<Br />
 				<Content>In elk gesprek wordt uitvoerig ingegaan op de houding tegenover het vaderland, het verzet en de Jodenvervolgingen. De nationaalsocialistische Idee en de rassenleer in het bijzonder worden door de acht verschillend benaderd. We zullen daar in dit kader niet op ingaan, alhoewel daar een hoop over te zeggen valt. Wij willen hier deze verhalen bekijken als bekentenissen van soldaten die de oorlog hebben verloren. Ze hebben met elkaar gemeen dat ze vrijwillig toegetreden zijn tot het elitekorps van het Duitse leger. Ze namen de keiharde opleiding op de koop toe om het doel te bereiken: het front.</Content>
+				<Br />
 				<Br />
 				<Content>Het grootste gedeelte van hun levensverhalen gaat over de ervaringen aan het front. Daar maakten ze dingen mee die ze ondanks alle verschrikkingen niet hadden willen missen. De beschrijvingen van het front staan in onze bespreking centraal. We beginnen met de voorgeschiedenis en de opleiding omdat daar wordt aangegeven wat er op het front gezocht wordt: kameraadschap, spanning en avontuur.</Content>
 				<Br />
@@ -1581,5 +1641,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>

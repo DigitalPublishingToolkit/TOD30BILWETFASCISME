@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -118,6 +120,12 @@
 		<Font Self="di43b9FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 		<Font Self="di43b9FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di4415" Name="Times">
+		<Font Self="di4415FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di4415FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di4415FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di4415FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -223,10 +231,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -279,6 +290,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u440c" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u440cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440cBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u440d" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u440dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440dBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u440e" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u440eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440eBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440eBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u440f" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u440fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440fBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u440fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4410" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4410BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4410BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4410BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4411" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4411BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4412" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4412BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4412BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4412BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4412BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4413" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4413BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4413BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4413BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4414" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4414BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4414BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d6f" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -1100,7 +1156,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> De documentatie is zelfs apart uitgegeven. Het is een goed naslagwerk zonder enige analyse en het houdt zoals gezegd op in 1941.</Content>
 				<Br />
-				<Content>Als voorbeeld bij T-4 heeft hij de inrichting Grafeneck genomen, waar het georganiseerde moorden eind ’39 begon. Een dergelijk uitgewerkt voorbeeld mist na 1941. Op sommige punten wordt Klee&apos;s werk door de publicaties van de Dokumentationsstelle aangevuld. Anderen daarentegen werken een ‘deelonderwerp’ zo nauwkeurig uit en met zo’n duidelijke vraagstelling (ook naar het heden toe) dat je bij het lezen de moeite moet doen de ‘officiële’ geschiedschrijving à la Klee te koppelen aan de sociaal-politieke ‘lezing’ van de documenten zoals Roth, Aly en anderen dat doen. De accenten worden anders gelegd. Dat kunnen we bijvoorbeeld zien aan de biografieën die gegeven worden. Bij Klee vinden we alleen Werner Heyde terug die tot eind 1941 hoofd was van de afdeling T-4.</Content>
+				<Content>Als voorbeeld bij T-4 heeft hij de inrichting Grafeneck genomen, waar het georganiseerde moorden eind ’39 begon. Een dergelijk uitgewerkt voorbeeld mist na 1941. Op sommige punten wordt Klee&apos;s werk door de publicaties van de Dokumentationsstelle aangevuld. Anderen daarentegen werken een ‘deelonderwerp’ zo nauwkeurig uit en met zo’n duidelijke vraagstelling (ook naar het heden toe) dat je bij het lezen de moeite moet doen de ‘officiële’ geschiedschrijving à la Klee te koppelen aan de sociaal-politieke ‘lezing’ van de documenten zoals Roth, Aly en anderen dat doen. De accenten worden anders gelegd. Dat kunnen we </Content>
+				<Br />
+				<Content>bijvoorbeeld zien aan de biografieën die gegeven worden. Bij Klee vinden we alleen Werner Heyde terug die tot eind 1941 hoofd was van de afdeling T-4.</Content>
 				<Br />
 				<Content>Bij de Hamburgers van de Verein echter vinden we mannen die in hun bezigheden en geschriften een verband gelegd hebben. Zo is er ene Werner Catel, een van de drie ‘Gutachters’ van de Reichsausschuss die moesten oordelen over leven of dood van gebrekkige kinderen. Hij deed dit niet alleen voor de wetenschap maar ook vanuit een ‘nieuwe antropologische humaniteit’. Naast psychiater en neuroloog was hij tevens dichter-kunstenaar en natuurgenezer. Hij is de enige professor in Duitsland die tot in de jaren zestig een pleidooi hield voor het doden van ongeveer 2000 ‘Vollidiotischer Kinder’. Zij zouden geen bewustzijn hebben en daarom ook geen leed met zich mee dragen, ‘eine massa carnis die niemals die Stufe eines Menschen erreichen kann’. In </Content>
 			</CharacterStyleRange>
@@ -1202,7 +1260,9 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Zijn veelzijdige betoog begint met de hervormers uit de Weimar republiek. In hoofdzaak bekritiseerden zij de doodse, passieve toestand in de inrichtingen waar te veel patiënten bij elkaar lagen. Daar kwam bij dat in de Eerste Wereldoorlog tienduizenden verhongerd waren. De psychiatrie was met haar genezingsmethoden verouderd en had een slechte naam. Alleen uit deze situatie en de hervormingsdrang vallen de latere radicale maatregelen van de Nazi&apos;s te verklaren. De belangrijkste voorstellen ter verandering pleitten voor differentiatie, flexibiliteit en bezuinigingen waar mogelijk. De ‘bezigheidstherapie’ werd in die tijd uitgevonden, evenals het idee van de kleine inrichting met paviljoens. De ‘euthanasie’ paste binnen dit nieuwe concept waarin ruimte gemaakt werd voor nieuwe ontwikkelingen. Deze kwamen voort uit het intensieve onderzoek op de patiënten. Voorheen was daar nooit de nadruk op gelegd en bij de hervorming na ’33 zou vooral deze ‘wetenschap&apos; de belangrijkste motor blijken te zijn. Met deze drang in het achterhoofd bekijkt Aly de planning die ‘T-4’ vanaf ’41 maakte. Het was vooral het hoofd van deze afdeling (de opvolger van Heyde), Paul Nitsche, die zelf als hervormer in de ‘Systemzeit’ al actief was geweest, die gegevens en statistieken ging verzamelen om een overzicht te krijgen van alle Duitse inrichtingen. Hoeveel bedden hadden ze? Hoeveel waren de verplegingskosten per patiënt? Een complete inventarisatie moest er gemaakt worden. De nieuwe richtlijnen die verschenen betekenden dat van ’39 tot ’41 het aantal bedden met 60% verminderd moest worden. Ook wilde de Tiergartenstrasse de beheers- en financieringsstructuur anders zien, waarvoor het ‘Reichsamt für die Heil- und Pflegeanstalten’ in het leven werd geroepen. De ‘Verrechnungstelle’ hiervan had allereerst tot doel het financiële gedeelte van de &apos;verplaatsing&apos; van de patiënten te regelen. Schokkend is de vergelijking die Aly daarna maakt tussen het interne rapport uit ’43 van enkele psychiaters over de ‘toekomstige ontwikkelingen’ en de Psychiatrie-enquête uit 1975. Beide komen in verweer tegen de ‘onmenselijke toestanden’, het ‘simpele in bewaring stellen’ en de ‘ontbrekende therapeutische wil’. Verpleging moet actieve behandeling worden. Beide willen af van het probleem van de verzorging van langdurig zieke mensen. Een &apos;probleem&apos; waar in ’43 een oplossing voor gevonden was, maar waar in ’75 niets op gevonden was. Vooral de bezuinigingen op de gezondheidszorg in de jaren tachtig laten dit duidelijk zien. De wil tot hervorming is weer groot, de druk van buiten ook om de inrichtingen ‘economischer’ te beheren. Een situatie waarin de roep om selectie in goede aarde kan vallen, ook nu weer omwille van de ‘modernisering’. Zo&apos;n analyse geeft goed aan dat (massa)moord geen doel op zich was, maar slechts een klein onderdeel was van een goedkopere, gedifferentieerde psychiatrie die ook in ’43 al vurig pleitte voor ambulante eerstelijnshulpverlening (zoals in Nederland het RIAGG).</Content>
+				<Content>Zijn veelzijdige betoog begint met de hervormers uit de Weimar republiek. In hoofdzaak bekritiseerden zij de doodse, passieve toestand in de inrichtingen waar te veel patiënten bij elkaar lagen. Daar kwam bij dat in de Eerste Wereldoorlog tienduizenden verhongerd waren. De psychiatrie was met haar genezingsmethoden verouderd en had een slechte naam. Alleen uit deze situatie en de hervormingsdrang vallen de latere radicale maatregelen van de Nazi&apos;s te verklaren. De belangrijkste voorstellen ter verandering pleitten voor differentiatie, flexibiliteit en bezuinigingen waar mogelijk. De ‘bezigheidstherapie’ werd in die tijd uitgevonden, evenals het idee van de kleine inrichting met paviljoens. De ‘euthanasie’ paste binnen dit nieuwe concept waarin ruimte gemaakt werd voor nieuwe ontwikkelingen. Deze kwamen voort uit het intensieve onderzoek op de patiënten. Voorheen was daar nooit de nadruk op gelegd en bij de hervorming na ’33 zou vooral deze ‘wetenschap&apos; de belangrijkste motor blijken te zijn. Met deze drang in het achterhoofd bekijkt Aly de planning die ‘T-4’ vanaf ’41 maakte. Het was vooral het hoofd van deze afdeling (de opvolger van Heyde), Paul Nitsche, die zelf als hervormer in de ‘Systemzeit’ al actief was geweest, die gegevens en statistieken ging verzamelen om een overzicht te krijgen van alle Duitse inrichtingen. Hoeveel bedden hadden ze? Hoeveel waren de verplegingskosten per patiënt? Een complete inventarisatie moest er gemaakt worden. De nieuwe richtlijnen die verschenen betekenden dat van ’39 tot ’41 het aantal bedden met 60% verminderd moest worden. Ook wilde de Tiergartenstrasse de beheers- en financieringsstructuur anders zien, waarvoor het ‘Reichsamt für die Heil- und Pflegeanstalten’ in het leven werd geroepen. De ‘Verrechnungstelle’ hiervan had allereerst tot doel het financiële gedeelte van de &apos;verplaatsing&apos; van de patiënten te regelen. Schokkend is de vergelijking die Aly daarna maakt tussen het interne rapport uit ’43 van enkele psychiaters over de ‘toekomstige ontwikkelingen’ en de Psychiatrie-enquête uit 1975. Beide komen in verweer tegen de ‘onmenselijke toestanden’, het ‘simpele in bewaring stellen’ en de ‘ontbrekende therapeutische wil’. Verpleging moet actieve behandeling worden. Beide willen af van het probleem van de verzorging van langdurig zieke mensen. Een &apos;probleem&apos; waar in ’43 een oplossing voor gevonden was, maar waar in ’75 niets op gevonden was. Vooral de bezuinigingen op de gezondheidszorg in de jaren tachtig laten dit duidelijk zien. De wil tot hervorming is weer groot, de druk van buiten ook om de inrichtingen ‘economischer’ te beheren. Een situatie waarin de roep om selectie in goede aarde kan vallen, ook nu weer omwille van de ‘modernisering’. Zo&apos;n analyse geeft goed aan dat (massa)moord geen doel op zich was, maar </Content>
+				<Br />
+				<Content>slechts een klein onderdeel was van een goedkopere, gedifferentieerde psychiatrie die ook in ’43 al vurig pleitte voor ambulante eerstelijnshulpverlening (zoals in Nederland het RIAGG).</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1378,6 +1438,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>De maatschappij zal beroofd worden van z&apos;n historiciteit doordat het sociale leven vernietigd wordt, een ‘Brave New World’ waarin de medische macht het voor het zeggen heeft.</Content>
 				<Br />
 				<Content>Een voorbeeld waarin een politieke en een historische verhandeling in elkaar geschoven zijn is de uitgebreide brochure ‘Die WohlTATER-Mafia’ van een Hamburgse groep die strijdt tegen erfelijkheidsvoorlichting zoals die door de ‘humangenetische Beratungsstellen’ gegeven wordt. Zij vragen zich af wat achter de angst voor de geboorte van een gehandicapt kind verborgen ligt. Zij constateren bij deze voorlichtingsbureaus een zelfde werk- en denkwijze als in de Nazitijd: homoseksualiteit, criminaliteit en alcoholisme dreigen ook onder het werkterrein te vallen en net als vroeger zijn deze bureaus bijzonder vlijtig in het verzamelen van persoonlijke gegevens. Ze ontdekten dat tientallen medewerkers direct of indirect medeschuldig zijn geweest aan Nazimisdaden.</Content>
@@ -1782,5 +1843,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>

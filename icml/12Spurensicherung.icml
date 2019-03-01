@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -113,6 +115,12 @@
 	<FontFamily Self="di4415" Name="TradeGothic LT Light">
 		<Font Self="di4415FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 		<Font Self="di4415FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di448e" Name="Times">
+		<Font Self="di448eFontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di448eFontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di448eFontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di448eFontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -231,10 +239,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -287,6 +298,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4485" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4485BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4485BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4485BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4485BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4486" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4486BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4486BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4486BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4487" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4487BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4487BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4487BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4487BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4488" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4488BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4488BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4488BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u4489" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u4489BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4489BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u4489BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u448a" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u448aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u448b" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u448bBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u448bBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u448bBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u448bBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u448c" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u448cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u448cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u448cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u448d" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u448dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u448dBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d6f" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -349,7 +405,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, verknipte interviews met achttien verschillende mensen.</Content>
 				<Br />
-				<Content>Ik trachtte plaats en naam van belangrijke cafés, restaurants en theaters te onthouden om zo aanknopingspunten te hebben. Ik wilde een voorstelling hebben hoe de straten en pleinen van de ‘Reichshauptstadt’ er in die tijd uitzagen. Maar waarvoor? Ik had me niet voorgenomen interviews te gaan maken met de weinigen die nog leefden, daar waren al genoeg mensen mee bezig. Ik wilde dat ik over een tijdsmachine kon beschikken of dat ik bij het lezen kon doordraaien om in mijn dromen door de Berlijnse straten te kunnen lopen. Voor nostalgie had ik te weinig belangstelling voor de ‘Golden Twenties’, dat kon het niet zijn. Ik meende dat het ook geen verborgen verlangen was de stad te zien zonder Muur. Ik dacht dat de Muur een afdoende garantie was dat Duitschland geen wereldmacht kon worden, dus vanuit Nederland bezien mocht ie wat mij betreft voorlopig nog wel even blijven staan. Het was ‘t verschijnsel ‘plek’ zélf waar ik mee in m’n maag zat. Berlijn plaagt z’n bezoekers met de ongerijmdheid die je tot gekte kan drijven: aan de ene kant zijn er resten, ruïnes, gaten, monumenten. Aan de andere kant weet en zie je dat het verleden verdwenen is, gebombardeerd, maar ook gesloopt, gedeporteerd en verdreven.</Content>
+				<Content>Ik trachtte plaats en naam van belangrijke cafés, restaurants en theaters te onthouden om zo aanknopingspunten te hebben. Ik wilde een voorstelling hebben hoe de straten en pleinen van de ‘Reichshauptstadt’ er in die tijd uitzagen. Maar waarvoor? Ik had me niet voorgenomen interviews te gaan maken met de weinigen die nog leefden, daar waren al genoeg mensen mee bezig. Ik wilde dat ik over een tijdsmachine kon beschikken of dat ik bij het lezen kon doordraaien om in mijn dromen door de Berlijnse straten te kunnen lopen. Voor nostalgie had ik te weinig belangstelling voor de ‘Golden Twenties’, dat kon het niet zijn. Ik meende dat het ook geen verborgen verlangen was de stad te zien zonder Muur. Ik dacht dat de Muur een afdoende garantie was dat Duitschland geen wereldmacht kon worden, dus vanuit Nederland bezien mocht ie wat mij betreft voorlopig nog wel even blijven staan. Het was ‘t verschijnsel ‘plek’ zélf waar ik mee in m’n maag zat. Berlijn plaagt z’n bezoekers met de ongerijmdheid die je tot gekte kan drijven: aan de ene kant zijn er resten, ruïnes, gaten, monumenten. Aan </Content>
+				<Br />
+				<Content>de andere kant weet en zie je dat het verleden verdwenen is, gebombardeerd, maar ook gesloopt, gedeporteerd en verdreven.</Content>
 				<Br />
 				<Content>Anders gezegd: Berlijn is het openluchtmuseum van de 20ste eeuw, zoals Amsterdam dat van de 17de eeuw is, een enclave wier voortbestaan te danken is aan de eigen geschiedenis, iets waar kosten noch moeite voor gespaard wordt om de toeristen daarop te wijzen. De films, fotoboeken, romans, tentoonstellingen en monumenten zijn in hun aantal en kwaliteit overweldigend. Je krijgt de indruk dat alles al gezegd, geschreven en uitgebeeld is. Het is allemaal gedocumenteerd, tot in het kleinste detail onderzocht. Dat is niet in de laatste plaats te danken aan de Nazi’s zelf, die de eigenschap hadden alles pijnlijk nauwkeurig te boek te stellen, te fotograferen, registreren en administreren. Dat is ook de belangrijkste eigenschap van de naoorlogse boeken over het fascisme, ze zijn documentair en chronologisch.</Content>
 				<Br />
@@ -584,7 +642,9 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Historisch-documentaire opnames kunnen die verplaatsing in de slachtoffers (die nog van niets weten, maar wel een voorgevoel hebben wat hen te wachten staat) niet bewerkstelligen. Volgens Lanzmann komt dat allereerst omdat deze beelden er niet zijn. De sporen zijn verdwenen. Daar komt nog bij dat wat er wél is, geen verbeeldingskracht (meer?) heeft. In ons beeld over het fascisme hebben ze een vaste betekenis en daar wilde hij niet op uitkomen of mee werken. ‘Er moesten open vragen blijven, raadsels waarbij voor het oplossen daarvan een voorstellingsvermogen gevraagd wordt: het gaat er niet om, alles te verklaren.’</Content>
+				<Content> Historisch-documentaire opnames kunnen die verplaatsing in de slachtoffers (die nog van niets weten, maar wel een voorgevoel hebben wat hen te wachten staat) niet bewerkstelligen. Volgens Lanzmann komt dat allereerst omdat deze beelden er niet zijn. De sporen zijn verdwenen. Daar komt nog bij dat wat er wél is, geen verbeeldingskracht (meer?) heeft. In ons beeld over het fascisme hebben ze een vaste betekenis en daar wilde hij niet op uit</Content>
+				<Br />
+				<Content>komen of mee werken. ‘Er moesten open vragen blijven, raadsels waarbij voor het oplossen daarvan een voorstellingsvermogen gevraagd wordt: het gaat er niet om, alles te verklaren.’</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -775,7 +835,9 @@
 				<Br />
 				<Content>*</Content>
 				<Br />
-				<Content>Er komt een automobiel aan, dus moet ik me snel verbergen. Hier, in het donker, achter de struiken. Zo, voorlopig sta ik goed. Hij rijdt langzaam: de vijand is op zoek. Als ze maar geen zoeklicht bij zich hebben, dan zien ze me zo staan. Nee, hij rijdt zo voorbij. Ze hadden eens moeten weten dat ik hier stond.</Content>
+				<Content>Er komt een automobiel aan, dus moet ik me snel verbergen. Hier, in het donker, achter de struiken. Zo, voorlopig sta ik goed. Hij rijdt langzaam: de vijand is op zoek. </Content>
+				<Br />
+				<Content>Als ze maar geen zoeklicht bij zich hebben, dan zien ze me zo staan. Nee, hij rijdt zo voorbij. Ze hadden eens moeten weten dat ik hier stond.</Content>
 				<Br />
 				<Content>*</Content>
 				<Br />
@@ -975,6 +1037,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> niet schuldig of blijft de schuld van de gehele Duitse natie aan deportatie, roof en moord als een paal boven water staan? Daar krijgen we geen antwoord op. Vermeld wordt alleen dat het gevoel aan zoveel misdaden schuld te hebben, ooit in de jaren vijftig dan wel te verstaan de Duitse psyche blokkeerde om vrijuit te kunnen praten.</Content>
 				<Br />
+				<Br />
 				<Content>De vraag die we hier stellen is wat gedaan kan worden met de sporen die de tijd van ‘33 tot ‘45 wél heeft achtergelaten, zoals die familiefoto’s. Het is zeer eigentijds te veronderstellen dat het exposeren hiervan automatisch een antifascistische boodschap uitdraagt. De grove, shockerende propaganda werkt nu niet meer. Iedereen kent de concentratiekamp-foto’s en doordat ze in een bestaand raster vallen, zetten ze niet meer aan tot denken. Maar wat bewerkstelligt het uitstallen van de dagelijkse beslommeringen? Het geeft ons inzicht in de gebruiken en gewoontes van een volk waar het na 1933 niet slecht mee ging. We krijgen te zien dat inderdaad vrijwel iedereen meedeed, ja zei of zich afzijdig hield, toekeek. En dat ze daar materieel niet slechter van werden, mag bekend verondersteld worden. Maar dat is niet wat de Werkstatt wil overbrengen. Zij willen aantonen hoe de Grote Politiek wist door te dringen in de persoonlijke levens. Iedereen wordt zo ‘Betroffenen’, het had op allen een uitwerking. Maar worden alle Duitsers daarmee ook ‘slachtoffer van het fascisme’? Impliciet zegt de alledaagsheid-theorie van wel. Ze brengt onderscheiden aan tussen actief en passief verzet, meegaan en collaboreren, bejubelen en zwijgen. Maar vallen de grenzen daartussen nu ook weg?</Content>
 				<Br />
 				<Content>Analoog aan de Brio-reclame kunnen we zien dat eenieder zo tegenstrijdig (of veelzijdig?) is, als hij of zij zich voelt.</Content>
@@ -1119,7 +1182,9 @@
 				<Br />
 				<Content>Het mislukken van het Volksheim was een van de vele uitingen van een algehele nederlaag, die met de achterhoedegevechten van Spartacus in 1919 in deze buurt bezegeld was toen de Freikorpssoldaten bezitnamen van deze straten en een pogrom aanrichtten. Het jaar 1933 markeert geen omslag of einde. Razzia’s van de politie tegen ‘ongewenste buitenlanders’ en ‘illegalen’ vonden al in de jaren twintig plaats. Over de deportatie van de Joden uit het Scheunenviertel na de machtsovername door de Nazi’s heeft Geisel niet veel te melden. Misschien heeft hij dat laatste hoofdstuk wel expres weggelaten. Dit wordt bij de lezer bekend verondersteld, de precieze gang van zaken wordt niet vermeld. De bestorming door de SA van het Karl-Liebknecht-Haus (het partijhoofdkwartier van de KPD dat ook in deze buurt stond), de razzia’s van de SA en SS in het Scheunenviertel in maart ‘33 waarbij Joden naar ‘wilde KZ’s’ elders in de stad werden getransporteerd en de georganiseerde boycot van Joodse winkels op 1 april ‘33 zijn wel op foto’s terug te vinden. Bij een van deze foto’s staat een radioverslag afgedrukt dat gemaakt werd tijdens een razzia van de politie op 5 april ‘33. Na een korte impressie van de reporter ter plekke (‘Ik sta hier in de omgeving die eens het bolwerk van het Duitse bolsjewisme was… Wat een geweldige verbazing, een waanzinnige angst bij al die mensen die ons sinds jaren wilden onderdrukken… Ze hebben allemaal nog duizenden pamfletten, verboden opruiend materiaal in hun woningen verstopt…’), mengt hij zich in een verhoor dat op straat wordt afgenomen. Een Poolse Jood die zojuist gearresteerd is legt uit dat hij zijn pas een paar dagen geleden heeft afgegeven om het te laten verlengen. Hij woont al 36 jaar in Berlijn en heeft een meubelzaak. De verslaggever sluit als volgt af: ‘Schön, -Ja, Herr Kommisar, 36 Jahre wollen die einzelne Herrschaften natürlich schon alle in Deutschland gewesen sein.’</Content>
 				<Br />
-				<Content>De artikelen en fragmenten uit boeken over het Scheunenviertel, geschreven door beroemde schrijvers en journalisten, veelal in de jaren twintig op papier gezet, geven een goede indruk hoe van buitenaf aangekeken werd tegen het Joodse leven in deze wijk. Deze beschrijvingen maken het grootste gedeelte van Geisels boek uit, laten zich echter moeilijk samenvatten of typeren. Het scherpste beeld geeft naar mijn idee Joseph Roth in zijn ‘Juden auf Wanderschaft Berlin’ uit 1927. Het begint zo: ‘Geen enkele Oost-Europese Jood komt vrijwillig naar Berlijn. Wie op deze aard komt vrijwillig naar Berlijn?’ Een vraag die Geisel tot een van z’n motto’s maakte, daarmee aangevend dat de dwang waaronder vluchtelingen staan bovenal onder ogen gezien dient te worden. ‘(overigens: de papieren! Een half Joods leven verstrijkt in de doelloze strijd tegen papieren)’, voegt Roth daaraantoe. Een strijd waarvan hij zich alleen kan bevrijden door deze met misdadige middelen te voeren. Zijn opsommingen en korte zinnen geven zijn terughoudendheid aan. Volgens hem elimineert Berlijn de verscheidenheid door het ‘eigene’ om zeep te brengen. De mogelijkheid bestaat om carrière te maken en daarom zijn er maar een paar Jodenstraten, zoals de Hirtenstrasse waar het huisvuil van de stad handelsobject is. Hij beschrijft de handel in lompen en tweedehands kleren. Hij gaat een kleine kroeg binnen om Met te drinken, de nationale drank der Joden. En hij ontmoet Herr Frohmann, die met zijn miniatuurtempel uit de tijd van Salomen (die hij heel precies heeft nagebouwd) van het ene getto naar het andere reist. Hij bezoekt ook een cabaretvoorstelling en vraagt zich bij de gedichten die daar worden voorgedragen af, of de lezer de Joodse melodieën uit het Oosten kent. Die bestaan uit een mengsel van Rusland en Jeruzalem, van volkslied en psalm. Hoor je de tekst dan zou je vlotte muziek verwachten. Maar als je hoort hoe het gezongen wordt, dan is het lied vol smart, dat ‘onder de tranen lacht’. Heeft men het eenmaal gehoord, dan klinkt het nog wekenlang door.</Content>
+				<Content>De artikelen en fragmenten uit boeken over het Scheunenviertel, geschreven door beroemde schrijvers en journalisten, veelal in de jaren twintig op papier gezet, geven een goede indruk hoe van buitenaf aangekeken werd tegen het Joodse leven in deze wijk. Deze beschrijvingen maken het grootste gedeelte van Geisels boek uit, laten zich echter moeilijk samenvatten of typeren. Het scherpste beeld geeft naar mijn idee Joseph Roth in zijn ‘Juden auf Wanderschaft Berlin’ uit 1927. Het begint zo: ‘Geen enkele Oost-Europese Jood komt vrijwillig naar Berlijn. Wie op deze aard komt vrijwillig naar Berlijn?’ Een vraag die Geisel tot een van z’n motto’s maakte, daarmee aangevend dat de dwang waaronder vluchtelingen staan bovenal onder ogen gezien dient te worden. ‘(overigens: de papieren! Een half Joods leven verstrijkt in de doelloze strijd tegen papieren)’, voegt Roth daaraantoe. Een strijd waarvan hij zich alleen kan bevrijden door deze met misdadige middelen te voeren. Zijn opsommingen en korte zinnen geven zijn terughoudendheid aan. Volgens hem elimineert Berlijn de verscheidenheid door het ‘eigene’ om zeep te brengen. De mogelijkheid bestaat om carrière te maken en daarom zijn er maar een paar Jodenstraten, zoals de Hirtenstrasse waar het huisvuil van de stad handelsobject is. Hij beschrijft de handel in lompen en tweedehands kleren. Hij gaat een kleine kroeg binnen om Met te drinken, de nationale drank der Joden. En hij ontmoet Herr Frohmann, die met zijn miniatuurtempel uit de tijd van Salomen (die hij heel precies heeft nagebouwd) van het ene getto naar het andere reist. Hij bezoekt ook een cabaretvoorstelling en vraagt zich bij de gedichten die daar worden voorgedragen af, of de lezer de Joodse melodieën uit het Oosten kent. Die bestaan uit een mengsel van Rusland en Jeruzalem, van volkslied en psalm. Hoor je de tekst dan zou je vlotte muziek verwachten. Maar als je hoort </Content>
+				<Br />
+				<Content>hoe het gezongen wordt, dan is het lied vol smart, dat ‘onder de tranen lacht’. Heeft men het eenmaal gehoord, dan klinkt het nog wekenlang door.</Content>
 				<Br />
 				<Content>Ook Alfred Döblin maakt een wandeling door deze buurt. ‘Jullie nemen de Joden in bescherming’, zegt een oudere arbeider in een debat op straat waar hij toevallig langsloopt. ‘Nee, wij gaan niet voor de Joden staan’ zegt een opgewonden heerschap terug, ‘maar wij weten wel dat het kapitalisme in de klasse en niet in het ras zit.’ Een vlammend protest van Arnold Zweig na de pogrom van ‘23 (de inflatietijd) is erin opgenomen. Een heel karakter hebben de beschrijvingen van het religieuze leven, zoals ‘Die Betstube’ van Martin Beradt over een orthodox gebedshuis, met daarbij een foto van de aankomst van het gevolg van een beroemde Chassidische rabbijn die zijn aanhangers in het Scheunenviertel een bezoek bracht.</Content>
 				<Br />
@@ -1244,6 +1309,7 @@
 				<Br />
 				<Content>De verhalen die je in West-Berlijn kunt vinden over de Muur, in boekhandels, kroegen en gesprekken met autochtonen, ontsnappen niet aan de strikt politieke betekenis van de Muur als brute scheidingswand tussen Oost en West. Maar niemand kan zich over de Muur opwinden en dat is toch wel opmerkelijk. Hoe verontrustend het opkomende Duitse nationalisme ook mag zijn, er bestond en bestaat geen ‘Anti-Muurbeweging’. Bij de herdenking van het 25-jarige bestaan van deze muur in augustus 1986 bleven grote demonstraties uit. Aan westelijke zijde was het aantal incidenten gering en in het Oosten vond de gebruikelijke parade plaats. Het werd vooral een mediagebeurtenis in de gebruikelijke Oost-Westtaal. We moesten weer even aan het bestaan herinnerd worden, als we maar weten dat ie belangrijk is, verder mag de Muur blijven wat hij is, namelijk dam en afsluiter zoals de Delftenaren dat noemen (‘Schutzwall’ heet dat in de DDR). Niet als teken van communistische terreur, maar gebouwd met instemming van alle partijen. Dat blijkt in de zomer van ‘86 maar weer… de Berlijnse Senaat wil dat het ‘gat’ in de Muur door de DDR wordt dichtgemaakt en de stroom ‘Asylanten’ door de DDR wordt drooggelegd. De Muur moet een ‘gewone’ grens worden en van een (heimelijk) verlangen dat-ie ooit eens zal verdwijnen is geen sprake. De tijdsdimensie is verdwenen. De fase van de ‘totale vrede’ (analoog aan de Totale Krieg) heeft eveneens het karakter van de ‘eeuwige vrede’.</Content>
 				<Br />
+				<Br />
 				<Content>In </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1321,6 +1387,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>In dit licht kan de Berlijnse crisis van ‘61 gezien worden als een activering en binding aan de macht van het binaire internationalisme. ‘Het effect van de muur was internationale stabiliteit. Vanuit haar graf op het slagveld van de Berlijnse Muur herrees enkele weken later de Politiek als Phoenix uit de as.’ De macht van de Internationale, zoals wij dat in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1685,5 +1752,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>

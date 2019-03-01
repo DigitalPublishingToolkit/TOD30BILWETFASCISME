@@ -5,6 +5,7 @@
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch3" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch4" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
@@ -121,6 +122,12 @@
 	<FontFamily Self="di40e1" Name="TradeGothic LT Light">
 		<Font Self="di40e1FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 		<Font Self="di40e1FontnTradeGothic LT Light Italic" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Italic" PostScriptName="TradeGothicLT-LightOblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light Oblique" FullNameNative="Trade Gothic LT Light Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di40fc" Name="Times">
+		<Font Self="di40fcFontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di40fcFontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di40fcFontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di40fcFontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -247,10 +254,13 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" ParagraphBorderTint="-1" ParagraphBorderOverprint="false" ParagraphBorderOn="false" ParagraphBorderGapTint="-1" ParagraphBorderGapOverprint="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" ParagraphBorderLeftOffset="0" ParagraphBorderRightOffset="0" ParagraphBorderTopOffset="0" ParagraphBorderBottomOffset="0" ParagraphBorderStrokeEndJoin="MiterEndJoin" ParagraphBorderTopLeftCornerOption="None" ParagraphBorderTopRightCornerOption="None" ParagraphBorderBottomLeftCornerOption="None" ParagraphBorderBottomRightCornerOption="None" ParagraphBorderTopLeftCornerRadius="1" ParagraphBorderTopRightCornerRadius="1" ParagraphBorderBottomLeftCornerRadius="1" ParagraphBorderBottomRightCornerRadius="1" ParagraphShadingTopLeftCornerOption="None" ParagraphShadingTopRightCornerOption="None" ParagraphShadingBottomLeftCornerOption="None" ParagraphShadingBottomRightCornerOption="None" ParagraphShadingTopLeftCornerRadius="1" ParagraphShadingTopRightCornerRadius="1" ParagraphShadingBottomLeftCornerRadius="1" ParagraphShadingBottomRightCornerRadius="1" ParagraphBorderStrokeEndCap="ButtEndCap" ParagraphBorderWidth="ColumnWidth" ParagraphBorderTopOrigin="AscentTopOrigin" ParagraphBorderBottomOrigin="DescentBottomOrigin" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="1" ParagraphBorderLeftLineWeight="1" ParagraphBorderRightLineWeight="1" ParagraphBorderDisplayIfSplits="false" MergeConsecutiveParaBorders="false" ProviderHyphenationStyle="HyphAll" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
@@ -333,7 +343,7 @@
 				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 			</TextWrapPreference>
 			<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="Unknown" StoryOrientation="Unknown" StoryDirection="UnknownDirection" />
-			<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+			<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="TopLeftAnchor" />
 			<ObjectStyleObjectEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true" />
 			<ObjectStyleStrokeEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true" />
 			<ObjectStyleFillEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true" />
@@ -474,6 +484,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f3" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f3BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f3BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f3BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f3BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f4" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f4BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f4BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f4BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f5" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f5BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f5BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f5BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f6" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f6BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f6BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f7" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f7BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f7BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f7BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f8" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f8BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40f9" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40f9BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f9BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f9BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40f9BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40fa" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40faBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40faBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40faBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u40fb" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u40fbBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u40fbBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d70" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -3070,14 +3125,16 @@ F6+XX//Z]]></GraphicProxy>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Afb. 1: Bas-Jan en Geert met het ijzeren paard op vier poten bij de ingang van het Wertheimpark in Amsterdam. Deze foto, gebruikt op de achterflap van </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Het Beeldenrijk</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>, is een referentie naar de tragedie van Oedipoes. In deze mythe bewaakt een sphynx de toegangen en uitgangen van de stad Thebe door middel van het beroemde raadsel: welk dier loopt &apos;s ochtends op vier, &apos;s middags op twee en &apos;s avonds op drie poten?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Tussen 1983 en 1999 kwamen Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Wouterloot onregelmatig - en in verschillende samenstellingen - bijeen in een groep met de illustere naam Bilwet: de stichting ter Bevordering van de Illegale Wetenschap. Bilwet stond voor van alles en nog wat: een non-medium, ambulante uitgever, een didactisch projectiel binnen de Amsterdamse kraakbeweging, een schrijfcollectief met ambitie en internationaal succes, een jongensclub met een liefde voor theorie in duistere tijden. In deze map is een tekst uit 1994 opgenomen, </Content>
 			</CharacterStyleRange>
@@ -5615,8 +5672,10 @@ t/rfX//Z]]></GraphicProxy>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Na het verschijnen van een lovende recensie van </Content>
 			</CharacterStyleRange>
@@ -5751,7 +5810,9 @@ t/rfX//Z]]></GraphicProxy>
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Bovendien kwam naast het institutionele, op herdenken gerichte antifascisme (waarop de CPN zo’n beetje een monopolie had) het niet-institutionele antifascisme (dat later tot Antifa uitgroeide) op vanuit de krakersbeweging.</Content>
+				<Content> Bovendien kwam naast het institutionele, </Content>
+				<Br />
+				<Content>op herdenken gerichte antifascisme (waarop de CPN zo’n beetje een monopolie had) het niet-institutionele antifascisme (dat later tot Antifa uitgroeide) op vanuit de krakersbeweging.</Content>
 				<Br />
 				<Content>Vanaf de jaren 80 zien we dus, grof gezegd, een verschuiving van de aandacht van gevolgen naar oorzaken. De vraag was niet langer alleen hoe men de afschuw kan tonen voor concentratiekampen, totalitarisme, onderdrukking en neofascisme, maar hoe het kon dat grote delen van de bevolking, niet alleen in landen als Duitsland, Spanje en Italië, passief en actief achter de autoritaire leiders gingen staan. Dit is de oorspronkelijke vraag van een breed scala aan denkers, van Wilhelm Reich en de beoefenaars van de autoritaire persoonlijkheidsstudie tot en met Louis Althusser, die zich afvroeg hoe mensen door ideologie worden aangesproken. Zo ontstond een psychoanalytische lezing van geheime angsten, wensen en dromen, en hoe deze op zo’n manier kunnen worden omgebogen en gepolitiseerd, dat het lijkt alsof ‘het grote gevaar’ komt van sterke vrouwen, slinkse Joden, chanteerbare homoseksuelen, buitenlanders en andere &apos;minderheden&apos;.</Content>
 				<Br />
@@ -9397,8 +9458,10 @@ r3v3Xuve/de697917r//2Q==]]></GraphicProxy>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Afb. 3: De tafel in Geerts kamer in het kraakpand Lindenstraat 10, Amsterdam, waar &apos;twee jongens en een typmachine&apos; werkten aan de fascismemap.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Sepp Eckenhaussen: Door terug te gaan naar Bilwets werk uit de jaren ’80 en ’90, keren we ook terug naar de geboorte van de mediatheorie. Ik vraag me simpelweg af: wat was voor Bilwet de relatie tussen fascismeanalyse en mediatheorie?</Content>
 				<Br />
@@ -9468,7 +9531,9 @@ r3v3Xuve/de697917r//2Q==]]></GraphicProxy>
 				<Content>de</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> fascist. &apos;Punch a Nazi&apos; is het toppunt van domheid. Het heeft geen zin mensen uit te maken voor fascist die zichzelf niet (openlijk) als fascist identificeren. Je vervalt dan alleen maar in een welles-nietes-discussie rond de definitie en toepassing van &apos;fascisme&apos;. En dan ook nog eens geweld gaan gebruiken? Nee, ik denk dat de grote urgentie van hedendaagse fascismeanalyse ligt in het kunnen begrijpen en verklaren van hedendaagse maatschappelijke tendensen en het anticiperen op structurele toekomstige gevaren. Maar dat is natuurlijk ook niet een neutrale analyse zonder politieke aannames of grondslagen. Bij fascismeanalyse hoort de antifascistische strijd, en wellicht ook de non-fascist. De belangrijkste vraag lijkt dan ook te zijn: wat betekent het vandaag de dag om antifascist of non-fascist te zijn? In verschillende landen zien we Trump, Orbán, Duterte, Bolsonaro, de Gouden Dagenraad en in Nederland Wilders en Baudet die een gooi doen naar zo&apos;n positie. Hoe kijkt de non-fascist naar zulke verschillende bewegingen op de wereld? Wat zegt fascismeanalyse ons over de </Content>
+				<Content> fascist. &apos;Punch a Nazi&apos; is het toppunt van domheid. Het heeft geen zin mensen uit te maken voor fascist die zichzelf niet (openlijk) als fascist identificeren. Je vervalt dan alleen maar in een welles-nietes-discussie rond de definitie en toepassing van &apos;fascisme&apos;. En dan ook nog eens geweld gaan gebruiken? Nee, ik denk dat de grote urgentie van hedendaagse fascismeanalyse ligt in het kunnen begrijpen en verklaren van hedendaagse maatschappelijke tendensen en het anticiperen op structurele toekomstige gevaren. Maar dat is natuurlijk ook niet een neutrale analyse zonder politieke aannames of grondslagen. Bij fascismeanalyse hoort de antifascistische strijd, en wellicht ook de non-fascist. De belangrijkste vraag lijkt dan ook te zijn: wat betekent het vandaag de dag om antifascist of non-fascist te zijn? In verschillende landen zien we Trump, Orbán, Duterte, Bolsonaro, de Gouden Dagenraad en in Nederland Wilders en Baudet die </Content>
+				<Br />
+				<Content>een gooi doen naar zo&apos;n positie. Hoe kijkt de non-fascist naar zulke verschillende bewegingen op de wereld? Wat zegt fascismeanalyse ons over de </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>strong men </Content>
@@ -13002,14 +13067,16 @@ f82P+Qf+hvbq8W+3rXXov0t/y0j/AOtftxeP5j/L1d+PUOo/zA/6cf8AQ497Hwt1pv8AKepUn6m/
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content>Afb. 4: De omslag van </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Sekisme/Fascisme</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Italic">
 				<Content> (1983).</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Geert: Het ging ons niet om gelijkstellen maar om het leggen van verbanden als het gaat om de oorzaken van fascisme als politieke stroming. Waar ligt de voedingsbodem en kan die worden weggenomen. In Jip-en-Janneke-taal: voorkomen is beter. Eventueel zou nieuw fascisme op straat kunnen worden bevochten (en overwonnen) dan wel worden verboden door wetten, infiltratie en repressie (de legalistische variant), maar waarom niet via opvoeding, onderwijs en politieke organisatie ervoor zorgen dat mensen zich hoe dan ook niet aangesproken voelen en het spel doorzien?</Content>
 				<Br />
@@ -13066,7 +13133,9 @@ f82P+Qf+hvbq8W+3rXXov0t/y0j/AOtftxeP5j/L1d+PUOo/zA/6cf8AQ497Hwt1pv8AKepUn6m/
 				<Br />
 				<Content>Je kunt dat wegwuiven, maar het is wel een echt probleem. Zowel monomanie als inflatie van begrippen liggen op de loer, want juist verruimende vaagheid van begrippen is nodig voor een alomvattende tunnelvisie. In een Theweleitkritiek uit de jaren &apos;80 schreef Arjen al: &apos;Je kunt Theweleit wel verwijten dat hij in zijn enthousiasme soms lijkt te menen dat zijn model de enige juiste is, d.w.z. de &apos;&apos;werkelijke&apos;&apos; verklaring die alle andere verklaringen uitsluit en overbodig maakt.&apos;</Content>
 				<Br />
-				<Content>Ik snap best dat Bilwet voorbij het nulpunt van betekenis wilde speculeren, en dat dit schrijf experiment spannend was (ik voel dat zelf ook), maar is dat wel wat we vandaag zouden moeten willen? Is dat nog ergens goed voor in de post-feitelijke samenleving? Zijn we niet een keer pomo moe? Geeft een opgeblazen definitie enig aanknopingspunt, enig inzicht om te vechten tegen hedendaags fascisme? Te strakke definities leveren geen politiek inzicht op, zoveel is duidelijk. Maar is eindeloos gespeculeer met steeds een andere sweeping claim niet even erg?</Content>
+				<Content>Ik snap best dat Bilwet voorbij het nulpunt van betekenis wilde speculeren, en dat dit schrijf experiment spannend was (ik voel dat zelf ook), maar is dat wel wat we vandaag zouden moeten willen? Is dat nog ergens goed voor in de post-feitelijke samenleving? Zijn we niet een keer pomo moe? Geeft een opgeblazen definitie enig aanknopingspunt, enig inzicht om te vechten tegen hedendaags fascisme? Te strakke definities leveren geen politiek inzicht op, </Content>
+				<Br />
+				<Content>zoveel is duidelijk. Maar is eindeloos gespeculeer met steeds een andere sweeping claim niet even erg?</Content>
 				<Br />
 				<Content>Geert: De psychoanalytische a.k.a. hermeneutische methode heeft nu eenmaal tijd en ruimte nodig. Je gaat graven en volgt sporen, lijnen, associaties, elementen uit dromen. Er bestaat niet zoiets als een Twittervorm van deconstructie. Het zou op zich een goed plan zijn om eens experimenten te gaan doen met het versnellen van diepte analyses. Kan dat überhaupt? Postmoderniteit staat bij jou, vermoed ik, voor relativering, maar daar kan binnen de fascisme analyse geen sprake zijn—daarvoor het thema te serieus en te urgent, denk maar aan de opkomst van Wilders en Baudet. Racisme in Nederland bestaat wel degelijk en dat kan niet zomaar door een spraak- of denkpolitie via verboden in oude media zoals kranten en tv worden opgelost.</Content>
 				<Br />
@@ -13623,6 +13692,7 @@ f82P+Qf+hvbq8W+3rXXov0t/y0j/AOtftxeP5j/L1d+PUOo/zA/6cf8AQ497Hwt1pv8AKepUn6m/
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch4" SwatchItemRef="Color/R=147 G=44 B=101" />
 	</ColorGroup>
 </Document>

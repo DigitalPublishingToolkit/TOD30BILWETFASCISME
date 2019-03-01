@@ -4,10 +4,12 @@
 <Document DOMVersion="13.1" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch8" />
+	<Color Self="Color/C=29 M=0 Y=51 K=0" Model="Process" Space="CMYK" ColorValue="28.999999999999996 0 51 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=29 M=0 Y=51 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatchd" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch0" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
@@ -130,6 +132,12 @@
 		<Font Self="di419aFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di419aFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di41a7" Name="Times">
+		<Font Self="di41a7FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di41a7FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di41a7FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+		<Font Self="di41a7FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -225,10 +233,13 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="2bcd8eb7-5310-405a-9c1c-4494d0a51d2f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DropcapDetail="0" TreatIdeographicSpaceAsSpace="false" MergeConsecutiveParaBorders="true" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Times</AppliedFont>
+				<ParagraphShadingColor type="object">Color/C=29 M=0 Y=51 K=0</ParagraphShadingColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -281,6 +292,51 @@
 	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u419e" Name="Volledige alinea en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u419eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u419eBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u419eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u419eBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u419f" Name="Volledige alinea" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u419fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u419fBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u419fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a0" Name="Alineatekst en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a0BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a0BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a0BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a1" Name="Alineatekst" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a1BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a2" Name="Alineanummer en paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a2BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a2BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a2BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a3" Name="Alineanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a3BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a4" Name="Naam en paginanummer tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a4BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a4BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a4BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; op pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a4BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a5" Name="Naam tekstanker" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a5BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a5BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u41a6" Name="Paginanummer" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u41a6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="pagina " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u41a6BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<Story Self="u3d6f" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
@@ -444,6 +500,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>. Ook Riefenstahls film opent met een tekst over een ‘begin’: ‘Vier september 1934. Twintig jaar na het uitbreken van de wereldoorlog, zestien jaar na het begin van Duitslands weedom en verdriet, negentien maanden na het begin van Duitslands wedergeboorte, vloog Adolf Hitler opnieuw naar Neurenberg om de kolonnes van zijn trouwe aanhangers te inspecteren.’ Dan zien we wolken, zondoorschenen wolken, we vliegen over een stad. In de straten daarvan lopen mensen, massa&apos;s mensen, waarvan sommigen omhoog beginnen te kijken, we zien hen vanuit het perspectief van de vlieger. We zien vervolgens wie die vlieger is: de Führer. Hij is geland op het vliegveld van Neurenberg. De nacht valt, een nieuwe dag begint. Het ontwaken wordt getoond in het historische centrum van Neurenberg, de vakwerkhuizen, de spitse daken, de landelijke klederdracht... Onbewuste oppepper: Duitsland is de nacht in gegaan van een verloren oorlog, maar haar geschiedenis is daardoor niet aangetast, het land is nog ongeschonden - laat nu ook de Duitse mens zich weer herstellen! Vandaar schakelen we over naar het tentenkamp, waar we de massa der partijgangers aan de ochtendhygiëne zien: fris en vrolijk fascisme.</Content>
 				<Br />
+				<Br />
 				<Content>Deze gespierde mannenlijven zijn de belichaming van Duitslands nieuwe heelheid. De mythe is daarmee rond: van begin, versplintering en geschiedenis, naar een nieuwe heelheid (overwinning van de dood). Deze drie thema&apos;s keren ook expliciet terug in de toespraken die Hitler houdt, terwijl de massa&apos;s toehoren. Tegen de partijjeugd zegt hij: ‘En als er van ons niets meer over is, dan zullen jullie de vlag die wij eens vanuit het niets hebben gehesen, in jullie vuisten moeten houden. En ik weet dat het niet anders kan zijn, want jullie zijn vlees uit ons vlees, bloed uit ons bloed en in jullie jonge hoofden brandt dezelfde geest die ons beheerst.’ Het thema van het overwinnen van de dood door het verlengen van de levenslijn lijkt hier hardop te worden uitgesproken. Alleen maakt Hitler in zijn slottoespraak tot de verzamelde partijdag duidelijk dat het hem daarom helemaal niet gaat. Hij zegt daar: &apos;Toen onze partij nog maar zeven man groot was, sprak zij al haar twee grondbeginselen uit; ten eerste: zij wilde een waarachtige, wereldbeschouwelijke partij zijn, en ten tweede: zij wilde compromisloos de macht in Duitsland, voor haar alleen.&apos; Macht maakt heel – ‘Heil!’ antwoordt de massa. Dat was de triomf van de wil: we wilden de macht en nu hebben we die ook om ons waarachtige, wereldbeschouwelijke werk te kunnen doen. In Wenders&apos; termen: nu konden ze de secretaresses in Neurenberg uitleggen waarom ze leefden. Wenders gebruikt Riefenstahls beelden - en dat hetgeen &apos;toevallige&apos; overeenkomst maar een citaat betreft, wordt enerzijds aangeduid door het feit dat het citeren van filmbeelden bij Wenders bijna een standaard procedé is, hij is een groot kenner van de filmgeschiedenis; anderzijds door het feit dat deze door Kracauer beroemd gemaakte beelden vaker geciteerd worden, bijvoorbeeld door John Milius in de opening van zijn film </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -464,7 +521,9 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Wenders’ antifascisme toont zich het duidelijkst in zijn benadering van de massa. De massa&apos;s van Leni Riefenstahl hebben iets vreemds over zich: we zien voortdurend enorme aantallen mensen in de film, in strak geordende cohorten vaak, marcherend, stilstaand, luisterend, één keer zelfs collectief een tekst uitsprekend, en dan weer in beweging – met schoppen, met wapens, met fakkels, met vlaggen en vaandels... Alleen, wat er ook gebeurt, niemand leren we nader kennen: er loopt niet één individu in mee. Als we al eens een gezicht in de menigte zien, zien we dat nooit meer terug. De enigen die herkenbaar (met naam) worden geïntroduceerd zijn een aantal nazi-koppen, en de enige van wie we te horen krijgen wat hij op zijn hart heeft, is Adolf Hitler, in de slottoespraak.</Content>
+				<Content>Wenders’ antifascisme toont zich het duidelijkst in zijn benadering van de massa. De massa&apos;s van Leni Riefenstahl hebben iets vreemds over zich: we zien voortdurend enorme aantallen mensen in de film, in strak geordende cohorten vaak, marcherend, stilstaand, luisterend, één keer zelfs collectief een tekst uitsprekend, en dan weer in beweging – met schoppen, met wapens, met fakkels, met vlaggen en vaandels... Alleen, wat er ook gebeurt, niemand leren we nader kennen: er loopt niet één individu in mee. Als we al eens een gezicht in de menigte zien, zien we dat nooit meer terug. De enigen die herkenbaar (met naam) worden</Content>
+				<Br />
+				<Content> geïntroduceerd zijn een aantal nazi-koppen, en de enige van wie we te horen krijgen wat hij op zijn hart heeft, is Adolf Hitler, in de slottoespraak.</Content>
 				<Br />
 				<Content>De mensen die we van nabij genoeg zien om identificatie mogelijk te maken, zijn allemaal sterke, jonge mannen met een bepaalde schedelvorm en opgeschoren nekken. Daar hadden Leni Riefenstahl en Albert Speer, de &apos;architect&apos; van de partijdagen, wel voor gezorgd: de optocht van de &apos;Amtswalter&apos;, de partijbureaucraten, werd bijvoorbeeld ’s nachts georganiseerd, zodat wel hun fakkels, maar niet hun vette buiken en middelbare leeftijd zichtbaar zouden zijn. Als er in de film details in beeld komen zijn dat laarzen, handen op spades, symbolen: de massa blijft anoniem, abstract, ideëel, onindividueel, &apos;onmenselijk&apos;. Als gevolg hiervan wordt de film op den duur van een bijna pathologische, dodelijke verveeldheid.</Content>
 				<Br />
@@ -490,6 +549,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>De triomf van de wil wordt bij Wenders op individueel niveau behaald, al is daar ook een teder schouderklopje van een Engel-Führer voor nodig: een beetje liefde en de mens weet weer waarom hij leeft: omdát hij leeft en omdat hij dat wil. Een groter contrast is nauwelijks denkbaar met de totalitaire machtswil om de massa&apos;s bij zich in te lijven voor hun eigen heil bij Hitler/Riefenstahl. Wenders verzet zich tegen iedere hiërarchische machtswil, zijn wil is die om te bestaan, desnoods in totale eenzaamheid: dat is toch antifascisme?</Content>
 				<Br />
 				<Content>Maar laten we de massa in Wenders&apos; Berlijn nog eens nader bekijken. De mensen verkeren er regelmatig in grote groepen andere mensen, zonder dat ze die eigenlijk werkelijk zien, ze zijn daarvoor veel te veel bezig met hun eigen beslommeringen. De metrorit brengt dit schitterend in beeld: de massa is een medium geworden waar de mensen onbewust instappen om zich ergens heen te laten vervoeren, maar nooit om gezamenlijk, als groep, ergens heen te gaan. De massa is net als de metro een vervoersmiddel, een functioneel object, maar nooit een object met een eigen waarde en een eigen moment. Alleen het individu is dat: het is een denkend en voelend object, een subject dus. De fascistische massa is totaal afwezig, Duitsland is entnazifiziert. Een pluspunt?</Content>
@@ -548,14 +608,15 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>De hele tijd, als we al eens meededen, was het toch maar voor de schijn... alleen voor de schijn! Niet dat ik meteen een kind wil verwekken of een boom wil planten, maar het zou toch mooi zijn bij het thuiskomen na een lange dag... zoals Philip Marlowe de poezen te voeren, of koorts te hebben, zwarte vingers van het kranten lezen, niet meer alleen enthousiast te worden over de geest, maar eindelijk eens over een maaltijd, de lijn van een hals... een oor. En liegen! Of het gedrukt staat!</Content>
+				<Content>De hele tijd, als we al eens meededen, was het toch maar voor de schijn... alleen voor de schijn! Niet dat ik meteen een kind wil verwekken of een boom wil planten, maar het zou toch mooi zijn bij het thuiskomen na een lange dag... zoals Philip Marlowe de poezen te voeren, of koorts te hebben, zwarte vingers van het kranten lezen,</Content>
+				<Br />
+				<Content>niet meer alleen enthousiast te worden over de geest, maar eindelijk eens over een maaltijd, de lijn van een hals... een oor. En liegen! Of het gedrukt staat!</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Dat is het credo: weg met de waarheid! Eindelijk voelen! (Hierbij moeten we bedenken dat Damiëls slogan ook te horen is als: ‘Endlich Ahnen, statt immer zu wissen’: eindelijk voorouders, eindelijk een geschiedenis! Weten is dan iets per definitie ahistorisch, d.w.z. mythisch.)</Content>
-				<Br />
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -617,7 +678,9 @@
 				<Br />
 				<Content>De grote-stadservaring van de toevalligheid van alle contacten, leidt tot het verlangen alleen te blijven. ‘Einsamkeit heisst ja: Ich bin endlich ganz,’ zegt Marion. Eenzaamheid, wist Cassiël, betekent: de eenheid van het bestaan zien. Maar opgepast: het is de toevalligheid die het verlangen wekt een zuiver eilandje te blijven en juist in het niets van dat verlangen moet worden aangetoond dat de vlag van de wil om werkelijk contact te maken nog steeds kan worden gehesen.</Content>
 				<Br />
-				<Content>Damiël is een vrijwillige intellectueel - en als het werkelijk zo zou zijn dat we allemaal eilandjes zijn, zonder werkelijke band met wat voor maatschappelijke groepering dan ook: zijn we dat dan niet allemaal? Maar hij is realistischer dan de Homerus uit de film: die wilde &apos;alles&apos; veranderen, terwijl Damiël bewust een terrein zoekt voor zijn activiteiten. En dat vindt hij ook: er bestaat nog een werkelijke band in het bandeloze heden, en dat is de liefde tussen man en vrouw en de liefde tussen de ouders en hun kind. Waar de maatschappelijke groepen uit elkaar zijn gevallen, is alleen de kleinst mogelijke maatschappelijke eenheid over om een waarachtige, wereldbeschouwelijke partij mee te vormen, en die partij heet de familie.</Content>
+				<Content>Damiël is een vrijwillige intellectueel - en als het werkelijk zo zou zijn dat we allemaal eilandjes zijn, zonder werkelijke band met wat voor maatschappelijke groepering dan ook: zijn we dat dan niet allemaal? Maar hij is realistischer dan de Homerus uit de film: die wilde &apos;alles&apos; veranderen, terwijl Damiël bewust een terrein zoekt voor zijn activiteiten. En dat vindt hij ook: er bestaat nog een werkelijke band in het bandeloze heden, en dat is de liefde tussen man en vrouw en de liefde tussen de ouders en hun kind. Waar de maatschappelijke groepen</Content>
+				<Br />
+				<Content>uit elkaar zijn gevallen, is alleen de kleinst mogelijke maatschappelijke eenheid over om een waarachtige, wereldbeschouwelijke partij mee te vormen, en die partij heet de familie.</Content>
 				<Br />
 				<Content>En is het daarnaar dus dat wij terug moeten keren? Is de enige &apos;actie&apos; waar wij, vrijwillige intellectuelen, nog om kunnen schreeuwen: een vrouw vinden om een kind bij te verwekken? Ja, zegt Wenders, in naam van de heelheid, ja dat moeten we. Als Damiël zijn geliefde heeft gekregen zegt hij: ‘Nu weet ik wat geen engel weet’ - met andere woorden: nu weet ik én ik voel, lichaam en geest zijn verenigd, nu ben ik eindelijk geen vrijwillig intellectueel meer.</Content>
 				<Br />
@@ -1015,5 +1078,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
 		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchd" SwatchItemRef="Color/C=29 M=0 Y=51 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 	</ColorGroup>
 </Document>
