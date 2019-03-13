@@ -66,40 +66,43 @@ Geert Lovink (1986)
 
 ## Cultuurspeculatie
 
-<a href="ch013.xhtml"> **9. De redelijkheid van het uniform: Over mode voor filosofen** </a>    <br />
+<a href="ch013.xhtml"> **9. Schoonheid is vergif: De illusoire nazificering van de Neue Slowenische Kunst** </a>    <br />
+Lex Woutersloot (1990)
+
+<a href="ch014.xhtml"> **10. De redelijkheid van het uniform: Over mode voor filosofen** </a>    <br />
 Bas-Jan van Stam (1989)
 
-<a href="ch014.xhtml"> **10. Triumpf des Himmels: Over Wim Wenders' Himmel über Berlin** </a>    <br />
+<a href="ch015.xhtml"> **11. Triumpf des Himmels: Over Wim Wenders' Himmel über Berlin** </a>    <br />
 Arjen Mulder (1989)
 
-<a href="ch015.xhtml"> **11. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*** </a>    <br />
+<a href="ch016.xhtml"> **12. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*** </a>    <br />
 Bilwet (1994)
 
-<a href="ch016.xhtml"> **12. 'Alleen door een wonder kan ik behouden worden': Over Boris, Bor en de Wolf** </a>    <br />
+<a href="ch017.xhtml"> **13. 'Alleen door een wonder kan ik behouden worden': Over Boris, Bor en de Wolf** </a>    <br />
 Geert Lovink en Bas-Jan van Stam (1987)
 
 
 ## Kuifosofie en Datadandy
 
-<a href="ch017.xhtml"> **13. Seksisme racisme: Hoezo Kuifje dood?** </a>    <br />
+<a href="ch018.xhtml"> **14. Seksisme racisme: Hoezo Kuifje dood?** </a>    <br />
 Bas-Jan van Stam (1983)
 
-<a href="ch018.xhtml"> **14. Kuifosofie: Over Hergé en de Alfa-kunst** </a>    <br />
+<a href="ch019.xhtml"> **15. Kuifosofie: Over Hergé en de Alfa-kunst** </a>    <br />
 Bas-Jan van Stam (1991 of later)
 
-<a href="ch019.xhtml"> **15. De Kuifjereeks: Zes kleurplaten van Bilwet** </a>    <br />
+<a href="ch020.xhtml"> **16. De Kuifjereeks: Zes kleurplaten van Bilwet** </a>    <br />
 Bas-Jan van Stam (1987)
 
-<a href="ch020.xhtml"> **16. Pissen voor de Führer: Het onschuldig fascisme van Hergé** </a>    <br />
+<a href="ch021.xhtml"> **17. Pissen voor de Führer: Het onschuldig fascisme van Hergé** </a>    <br />
 Bilwet (1994)
 
-<a href="ch021.xhtml"> **17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid** </a>    <br />
+<a href="ch022.xhtml"> **18. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid** </a>    <br />
 Bilwet (1994)
 
 
 ## Bijlage
 
-<a href="ch022.xhtml"> **Bijlage 1: Opzet Bilwet-fascismemap** </a>    <br />
+<a href="ch023.xhtml"> **Bijlage 1: Opzet Bilwet-fascismemap** </a>    <br />
 Geert Lovink (1986)
 
 
@@ -459,7 +462,7 @@ van vaste plekken, was opgehouden te bestaan en overgegaan in plaatsloze
 stromen. Zo komt ook in dit boek de geschiedkunde tot haar einde en
 neemt het Bilweten weer de overhand.
 
-### Hoofdstukken 9-12: Cultuurspeculatie
+### Hoofdstukken 9-13: Cultuurspeculatie
 
 Pas in de volgende lijn, aan gene zijde van de geschiedenis, gaat
 Bilwets fascisme-analyse écht los. We kunnen deze thematische lijn
@@ -474,7 +477,9 @@ misschien cultuurspeculatie noemen. Ooit schreef Bilwet:
 > deconstrueren.[^7]
 
 Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante
-analyses tot gevolg. De eerste tekst is een stuk van Bas-Jan van Stam
+analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgen van historische sporen in de esthetiek. Lex Woutersloot verklaart het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelt: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
+
+De tweede tekst is een stuk van Bas-Jan van Stam
 over ‘de redelijkheid van het uniform’ voor Bilwets *Arcade: Jaarboek
 voor Ambulante Wetenschappen*. Met een serie broodje-aapverhalen
 illustreerde Bas-Jan de verknoping van de angsten voor
@@ -533,7 +538,7 @@ uit in de analyse van een fascistisch wolfsfiguur in het Kuifje-album
 *Mannen op de maan*, wat ons brengt bij de laatste Bilwet-analyselijn in
 dit boek: kuifosofie.
 
-### Hoofdstukken 13-17: Kuifosofie en Datadandy
+### Hoofdstukken 14-18: Kuifosofie en Datadandy
 
 Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de
@@ -9574,10 +9579,96 @@ hij niet in het scenario voorkwam.
 [^32]: Van Dansik, De Graaf, Nijenhuis en Rook, *De Muur*.
 
 
+#9. Schoonheid is vergif: De illusoire nazificering van Neue Slowenische Kunst
 
-# 9. De redelijkheid van het uniform: Over mode voor filosofen
+Door Lex Woutersloot. Verschenen in *Arcade: Jaarboek voor de Ambulante Wetenschappen*, nr. 2, 1990.
 
-Door Bas-Jan van Stam. Verschenen in Arcade nr. 1, 1989.
+Laibach is de Duitse aanduiding voor de Joegolavische stad Ljubljana. Het is tevens de naam van een Sloveense band. De popgroep Laibach maakt deel uit van een samenwerkingsverband van kunstenaars dat presenteert als Neue Slowenische Kunst. Tijdens het Amsterdamse Zomerfestijn 1987 trok het collectief de aandacht met een reeks manifestaties. Laibach trad op in Paradiso. Het schildercollectief Irwin exposeerde onder de titel *Was ist Kunst?* in het historische kantoorpandpand van Monumentenzorg aan de Keizersgracht. Het café van het Shaffy toonde theateraffiches van de Neue Kunsthandlung Design Studio. En de leegstaande Posthoornkerk vormde het toneel voor de theatergroepen Red Pilot en Scipion Nasice. Het Amsterdamse publiek toonde zich geïnteresseerd in deze uitingen van hedendaagse Oost-Europese kunst en de kritiek oordeelde positief.
+
+Het bezigen van de Duitse taal is een in het oog lopende aspect van de presentatie van deze Sloveense kunstenaarsbeweging. Weliswaar komen de kunstenaars uit de meest noordelijke deelrepubliek van Joegoslavië, maar dat betekent niet dat ze zich in een Slavische traditie plaatsen. In een stencil dat op het festival verspreid werd heet het: ‘De Sloveense cultuur is, sinds de Germaanse stammen vijftienhonderd geleden over Europa uitzwermden en ook dit gebied koloniseerden, vooral een Germaanse cultuur.’ Deze bekentenis tot de Germaanse cultuur is nogal provocerend in een land als Joegoslavië dat zo ernstig onder de Duitse bezetting heeft geleden. Neue Slowenische Kunst tart compromisloos de cultuurpolitiek van het Socialistische Slovenië. Herhaaldelijk kwam ze in botsing met de censuur. Een conflict tussen kunst en staat dat aangemerkt mag worden als een logisch gevolg van strijdige filosofieën die NSK en Communistische partij huldigen. Terwijl de Communistische partij zich schaart in een progressieve politieke traditie, rekent NSK zich eerder tot de artistieke reactie. Neue Slowenische Kunst laat zich leiden door de doctrine van het retro-gardisme, waarbij 'retro-garde' zich laat lezen als tegenhanger van het dominante concept 'avant-garde'. De NSK wil een artistieke achterhoederol vervullen. ‘The Retrogardistic art is based on the use of certain methods of painting, cultural images and political phenomena, taken from history and reinterpreted to create its own esthetic.’
+
+Dat de Sloveense kunstenaars geen beroepsverbod trot was te danken aan de successen die ze oogsten in het buitenland. Onverdeelde successen waren dat niet altijd. Over een eerder concert van Laibach schreef *De Volkskrant*: ‘Laibach schokt met eng gekoketteer met nazisme.’ Van een schandaal was in 1987 echter niets te merken. De manifestaties van Neue Slowenische Kunst pasten misschien wel in het actuele tijdsbeeld dat de cultuurmanagers ons wilden voorschotelen. Op de Dam werden in het kader van het Zomerfestijn personenauto's met staalkabels uiteengereten ten overstaande van met dranghekken op veilige afstand gehouden toeristen en passanten. En de Catalaanse groep La Fura dels Baus zorgde voor opwinding met een spektakel van vuur en vernietiging. Hoe kon het zover komen dat *De Waarheid* repte van ‘eigenzinnige en vernieuwende theatrale vondsten’ terwijl geconstateerd werd dat het bij dit soort toneel ging om ‘verstrooiend fascisme’?  Dit opmerkelijke verschil in waardering is voldoende reden om een analyse te maken van de retrogardistische kunst van NSK, uitgaande van een concert van Laibach.
+
+##I.
+
+Het publiek dat op 18 juli de zaal van Paradiso betreedt ziet voor zich twee macabere zuilen opdoemen. Het zijn de zwart omfloerste versterkers van de popgroep Laibach. De zuilen worden opgesierd door zilvergrijze symbolen voorstellende een tandrad met in het midden een symmetrisch kruis. Een variatie op het symbool van het Deutsche Arbeitsfront. Tussen de twee optorenende zuilen bevindt zich het podium. Verheven op een metershoog schavot troont daar een drumstel. Vanuit het hoofdpodium loopt een smal plankier recht de zaal in. Een groot gewei is aan de voorkant van deze brug naar de mensenmassa bevestigd. Tegen de achterwand van de concertzaal is een doek gespannen waarop een grauwe voorstelling prijkt die ook de hoes van de lp Opus Dei siert. Het is een Zwitsers kruis waarin de vage contouren van vier aan elkaar gebonden bijlen herkenbaar zijn. Onder dit teken zal de Sloveense popgroep Laibach een Theatraal Concert geven: de swastika.
+
+Het massaal toegestroomde publiek wordt in afwachting van het verschijnen van de musici verstrooid met de zachte pianoklanken van de Gymnopédies van Erik Satie. Deze achtergrondmuziek werd echter bij het naderen van het '22.30 uur stipt' verwisseld voor melodieën die beter passen bij de omgeving die voor dit optreden geschapen is. Volksliederen weerklinken. De speciale aard van de verandering in het geluidsdecor dringt pas goed tot me door als ik de wijs van het 'Deutschland, Deutschland über alles!' opmerk boven het geroezemoes. Het is een multinationalistische potpourri van volksliederen waarin ook de Marseillaise niet ontbreekt. De selectie eindigt met de tonen van het Wilhelmus. Nog net voor de lichten in de zaal gedimd worden zie ik boven me een grote Nederlandse vlag gedrapeerd en die de plaats van de ereloge opsiert.
+
+Dan barst het spektakel los. De speakers produceren een loeihard beukend geluid. Een monotone dreun. Een gestamp dat geen ritme meer mag heten. Een gearrangeerde metronoom. Twee atletische gestalten verschijnen op het podium, uitgedost half als sportlieden half als militairen: met ontbloot bovenlijf en in uniformbroek met koppelriem en laarzen. Het tweetal neemt plaats achter de snaartrommels die aan weerszijden van de drumtoren staan opgesteld. Met pathetische gebaren stemmen ze in met de tromslag die de zaal geselt. Niet minder martiaal ogende gitaristen voegen zich bij hen, evenals een zanger. Een militaire popgroep geeft acte de présence. De trommelaars blijken het gehele instrumentarium van een militaire kapel te kunnen playbacken. Spotlights flitsen aan als ze de bazuinen heffen. Terwijl een koraal van koperwerk Paradiso vult doemen ze als herauten op in een zee van licht. De vloed van licht zwelt aan. De spotlights richten zich op de zaal. Het publiek wordt verblind. Overweldigd door de elektronisch versterkte pop-interpretatie van het marstempo knijpen de aanwezigen de oogleden toe. Totdat het geluidspatroon enigszins verandert en zich een nieuw theatraal effect aandient.
+
+Onstuitbaar als een rupsvoertuig werkt Laibach zich door haar repertoire. De tape eenmaal op gang kan niet meer gestopt. Er worden geen nummers aangekondigd. Het volume staat zo hoog dat door de vervorming van het geluid het vrijwel onmogelijk is om teksten te volgen. Ik vang wat flarden op. 'Ein Mensch, ein Ziel' buldert het uit de speakers in Hoogduits. Men zingt de lof van de 'United States of Europe'. Ik ben niet geheel onvoorbereid naar de manifestatie gekomen en ik herken dat een groot deel van de muziek afkomstig is van de lp Opus Dei. Zo ook het nummer 'Leben heisst Leben'. De beide trommelslagers ontpoppen zich ondertussen ook vocalisten. Met krachtig handgeklap proberen ze het publiek te bewegen om in te stemmen met deze levensbevestigende elektrohymne. 'Leben heisst leben / wenn wir alle die Kratt spüren / leben heisst Leben / wenn wir alle den Schmerz tühlen / leben heisst leben / heisst die Mengen erleben / leben
+heisst Leben / heisst das Land erleben.'
+
+Het publiek dat het uit moet zien te houden onder deze overweldigende barrage van geluid deelt echter niet spontaan in het gedisciplineerde opgevoerde enthousiasme. De muzikanten werken zich in het zweet, maar ze weten geen sympathiserende beweging in de zaal te krijgen. Pas in de loop van het concert ontstaat er enige deining in de zaal die op dansen wijst. Onder de bewonderaars van deze Neue Slowenische Kunst geven sommigen blijk van een grotere betrokkenheid. Een paar fans staan te swingen op het balkon. Een meisje in lederhose heeft een been over de balustrade geworpen en schurkt zich tegen het houtwerk bij het aanhoren van zoveel opwindende klanken. Maar wie kan zich echt laten gaan terwijl er zwart-witdia's vertoond worden met gruwelbeelden uit de oorlog? 'Achtung, achtung!' brult de zanger de zaal toe, maar dit vermaan heeft geen betrekking op de foto's van pogroms, vluchtelingenstromen, opgehangen gijzelaars die tegen de muur boven hem geprojecteerd worden. 'lch sag es dir: das Schwarz / und Weiss ist kein Beweis. / Nicht Tod, nicht Not. / Wir brauchen nur ein Leitbild für die Welt.'
+
+Dan nadert geleidelijk het moment voor de toegift. De tamboers hebben zich met oud-Germaanse rekwisieten opgedoft. Over hun pruiken dragen ze gehoornde gotische helmen. De meezinger 'Life is life' moet het zijn: 'When we all give the power / We all give the best / Every minute in the hour / We don't think about the rest.'
+
+De ongeïnspireerde verkleedpartij wordt door de zaal gelaten opgenomen. Nadat het nummer is afgewerkt draait tape zonder effecten verder. Dan is de show voorbij. Er klinkt geen applaus. De artiesten laten zich niet meer zien. Verward blijft het publiek achter. Niemand maakt aanstalten om de zaal te verlaten. Men wacht af. Geleidelijk gaan er wat lichten aan. En dan wordt de tape met de dromerige pianoklanken van Satie weer opgezet om iedereen ervan te overtuigen dat het theatraal concert afgelopen is en men verzocht wordt om naar huis te gaan.
+
+##II.
+
+Enige maanden na het concert van Laibach complimenteerde de journalist Hubert Smeets Paradiso met haar daadkrachtige antifascismebeleid. Hij leidde dit af uit het doortastende optreden van de portiers tegen een poging van een viertal skinheads om concert van de UK Subs te verstoren. Een dreigende matpartij werd in de kiem gesmoord doordat één van de vechtersbazen zonder pardon op straat werd gezet. Hij contrasteerde dit lik-op-stukbeleid van het jongerencentrum met de onbeholpen pogingen van het PvdA-raadslid Grewel om patstelling rond controversiële culturele manifestaties als opvoeringen van het gewraakte toneelstuk Het vuil, de stad en de dood van Fassbinder te beslechten door ze als een vraagstuk van openbare orde te beschouwen. De decadente fascismediscussie van de politiek kon een voorbeeld nemen aan de no-nonsense opstelling van de portiers van Paradiso. 'Die praten niet over normen, die moeten ermee omgaan.'
+
+Het waren niet alleen de portiers van Paradiso die zich enigszins in verlegenheid gebracht zouden hebben moeten voelen door het spektakel dat Laibach verzorgde. Er deden zich tijdens hun optreden geen gewelddadige incidenten voor in de zaal, maar de show op het podium was misschien zelf wel fout. Zo het theatraal concert van Laibach iets aantoonde dan was het wel dat de bestrijding van hedendaags fascisme niet gedelegeerd kan worden naar politie of portiers, want het verschijnsel neemt lang niet altijd de vorm aan van openlijke geweldpleging. Nog verwarrender was misschien dat expliciete verwoordingen van politieke denkbeelden ontbraken. Desondanks kon er geen misverstand over bestaan met welke stroming deze kunst verwant was. Het ontbreken van de verbale aanknopingspunten heeft het ontbranden van een discussie, zoals over het toneelstuk van Fassbinder, verhinderd en tegelijkertijd het antifascistisch activisme buitenspel gezet. Dwingend is daarom de vraag of er ook een fascisme is dat zich onttrekt aan de definities van een rationele politiek zoals zelfs in linkse buitenparlementaire milieus gehanteerd wordt.
+ 
+Een strijdvraag is lange tijd geweest of het fascisme als een volwaardige politieke ideologie beschouwd kan worden, net als het liberalisme, het conservatisme of het socialisme. Bij het zoeken van het spoor terug meende J.B. Charles in deze te kunnen stellen: ‘Er is trouwens nooit een fascistische ideologie geweest, al heeft men naderhand, nadat het knokken begonnen was, wel een ideologie verzonnen.’  Een politieke doctrine moge dan misschien niet ten grondslag gelegen hebben aan het fascisme, het nationaalsocialisme werd wel geconcipieerd in een speciale denkwereld, die van het soterische Thulegenootschap. Deze sociale wortels van het fascisme werden hier te lande een aantal jaren geleden blootgelegd toen leven en werk van de ‘onbegrepen oude wijze maagd’ Mellie Uyldert aan een kritische analyse onderworpen werd.  Wanneer men zich de ideële dimensie van het fascisme wil aanduiden, dan is het begrip ‘ideologie’ minder goed van toepassing dan ‘mystiek’. Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.
+
+##III.
+
+Om greep te krijgen op deze duistere cultuuruitingen zullen we ons de vraag moeten stellen die lrwin aan hun tentoonstelling gaven: 'Was ist Kunst?' De festivalkrant die ter gelegenheid van het Zomerfestijn werd uitgegeven verschafte enige aanzetten. Er werd daar gesteld dat kenmerkend voor het werk van kunstenaars yan Neue Slowenische Kunst is 'dat ze allen teruggrijpen op grote historische voorbeelden uit Oost- en West-Europa en specifieke Sloveense culturele tradities.’ Over Laibach heette het: ‘De barokke, bombastische muziek bevat Wagneriaanse elementen en heeft een heroïsch karakter, de teksten zijn als contrast vaak ironisch.’ Deze weergaves behoeven echter een zekere correctie. Preciezer zou geweest zijn om te stellen dat het ‘grote historische voorbeeld’ hoofdzakelijk het nazisme is en Neue Slowenische Kunst cultureel erfgoed van het Derde Rijk artistiek rehabiliteert. Daar moet aan worden toegevoegd dat in deze pose tevens propaganda lijkt te impliceren. De herhaalde verwijzingen in toelichtingen op het werk van NSK en Laibach waarin afstand gesuggereerd wordt tussen schijnbare inhoud en een eigenlijke bedoeling missen iedere specificatie. Zo er iets ontbreekt aan de teksten van Laibach dan is het wel ironie.
+
+Waaruit zou het ironisch moment moeten zijn in het lied ‘Geburt einer Nation’ dat de volgende strofen bevat 'Es gibt nur eine Richtung / eine Erde und ein Volk. / Ein Leitbilt'. De Ironie die Laibach praktiseert is de omvorming van een element uit een antifascistische fotomontage van John Heartfield, het hakenkruis als vier met de stelen aan elkaar gebonden bijlen, tot een fascistisch symbool. De omkering van de antifascistische ironie schept een afstand die beter cynisch genoemd kan worden. Op de lokale zender Radio STAD werd in de agenda gesproken van 'cynische propaganda'. Dat was een toepasselijker kwalificatie, maar er werd vergeten bij te zeggen in welke zin die propaganda bedreven werd, namelijk voor 'ein Fleisch, ein Blut, ein wahrer Glaube, eine Rasse und ein Traum, ein starker Wille'.
+
+Gelet op de esthetische reproductie van nazistische retoriek kost het weinig moeite om extreemrechtse denkbeelden te associëren met deze Neue Slowenische Kunst. Het gebrek aan concrete verwijzingen naar de actuele politieke realiteit maakt het echter moeilijk precies te zeggen welke bedoeling hierachter schuilt. In de publiciteit is die kwestie dan ook vermeden. De kunstkritiek gaf er de voorkeur aan om de vaagheid van de referentie niet te problematiseren. In plaats daarvan hanteerde ze een intellectuele stoplap uit de postmoderne filosofie door het werk van NSK te typeren als 'citatenkunst'. 'Citeren' suggereert een lichtvoetigheid die niet te rijmen valt met de bittere ernst waarmee de NSK haar kunst produceert en presenteert. Het begrip citaat is tevens misleidend, omdat ermee miskend wordt dat kunst van de NSK niet uit een reeks betrekkelijk willekeurige fragmenten is opgebouwd die een slechts tijdelijk verband vormen, maar uit geconstrueerde gehelen met een dwingende samenhang die teruggaan op een aanwijsbare traditie. Het Gesamtkunstwerk is het ideaal van Neue Slowenische Kunst, en meer dan in een muzikale stijl schuilt in deze kunstopvatting de Wagneriaanse invloed.
+
+Dit ideaal komt ook tot uitdrukking in de visie op de verhouding tussen kunst en publiek. Het is NSK niet om amusement te doen. Een vrolijke zomerhit, de meezinger 'Life is Life' weet Laibach om te werken tot een manhaftig strijdlied waarvan de titel verandert in 'Leben heisst Leben'. Met traditionele burgerlijke kunstopvattingen wil ze ook niets van doen hebben. Het creëren van schoonheid, als een vorm van fijnzinnige expressie, is misschien wel het laatste wat men op het oog heeft. Het is een esthetiek van duisternis en gewicht. Het werk van het schildersgroep lrwin werd in de festivalkrant getypeerd door 'haar robuuste uitstraling die nog wordt versterkt door het gebruik van zwarte, centimeters dikke lijsten die gemaakt zijn uit een mengsel van teer, lood en polyester’. Het is een autoritaire kunst die geen plaats laat voor wat men in de jaren zestig ‘publieksparticipatie’ noemde. De producties die het toneelgezelschap Red Pilot brengt zijn geen propagandistische Lehrstücke. Ze geven geen aanzetten tot politieke discussie. Het zijn ensceneringen van mythen. Kortom het is kunst die bedoeld is om louter passief te worden ondergaan. Van het publiek wordt alleen de bereidheid verwacht om zich over te geven aan een voorgeprogrammeerde ervaring. Een totale belevenis.
+
+##IV.
+
+Het Gesamtkunstwerk van Laibach is niet in de eerste plaats een multimediaproject. De diversiteit kunstvormen die in een theatraal concert geïntegreerd worden is minder belangrijk dan het effect dat men daarmee probeert te sorteren: een overrompeling met impressies. De lichamelijke inwerking van de media om een specifieke psychische staat op te roepen is de artistieke methodiek die daarbij toegepast wordt Laibach produceert bij uitstek een psychosomatische kunst. Tijdens het concert van Laibach viel die methodiek vooral te herkennen in het welbewust opvoeren van het volume om het publiek te overrompelen. De versterkers stonden zo hard dat mijn oren na een dag nog suisden. Daarnaast was er de ruimtelijke indeling van de concertzaal. Voorts was er de architectuur van het toneelbeeld die de sonore overrompeling verder accentueerde. De hoog oprijzende zuilen van de versterkers en de drumtoren maakten de toehoorders nog nietiger dan ze zich onder de neerstortende geluidsmuur al gevoeld moeten hebben. En waren er de begeleidende lichteffecten. De spotlights werden niet alleen gebruikt om de popgroep zichtbaar te maken, maar ook om het publiek te verblinden. En aldus verdoofd, verblind en nietig gemaakt was de resultante een zeer speciale gewaarwording.
+
+Het spelen met een extreem hoog volume is praktijk die tegenwoordig wel meer bands hanteren om de betiteling 'hard­rock' eer aan te doen. De stijl van Laibach past weliswaar in dat poppatroon, maar kan waarschijnlijk beter begrepen worden als een experiment met een militaire esthetiek. Vanouds is in die legermuziek gebruikt om soldaten in krijgsroes te brengen en tot bovenmenselijke prestaties aan te zetten. Het op het slagveld begeleiden van cavaleriecharges met trompetgeschal en het bij een stormaanval van schotse infanterieregimenten inzetten van doedelzakspelers zijn daar bekende voorbeelden van. Voorts heeft de marsmuziek zijn functionele waarde bewezen bij het vergroten van het uithoudingsvermogen van het voetvolk tijdens geforceerde verplaatsingen. Op de klanken van marsmuziek vinden de soldaten een gelijkmatige tred te laten lopen, wordt de vermoeidheid vergeten en raken ze onder invloed van de monotonie van de beweging in een soort trancetoestand. Laibach opende haar optreden met een cadans die niet anders klonk dan het militaire marstempo.
+
+Een psychotechniek die Laibach hanteert bestaat uit het opvoeren van het volume om de mentale weerstand van het publiek te breken. Zo werd het geluidsniveau aan het einde van het nummer 'Le­ ben heisst leben' steeds meer verhoogd, totdat de pijngrens over­ schreden werd. Enige ogenblikken was het kabaal ondragelijk. Het publiek trachtte zich het gehoor te beschermen door de han­ den voor de oren te houden. Na aldus een climax gecreëerd te hebben, begon het volgende nummer plots op een humaan aantal decibels. 'Geburt einer Nation'. De catharsis. Op dat moment werd duidelijk dat er een verband lag tussen dit bespelen van het lichaam en het creëren van een psychisch effect. Een met mechanische middelen opgewekte stress had tot doel om een propagandistisch uitwerking te sorteren: het bewerkstelligen van de bereidheid een boodschap te accepteren die na het wegvallen van de overprikkeling als bevrijdend kon worden ervaren.
+
+Naast de militair-esthetische en politiek-propagandistische aspecten richt de muziek van Laibach zich met name op het oproepen van een mystiek. De lijfelijke indrukken moeten vooral de voorwaarden scheppen waaronder men gevoelig wordt voor een metafysica. De Physiologische Rauschmusik van Laibach voert je mee naar een kosmische ruimte. Paradiso was opgesierd met afbeeldingen van duistere symbolen. Een tandrad met kruis. Zwarte vlakken. Een kruis voorzien van een swastika. Het podium werd tot een altaar. En het ontbreken van iedere spontaniteit aan het optreden transformeert de playbackshow in de uitvoering van een rite. Priester-krijgers gebaren met muzikale attributen. Tijdloze begrippen als Kraft, Streben, Leben, Schmerz, Streit, Blut, Glaube, Rasse, Traum, Welt worden aangeroepen en creëren een mystieke atmosfeer.
+
+De theatergroep Red Pilot ging nog verder dan Laibach in psychosomatisch effectbejag. De voorstelling van het stuk FIAT vond niet plaats op een traditioneel lijsttoneel dat het publiek vanuit comfortabele pluchen fauteuils kon volgen. Red Pilot had in de Posthoornkerk een geheel eigen omgeving geschapen voor de opvoering van dit drama. Onder de dreigende klanken van muziek van Laibach werd het publiek via een zuilengalerij binnengeleid in een
+
+[PAGINA ONTBREEKT]
+
+
+bereikt, toen Speer rondom de Zeppelin Wiese honderden zoeklichten had opgesteld. Die pilaren van licht werkten hallucinerend. Het leek een kathedraal van stralenbundels, die op kilometers hoogte versmolten in het perspectivisch verdwijnpunt. Wolken dreven er doorheen als een zwevend plafond.’  Vanuit het perspectief bezien van het fascisme als een autoritair esthetische orde is het zoeken naar een fascistische stijl in de kunsten irrelevant. Recent kunsthistorisch onderzoek leert dat er veel minder dan wel gedacht een eenvormige fascistische kunst geweest is. Een analyse van het fascistisch kunstbeleid dient zich te richten op onderzoek van het fascisme als gestructureerde media-ervaring. Tegenover een linkse revolutionaire kunst die, naar het woord van Rimbaud, streefde naar een ontregeling van alle zinnen, stond de niet minder politieke kunst van het fascisme die een maatschappelijk Gesamtkunstwerk voor ogen stond.
+
+##VI.
+
+Deze esthetische interpretatie is vooral van belang in verband met de historisering van het fascisme. Kennis omtrent het naziregime, de Jodenvervolging en de tweede wereldoorlog ontlenen de meeste mensen aan schoolboeken en de televisie. Overlevenden en ooggetuigen worden steeds minder talrijk en de kracht van hun stem verzwakt. Onontkoombaar wordt het fascisme een verschijnsel waarover men alleen nog iets te weten kan komen door secundaire bronnen te raadplegen. Dat betekent dat de voorstelling van het fascisme en de verschrikkingen die ze aangericht heeft steeds sterker de signatuur draagt van evocatie en reconstructie. Zijn herinneringen niet over te brengen zonder ze in de vorm van een kunstwerk te gieten, het scheppen van een historische voorstelling kan het helemaal niet hebben zonder de aanwending van de verbeeldingskracht. Met de historisering treedt het fascisme binnen in het bereik van het imaginaire. Zonder de stilzwijgende aanwezigheid van de overlevenden wier bestaan een geserreerde retoriek afdwingt, kan de fantasie vrije baan krijgen bij het denken over het raadsel van het fascisme. Die retorische conventies kunnen niet verhullen dat er onmiskenbaar onbeteugelde fantasieën leven over het fascisme. Onder ogen zal moeten worden gezien dat macht net als het kwaad fascineert. Dit gegeven vindt zijn weerslag in de verwerking en de dramatisering van het verleden.
+
+Het tot spektakel verheffen van de historie neemt een hoge vlucht. Een bloedbad als de slag bij Waterloo wordt tweejaarlijks gereconstrueerd door aanzwellende legioenen toneelsoldaten. Het vormt een toeristische attractie waarvan men de educatieve waarde voor de jeugd benadrukt. Het fascisme ontkomt als historisch geworden artefact niet aan dergelijke perverse heropvoeringen. De uitgave van nostalgische documentaties, de Hitlerwelle en een algehele recycling van politieke symbolen bewijzen die stelling. Fascisme leeft niet alleen voort als schrikbeeld, maar tevens als een opwindende krijgsdroom, een terugverlangen naar spannende tijden en de begeestering voor een gemeenschapsideaal. De omgang met het verleden laat zich maar zeer ten dele beheersen door evenwichtige onderwijsprogramma's, verantwoorde educatieve projecten en een vaderlandslievende monumentenzorg. De historisering van het fascisme geeft een groter gewicht aan de orale traditie. Als beschreven object behelst het fascisme reeds lang een aanzwellend corpus legenden en mythen. Tegen de achtergrond van een voortschrijdende mythologisering moet de artistieke reconstructie van Laibach geplaatst worden. Het is een oefening in het doen herleven van een belaste en verboden esthetiek in de beschermde wereld van de kunst. NSK zien zichzelf geenszins als vrije kunstenaars. Als er iets is waar Laibach zich tegen afzet dan Is het de individualistische kunstopvatting van het liberalisme. De NSK wijst niet alleen de scheiding van kunst en staat af, maar nog nadrukkelijker de scheiding van kunst en rite. De kunstfilosofie van de NSK heet te stoelen op het principe van het retrogardisme. De kunstkritiek heeft dit retrogardisme al te gemakkelijk opgenomen In het populaire jargon van het postmodernisme. De afwijzing van het modernisme door de NSK loopt niet uit op een kunstopvatting die in het post­modernisme vervat kan worden, maar een die veeleer pre-modernistisch is. Ze grijpen terug op een kunstfilosofieën die aan het modernisme voorafgingen. Daarbij moet dan niet gedacht worden aan academische stromingen, maar aan een maatschappelijke configuratie waarin kunst onlosmakelijk verbonden was met religie. NSK is de artistieke component van wat zich elders manifesteert als een nieuw heldendom.
+
+Het sterven naar het maken van een wereldbeschouwelijk gefundeerd Gesamtkunstwerk is een protest tegen de fragmentering die ook de wereld van het postmodernisme kemerkt. Kunst is In het postmodern tijdvak een etherisch spektakel waarin uiteindelijk alleen nog economische wetten gelden. Het is de triomf van het absolute pragmatisme. NSK wijst de deritualisering, depolitisering en demilitarisering die de hedendaagse kunst kenmerken af. Op artistiek vlak is het een revolte tegen die scheiding van machten die het maatschappelijk leven is gaan kenmerken. Een nieuwe heldentijd, een contemporain mythisch universum, het herstel van een betoverde orde dat is het perspectief waarin zij werkt. Neue Slowenische Kunst opereert als kunstenaarscollectief in het vlak waar we de intellectuelen vinden van het Nouvelle Droite, de activisten van het Vlaams Blok en de gelovigen in een New Age. De Ewiggestrigen en oernostalgici, kortom het diffuse conglomeraat van de anti-rationele herstelbeweging.
+
+##VII.
+
+Laibach kan zonder bezwaar als ‘fout’ gekwalificeerd worden. Dit oordeel is echter tegelijkertijd een gemeenplaats en een dooddoener. Want welke consequenties zouden daaruit getrokken moeten worden? Dat Laibach en NSK populariteit genieten, wil dat ook zeggen dat hun kunst gevaarlijk is? Een criterium waaraan men fascistische kunst mag afmeten is haar Massenwirksamkeit. Het lijkt me dat de functie van de psychosomatische kunst van NSK geplaatst moet worden tegen de achtergrond van de moderne mediamaatschappij. In het hedendaagse spektakel is een tendens waar te nemen naar het aanbieden van vormen van mediaervaringen waarbij alle zinnen geprikkeld worden. De stomme film veranderde in geluidsfilm. Stereoprojectie en cinemascope volgde. Tegenwoordig zijn de grote attracties op cinematografisch gebied de bioscopen met sferische megaschermen waarbij het publiek zich omringd ziet door geprojecteerd beeld. In ontwikkelingsfase zijn de theaters waarbij zetels trillen en bewegen om een alomvattende sensatie van lijfelijke aanwezigheid te simuleren. De maatschappij als attractiepark vult zich met technisch steeds perfectere simulatoren.
+
+De belangstelling voor de amusementsapparatuur verheelt niet dat de verveling met de nepervaringen die deze machines bieden hand over hand toeneemt. De massa's die aangetrokken worden door objecten die geen spectaculaire kwaliteiten bezitten zoals de media die aanbieden als bijvoorbeeld een gestrand schip is een indicatie dat er een grote hang bestaat naar de confrontatie met iets echts. Het primitieve wordt op prijs gesteld, en de lijfelijke omgang met de elementen bevredigt behoeften waarvoor geen gemediatiseerd substituut bestaat. Neue Slowenische Kunst maakt kunstwerken waarin op die primitieve verlangens ingespeeld wordt. De context waarin ze opereren is echter volkomen vrijblijvend. En dat doet afbreuk aan de gewaarwording die ze wensen te bieden. De riten die ze ensceneren behoren tot een gewelddadig universum. De luister wordt opgeroepen van rauwe omgangsvormen behorende tot een wereld waarin levenskunst de heroïsche strijd om het bestaan is. Maar binnen de context van het theater blijft het een consequenlieloze evocatie van een onbereikbaar geworden primitieve orde.
+
+NSK wil een rituele kunst uiten in een vrijwel gederitualiseerde wereld. Hoezeer dat het geval is blijkt uit de locaties waar optredens plaatsvonden. Paradiso is het onderkomen van de voormalige Vrije Gemeente, en de Posthoornkerk was beschikbaar voor culturele manifestaties als gevolg van de radicale secularisering van de Amsterdamse bevolking. Religieuze gevoeligheid is blijven bestaan. Het voormalige kerkgebouw Paradiso was eveneens het toneel voor een theatrale opvoering van een Rooms Katholieke Hoogmis. De nostalgie naar religie is groter dan het vermogen om een nieuwe overtuigende massacultus te grondvesten. Het levensbeschouwelijke vacuüm dat ontstaan is wordt provisorisch opgevuld met artistieke herscheppingen. Soms als tijdelijke ludieke desecularisatie, soms als een lokale illusoire nazificering.
+
+NSK doet een appèl op de aantrekkingskracht van het primitivisme, maar is zelf niet in staat haar publiek een pre-mediale ervaring te bereiden. De reden daarvoor Is dat ze verkeert buiten de gewelddadige en rituele orde waarnaar ze het verlangen verbreiden. En zeker ook omdat ze opereert binnen een kader met een strikte scheiding tussen actieve artiesten en een passief publiek bestaat: die van de postmoderne kunst. Ze kan uiteindelijk alleen een suggestie bieden. Laibach komt niet verder dan het opvoeren van een slechte playbackshow. Het concert in Paradiso toonde een publiek dat volkomen onaangedaan was door het sonore geweld waaronder het bedolven werd. De theatrale trucs ten spijt waar Laibach beroep op deed was er geen ogenblik waarop voelbaar was dat men getuige was van iets anders dan een pantomime en een draaiende tape. Het was smakeloos Ersatz. De overweldiging van de zinnen werd daardoor gereduceerd tot een vorm van geluidshinder. De band faalde met name omdat ze niet capabel om een authentiek liveoptreden te verzorgen. De intense gewaarwording van het momentane, het besef van de aanwezigheid werd daardoor verstoord en de meest minimale voorwaarden om het psychosomatische effect op te roepen dat men nastreefde werd daardoor weggevaagd.
+
+De tragiek van Laibach is dat ze eigenlijk alleen goede studiomuzikanten zijn. Binnen de beperking van één medium weten ze hun artistieke en levensbeschouwelijke visie gestalte te geven. Dat geldt bijvoorbeeld voor de clip bij een abject nummer als ‘Geburt einer Nation’. Hier waren alle beelden uit de nationaalsocialistische iconografie teruggehaald. Mannen in uniform. Geheven bazuinen. Laaiend vuur. Heroïsche poses en martiale gebaren. Alleen was die rimram van symbolen en riten onwerkzaam geworden doordat ze ingedrongen was in het beperkte kader van een videoscherm. Een simpel medium als de video kan nimmer een alomvattend beslag leggen op de zintuiglijke ervaring. De videosensatie blijft altijd extern en de omgeving van het scherm merkbaar groter en overheersender dan het extaseapparaat. Het is een belofte waarvan het duidelijk is dat die niet ingelost wordt. Hoe groot de artistieke erkenning ook is die ze mag vinden, Laibach blijft ongevaarlijk zolang ze het culturele erfgoed van het fascisme blijven beheren op gefragmenteerde kunstscenes.
+
+'Het kan ons ook niet schelen of er in de zaal mensen de Hitlergroet brengen. Dat is hun zaak,' verzekerde me een acteur van Red Pilot nog.
+
+'Schoonheid is vergif. Het doet pijn! Pijn! Pijn!'
+
+
+# 10. De redelijkheid van het uniform: Over mode voor filosofen
+
+Door Bas-Jan van Stam. Verschenen in *Arcade: Jaarboek voor Ambulante Wetenschappen*, nr. 1, 1989.
 
 ## I. Het andere lichaam
 
@@ -9971,7 +10062,7 @@ met de rekbaarheid van de elementen te spelen.
 
 
 
-# 10. Triumpf des Himmels: Over Wim Wenders’ *Himmel über Berlin*
+# 11. Triumpf des Himmels: Over Wim Wenders’ *Himmel über Berlin*
 
 Door Arjen Mulder. Verschenen in *Arcade: Jaarboek voor Ambulante
 Wetenschappen*, nr. 1, 1989. Geschreven in mei - september 1988 als
@@ -10932,7 +11023,7 @@ ernst werden.’ De hemel behoede ons voor deze ernst.
 
 
 
-# 11. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*
+# 12. Het fascisme der schoonheid: Over gezonde kunst in *Mijn kamp*
 
 Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
@@ -11286,7 +11377,7 @@ waar het tegen is, want het is voor niets en tegen alles en iedereen.
 
 
 
-# 12. ‘Alleen door een wonder kan ik behouden worden’: Over Boris, Bor en de Wolf
+# 13. ‘Alleen door een wonder kan ik behouden worden’: Over Boris, Bor en de Wolf
 
 Door Geert Lovink en Bas-Jan van Stam. Lezing met lichtbeelden gehouden in de hal van kraakpand Van
 Hall (van Hallstraat 625-627, Amsterdam) op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
@@ -11812,7 +11903,7 @@ mythe van de eeuwige terugkeer van Goed en Kwaad.
 
 
 
-# 13. Seksisme racisme: Hoezo Kuifje dood?
+# 14. Seksisme racisme: Hoezo Kuifje dood?
 
 Door Bas-Jan van Stam. Verschenen in *Bluf!* nr. 67, 5 mei 1983.
 
@@ -12358,7 +12449,7 @@ Afb. 4: Ridder Kuifje.
 
 
 
-# 14. Kuifosofie: Over Hergé en de Alfa-Kunst
+# 15. Kuifosofie: Over Hergé en de Alfa-Kunst
 
 Door Bas-Jan van Stam. Geschreven in of na 1991.
 
@@ -12562,7 +12653,7 @@ Hergé-maffia.
 
 
 
-# 15. De Kuifjereeks: Zes kleurplaten van Bilwet
+# 16. De Kuifjereeks: Zes kleurplaten van Bilwet
 
 Door Bas-Jan van Stam. Geschilderd en geschreven in eind jaren '80.
 
@@ -12692,7 +12783,7 @@ inwijdt in de oneindigheid.
 
 
 
-# 16. Pissen voor de Führer: Het onschuldig fascisme van Hergé
+# 17. Pissen voor de Führer: Het onschuldig fascisme van Hergé
 
 Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
@@ -13201,7 +13292,7 @@ van Hergé laat het moment van de subversiviteit open.
 
 
 
-# 17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
+# 18. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid
 
 Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 

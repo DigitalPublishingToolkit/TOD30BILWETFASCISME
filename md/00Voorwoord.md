@@ -371,7 +371,7 @@ van vaste plekken, was opgehouden te bestaan en overgegaan in plaatsloze
 stromen. Zo komt ook in dit boek de geschiedkunde tot haar einde en
 neemt het Bilweten weer de overhand.
 
-### Hoofdstukken 9-12: Cultuurspeculatie
+### Hoofdstukken 9-13: Cultuurspeculatie
 
 Pas in de volgende lijn, aan gene zijde van de geschiedenis, gaat
 Bilwets fascisme-analyse écht los. We kunnen deze thematische lijn
@@ -386,7 +386,9 @@ misschien cultuurspeculatie noemen. Ooit schreef Bilwet:
 > deconstrueren.[^7]
 
 Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante
-analyses tot gevolg. De eerste tekst is een stuk van Bas-Jan van Stam
+analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgen van historische sporen in de esthetiek. Lex Woutersloot verklaart het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelt: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
+
+De tweede tekst is een stuk van Bas-Jan van Stam
 over ‘de redelijkheid van het uniform’ voor Bilwets *Arcade: Jaarboek
 voor Ambulante Wetenschappen*. Met een serie broodje-aapverhalen
 illustreerde Bas-Jan de verknoping van de angsten voor
@@ -445,7 +447,7 @@ uit in de analyse van een fascistisch wolfsfiguur in het Kuifje-album
 *Mannen op de maan*, wat ons brengt bij de laatste Bilwet-analyselijn in
 dit boek: kuifosofie.
 
-### Hoofdstukken 13-17: Kuifosofie en Datadandy
+### Hoofdstukken 14-18: Kuifosofie en Datadandy
 
 Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de
