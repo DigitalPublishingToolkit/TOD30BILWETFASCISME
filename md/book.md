@@ -477,7 +477,7 @@ misschien cultuurspeculatie noemen. Ooit schreef Bilwet:
 > deconstrueren.[^7]
 
 Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante
-analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgen van historische sporen in de esthetiek. Lex Woutersloot verklaart het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelt: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
+analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgen van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
 
 De tweede tekst is een stuk van Bas-Jan van Stam
 over ‘de redelijkheid van het uniform’ voor Bilwets *Arcade: Jaarboek
@@ -1201,9 +1201,7 @@ contact stonden. Maar ik denk niet dat het problematisch was dat mannen
 over fascisme schreven, aangezien dit voor een groot deel was
 geïnspireerd door feministische geschriften en acties van de (radicale)
 vrouwenbeweging. En praatgroepen, die zijn er nog steeds. Punt is alleen
-dat we sinds alt-right ook Jordan Peterson hebben... Dat is de nieuwe
-identiteitspolitiek die de niet-fascistische zelfanalyse verdrongen
-heeft.
+dat we sinds alt-right ook figuren als Jordan Peterson en Thierry Baudet hebben... Dat is de nieuwe identiteitspolitiek die de niet-fascistische zelfanalyse verdrongen heeft. Wat krijg je als je de adelaar van het duizenjarige rijk politiek correct maakt in de 21e eeuw? De uil van Minerva.
 
 [^1]: Zie bijvoorbeeld Antifascistisch kollektief, *De rechterkant van
     Nederland: een overzicht van extreemrechtse en fascistische
@@ -9634,12 +9632,12 @@ Een psychotechniek die Laibach hanteert bestaat uit het opvoeren van het volume 
 
 Naast de militair-esthetische en politiek-propagandistische aspecten richt de muziek van Laibach zich met name op het oproepen van een mystiek. De lijfelijke indrukken moeten vooral de voorwaarden scheppen waaronder men gevoelig wordt voor een metafysica. De Physiologische Rauschmusik van Laibach voert je mee naar een kosmische ruimte. Paradiso was opgesierd met afbeeldingen van duistere symbolen. Een tandrad met kruis. Zwarte vlakken. Een kruis voorzien van een swastika. Het podium werd tot een altaar. En het ontbreken van iedere spontaniteit aan het optreden transformeert de playbackshow in de uitvoering van een rite. Priester-krijgers gebaren met muzikale attributen. Tijdloze begrippen als Kraft, Streben, Leben, Schmerz, Streit, Blut, Glaube, Rasse, Traum, Welt worden aangeroepen en creëren een mystieke atmosfeer.
 
-De theatergroep Red Pilot ging nog verder dan Laibach in psychosomatisch effectbejag. De voorstelling van het stuk FIAT vond niet plaats op een traditioneel lijsttoneel dat het publiek vanuit comfortabele pluchen fauteuils kon volgen. Red Pilot had in de Posthoornkerk een geheel eigen omgeving geschapen voor de opvoering van dit drama. Onder de dreigende klanken van muziek van Laibach werd het publiek via een zuilengalerij binnengeleid in een
+De theatergroep Red Pilot ging nog verder dan Laibach in psychosomatisch effectbejag. De voorstelling van het stuk FIAT vond niet plaats op een traditioneel lijsttoneel dat het publiek vanuit comfortabele pluchen fauteuils kon volgen. Red Pilot had in de Posthoornkerk een geheel eigen omgeving geschapen voor de opvoering van dit drama. Onder de dreigende klanken van muziek van Laibach werd het publiek via een zuilengalerij binnengeleid in een stalen grot. Men werd verzocht op metalen treden plaats te nemen die een verhoging vordmen in het midden van een rond gewelf. Deze ongemakkelijke tribune werd omgeven door een soort gracht. Een gapende diepte scheidde het publiek van de hoge roestige stalen wanden die aan alle kanten oprijzen. Duisternis. Afgrond. Staal. Lawaai. Geen middel was onbenut gelaten om het publiek te beklemmen. Het podium zelf werd gevormd door drie openingen die in staalplaten zijn aangebracht in de vorm van een kruis, een cirkel en een driehoek. Pas toen ik een afbeelding zag van de drie tekens besefte ik dat hier een religieus gevoel aangesproken werd. Want het koste niet veel moeite om te zien wat er geschreven stond: TOD.
 
-[PAGINA ONTBREEKT]
+##V.
+Neue Slowenische Kunst herschept de estethiek van het fascisme tot hedendaagse kunst. Dat roept de vraag op hoe centraal de rol was die het fascistisch spektakel in de Nieuwe Orde speelde. Daar wordt dan niet propaganda voor een politiek bedoeld, maar de esthetiek als een structureel kenmerk van de orde die men wilde vestigen. Weinigen gaan zo ver als NSK, maar ze staan zeker niet alleen in de benadering van het fascisme als een kunstwerk. De popmuzikant David Bowie moet eens gezegd hebben: 'Ik geloof vast aan het fascisme (...). Hitler was geen politicus. Hij was een mediakunstenaar.' Een uitspraak waarin de nadruk gelegd wrd op de esthetiek kon ook uit de mond van de Franse extreemrechtse intellectueel Maurice Bardèche opgetekend worden:'Fascisme is een houding die een bepaalde schoonheid inhoudt.' En zelfs de voorman van het Frond National, Le Pen, benadrukte in een verkiezingsrede de esthetische dimensie van zijn wereldbeschouwing: 'We hebben schoonheid even hard nodig als brood, want de mens is niet alleen materie, maar ook geest en ziel.'
 
-
-bereikt, toen Speer rondom de Zeppelin Wiese honderden zoeklichten had opgesteld. Die pilaren van licht werkten hallucinerend. Het leek een kathedraal van stralenbundels, die op kilometers hoogte versmolten in het perspectivisch verdwijnpunt. Wolken dreven er doorheen als een zwevend plafond.’  Vanuit het perspectief bezien van het fascisme als een autoritair esthetische orde is het zoeken naar een fascistische stijl in de kunsten irrelevant. Recent kunsthistorisch onderzoek leert dat er veel minder dan wel gedacht een eenvormige fascistische kunst geweest is. Een analyse van het fascistisch kunstbeleid dient zich te richten op onderzoek van het fascisme als gestructureerde media-ervaring. Tegenover een linkse revolutionaire kunst die, naar het woord van Rimbaud, streefde naar een ontregeling van alle zinnen, stond de niet minder politieke kunst van het fascisme die een maatschappelijk Gesamtkunstwerk voor ogen stond.
+Het nationaalsocialisme laat zich heel goed beschouwen als een poging om een esthetische orde te stichten. Het monumentale bouwprogramma dat de eerste jaren van de nazi-heerschappij kenmerkten en de algehele verkleedpartij die met de opbouw van een gemilitariseerde maatschappij gepaard ging, waren daar de uitdrukking van. Monumenten en uniformen: het fascisme kenmerkte zich door een verregaande ritualisering van het maatschappelijke leven. Opmarsen, parades en geregiseerde massabijeenkomsten waren de situaties waarin het psychosomatische kunstprocédé zijn werkzaamheid bewees. Yrrah bemerkte in de Volkskrant: 'Een hoogtepunt werd bereikt, toen Speer rondom de Zeppelin Wiese honderden zoeklichten had opgesteld. Die pilaren van licht werkten hallucinerend. Het leek een kathedraal van stralenbundels, die op kilometers hoogte versmolten in het perspectivisch verdwijnpunt. Wolken dreven er doorheen als een zwevend plafond.’ Vanuit het perspectief bezien van het fascisme als een autoritair esthetische orde is het zoeken naar een fascistische stijl in de kunsten irrelevant. Recent kunsthistorisch onderzoek leert dat er veel minder dan wel gedacht een eenvormige fascistische kunst geweest is. Een analyse van het fascistisch kunstbeleid dient zich te richten op onderzoek van het fascisme als gestructureerde media-ervaring. Tegenover een linkse revolutionaire kunst die, naar het woord van Rimbaud, streefde naar een ontregeling van alle zinnen, stond de niet minder politieke kunst van het fascisme die een maatschappelijk Gesamtkunstwerk voor ogen stond.
 
 ##VI.
 
@@ -11381,7 +11379,7 @@ waar het tegen is, want het is voor niets en tegen alles en iedereen.
 
 Door Geert Lovink en Bas-Jan van Stam. Lezing met lichtbeelden gehouden in de hal van kraakpand Van
 Hall (van Hallstraat 625-627, Amsterdam) op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
-Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf.
+Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf. Vanwege het auteursrecht zijn de meeste Kuifje-plaatjes uit het origineel niet in deze uitgave opgenomen.
 
 
 ![](imgs/borboris1.jpg)
@@ -11573,10 +11571,6 @@ Strauss zijn als wolven afgebeeld op politieke affiches. Janmaat en
 Strauss vormden kennelijk een bedreiging voor de linkse sibbe-cultuur.
 
 
-![](imgs/borboris11.JPG)
-
-Afb. 10.
-
 Het sprookje van de Boze Wolf houdt de waarschuwing in, dat het slecht
 met je afloopt wanneer je je niet aan de regels houdt. In zulke gevallen
 bedient de sterke arm zich van de Boze Wolf, die dan gelukkig wel
@@ -11586,7 +11580,7 @@ orde te herstellen.
 
 ![](imgs/borboris12.JPG)
 
-Afb. 11.
+Afb. 10.
 
 Die natuurlijke orde lijkt overigens soms verdacht veel op een mythische
 orde. Het kinder-wolvenboekje uit de Natuur-Serie besteedde dan wel geen
@@ -11607,7 +11601,7 @@ er gebeurde.
 
 ![](imgs/borboris13.JPG)
 
-Afb. 12.
+Afb. 11.
 
 Voor de oude Germanen waren wolven belangrijke dieren. Ze brachten als
 helpers van Odin niet alleen geluk, maar je kon jezelf ook in een wolf
@@ -11642,7 +11636,7 @@ Waarom moest hij dit vreemde kostuum aan doen?’
 
 ![](imgs/borboris14.JPG)
 
-Afb. 13.
+Afb. 12.
 
 Nog een stukje Germaanse mythologie. Ditmaal uit de proza-Edda, een
 oud-Germaans Bijbelboek, en daarin wordt verteld over de geboorte van
@@ -11658,10 +11652,6 @@ Odin, die wolven en raven hield:
 > die hij Bor noemde. Bor nam Bestla, dochter van de reus Bulthoorn, tot
 > vrouw en zij kregen drie zonen: Odin, Wili en We.
 
-
-![](imgs/borboris15.JPG)
-
-Afb. 14.
 
 Wanneer politiewolven losgelaten worden, kunnen de gekste dingen
 gebeuren. Dat gebeurt min of meer ook in de Germaanse mythologie.
@@ -11699,7 +11689,7 @@ zijn, maar hij probeert juist zoveel mogelijk kinderen te vangen.
 
 ![](imgs/borboris16.JPG)
 
-Afb. 15.
+Afb. 13.
 
 We wisten al dat Bor de vader van de wolvengod Odin was. In de
 Fabeltjeskrant hebben ze hetzelfde verband gelegd. Hier is Bor de Wolf
@@ -11718,7 +11708,7 @@ Fabeltjeskrant lezen we het volgende bericht:
 
 ![](imgs/borboris17.JPG)
 
-Afb. 16.
+Afb. 14. Hergé, *De Scepter van Ottokar*, 1938.
 
 Is Bor de Wolf in de Fabeltjeskrant alleen vanwege zijn voorliefde tot
 het Enge Bos nog enigszins een slechte wolf, in het werk van Hergé, in
@@ -11749,11 +11739,6 @@ de koning. Dan spreekt hij alsnog de koning en zo weet Kuifje Boris’
 kwade plannen te verijdelen. Hij ontmaskert Boris als een verrader en
 schakelt hem met een rake vuistslag uit.
 
-
-![](imgs/borboris18.JPG)
-
-Afb. 17.
-
 Als naoorlogse atoomgeleerde en rakettenbouwer heeft professor
 Zonnebloem natuurlijk wat met het fascisme van doen. Zonnebloems
 atoomraket lijkt als twee druppels water op de V2-raketten waarmee de
@@ -11779,7 +11764,7 @@ fascisme iets met elkaar van doen hebben, een meer verborgen versie.
 
 ![](imgs/borboris19.JPG)
 
-Afb. 18.
+Afb. 15. Hergé, *Mannen op de maan*, 1950-1953.
 
 Het eerste optreden van Boris in *Mannen op de maan* is dat hij wraak
 neemt op de vuistslag die Kuifje hem bijna vijftien jaar eerder
@@ -11805,7 +11790,7 @@ hem voornaam maakt. Kortom: eens een Bor de Wolf, altijd een Boze Wolf.
 
 ![](imgs/borboris20.jpg)
 
-Afb. 19.
+Afb. 16.
 
 In Gerard Reves Wolf speelt gelukkig ook een Kuifje-figuur mee, meneer
 Stafman geheten, want anders zou het met Wolf die toch al niet begreep
@@ -11835,7 +11820,7 @@ boete doet en in zijn twijfel krijgt hij kwade sm-gedachtes:
 
 ![](imgs/borboris21.JPG)
 
-Afb. 20.
+Afb. 17. Hergé, *Mannen op de maan*, 1950-1953.
 
 Zodra Boris gevangen is genomen legt hij een verklaring af die typisch
 is voor de SS. ‘‘’Ik zal jullie maar meteen zeggen,’’ verklaart hij,
@@ -11844,11 +11829,6 @@ te ondervragen. Ik antwoord op geen enkele vraag. Probeer ’t eerder met
 Wolff, die keldermot zal het ’n genoegen zijn jullie een en ander
 duidelijk te maken.’’’ Kuifje en de anderen nemen dit serieus en stellen
 Boris inderdaad geen enkele vraag meer en Boris zwijgt.
-
-
-![](imgs/borboris22.JPG)
-
-Afb. 21.
 
 Hoewel Boris stevig vastgebonden is, weet hij niettemin te ontsnappen.
 Samen met zijn zielige handlanger Wolff overvalt hij Kuifje en de
@@ -11859,10 +11839,6 @@ vechtpartij, er valt een schot en Boris blijkt dodelijk getroffen te
 zijn door een kogel die net als de pin door het hart van Dracula midden
 door Boris hart gaat.
 
-
-![](imgs/borboris23.JPG)
-
-Afb. 22.
 
 Kuifje begrijpt nu dat Wolff berouw heeft, raapt zijn bril die tijdens
 de worsteling met Boris gevallen is op, geeft hem aan Wolff terug en
@@ -11885,7 +11861,7 @@ waar Wolf hem de eerste keer ontmoette en met precies hetzelfde tentje:
 
 ![](imgs/borboris24.JPG)
 
-Afb. 23.
+Afb. 18. Hergé, *Mannen op de maan*, 1950-1953. 
 
 Boris was het Absolute Kwaad dat alleen maar tot inkeer gebracht kon
 worden door zijn dood, zoals dat een echte Boze Wolf ook betaamt. Maar

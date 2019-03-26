@@ -432,7 +432,7 @@ hem voornaam maakt. Kortom: eens een Bor de Wolf, altijd een Boze Wolf.
 
 ![](imgs/borboris20.jpg)
 
-Afb. 16. Hergé, *Mannen op de maan*, 1950-1953.
+Afb. 16.
 
 In Gerard Reves Wolf speelt gelukkig ook een Kuifje-figuur mee, meneer
 Stafman geheten, want anders zou het met Wolf die toch al niet begreep
