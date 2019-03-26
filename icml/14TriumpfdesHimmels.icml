@@ -346,7 +346,7 @@
 				<Properties>
 					<AppliedFont type="string">Lato</AppliedFont>
 				</Properties>
-				<Content>10. Triumpf des Himmels: Over Wim Wenders’ </Content>
+				<Content>11. Triumpf des Himmels: Over Wim Wenders’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Bold Italic">
 				<Properties>

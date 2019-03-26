@@ -349,7 +349,7 @@
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>11. Het fascisme der schoonheid: Over gezonde kunst in </Content>
+				<Content>12. Het fascisme der schoonheid: Over gezonde kunst in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Bold Italic">
 				<Properties>
