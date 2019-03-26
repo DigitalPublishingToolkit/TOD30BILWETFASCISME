@@ -567,7 +567,25 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>9. De redelijkheid van het uniform: Over mode voor filosofen 			</Content>
+				<Content>9. Schoonheid is vergif: De illusoire nazificering van de Neue Slowenische Kunst</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Lex Woutersloot (1990)							#</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
+				<Br />
+				<Content>10. De redelijkheid van het uniform: Over mode voor filosofen 			</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Properties>
@@ -587,7 +605,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>10. Triumpf des Himmels: Over Wim Wenders&apos; </Content>
+				<Content>11. Triumpf des Himmels: Over Wim Wenders&apos; </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Italic">
 				<Properties>
@@ -613,7 +631,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>11. Het fascisme der schoonheid: Over gezonde kunst in </Content>
+				<Content>12. Het fascisme der schoonheid: Over gezonde kunst in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic" FontStyle="Italic">
 				<Content>Mijn kamp 		</Content>
@@ -636,7 +654,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>12. &apos;Alleen door een wonder kan ik behouden worden&apos;: Over Boris, Bor en de Wolf 	</Content>
+				<Content>13. &apos;Alleen door een wonder kan ik behouden worden&apos;: Over Boris, Bor en de Wolf 	</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Properties>
@@ -662,7 +680,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>13. Seksisme racisme: Hoezo Kuifje dood?   					</Content>
+				<Content>14. Seksisme racisme: Hoezo Kuifje dood?   					</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
@@ -679,7 +697,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>14. Kuifosofie: Over Hergé en de Alfa-kunst 					</Content>
+				<Content>15. Kuifosofie: Over Hergé en de Alfa-kunst 					</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Properties>
@@ -699,7 +717,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>15. De Kuifjereeks: Zes kleurplaten van Bilwet 					</Content>
+				<Content>16. De Kuifjereeks: Zes kleurplaten van Bilwet 					</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Properties>
@@ -719,7 +737,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>16. Pissen voor de Führer: Het onschuldig fascisme van Hergé 			</Content>
+				<Content>17. Pissen voor de Führer: Het onschuldig fascisme van Hergé 			</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Properties>
@@ -739,7 +757,7 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>17. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid 		</Content>
+				<Content>18. Kuifje in de ban van het beest: Over de opvoeding tot mannelijkheid 		</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
