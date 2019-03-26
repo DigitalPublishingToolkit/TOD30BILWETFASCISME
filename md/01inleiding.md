@@ -538,9 +538,7 @@ contact stonden. Maar ik denk niet dat het problematisch was dat mannen
 over fascisme schreven, aangezien dit voor een groot deel was
 geïnspireerd door feministische geschriften en acties van de (radicale)
 vrouwenbeweging. En praatgroepen, die zijn er nog steeds. Punt is alleen
-dat we sinds alt-right ook Jordan Peterson hebben... Dat is de nieuwe
-identiteitspolitiek die de niet-fascistische zelfanalyse verdrongen
-heeft.
+dat we sinds alt-right ook figuren als Jordan Peterson en Thierry Baudet hebben... Dat is de nieuwe identiteitspolitiek die de niet-fascistische zelfanalyse verdrongen heeft. Wat krijg je als je de adelaar van het duizenjarige rijk politiek correct maakt in de 21e eeuw? De uil van Minerva.
 
 [^1]: Zie bijvoorbeeld Antifascistisch kollektief, *De rechterkant van
     Nederland: een overzicht van extreemrechtse en fascistische
