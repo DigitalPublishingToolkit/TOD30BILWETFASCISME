@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 Door Geert Lovink en Bas-Jan van Stam. Lezing met lichtbeelden gehouden in de hal van kraakpand Van
 Hall (van Hallstraat 625-627, Amsterdam) op 27 februari 1987 door stichting Bilwet. M.m.v.: Bas, Kuifje,
-Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf.
+Gerard Reve, John Raket, Farwerck, Nietzsche en Bor de Wolf. Vanwege het auteursrecht zijn de meeste Kuifje-plaatjes uit het origineel niet in deze uitgave opgenomen.
 
 
 ![](imgs/borboris1.jpg)
@@ -213,10 +213,6 @@ Strauss zijn als wolven afgebeeld op politieke affiches. Janmaat en
 Strauss vormden kennelijk een bedreiging voor de linkse sibbe-cultuur.
 
 
-![](imgs/borboris11.JPG)
-
-Afb. 10.
-
 Het sprookje van de Boze Wolf houdt de waarschuwing in, dat het slecht
 met je afloopt wanneer je je niet aan de regels houdt. In zulke gevallen
 bedient de sterke arm zich van de Boze Wolf, die dan gelukkig wel
@@ -226,7 +222,7 @@ orde te herstellen.
 
 ![](imgs/borboris12.JPG)
 
-Afb. 11.
+Afb. 10.
 
 Die natuurlijke orde lijkt overigens soms verdacht veel op een mythische
 orde. Het kinder-wolvenboekje uit de Natuur-Serie besteedde dan wel geen
@@ -247,7 +243,7 @@ er gebeurde.
 
 ![](imgs/borboris13.JPG)
 
-Afb. 12.
+Afb. 11.
 
 Voor de oude Germanen waren wolven belangrijke dieren. Ze brachten als
 helpers van Odin niet alleen geluk, maar je kon jezelf ook in een wolf
@@ -282,7 +278,7 @@ Waarom moest hij dit vreemde kostuum aan doen?’
 
 ![](imgs/borboris14.JPG)
 
-Afb. 13.
+Afb. 12.
 
 Nog een stukje Germaanse mythologie. Ditmaal uit de proza-Edda, een
 oud-Germaans Bijbelboek, en daarin wordt verteld over de geboorte van
@@ -298,10 +294,6 @@ Odin, die wolven en raven hield:
 > die hij Bor noemde. Bor nam Bestla, dochter van de reus Bulthoorn, tot
 > vrouw en zij kregen drie zonen: Odin, Wili en We.
 
-
-![](imgs/borboris15.JPG)
-
-Afb. 14.
 
 Wanneer politiewolven losgelaten worden, kunnen de gekste dingen
 gebeuren. Dat gebeurt min of meer ook in de Germaanse mythologie.
@@ -339,7 +331,7 @@ zijn, maar hij probeert juist zoveel mogelijk kinderen te vangen.
 
 ![](imgs/borboris16.JPG)
 
-Afb. 15.
+Afb. 13.
 
 We wisten al dat Bor de vader van de wolvengod Odin was. In de
 Fabeltjeskrant hebben ze hetzelfde verband gelegd. Hier is Bor de Wolf
@@ -358,7 +350,7 @@ Fabeltjeskrant lezen we het volgende bericht:
 
 ![](imgs/borboris17.JPG)
 
-Afb. 16.
+Afb. 14. Hergé, *De Scepter van Ottokar*, 1938.
 
 Is Bor de Wolf in de Fabeltjeskrant alleen vanwege zijn voorliefde tot
 het Enge Bos nog enigszins een slechte wolf, in het werk van Hergé, in
@@ -389,11 +381,6 @@ de koning. Dan spreekt hij alsnog de koning en zo weet Kuifje Boris’
 kwade plannen te verijdelen. Hij ontmaskert Boris als een verrader en
 schakelt hem met een rake vuistslag uit.
 
-
-![](imgs/borboris18.JPG)
-
-Afb. 17.
-
 Als naoorlogse atoomgeleerde en rakettenbouwer heeft professor
 Zonnebloem natuurlijk wat met het fascisme van doen. Zonnebloems
 atoomraket lijkt als twee druppels water op de V2-raketten waarmee de
@@ -419,7 +406,7 @@ fascisme iets met elkaar van doen hebben, een meer verborgen versie.
 
 ![](imgs/borboris19.JPG)
 
-Afb. 18.
+Afb. 15. Hergé, *Mannen op de maan*, 1950-1953.
 
 Het eerste optreden van Boris in *Mannen op de maan* is dat hij wraak
 neemt op de vuistslag die Kuifje hem bijna vijftien jaar eerder
@@ -445,7 +432,7 @@ hem voornaam maakt. Kortom: eens een Bor de Wolf, altijd een Boze Wolf.
 
 ![](imgs/borboris20.jpg)
 
-Afb. 19.
+Afb. 16. Hergé, *Mannen op de maan*, 1950-1953.
 
 In Gerard Reves Wolf speelt gelukkig ook een Kuifje-figuur mee, meneer
 Stafman geheten, want anders zou het met Wolf die toch al niet begreep
@@ -475,7 +462,7 @@ boete doet en in zijn twijfel krijgt hij kwade sm-gedachtes:
 
 ![](imgs/borboris21.JPG)
 
-Afb. 20.
+Afb. 17. Hergé, *Mannen op de maan*, 1950-1953.
 
 Zodra Boris gevangen is genomen legt hij een verklaring af die typisch
 is voor de SS. ‘‘’Ik zal jullie maar meteen zeggen,’’ verklaart hij,
@@ -484,11 +471,6 @@ te ondervragen. Ik antwoord op geen enkele vraag. Probeer ’t eerder met
 Wolff, die keldermot zal het ’n genoegen zijn jullie een en ander
 duidelijk te maken.’’’ Kuifje en de anderen nemen dit serieus en stellen
 Boris inderdaad geen enkele vraag meer en Boris zwijgt.
-
-
-![](imgs/borboris22.JPG)
-
-Afb. 21.
 
 Hoewel Boris stevig vastgebonden is, weet hij niettemin te ontsnappen.
 Samen met zijn zielige handlanger Wolff overvalt hij Kuifje en de
@@ -499,10 +481,6 @@ vechtpartij, er valt een schot en Boris blijkt dodelijk getroffen te
 zijn door een kogel die net als de pin door het hart van Dracula midden
 door Boris hart gaat.
 
-
-![](imgs/borboris23.JPG)
-
-Afb. 22.
 
 Kuifje begrijpt nu dat Wolff berouw heeft, raapt zijn bril die tijdens
 de worsteling met Boris gevallen is op, geeft hem aan Wolff terug en
@@ -525,7 +503,7 @@ waar Wolf hem de eerste keer ontmoette en met precies hetzelfde tentje:
 
 ![](imgs/borboris24.JPG)
 
-Afb. 23.
+Afb. 18. Hergé, *Mannen op de maan*, 1950-1953. 
 
 Boris was het Absolute Kwaad dat alleen maar tot inkeer gebracht kon
 worden door zijn dood, zoals dat een echte Boze Wolf ook betaamt. Maar
