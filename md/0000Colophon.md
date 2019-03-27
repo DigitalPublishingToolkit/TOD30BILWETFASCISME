@@ -21,7 +21,7 @@ Rights: CC BY-NC-SA 4.0
 Theory on Demand #30 
 <br/>**Bilwet Fascismemap (1983-1994)**
 
-Auteurs: Bilwet, Arjen Mulder, Bas-Jan van Stam, Geert Lovink
+Auteurs: Bilwet, Geert Lovink, Arjen Mulder, Bas-Jan van Stam, Lex Woutersloot
 <br/>Redacteur: Sepp Eckenhaussen
 <br/>Cover design: Katja van Stiphout 
 <br/>Uitgegeven door het Institute of Network Cultures, Amsterdam, 2019
@@ -37,4 +37,4 @@ Deze publicatie is uitgegeven onder de Creative Commons Attribution-NonCommercia
 
 Deze publicatie kan besteld worden bij verschillende print-on-demand-services en is kostenloos te downloaden via http://www.networkcultures.org/publications.
 
-![](/Users/Sepp/Documents/GitHub/TOD30BILWETFASCISME/md/imgs/networkcultures.jpg)
+![](/Users/inc/Documents/GitHub/TOD30BILWETFASCISME/md/imgs/networkcultures.jpg)
