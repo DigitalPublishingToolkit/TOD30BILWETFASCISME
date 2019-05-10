@@ -78,7 +78,7 @@ vast te leggen.[^2]
 
 ![](imgs/inleiding2.jpg)
 
-Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.
+Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Wouterloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.
 
 Na het verschijnen van een lovende recensie van *Het Beeldenrijk* die
 Arjen Mulder, toenmalige filmrecensent van CPN-dagblad *De Waarheid*,

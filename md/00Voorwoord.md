@@ -386,7 +386,7 @@ misschien cultuurspeculatie noemen. Ooit schreef Bilwet:
 > deconstrueren.[^7]
 
 Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante
-analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgen van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
+analyses tot gevolg. De eerste tekst in deze lijn, van Lex Wouterloot, is het terugvolgen van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
 
 De tweede tekst is een stuk van Bas-Jan van Stam
 over ‘de redelijkheid van het uniform’ voor Bilwets *Arcade: Jaarboek

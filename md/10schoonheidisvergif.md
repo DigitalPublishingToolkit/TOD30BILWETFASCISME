@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: Schoonheid is vergif: De illusoire nazificering van de Neue Slowenische Kunst
 Article-status: accepted
-Author: Lex Woutersloot
+Author: Lex Wouterloot
 Author-email:   sepp@planet.nl
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -18,7 +18,7 @@ Rights: CC BY-NC 4.0
 
 #9. Schoonheid is vergif: De illusoire nazificering van Neue Slowenische Kunst
 
-Door Lex Woutersloot. Verschenen in *Arcade: Jaarboek voor de Ambulante Wetenschappen*, nr. 2, 1990.
+Door Lex Wouterloot. Verschenen in *Arcade: Jaarboek voor de Ambulante Wetenschappen*, nr. 2, 1990.
 
 Laibach is de Duitse aanduiding voor de Joegolavische stad Ljubljana. Het is tevens de naam van een Sloveense band. De popgroep Laibach maakt deel uit van een samenwerkingsverband van kunstenaars dat presenteert als Neue Slowenische Kunst. Tijdens het Amsterdamse Zomerfestijn 1987 trok het collectief de aandacht met een reeks manifestaties. Laibach trad op in Paradiso. Het schildercollectief Irwin exposeerde onder de titel *Was ist Kunst?* in het historische kantoorpandpand van Monumentenzorg aan de Keizersgracht. Het café van het Shaffy toonde theateraffiches van de Neue Kunsthandlung Design Studio. En de leegstaande Posthoornkerk vormde het toneel voor de theatergroepen Red Pilot en Scipion Nasice. Het Amsterdamse publiek toonde zich geïnteresseerd in deze uitingen van hedendaagse Oost-Europese kunst en de kritiek oordeelde positief.
 

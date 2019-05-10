@@ -17,7 +17,7 @@ Rights: CC BY-NC-SA 4.0
 ...
 
 
-# 7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik
+# 7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen  Gesundheits- und Sozialpolitik
 
 Door Geert Lovink. Geschreven in juli 1986.
 
