@@ -26,9 +26,8 @@ schrijverskrakerscollectief Bilwet schreef tussen 1983 en 1999. Er zijn een lezi
 Dagen ’85, filmkritieken, een serie postkaarten, recensies van
 oorlogsromans, mijmeringen in Berlijn, een ambulant-wetenschappelijk
 artikel over filosofenmode en nog zo wat. Wat zijn de gemeenschappelijke
-kenmerken van deze bonte verzameling teksten? Belangrijker nog, hoe en
-waarom zou je die vandaag de dag nog lezen die meer dan dertig jaar oud
-zijn? In dit voorwoord leg ik, als redacteur en samensteller van de map,
+kenmerken van deze bonte verzameling teksten? En
+waarom zou je vandaag de dag nog lezen die meer dan dertig jaar oude teksten lezen? In dit voorwoord leg ik, als redacteur en samensteller van de map,
 allereerst in hoofdlijnen het idee achter de opbouw van de bundel uit en
 vervolgens de rol die elk hoofdstuk daarin speelt. Ten slotte volgt een
 korte verantwoording over taal- en notengebruik.
@@ -37,7 +36,7 @@ korte verantwoording over taal- en notengebruik.
 
 Belangrijk is bij het uitgeven van de Bilwet-fascismemap niet zozeer dat
 twintig of dertig jaar oude fascismeanalyses vandaag de dag nog
-simpelweg toepasbaar zouden zijn. Wel denken we dat er in de
+een op een toepasbaar zouden zijn. Wel denken we dat er in de
 antifascistische discussies, die links-progressieve kringen nog niet zo
 lang geleden gemeengoed waren, belangrijke lessen liggen voor het heden.
 Millenials en de post-9/11-generatie zijn veelal grootgebracht met
@@ -47,7 +46,9 @@ abortusrecht, LHBTQ-rechten, autonoom en antiautoritair denken…
 Voorbeelden van ‘progressieve waarden’ die pas twee generaties breed
 gedragen worden, maar toch al diep verankerd liggen in het collectieve
 denken. In de jaren ’70-’80 was ‘de verbeelding aan de macht’ en ‘moest
-alles anders’.[^1] Wanneer het gaat om de feministische aspecten van
+alles anders’.[^1]
+
+Wanneer het gaat om de feministische aspecten van
 deze collectieve waarden, is het bovendien duidelijk welke historische
 seksestrijd eraan ten grondslag ligt. De theorieën van Simone de
 Beauvoir, de Dollemina’s, de strijd voor het vrouwenkiesrecht, de eerste
@@ -57,7 +58,7 @@ verschil’ en de grote gevolgen: vrouwen over zichzelf, begin van een
 bevrijding* deden de gemoederen in de maatschappelijke discussie hoog
 oplopen.[^2] Door de opkomst van de continentaal-Europese discipline van de 
 vrouwenstudies en kennisinstituten zoals het ATRIA in Amsterdam is deze kennis bovendien
-op een actieve/activistische manier verduurzaamd.[^3]
+op een actieve manier verduurzaamd.[^3]
 
 De geschiedenis van de antifascistische discussies, die chronologisch
 samenviel met en verbonden was aan de feministische discussies, geniet
@@ -85,18 +86,17 @@ het algemeen.
 
 Een belangrijke vraag is natuurlijk wie of wat Bilwet nu eigenlijk was. Een definitie van Bilwet is schier onmogelijk, maar een beetje
 achtergrondinformatie is voor oningewijden en later geborenen onmisbaar.
-Daarom is het eerste hoofdstuk van dit boek, *Hoezo Bilwet?,* waarin het collectief zelf beschrijft wat Bilwet was, hoe het zich
+Daarom is het eerste hoofdstuk van dit boek *Hoezo Bilwet?*, waarin het collectief zelf beschrijft wat Bilwet was, hoe het zich
 bewoog en wat het zich afvroeg.
 
 ### Hoofdstuk 2: De vertoogmixer van Klaus Theweleit
 
-Maar naast de vraag ‘hoezo Bilwet?’ is er natuurlijk de belangrijkere
-vraag ‘hoezo fascismeanalyse?’ Het was op zich niet zo vreemd dat Bilwet
+Een uiteindelijk belangrijkere vraag dan ‘hoezo Bilwet?’ is ‘hoezo fascismeanalyse?’ Het was op zich niet zo vreemd dat Bilwet
 schreef over fascisme in de context van de kraakbeweging, de opkomst van
 extreemrechts in Nederland en de institutionalisering van antifascisme
 in herdenkingspraktijken, maar om wat voor soort fascisme-analyse was
 het ze precies te doen? Om daarachter te komen, begint deze uitgave met
-sporen van nog vóórdat het fascismebegrip om de hoek komt kijken, bij de
+terugvolgen van sporen van de fascismediscussie nog vóórdat het fascismebegrip zelf om de hoek komt kijken, bij de
 Duitse filosoof Klaus Theweleit en diens bespiegelingen op de
 maatschappelijke organisatie van de moderne tijd. Het eerste echte
 artikel in deze bundel is een recensie van Theweleits *Büch der
@@ -109,11 +109,11 @@ vraag is dat de schrijverskunst niet opereert uit autonome
 genialiteiten, maar uit Orfeuscomplexen: het onvermogen van de schrijver
 om te gaan met zijn eigen geschiedenis, wat leidt tot een schrijven ten
 koste van de grote liefde. Het resultaat van deze autopsychoanalyse van
-de schrijver Theweleit wordt door Bilwet omschreven als was het hun
+de Duitse schrijver wordt door Bilwet omschreven als was het hun
 eigen schrijversmotto: ‘Verhalen en begrippen duiken op, ballen samen,
 beginnen te knetteren, gaan verbindingen aan en krijgen voor de lezers
 een intensiteit, die na de schok der herkenning zoiets als een ervaring
-van de ‘’echte geschiedenis’’ oplevert.’ Wanneer Bilwet schrijft, staat
+van de "echte geschiedenis" oplevert.’ Wanneer Bilwet schrijft, staat
 hen dus niet een reductie van de geschiedenis of de hedendaagse conditie
 tot een gestroomlijnd narratief over de ander voor ogen, maar een
 knetterend openbreken van de taal en de eigen subjectiviteit door het
@@ -132,9 +132,9 @@ hang naar fascismeanalyse. Hoe zit dat precies? Logisch voortbouwend op
 de door Theweleit voorgestane zelfanalyse nam Bilwet ook Theweleits
 benadering van fascisme over. Theweleits interesse in fascisme was niet
 in eerste instantie historisch van inslag, maar veeleer geboren uit de
-noodzaak tot collectieve zelfanalyse die men na 1945 systematisch voor
-zich uit heeft weten te schuiven. In de volgende twee hoofdstukken, twee
-totaal verschillende Theweleitkritieken, blijven we daarom bij
+noodzaak tot collectieve zelfanalyse die men in de decennia na 1945 systematisch voor
+zich uit heeft weten te schuiven. In de volgende twee hoofdstukken, tevens twee
+Theweleitkritieken met twee heel verschillende inslagen, blijven we daarom bij
 Theweleit, maar maken we de overstap van zelfanalyse (of Bilwetanalyse)
 naar fascisme-analyse.
 
@@ -167,9 +167,9 @@ de daadwerkelijke fascismeanalyse van Bilwet, bij de unieke bijdrage aan
 de maatschappelijke discussie. Hier beginnen we te zien hoe Bilwet de
 vier van Theweleit geleende polen samenbrengt en hoe dat knettert.
 Grosso modo is deze tekst is een verkorte weergave van de inhoud
-van *Fascisme/Seksisme: rekonstruktie van een mannenideaal, *een boek
-dat in 1983 door Bas-Jan van Stam geschreven werd en dat de geboorteakte
-van Bilwet was.
+van *Fascisme/Seksisme: rekonstruktie van een mannenideaal*, een boek
+dat in 1983 door Bas-Jan van Stam geschreven werd en dat later geboorteakte
+van Bilwet bleek te zijn.
 
 Het is moeilijk *Fascisme/Seksisme *te kenmerken – het is dan ook uniek.
 Het was zo’n beetje een psychoculturele zelfanalyse van hedendaags
@@ -205,7 +205,7 @@ niet-fascistische lijn gezamenlijk verder uit. Het woord ‘fascisme’ komt
 in deze tekst niet een keer voor, maar de overlevering en doorwerken van
 oorlogstrauma’s uit WOII staat onaflatend centraal. Bas-Jan en Geert
 trappen af met een Theweleitiaanse lezing van twee oorlogskronieken,
-Norman Mailers *Helden zonder glorie* en Armando’s *De SS’ers*. Met
+Norman Mailers *Helden zonder glorie* en *De SS’ers* van Armando en Sleutelaar. Met
 Mailers psychonarratief over een groep Amerikaanse helden zonder glorie
 in Japan wordt het punt gemaakt van dat militarisme gelijkstaat aan
 perverse seksualiteit. En uit de soldatengetuigenissen van *De SS’ers*
@@ -249,7 +249,7 @@ Vietnamoorlog als eerste tv-oorlog) van de oorlog heeft het leger geen
 Soldaatmannen meer nodig, maar technisch specialisten. Tegelijkertijd is
 het militarisme geruisloos verspreid naar iedere plek van
 maatschappelijke vorming. Ook op school kan immers de Vietnamoorlog op
-tv gevolgd worden. Als gevolg is de *nieuwe oorlog,* zonder
+tv gevolgd worden. Als gevolg is de *nieuwe oorlog* zonder
 frontervaring, niet mannelijk of vrouwelijk, maar technisch. Het leger
 maakt tegenwoordig geen man, maar een technisch specialist van je!
 
@@ -269,7 +269,7 @@ eerste instantie vooral toe op hedendaags fascisme als overidentificatie
 met mannenidealen. Van daaruit volgde Bilwet verschillende lijnen van
 onderzoek, kijkend naar de Bilwetmatigheden van het nieuwe stromen in de
 nieuwe oorlog, nieuwe mannen, nieuwe machten, nieuwe media en nieuwe
-geschiedenis. Sommige van deze lijnen zijn heel specifiek, andere breed,
+geschiedenis. Sommige van deze lijnen zijn heel specifiek en andere breed, maar
 allemaal zijn ze uiteindelijk met elkaar vervlochten.
 
 In de tweede helft van deze publicatie volgen we drie van deze
@@ -292,8 +292,8 @@ boven, welke maatschappelijke en wetenschappelijke denkpatronen het
 historisch fascisme eigenlijk achtergelaten had. Voor Geert reden om een
 kennismaking te schrijven met het werk van de Hamburgse *Verein zur
 Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik,*
-dat sinds 1984 onderzoek deed naar de biopolitiek van het gezondheids-
-en bevolkingsbeleid in Nazi-Duitsland*.* Een paar van de nauwkeurige
+die sinds 1984 onderzoek deed naar de biopolitiek van het gezondheids-
+en bevolkingsbeleid in Nazi-Duitsland. Een paar van de nauwkeurige
 historische exposés van de *Verein* samenvattend, zet Geert de
 Nazilogica van ‘registreren, sorteren en deporteren’ uiteen, die in ’86
 blijkbaar nog niet zo algemeen bekend was als nu. Schokkend is vooral
@@ -308,7 +308,7 @@ een ‘verlate voorstudie’ voor de super 8-film *De zaak 40-61-84* (1984)
 van Geert Lovink en Just Vercruijsse. Deze film was, kortgezegd, een
 onderzoek naar de ‘derde fase’ van herdenken. De eerste fase is het
 herdenken gebeurt aan de hand van directe herinneringen en relikwieën
-zoals in bijvoorbeeld het hedendaagse Auschwitz-toerisme*.* De tweede
+zoals in bijvoorbeeld het hedendaagse Auschwitz-toerisme. De tweede
 fase van herdenken is het zoeken van de sporen, het vinden van de
 ‘schuldige boom’ à la Armando. De derde fase vangt aan nadat alle
 overlevenden en materiële sporen verdwenen zijn, wanneer alleen het
@@ -323,7 +323,7 @@ intern Bilmemo uit 1986 van Geert over de fascisme-map staat namelijk te
 lezen:
 
 > De stelling van deze map is dat het antifascisme dat in de laatste
-> vijf jaar zo groeide, niet zozeer voortkomt uit ‘’objectieve’’ groei
+> vijf jaar zo groeide, niet zozeer voortkomt uit "objectieve" groei
 > van het neofascisme of fascistische tendensen bij de staat, maar één
 > uitdrukking is van de overdracht van de herinnering van de eerste
 > generatie op de tweede. De maatschappelijke organisatie van de
@@ -368,8 +368,8 @@ dat de systematiek van vernietiging in het fascisme eigenlijk nooit aan
 plaats gebonden was geweest, maar onzichtbaar opging in ‘beweging’ of
 ‘verkeer’. De geschiedenis zelf, zo speculeerden zij, de geschiedenis
 van vaste plekken, was opgehouden te bestaan en overgegaan in plaatsloze
-stromen. Zo komt ook in dit boek de geschiedkunde tot haar einde en
-neemt het Bilweten weer de overhand.
+stromen. Zo komt ook in dit boek de wetenschappelijke geschiedkunde tot haar einde en
+neemt het speculatieve Bilweten weer de overhand.
 
 ### Hoofdstukken 9-13: Cultuurspeculatie
 
@@ -408,7 +408,7 @@ naar de oorsprong van die doctrine: Hitlers jeugd, zoals beschreven in
 *Mein Kampf.* De Bilweters analyseerden het oedipale schema dat
 ‘duimendik’ op Hitlers jeugdherinneringen ligt en waarbinnen de kunst
 voor Hitler in het incestueuze domein terechtkwam. Hitler projecteerde,
-aldus Bilwet, zijn vieze verlangen naar zijn eigen reine moeder op de
+aldus Bilwet, zijn vieze verlangen naar zijn reine moeder op de
 kunst, resulterend in zijn ideeën over schone en de ‘ontaarde’ kunst.
 Schone kunst is hygiënische kunst, gevrijwaard van het vieze incestueuze
 stromen.
@@ -445,22 +445,24 @@ geteisterde ziel met diepe wortels in de Germaanse cultuur, een tembaar
 machtsmiddel, of een woeste oerkracht van het Kwaad? Deze lezing mondt
 uit in de analyse van een fascistisch wolfsfiguur in het Kuifje-album
 *Mannen op de maan*, wat ons brengt bij de laatste Bilwet-analyselijn in
-dit boek: kuifosofie.
+dit boek: de kuifosofie.
 
 ### Hoofdstukken 14-18: Kuifosofie en Datadandy
 
 Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de
-kuifosofie.* ‘Seksisme racisme: hoezo Kuifje dood?’ is een Freudiaanse
+kuifosofie.* In deze bundel is daarom als laatste deel een selectie van vijf kuifosofische teksten opgenomen.
+
+‘Seksisme racisme: hoezo Kuifje dood?’ is een Freudiaanse
 lezing van *Kuifje in Afrika,* waarin Bas-Jan de mythische en
-ongrijpbare vormen van het alledaags racisme bespreekt*.* De stelling is: 
-> Pas als je \[de\] hele omweg van de politiek-economische crisis,
-> het racisme van \[de jaren ‘30\], de ‘’dreiging’’ van de Sovjet-Unie, de
-> enorme werkloosheid, enzovoorts, naar de individuele droomwereld en zijn
-> sekspolitieke symbolen hebt afgelegd, pas dan krijg je zich op die
-> mythische machinerie van het fascisme. \[…\] Wat blijkt namelijk? Dat
-> Hergé door middel van zijn stripheld Kuifje de maatschappelijke
-> politiek-economische crisis vertaalt in een individuele, sekspolitieke
+ongrijpbare vormen van het alledaags racisme bespreekt. De stelling is: 
+>Pas als je \[de\] hele omweg van de politiek-economische crisis,
+het racisme van \[de jaren ‘30\], de "dreiging" van de Sovjet-Unie, de
+enorme werkloosheid, enzovoorts, naar de individuele droomwereld en zijn
+sekspolitieke symbolen hebt afgelegd, pas dan krijg je zich op die
+mythische machinerie van het fascisme. \[…\] Wat blijkt namelijk? Dat
+Hergé door middel van zijn stripheld Kuifje de maatschappelijke
+politiek-economische crisis vertaalt in een individuele, sekspolitieke
 crisis.[^9]
 
 Met andere woorden, Kuifje is het ultieme voorbeeld van
@@ -549,7 +551,7 @@ literatuurverwijzingen die uit de oorspronkelijke manuscripten komen.
 Deze zijn zo volledig mogelijk omgeschreven naar Chicago-stijl. Het moet
 hierbij opgemerkt worden dat Bilwet lang niet altijd referenties plaatse
 bij citaten. Die referentieloze citaten zijn ook in deze publicatie
-grotendeels zonder referentie. Daarnaast zijn er uitleggende noten voor
+grotendeels zonder referentie. Daarnaast zijn er explicatieve noten voor
 fenomenen als ‘Bunkerbuit’, ‘CPN’ en ‘Cor van der Laak’, die niet meer
 vanzelfsprekend als bekend mogen worden verondersteld.
 

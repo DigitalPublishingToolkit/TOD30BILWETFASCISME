@@ -33,7 +33,7 @@ project waarmee hij aan wil tonen dat schrijvers schrijven omdat zij aan
 een ‘Orfeussyndroom’ lijden. Neem Gottfried Benn. Neem Bertolt Brecht.
 Neem Franz Kafka. Allemaal schrijvers die hun grote werken schrijven ten
 koste van hun geliefde. Na* Männerphantasien *schokt Theweleit opnieuw
-met een provocerend boek.*[^1] *Arjen Mulder en Geert Lovink
+met een provocerend boek.*[^27] *Arjen Mulder en Geert Lovink
 comprimeerden de twaalfhonderd pagina’s van het eerste deel van wat
 uiteindelijk een groots vierluik moet worden.*
 
@@ -344,5 +344,5 @@ Stroemfeld/Roter Stern, 38 DM. Vanaf 1989 verschijnen: Band 2: *Benn: Dr
 Orpheus am Machtpol*. Band 3: *Freud: Prof. Orpheus’ Ohr*. Band 4: K.
 Theweleit & M. Langbein, *Celine: in Charons Nachen*.
 
-[^1]: Zie voor besprekingen van dat eerdere boek *Mannenfantasie* de
+[^27]: Zie voor besprekingen van dat eerdere boek *Mannenfantasie* de
     volgende twee hoofdstukken.

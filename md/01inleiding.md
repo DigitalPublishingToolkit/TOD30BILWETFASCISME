@@ -52,12 +52,12 @@ Dan nog eerder de journalistiek in...? Ook dat werd niks, zo bleek wel.
 Bilwet kwam in voorjaar 1983 tot leven na het verschijnen van Bas-Jan
 van Stams boek *Seksisme/fascisme, rekonstruktie van een mannen-ideaal*.
 Dit onderwerp is niet toevallig. Begin jaren tachtig zat er flink wat
-beweging in het nadenken over wat historisch fascisme was, en hoe de
+beweging in het nadenken over wat historisch fascisme was en hoe de
 naoorlogse generaties, die het zelf niet aan den lijve hadden
-meegemaakt, en het publiek waren van de lawine aan herdenkingen, zich
+meegemaakt en het publiek waren van de lawine aan herdenkingen, zich
 hiertoe wilde verhouden. Dit geschiedde in de schaduw van de opkomst van
 een extreemrechts milieu dat minutieus in kaart werd gebracht door het
-fascisme-onderzoekcollectief FOK en andere groepen.[^1] Na een recensie
+fascisme-onderzoekcollectief FOK en andere groepen.[^10] Na een recensie
 van Bas-Jans boek in het aktieweekblad *bluf!* van de hand van Geert,
 kwam een ontmoeting tot stand en werd in een levendige correspondentie
 de grondslag gelegd voor Bilwet als groep. Rond dezelfde had Geert het
@@ -69,10 +69,10 @@ intensief de studie naar hedendaagse theorie in te zetten. De vraag hoe
 het historisch fascisme op een eigen manier kon worden geïnterpreteerd
 bleef daarbij op de voorgrond. In 1985 verscheen het eerste Bilwetboek,
 geschreven door Bas-Jan en Geert, *Het Beeldenrijk*, een vrolijke
-post-Freudiaanse analyse van drie hedendaagse films (*Paris, Texas*/*The
-Day After*/*The Right Stuff*) waarin getracht werd de psychoanalytische
+post-Freudiaanse analyse van drie hedendaagse films (*Paris, Texas*, *The
+Day After* en *The Right Stuff*) waarin getracht werd de psychoanalytische
 duiding van angsten en verlangens in het mediatijdperk op z'n Hollands
-vast te leggen.[^2]
+vast te leggen.[^11]
 
 ## II. Het ontstaan van de fascismemap
 
@@ -85,14 +85,14 @@ Arjen Mulder, toenmalige filmrecensent van CPN-dagblad *De Waarheid*,
 schreef, trad hij toe bij de groep. Ook Ger Peeters (Nijmegen) en Lex
 Wouterloot werden niet veel later lid. Een van de eerste activiteiten
 van de nu vijf man sterke groep was een cursus voor krakers en andere
-activisten in Theweleits boek, dat net in een verkorte Nederlandse
+activisten over Theweleits boek, dat net in een verkorte Nederlandse
 vertaling door een Nijmeegse mannengroep was uitgegeven. De
 theoriecursus werd zowel in Amsterdam als in Nijmegen gehouden.
 
 In de periode van 1984-‘94 schreef de groep ongeveer twintig teksten
 over hedendaags fascisme, bij elkaar goed voor ongeveer 300 pagina’s. In
 de planning moest dit Bilwets tweede boek worden. In 1986 schreef Geert
-hiervoor een opzet (die in deze map is opgenomen).[^3] Echter, niet veel
+hiervoor een opzet (die als bijlage in deze map is opgenomen).[^12] Echter, niet veel
 later deed de personal computer zijn intrede. De artikelen die al waren
 geschreven op elektrische typemachines zouden eigenlijk overtypt moeten
 worden. Aangezien er toen nog geen tekstscanners (ORC) waren, viel het
@@ -105,11 +105,11 @@ strategieën* van Jean Baudrillard werd gelezen, in een Nederlandse
 vertaling, uitgeven door 1001. Qua schrijven verschoof de aandacht van
 Geert en Arjen naar het vastleggen van de geschiedenis van de
 kraakbeweging, die in 1987 in een rap tempo uit elkaar viel (niet veel
-later uitgegeven als Bilwets tweede boek, *Bewegingsleer*).[^4]
+later uitgegeven als Bilwets tweede boek, *Bewegingsleer*).[^13]
 
 De actualiteit van het historisch fascisme verdween langzaam maar zeker
 op de achtergrond en werd overgenomen door de opkomst van 'nieuwe media'
-en het naderende einde van de Koude Oorlog en de 20e eeuw. Het
+en het naderende einde van de Koude Oorlog en de 20ste eeuw. Het
 herdenken bleef ook begin jaren negentig nog prominent op de agenda met
 50 jaar dit en dat, maar werd overvleugeld door technologie, neoliberaal
 beleid, crisis en oorlog (in de Golf, Joegoslavië, Afrika) die de agenda
@@ -125,17 +125,17 @@ van de slachtoffers? Het bleek niet langer voldoende te beweren dat de
 oorsprong van het fascisme in het grootkapitaal lag, waarin een 'volkse'
 oplossing wordt aangedragen met als doel de macht te verdedigen met
 autoritaire middelen om zo de groeiende macht van de arbeidersklasse en
-andere sociale bewegingen te breken.[^5] De onderstromen en het
+andere sociale bewegingen te breken.[^14] De onderstromen en het
 doorleven van fascisme kwamen in plaats daarvan in de aandacht. In het
 boek *Anne Frank in the World,* in 1985 uitgegeven door de Anne Frank
 Stichting, wordt bijvoorbeeld niet alleen over de wrede herinneringen en
 geschiedenissen besproken, maar ook gewaarschuwd voor racisme,
-antisemitisme en vooroordelen in het heden.[^6] Bovendien kwam naast het
+antisemitisme en vooroordelen in het heden.[^15] Bovendien kwam naast het
 institutionele, op herdenken gerichte antifascisme (waarop de CPN zo’n
 beetje een monopolie had) het niet-institutionele antifascisme (dat
 later tot Antifa uitgroeide) op vanuit de krakersbeweging.
 
-Vanaf de jaren 80 zien we dus, grof gezegd, een verschuiving van de
+Vanaf de jaren '80 zien we dus, grof gezegd, een verschuiving van de
 aandacht van gevolgen naar oorzaken. De vraag was niet langer alleen hoe
 men de afschuw kan tonen voor concentratiekampen, totalitarisme,
 onderdrukking en neofascisme, maar hoe het kon dat grote delen van de
@@ -165,7 +165,7 @@ Geert Lovink: Het klopt dat wij daar parallel aan werkten. Dit ligt
 geheel in de lijn van het werk van de Duitse mediatheorie en dat van
 Friedrich Kittler in het bijzonder. In zijn boek *Grammophon Film
 Typewriter* uit 1986, komen oorlog, fascisme, technologie en media
-expliciet samen.[^7] Oorlog versnelt het onderzoek, denk maar even aan
+expliciet samen.[^16] Oorlog versnelt het onderzoek, denk maar even aan
 radar en de computer, maar ook aan de FM-band en de muziekcassette. De
 naoorlogse Electronica en de popmuziek zijn volgens Kittler
 ‘afvalproducten van WO II’.
@@ -175,15 +175,15 @@ te maken voor de hedendaagse context? Wat moeten we *nu *met dit boek?
 
 Geert: Allereerst is er het motief van Foucault, dat BAK – basis voor
 actuele kunst in Utrecht ook onlangs oppakte: het niet-fascistische
-leven.[^8] Maar wat is dat? Wat moeten we dan voorkomen, waar moeten we
+leven.[^17] Maar wat is dat? Wat moeten we dan voorkomen, waar moeten we
 waakzaam voor zijn, wat bestrijden? Of moeten dat allemaal juist achter
-ons laten. Kunnen we dat wel? Hebben we de hel van de 20e eeuw
+ons laten? Kunnen we dat wel? Hebben we de hel van de 20ste eeuw
 daadwerkelijk overstegen en is de collectieve psyché (en die van het
 individu) werkelijk zo veranderd, dat het niet meer ontvankelijk is voor
 massapsychose en het projecteren van maatschappelijke problemen op
 minderheden? Belangrijk is te snappen wat het individu vandaag de dag
 gaat doen zodra het in het defensief is gedrongen. De herverdeling van
-welvaart verloopt niet meer zoals 40-50 jaar geleden. Hierdoor zijn
+welvaart verloopt niet meer zoals 40 of 50 jaar geleden. Hierdoor zijn
 velen die buiten de boot vallen open gaan staan voor rechts-populisme.
 De vraag is welke psychologische constellatie hierbij hoort. De vraag
 zou dus niet moeten zijn of het historisch fascisme terugkeert maar hoe
@@ -196,24 +196,24 @@ Sepp: Het gaat inderdaad niet om het kunnen aanwijzen van *de* fascist.
 te maken voor fascist die zichzelf niet (openlijk) als fascist
 identificeren. Je vervalt dan alleen maar in een welles-nietes-discussie
 rond de definitie en toepassing van 'fascisme'. En dan ook nog eens
-geweld gaan gebruiken? Nee, ik denk dat de grote urgentie van
+geweld gaan gebruiken? Ik denk dat de grote urgentie van
 hedendaagse fascismeanalyse ligt in het kunnen begrijpen en verklaren
 van hedendaagse maatschappelijke tendensen en het anticiperen op
 structurele toekomstige gevaren. Maar dat is natuurlijk ook niet een
 neutrale analyse zonder politieke aannames of grondslagen. Bij
-fascismeanalyse hoort de antifascistische strijd, en wellicht ook de
-non-fascist. De belangrijkste vraag lijkt dan ook te zijn: wat betekent
+fascismeanalyse hoort de antifascistische strijd en wellicht ook de
+non-fascistische. De belangrijkste vraag lijkt dan ook te zijn: wat betekent
 het vandaag de dag om antifascist of non-fascist te zijn? In
-verschillende landen zien we Trump, Orbán, Duterte, Bolsonaro, de Gouden
+verschillende landen zien we sterke mannen als Trump, Orbán, Duterte, Bolsonaro, de Gouden
 Dagenraad en in Nederland Wilders en Baudet die een gooi doen naar zo'n
 positie. Hoe kijkt de non-fascist naar zulke verschillende bewegingen op
 de wereld? Wat zegt fascismeanalyse ons over de *strong men *van
 vandaag?
 
 Geert: Een cruciale overgangstekst hier is Laclau’s *On Populist Reason*
-uit 2005.[^9] Deze stamt niet uit de jaren 80, alhoewel zijn *Hegemony*
-*and* *Socialist Strategy* wel die tijd is geschreven, samen met Chantal
-Mouffe.[^10] Toch kunnen we *On Populist Reason* zien als een belangrijk
+uit 2005.[^18] Deze stamt niet uit de jaren '80, alhoewel zijn *Hegemony*
+*and* *Socialist Strategy* wel in die tijd is geschreven, samen met Chantal
+Mouffe.[^19] Toch kunnen we *On Populist Reason* zien als een belangrijk
 document dat vooral naar de toekomst wijst. Het punt is denk ik niet
 meer zozeer dat mensen zich aangesproken voelen als ‘volk’ of ‘natie’.
 Laclau wijst op de sociale heterogeniteit van vandaag de dag. Die kan
@@ -249,7 +249,7 @@ precies? Op wikikids.nl lees ik:
 > Wereldoorlog is bijvoorbeeld begonnen door het fascistische Duitsland
 > van Adolf Hitler. \[…\] Veel fascistische landen werkten samen in de
 > Tweede Wereldoorlog, maar nadat ze die oorlog hadden verloren werd het
-> fascisme nooit meer acceptabel gevonden.[^11]
+> fascisme nooit meer acceptabel gevonden.[^20]
 
 Dit is de Jip-en-Janneke-definitie van fascisme als een historisch
 netjes afgerond en ethisch afgesloten fenomeen. Die ging jullie niet ver
@@ -302,7 +302,7 @@ detail besproken, dus laten hier als voorbeeld Bifo even volgen:
 > the will, against the subjugation of human events to the automaton.
 > \[…\] Impotence is the distinctive quality of our time. Impotence and
 > rage that impotence provokes – especially amongst white men – is, in
-> my opinion, the deep and current return of fascism.[^12]
+> my opinion, the deep and current return of fascism.[^21]
 
 Hedendaags fascisme staat dus gelijk aan impotentie (inderdaad, een
 mannenkwaal). Het probleem met zulke *sweeping claims *is dat ze het
@@ -320,7 +320,7 @@ Zowel monomanie als inflatie van begrippen liggen op de loer, want juist
 verruimende vaagheid van begrippen is nodig voor een alomvattende
 tunnelvisie. In een Theweleitkritiek uit de jaren '80 schreef Arjen al:
 'Je kunt Theweleit wel verwijten dat hij in zijn enthousiasme soms lijkt
-te menen dat zijn model de enige juiste is, d.w.z. de ''werkelijke''
+te menen dat zijn model de enige juiste is, d.w.z. de "werkelijke"
 verklaring die alle andere verklaringen uitsluit en overbodig maakt.'
 
 Ik snap best dat Bilwet voorbij het nulpunt van betekenis wilde
@@ -339,7 +339,7 @@ Twittervorm van deconstructie. Het zou op zich een goed plan zijn om
 eens experimenten te gaan doen met het versnellen van diepte analyses.
 Kan dat überhaupt? Postmoderniteit staat bij jou, vermoed ik, voor
 relativering, maar daar kan binnen de fascisme analyse geen sprake
-zijn—daarvoor het thema te serieus en te urgent, denk maar aan de
+zijn — daarvoor het thema te serieus en te urgent, denk maar aan de
 opkomst van Wilders en Baudet. Racisme in Nederland bestaat wel degelijk
 en dat kan niet zomaar door een spraak- of denkpolitie via verboden in
 oude media zoals kranten en tv worden opgelost.
@@ -357,7 +357,7 @@ vertelde ooit in een interview met Jo van der Spek over jou:
 > totdat ik zei, dat 'niet' is een werkwoord, je moet zonder moeite
 > nieten. Toen was het acceptabel. Dus je moet verkeerd lezen, dan
 > schiet je op, dan kom je verder. Het is het weggooien van ballast, het
-> streven naar niks.[^13]
+> streven naar niks.[^22]
 
 Jullie hebben dan ook nogal eens een zeperd gemaakt. Klimaatbewustzijn
 wegzetten als ecofascistische biopolitiek bijvoorbeeld, of sporten
@@ -384,9 +384,9 @@ groepen dienen niet met elkaar in contact te komen.
 Sepp: In 1994 karakteriseerden jullie bij Bilwet de mediatheorie als
 ‘een expeditie om over de rand van de mediale planeet te vallen, in de
 wetenschap dat deze rond is. Het blijkt mogelijk de media-almacht te
-ontkennen door buitenaards te gaan. ‘’We are here to go.’’ De media zijn
+ontkennen door buitenaards te gaan. "We are here to go." De media zijn
 geen *primordial uncarved block, *het oppervlak ervan vertoont barstjes,
-patronen. Het alienstandpunt maakt die zichtbaar.’[^14] Zien we hier een
+patronen. Het alienstandpunt maakt die zichtbaar.’[^23] Zien we hier een
 nieuwe manier om een buitenpositie in te nemen, om een
 maatschappijkritiek van de ander te schrijven? In andere woorden, was de
 mediatheorie in beginsel niet precies dat soort analyse waar jullie,
@@ -423,7 +423,7 @@ fascisme-analyse en mediatheorie in gesprek gaan. In 2018 interviewden
 Sara-Lot van Uum en ik je samen voor het UvA-studentenblad *Simulacrum*
 over memes en hedendaags fascisme, een interview dat uiteindelijk
 neerkwam op de vraag: kunnen we een fascisme-psychoanalyse van
-hedendaagse mediafenomenen maken?[^15] Je was toen
+hedendaagse mediafenomenen maken?[^24] Je was toen
 ambivalent in je antwoord: de productiesnelheid van memes is te hoog
 voor een goede psychoanalyse, maar we kunnen ons ook niet doodstaren op
 die productiesnelheid zelf zoals Deleuzianen doen (‘Oh! Wat een
@@ -431,11 +431,11 @@ productie! Geweldig!’). De conclusie die uit die ambivalentie kwam was
 zoiets als (hou je vast): memes kunnen misschien wel een broeinest voor
 fascisme zijn, omdat ze getuigen van een crisis in mannenidealen
 (zogenaamd veroorzaakt door feminazis, *social justice warriors*,
-*reverse rape* etc.), maar door de ‘*weak links*’ op sociale media en de
+*reverse rape* etc.), maar door de *weak links* op sociale media en de
 instabiliteit in de betekenis van memes kunnen we deze analyse nooit
 hard maken en is er ook geen écht gevaar. Eigenlijk het enige dat we te
 winnen hebben bij zo'n analyse is, zo stelde je, bewustwording van wat
-die crisis in het mannenideaal vandaag de dag is: ‘*the void*’, het
+die crisis in het mannenideaal vandaag de dag is: *the void*, het
 nihilisme. Ambivalentie én een sweeping claim dus. Wat als we nu eens
 wel uitspraken willen doen over fascisme in de netwerksameleving, maar
 geen genoegen nemen met een ambivalent antwoord en ook geen *sweeping
@@ -459,14 +459,14 @@ niet uit.
 
 Sepp: Jij stelde ooit dat het fascisme-onderzoek van Bilwet in de kern
 ging om de overdracht van het WOII-trauma van de generatie die het aan
-den lijve meemaakte op de generatie die er alleen van gehoord had.[^16]
+den lijve meemaakte op de generatie die er alleen van gehoord had.[^25]
 De techniek die jullie voor dit onderzoek gebruikten was de *third
 mind:* ‘De auteur Bilwet is vanouds een *third mind: *twee jongens en
 een typemachine. De samengestelde tekst is niet de optelsom van
 individuen, maar iets totaal anders, een samenballing van inzichten en
-uitglijers waar de bilweter alleen nooit op was gekomen.’[^17] Jullie
+uitglijers waar de bilweter alleen nooit op was gekomen.’[^26s] Jullie
 schreven samen, zittend op witte stoelen, boekenkast binnen handbereik.
-Nu wij samen schrijven lijkt, rijst een soortgelijke kwestie van
+Nu wij samen schrijven, rijst een soortgelijke kwestie van
 generatie-overdracht. Toen jullie de teksten in deze bundel schreven,
 waren jullie namelijk ongeveer even oud als ikzelf nu ben. Dertig jaar
 later ben ik, naar jij zegt, de eerste die de wereld van Bilwet
@@ -493,13 +493,13 @@ Ming in Italië bestaat nog steeds, zij schrijven samen fictie onder die
 naam.
 
 Sepp: Ja ik denk dat je gelijk hebt met je analyse over collectief
-schrijverschap. Maar hoe zit het met die generatieoverdracht? De
-fascisme-discussie in de jaren '70 en '80 was een mannendiscussie. De
+schrijverschap. 't Is voor velen inderdaad nogal onaantrekkelijk geworden. Maar hoe zit het met die generatieoverdracht? Neem bijvoorbeeld het feit dat de
+fascisme-discussie in de jaren '70 en '80 een mannendiscussie was - wat kunnen we daarvan leren? De
 allermeeste auteurs die geciteerd worden in deze bundel,
 inleiding incluis, zijn mannen. De vertaling van Theweleit werd opgezet
 door 'mannentijdschrift' *Manuskript*. Er wordt meer dan eens verwezen
 naar 'mannenpraatgroepen'. En niet te vergeten, Bilwet was een
-mannenclub. Toch was de fascisme-analyse geen circel-jerk-discussie over
+mannenclub. Toch was de fascisme-analyse geen circel-jerk over
 mannenrechten zoals die vandaag de dag door 'incels' gevoerd wordt.
 Integendeel. Het was voor mij een openbaring toen mijn moeder me
 vertelde over de fascisme-discussies van toen. Het patriarchaat is
@@ -540,56 +540,56 @@ geïnspireerd door feministische geschriften en acties van de (radicale)
 vrouwenbeweging. En praatgroepen, die zijn er nog steeds. Punt is alleen
 dat we sinds alt-right ook figuren als Jordan Peterson en Thierry Baudet hebben... Dat is de nieuwe identiteitspolitiek die de niet-fascistische zelfanalyse verdrongen heeft. Wat krijg je als je de adelaar van het duizenjarige rijk politiek correct maakt in de 21e eeuw? De uil van Minerva.
 
-[^1]: Zie bijvoorbeeld Antifascistisch kollektief, *De rechterkant van
+[^10]: Zie bijvoorbeeld Antifascistisch kollektief, *De rechterkant van
     Nederland: een overzicht van extreemrechtse en fascistische
     verschijnselen in Nederland* (Amsterdam: SUA, 1983).
 
-[^2]: Bilwet, *Het Beeldenrijk: over stralingsangst en ruimteverlangen*
+[^11]: Bilwet, *Het Beeldenrijk: over stralingsangst en ruimteverlangen*
     (Amsterdam: Raket en lont, 1985).
 
-[^3]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
+[^12]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
 
-[^4]: Bilwet, *Bewegingsleer* (Amsterdam: Ravijn, 1990), ook online:
+[^13]: Bilwet, *Bewegingsleer* (Amsterdam: Ravijn, 1990), ook online:
     <http://www.thing.desk.nl/bilwet/bilwet/Bewegingsleer/index.html>.
 
-[^5]: Zulke klassiek-Marxistische verklaringen zijn te lezen in,
+[^14]: Zulke klassiek-Marxistische verklaringen zijn te lezen in,
     bijvoorbeeld, Reinhard Kühnl, red. *Texte zur Faschismussdiskussion
     I: Positionen und Kontroversen* (Reinbek bei Hamburg: Rowohlt
     Verlag, 1974).
 
-[^6]: *Anne Frank in the World,* red. Anne Frank Stichting (Amsterdam:
+[^15]: *Anne Frank in the World,* red. Anne Frank Stichting (Amsterdam:
     Bert Bakker, 1985), vooral 72-77.
 
-[^7]: Friedrich Kittler, *Grammophon Film Typewriter* (Berlijn:
+[^16]: Friedrich Kittler, *Grammophon Film Typewriter* (Berlijn:
     Brinkmann & Bose, 1986).
 
-[^8]: Michel Foucault, ‘Preface,’ in Gilles Deleuze en Félix Guattari,
+[^17]: Michel Foucault, ‘Preface,’ in Gilles Deleuze en Félix Guattari,
     *Anti-Oedipus: Capitalism and Schizophrenia* (London: Continuum,
     2004 (1984)), xv.
 
-[^9]: Ernesto Laclau, *On Populist Reason* (London & New York: Verso,
+[^18]: Ernesto Laclau, *On Populist Reason* (London & New York: Verso,
     2005).
 
-[^10]: Ernesto Laclau en Chantal Mouffe, *Hegemony and Socialist
+[^19]: Ernesto Laclau en Chantal Mouffe, *Hegemony and Socialist
     Strategy: Towards a Radical Democratic Politics* (London & New York:
     Verso, 1985).
 
-[^11]: ‘Fascisme,’ *WikiKids,* geraadpleegd op 11 februari 2019,
+[^20]: ‘Fascisme,’ *WikiKids,* geraadpleegd op 11 februari 2019,
     <https://wikikids.nl/Fascisme>.
 
-[^12]: Franco ‘Bifo’ Berardi, ‘Dynamics of Humiliation and Postmodern
+[^21]: Franco ‘Bifo’ Berardi, ‘Dynamics of Humiliation and Postmodern
     Fascism,’ in *A New Fascism?, *edited by Susanne Pfeffer (London:
     Koenig Books, 2018), 11-12.
 
-[^13]: ‘Interview van Jo van der Spek met Bilwet (Basjan van Stam en Lex
+[^22]: ‘Interview van Jo van der Spek met Bilwet (Basjan van Stam en Lex
     Wouterloot) Voor ARKZIN/Zagreb,’ *Thing.Desk.nl*, september
     1995, [*https://thing.desk.nl/bilwet/TXT/BILWET.INT.txt*](https://thing.desk.nl/bilwet/TXT/BILWET.INT.txt).
 
-[^14]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
+[^23]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
 
-[^15]: INC publiceerde een herziene Engelse vertaling van dit
+[^24]: INC publiceerde een herziene Engelse vertaling van dit
     interview: [*http://networkcultures.org/blog/2018/12/21/memes-and-everyday-fascism-a-triptych-on-the-collective-techno-subconscious-as-incubator-of-a-mens-ideal/*](http://networkcultures.org/blog/2018/12/21/memes-and-everyday-fascism-a-triptych-on-the-collective-techno-subconscious-as-incubator-of-a-mens-ideal/).
 
-[^16]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
+[^25]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
 
-[^17]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
+[^26]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.

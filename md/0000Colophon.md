@@ -37,4 +37,4 @@ Deze publicatie is uitgegeven onder de Creative Commons Attribution-NonCommercia
 
 Deze publicatie kan besteld worden bij verschillende print-on-demand-services en is kostenloos te downloaden via http://www.networkcultures.org/publications.
 
-![](/Users/inc/Documents/GitHub/TOD30BILWETFASCISME/md/imgs/networkcultures.jpg)
+![](imgs/networkcultures.jpg)

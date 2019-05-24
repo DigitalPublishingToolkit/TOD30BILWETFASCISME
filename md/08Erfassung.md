@@ -38,7 +38,7 @@ opgedragen, dan aan hun mediatieve onkunde. In het gebruik van de moraal
 zijn zij nog vooroorlogs. Dessaur daarentegen kijkt vooruit, naar ‘het
 eind van de eeuw’: ‘in een sfeer van blind terrorisme,
 natuurvergiftiging en economische dreiging begint de twintigste eeuw aan
-haar laatste decennia.’[^1] Met aan de ene kant de ‘onverbiddelijke
+haar laatste decennia.’[^99] Met aan de ene kant de ‘onverbiddelijke
 optimisten’ en aan de andere kant ‘de zwarte brigade, wier oplossing
 voor alle euvelen is: *more of the same*. Meer bureaucratie, meer
 technocratie, meer mechanisering en automatisering, meer dehumanisering,
@@ -103,18 +103,18 @@ zie als de 'Stand der Dinge'. De vijfde alinea gaat als volgt:
 > (universele) abortus en (vanzelfsprekende) euthanasie uit te leggen
 > wat hun bezwaren zijn tegen de engeltjesmakers, of de do-gooders die
 > met injectienaald en spuit maar al te gaarne hun medemensen uit hun
-> aardse lijden willen verlossen.[^2]
+> aardse lijden willen verlossen.[^100]
 
 Even verderop blijkt dat de inhoud van de eugenetische ideologie typisch
 nationaalsocialistisch is: 'Het is in het belang van moeder en/of kind,
 respectievelijk van de ernstig zieke of de niet meer productieve
 bejaarde, dat medici en verpleegkundigen of hen te hulp snellende leken
-zich in dienst te stellen van de dood.’[^3] En het pamflet eindigt dan
+zich in dienst te stellen van de dood.’[^101] En het pamflet eindigt dan
 met een klaagzang over het verval van ‘onze beschaving’: ‘Het
 nationaalsocialistische geestelijke erfgoed, verpakt in de rode vlag van
 het groepsheil of in het plastic van het individuele hedonisme, kan tot
 niets anders leiden dan totale barbarij, totale angst van allen voor
-allen, totale vernietiging van wat eens onze beschaving was.’[^4]
+allen, totale vernietiging van wat eens onze beschaving was.’[^102]
 
 In een gesprek met NRC-Handelsblad voegt ze daar nog wat aan toe:
 
@@ -134,7 +134,7 @@ dat de uitdragers van het ‘euthanasiasme’ allemaal Nazi's zouden zijn:
 > mensen van iedere politieke signatuur. Maar ik heb gezegd: de geest
 > die zich vijftig jaar geleden manifesteerde, onder meer in het
 > nationaalsocialisme, manifesteert zich nu in sommige andere culturele
-> bewegingen.[^5]
+> bewegingen.[^103]
 
 Een nuancering die een paar vragen later weer verdwijnt als het gaat om
 de demagogie van de voorstanders:
@@ -144,7 +144,7 @@ de demagogie van de voorstanders:
 > stond. Er was daar geen Arbeit en er was ook geen Freiheit. Met
 > levenstestament bedoelen ze een verklaring hoe de drager ervan door de
 > hand van een ander wenst te sterven. Een demagogisch eufemisme
-> dus.[^6]
+> dus.[^104]
 
 Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet:
 
@@ -156,7 +156,7 @@ Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet:
 > belangrijker is hoe de Duitsers nu omgaan met hun Turkse gastarbeiders
 > dan dat er zo’n historische fout gemaakt wordt. Zo is het ook wat
 > Shoah betreft belangrijker te constateren dat zoveel mensen nu nog in
-> diezelfde mentaliteit leven van afzijdigheid en misdadigheid.[^7]
+> diezelfde mentaliteit leven van afzijdigheid en misdadigheid.[^105]
 
 Boudewijn Büch is iemand die het voor haar opneemt:
 
@@ -171,7 +171,7 @@ Boudewijn Büch is iemand die het voor haar opneemt:
 En hij besluit zijn column in *Het Parool* met ‘Dood wordt nooit modern,
 dus moeten we onmiddellijk stoppen met zogenaamd moderne opvattingen
 over euthanasie te ventileren. Mevrouw Dessaur heeft met *Mag de dokter
-doden?* alweer een goed boek geschreven.’[^8] Büch zegt ten aanzien van
+doden?* alweer een goed boek geschreven.’[^106] Büch zegt ten aanzien van
 de dood een conservatief standpunt in te nemen. Zou hij ook onder de
 typering van Carel Peeters vallen, een ‘Staphorster intellectueel’ te
 zijn? Zo tenminste noemt hij Dessaur in zijn aanval op haar recente
@@ -191,7 +191,7 @@ tijd tot tijd erupties van ‘kwaad’ teweegbrengen:
 > atavistische volkerenpsychologie te bedrijven?’ vraagt Peeters zich
 > af. ‘Als dit “intellectuele subtiliteit” van vóór Plato is dan is het
 > maar goed dat het erg lang geleden is. Maar bij mijn weten was Efeze
-> toen geen Staphorst.[^9]
+> toen geen Staphorst.[^107]
 
 Waarom komt er dan uit Efeze geen kritische beschouwing over euthanasie
 en moet een boeddhist zich opwerpen als de beschermengel van ‘onze
@@ -222,7 +222,7 @@ Dessaur:
 > het begin via eugenetische abortus, selectie aan het eind via
 > euthanasie op geïndoctrineerde bejaarden en straks selectie halverwege
 > op al diegenen die anderen niet gezond en gelukkig toeschijnen. Zo
-> wint Hitlers geest toch nog de wereldoorlog.[^10]
+> wint Hitlers geest toch nog de wereldoorlog.[^108]
 
 ## II. De Dokumentationsstelle zur NS-Sozialpolitik
 
@@ -312,7 +312,7 @@ gen-manipulatie of het ‘Erbgesundheitsgericht’ van toen dat nu
 gedaan zijn vanuit een politiek perspectief, en aantonen hoe groot de
 personele en ideologische continuïteit in de gezondheidszorg is en hoe
 weinig er tot dusver is uitgezocht over deze, niet afgesloten
-geschiedenis.[^11]
+geschiedenis.[^109]
 
 ## III. Vernietiging en modernisering
 
@@ -338,7 +338,7 @@ geschiedenis.[^11]
 > Deze laat zich door omschrijvingen niet vatten. Het is niet genoeg om
 > zijn verlammende gewicht enigszins verdraaglijk te maken. Hij moet
 > uiteengebarsten worden. En dat kan alleen als we z'n substantie
-> blootleggen.[^12]
+> blootleggen.[^110]
 
 Een intentieverklaring die aangeeft in welke richting het onderzoek
 gaat. De samenstelling van de molensteen bestaat voor hen uit twee
@@ -396,7 +396,7 @@ waarbinnen de Nazi-bevolkingspolitiek zou passen. Daarin gaat het om de
 Grossraumwirtschaft’. Kar-Heinz Roth schreef hierover drie artikelen.
 ‘De drievoudige uitbuiting van buitenlandse arbeiders’ over het schuiven
 met loon- en spaargelden door de banken (die voor aflossing van
-buitenlandse schulden gebruikt werd).[^13] ‘Bevolkingspolitiek en
+buitenlandse schulden gebruikt werd).[^111] ‘Bevolkingspolitiek en
 dwangarbeid in het “Generalplan Ost”’ is een referaat dat hij voor een
 congres in Warschau hield. Gevoed door ‘mannelijke seksuele angsten
 wordt de haat tegen de Polen omgezet in een experiment dat Roth ziet als
@@ -406,7 +406,7 @@ waren nergens anders dan in Polen zo geïntegreerd en gerealiseerd. Ze
 stonden in het kader van het ‘Generalplan Ost’ waarin Polen de functie
 kreeg van leverancier van werkslaven en koloniale grondstoffen.
 Extensieve landbouw moest ingevoerd worden en de industrie
-ontmanteld.[^14]
+ontmanteld.[^112]
 
 In het artikel ‘Vernietiging en ontwikkeling: de Nazistische
 “Neuordnung”’, dat Roth samen met Bretton Woods schreef voor het
@@ -423,7 +423,7 @@ hierop kan nog een kritiek vermeld worden van Michael Hepp op het boek
 van Albert Speer, *Der Sklavenstaat* waarin ook een schets wordt gegeven
 wat Europa en in het bijzonder de Oost-Europese landen te wachten stond.
 Niets meer dan een verlate wraak op Himmler en een verontschuldiging vol
-met fouten van een man die zijn eigen rol verzwijgt, aldus Hepp.[^15]
+met fouten van een man die zijn eigen rol verzwijgt, aldus Hepp.[^113]
 
 In Roths artikel over de betalingen aan buitenlandse arbeiders kwam de
 rol van de Deutsche Bank ook ter sprake. In het diepste geheim werkte de
@@ -460,7 +460,7 @@ voor gemaakt kan worden. Daarnaast zijn er onder andere in Bremen en
 West-Berlijn initiatieven om het sneller op lokaal niveau te regelen en
 tot een schadeloosstelling te komen. Het spreekt voor zich dat hierbij
 de publicaties van de Dokumentationsstelle een belangrijke rol
-spelen.[^16]
+spelen.[^114]
 
 ## IV. Registratie en selectie
 
@@ -587,7 +587,7 @@ Madagaskar te deporteren wordt doorgerekend. Drie jaar later worden de
 deportaties die wel doorgang vonden in opdracht van Himmler door de
 statisticus Korherr voorgerekend. Opgedeeld naar regio of land telt hij:
 ‘Evakuierungen insgesamt einschl. Sonderbehandlung… 1 873 519
-Juden’.[^17]
+Juden’.[^115]
 
 De schrijvers verbazen zich erover dat in al die boeken over de
 Jodenvervolging dit wezenlijke aspect ontbreekt. Zelfs de historicus
@@ -620,7 +620,7 @@ tegenstelling tot ‘Führer’ allerminst uit de Duitse taal is verdwenen:
 > welgeteld liefst zevenmaal voor; eenmaal staat er zelfs ‘’besonders
 > erfasst’’. Men vindt het bijna steeds aan het eind van een zin, zodat
 > alleen het uitroepteken lijkt te mankeren. De kat had de muis
-> erfasst.[^18]
+> erfasst.[^116]
 
 Dat schrijft Jaques Presser in zijn indrukwekkende boek *Ondergang: De
 vervolging en verdelging van het Nederlandse Jodendom 1940-1945*. Daarin
@@ -657,7 +657,7 @@ inzicht bestond in de naoorlogse jaren niet eens.
 
 Een artikel behandelt het sociaal-Darwinisme, een leer die in de
 twintiger jaren onder artsen populair was. Ook het standaardwerk over
-euthanasie van Ernst Klee opent hiermee.[^20] In de Hamburgse
+euthanasie van Ernst Klee opent hiermee.[^118] In de Hamburgse
 publicaties is daar tot dusver geen aandacht aan besteed. Misschien
 omdat daar genoeg over bekend is en men tegenwoordig voorzichtig is in
 het doen van zulke uitlatingen. Het kan eraan liggen dat discriminatie
@@ -691,7 +691,7 @@ maatregel tegen ‘asocialen’ werd alleen in Hamburg zo rigoureus de
 sloophamer ingezet (het ‘Gängeviertel’ werd in z’n geheel afgebroken).
 Verder is opvallend dat de maatregelen tegen alcoholici, daklozen,
 steuntrekkers, hoeren, et cetera, zo vroeg werden genomen. In ’35/’36
-waren ze ‘erfasst’.[^21]
+waren ze ‘erfasst’.[^119]
 
 Karl Heinz Roth opent met een verhandeling over de armoedepolitiek in de
 jaren dertig in Hamburg waar nog jaren na ’33 de noodtoestand van kracht
@@ -729,7 +729,7 @@ Naast documenten en ‘Täterbiografien’ vond ik twee opmerkelijke
 artikelen, beide in het gedeelte ‘Aussonderung und Vernichtung in den
 Anstalten.’ Het eerste is van de hand van Angelika Ebbinghaus die de
 ‘Aktive Therapie’ plaatst in een breder kader van bezuinigingen en moord
-in de psychiatrische inrichtingen. [^22] Het gaat hier om de toepassing
+in de psychiatrische inrichtingen. [^120] Het gaat hier om de toepassing
 van de elektroshock, die na onderzoek in jaren dertig niet langer op het
 hele lichaam, maar alleen op de hersenen werd verricht. Een
 ‘wetenschappelijke’ foltermethode die voor veel patiënten de dood
@@ -746,7 +746,7 @@ gebruik van het therapeutisch activisme kon niet worden aangebracht.
 Het tweede artikel is een openhartige zelfkritiek van een vooraanstaande
 naoorlogse psychiater, Klaus Dörner die ook al op de Gesundheitstag in
 1980 vraagtekens zette bij de mede door hem opgestelde en doorgevoerde
-hervorming van de Duitse psychiatrie in de jaren zeventig.[^23] Doordat
+hervorming van de Duitse psychiatrie in de jaren zeventig.[^121] Doordat
 het Naziverleden niet verwerkt is dreigt deze hervorming een kant op te
 gaan die veel overeenkomsten heeft met de Nazi-hervormingen en
 ‘oplossingen’. Vrijwel iedereen had weet van de dodentransporten van
@@ -816,7 +816,7 @@ zoals bij T-4 via ‘Gutachten’ het geval was, door ‘Einsatztruppen’
 doodgeschoten. Een summiere voorgeschiedenis en een uitgebreide uitleg
 over de verschillende stappen van de ‘T-4 Aktion’ is te vinden in het
 eerste overzicht dat Ernst Klee in 1983 schreef, *‘Euthanasie' im
-NS-Staat*.[^24] De documentatie is zelfs apart uitgegeven. Het is een
+NS-Staat*.[^122] De documentatie is zelfs apart uitgegeven. Het is een
 goed naslagwerk zonder enige analyse en het houdt zoals gezegd op in
 1941.
 
@@ -845,7 +845,7 @@ hebben en daarom ook geen leed met zich mee dragen, ‘eine massa carnis
 die niemals die Stufe eines Menschen erreichen kann’. In *Beiträge 2:
 Reform und Gewissen* van de Dokumentationsstelle, merkt Ulrich Schultz
 op dat in Catels werk op kinderkliniek in Leipzig een duidelijk verband
-te leggen is tussen actieve therapie, onderzoek en moord.[^25]
+te leggen is tussen actieve therapie, onderzoek en moord.[^123]
 
 In datzelfde nummer van de *Beiträge zur Nationalsozialistischen
 Gesundheits- und Sozialpolitik* (die sinds voorjaar ’85 bij Rotbuch
@@ -871,7 +871,7 @@ wel een strafrechtelijk vooronderzoek naar hem verricht, maar dat leidde
 niet tot een veroordeling. In de herdrukken van zijn handboek verdwenen
 Nazistische rassentermen, maar onvermeld bleef waar hij zijn ‘materiaal’
 (‘het liefst zo vers mogelijk’) vandaan had waar hij zijn observaties op
-had losgelaten.[^26]
+had losgelaten.[^124]
 
 Deze en andere biografieën tonen de persoonlijke inzet toen en de
 continuïteit tot aan het nu. Ze zijn van controversiële aard, als de
@@ -886,7 +886,7 @@ geven.
 In datzelfde nummer 2 van de *Beiträge* staat ook het artikel van Götz
 Aly, ‘Der saubere und schmutzige Fortschritt’ dat het duidelijkst
 aantoont dat hervormingen in de psychiatrie, selectie en moord één
-geheel vormden.[^27]
+geheel vormden.[^125]
 
 Zijn veelzijdige betoog begint met de hervormers uit de Weimar
 republiek. In hoofdzaak bekritiseerden zij de doodse, passieve toestand
@@ -960,7 +960,7 @@ gelovige bevolking munt wilde slaan om zo het Naziregime te ondermijnen.
 was gekomen en de ‘Gesetz über die Leidensbeendigung bei unheilbaren
 Kranken und Lebensunfähigen’ een te moorddadige, conservatieve indruk
 zou achterlaten. Het leek beter dit tot na de oorlog uit te
-stellen.[^28]
+stellen.[^126]
 
 Een tussenstap om justitie en de kerken van de noodzaak tot wetgeving te
 overtuigen was de speelfilm *Ich Klage an*. Duidelijk moest worden dat
@@ -970,7 +970,7 @@ geïnstitutionaliseerde ‘euthanasie’ nu aangebroken was. Aan de bevolking
 moest duidelijk gemaakt worden dat het niet om moord maar om
 ‘Sterbehilfe’ ging, de zogenaamde ‘Tötung auf Verlangen’. Het laatste
 artikel van *Beiträge* no. 2 betreft een uitvoerige analyse van deze
-film door Karl Heinz Roth, waarmee ik dit gedeelte wilde afsluiten.[^29]
+film door Karl Heinz Roth, waarmee ik dit gedeelte wilde afsluiten.[^127]
 
 De voorlichtingsfilms over psychiatrie hebben ’n geschiedenis. Zowel
 voor als na ’33 werd dit medium gebruikt, maar dan op kleine schaal voor
@@ -1140,7 +1140,7 @@ willen of niet:
 > maken, maar laat ons ook de volgende stap zetten en de
 > reproductievoorwaarden gaan onteigenen. Het laatste doel van de hele
 > eugenetische sociale techniek is de fundamentele a-socialiteit van het
-> menselijke leven.[^30]
+> menselijke leven.[^128]
 
 De maatschappij zal beroofd worden van z'n historiciteit doordat het
 sociale leven vernietigd wordt, een ‘Brave New World’ waarin de medische
@@ -1156,7 +1156,7 @@ zelfde werk- en denkwijze als in de Nazitijd: homoseksualiteit,
 criminaliteit en alcoholisme dreigen ook onder het werkterrein te vallen
 en net als vroeger zijn deze bureaus bijzonder vlijtig in het verzamelen
 van persoonlijke gegevens. Ze ontdekten dat tientallen medewerkers
-direct of indirect medeschuldig zijn geweest aan Nazimisdaden.[^31]
+direct of indirect medeschuldig zijn geweest aan Nazimisdaden.[^129]
 
 Naast de continuïteit is er nog het verleden zelf dat in de laatste
 jaren in West-Duitsland op de voorgrond is komen te staan. Een moeizame
@@ -1210,7 +1210,7 @@ allereerst oude en aan de rand van de maatschappij levende mensen in
 gevaar. Ze zouden onder een psychologische druk gezet worden en
 inderdaad naar de dood gaan verlangen als ze het gevoel zouden krijgen
 dat hun familie en het verplegend personeel van hen verwachten dat ze
-‘vrijwillig’ en ‘bijtijds’ uit het leven stappen.[^32]
+‘vrijwillig’ en ‘bijtijds’ uit het leven stappen.[^130]
 
 Voorts zou de vertrouwensrelatie tussen arts en patiënt onherroepelijk verstoord
 worden. In plaats van een debat over de verandering van de wetgeving te
@@ -1226,7 +1226,7 @@ Sterben’ elkaar gevonden hebben. Gedaan wordt er volgens Götz Aly in een
 redaktioneel kommentaar dat hij schreef voor de TAZ naar aanleiding van
 een hearing in het Bundeshaus te Bonn, alsof deze zelfbeschikking buiten
 de maatschappelijke / gewelddadige verhoudingen om geformuleerd zou
-kunnen worden.[^33] En alsof het doodsverlangen uit de diepte van het
+kunnen worden.[^131] En alsof het doodsverlangen uit de diepte van het
 individu zou komen, terwijl men eigenlijk door het idee van de
 ‘nutteloze verlenging van het leven’ tot zo’n verklaring gedwongen
 wordt.
@@ -1252,7 +1252,7 @@ wordt in hun ‘Gesund Sein 2000 Wege und Vorschläge’ met geen woord
 gerept. Het toverwoord luidt ‘Selbstbedienung’ en dat in tijd waarin het
 inkomen van grote groepen van de bevolking achteruitgaat. Een
 middenklasse-utopie die vraagt om een klassieke marxistische
-kritiek.[^34] Het ontwerpen en beheren van de armoedepolitiek wordt zo
+kritiek.[^132] Het ontwerpen en beheren van de armoedepolitiek wordt zo
 in handen gelegd van een groep goedbedoelende ecologen die er altijd
 alleen achteraf achter komen dat ze in de harde realiteit het sociale
 machtsinstrumentaria in de hand gedrukt hebben gekregen. Als zij hun
@@ -1263,32 +1263,32 @@ gaat worden met de tradities en denkwijzen die de Nazi's met zoveel
 voortvarendheid hebben omgezet in moorddadige praktijken moet dan klein
 geacht worden.
 
-[^1]: C.I. Dessaur, ‘Het einde van de eeuw,’ in *Mag de dokter doden?,*
+[^99]: C.I. Dessaur, ‘Het einde van de eeuw,’ in *Mag de dokter doden?,*
     geredigeerd door C I. Dessaur en C.J.C. Rutenfrans (Amsterdam:
     Querido, 1986), 137.
 
-[^2]: Idem.
+[^100]: Idem.
 
-[^3]: Idem.
+[^101]: Idem.
 
-[^4]: Idem.
+[^102]: Idem.
 
-[^5]: Wam de Moor, ‘Andreas Burnier – Prof. dr C. Dessaur,’ *De Tijd*,
+[^103]: Wam de Moor, ‘Andreas Burnier – Prof. dr C. Dessaur,’ *De Tijd*,
     31 januari 1986, 32-37.
 
-[^6]: Idem.
+[^104]: Idem.
 
-[^7]: Idem.
+[^105]: Idem.
 
-[^8]: Boudewijn Büch, ‘De dood wordt nooit modern,’ *Het Parool*, 12 mei
+[^106]: Boudewijn Büch, ‘De dood wordt nooit modern,’ *Het Parool*, 12 mei
     1986.
 
-[^9]: Carel Peeters, ‘De harde taal van de hogere sferen,’
+[^107]: Carel Peeters, ‘De harde taal van de hogere sferen,’
     *VN-boekenbijlage*, 3 mei 1986.
 
-[^10]: Dessaur, ‘Het einde van de eeuw,’ 140.
+[^108]: Dessaur, ‘Het einde van de eeuw,’ 140.
 
-[^11]: Als voorbeeld kan hier genoemd worden: Angelika Ebbinghaus,
+[^109]: Als voorbeeld kan hier genoemd worden: Angelika Ebbinghaus,
     Heindrun Kaupen-Haas en Karl Heinz Roth, red. *Heilen und Vernichten
     im Mustergau Hamburg: Bevölkerung- und Gesundheidspolitik im Dritten
     Reich* (Hamburg: Konkret Literatur Verlag, 1984). Achterin dit boek
@@ -1296,24 +1296,24 @@ geacht worden.
     Hamburg’ voorgesteld, die een achttal werkgroepen heeft en voor een
     gedeelte zorgde van de artikelen in deze bundel.
 
-[^12]: Statement van de Dokumentationsstelle, uit het Duits vertaald
+[^110]: Statement van de Dokumentationsstelle, uit het Duits vertaald
     door de auteur.
 
-[^13]: Karl Heinz Roth, ‘Dreifache Ausbeutung der Fremdarbeiter: eine
+[^111]: Karl Heinz Roth, ‘Dreifache Ausbeutung der Fremdarbeiter: eine
     Dokumentation über Okonomie und Politik des Lohnersparnistransfers
     in der ‘‘europäischen Grossraumwirtschaft’’ 1940-1944,’ in
     *Mitteilungen der Dokumentationstelle des Vereins zur Erforschung
     der nationalsozialistischen Gesundheitsund Sozialpolitik e.V*., no.
     1, vol. (september-oktober 1985), 69.
 
-[^14]: Karl Heinz Roth, Bevölkerungspolitik und Zwangarbeit im
+[^112]: Karl Heinz Roth, Bevölkerungspolitik und Zwangarbeit im
     ‘Generalplan
 
     Ost’, *Mitteilungen der Dokumentationstelle des Vereins zur
     Erforschung der nationalsozialistischen Gesundheitsund Sozialpolitik
     e.V*., no. 1 (september-oktober 1985), 70.
 
-[^15]: Karl Heinz Roth en Bretton Woods, ‘Vernichtung und Entwicklung:
+[^113]: Karl Heinz Roth en Bretton Woods, ‘Vernichtung und Entwicklung:
     die nazistische ‘‘Neuordnung’’,’ *Mitteilungen der
     Dokumentationstelle des Vereins zur Erforschung der
     nationalsozialistischen Gesundheitsund Sozialpolitik e.V*., no. 1,
@@ -1321,73 +1321,73 @@ geacht worden.
 
     (juni 1985), 1.
 
-[^16]: Michael Hepp, ‘Fälschung und Wahrheit: Albert Speer und der
+[^114]: Michael Hepp, ‘Fälschung und Wahrheit: Albert Speer und der
     ‘‘Sklaven-staat’’,’ *Mitteilungen der Dokumentationstelle des
     Vereins zur Erforschung der nationalsozialistischen Gesundheitsund
     Sozialpolitik e.V*., vol. 1, no. 3 (mei 1985), 1.
 
-[^17]: Götz Aly en Karl Heinz Roth, *De restlose Erfassung: Volkszählen,
+[^115]: Götz Aly en Karl Heinz Roth, *De restlose Erfassung: Volkszählen,
     Identifizieren, Aussondern im Nationalsozialismus* (Berlin: 1984).
     Projektgruppe Autonomie, ‘‘‘Volkszählung’’, ‘‘Vernummerung’’ und
     Datenerfassung bei den Nazis,’ *Die Tageszeitung,* 18 mei 1983.
 
-[^18]: Jaques Presser, *Ondergang: De vervolging en verdelging van het
+[^116]: Jacques Presser, *Ondergang: De vervolging en verdelging van het
     Nederlandse*
 
     *Jodendom 1940-1945* (Den Haag: Staatsuitgeverij, 1965), 58.
 
-[^19]: Gerhard Baader en Ulrich Schultz, red. *Medizin und
+[^117]: Gerhard Baader en Ulrich Schultz, red. *Medizin und
     Nationalsozialismus:*
 
     *Tabuisierte VergangenheitUngebrochene Tradition?*, (Berlin: 1980).
 
-[^20]: Friedemann Pfäfflin, ‘Zwangssterilation in Hamburg: Ein
+[^118]: Friedemann Pfäfflin, ‘Zwangssterilation in Hamburg: Ein
     Überblick,’ in *Reilen und Vernichten im Mustergau Hamburg*, red.
     Ebbinghaus, Kaupen-Haas, Heinz Roth, 26-29.
 
-[^21]: Karl Heinz Roth, ‘Ein Mustergau gegen die Armen:
+[^119]: Karl Heinz Roth, ‘Ein Mustergau gegen die Armen:
     Leistungschwachen und ‘‘Gemeinschaftsunfähigen’’,’ in *Reilen und
     Vernichten im Mustergau Hamburg*, red. Ebbinghaus, Kaupen-Haas,
     Heinz Roth, 7-17.
 
-[^22]: Angelika Ebbinghaus, ‘Kostensenkung, ‘‘Aktive Therapie’ und
+[^120]: Angelika Ebbinghaus, ‘Kostensenkung, ‘‘Aktive Therapie’ und
     Vernichtung: Konsequenzen für das Anstaltswesen,’ in *Reilen und
     Vernichten im Mustergau Hamburg*, red. Ebbinghaus, Kaupen-Haas,
     Heinz Roth, 136-146.
 
-[^23]: Klaus Dörner, ‘Ist die Psychiatrie-Reform der siebziger Jahre in
+[^121]: Klaus Dörner, ‘Ist die Psychiatrie-Reform der siebziger Jahre in
     Gefahr, zu einer ‘Euthanasie’ Reform zu werden?’ in *Reilen und
     Vernichten im Mustergau Hamburg*, red. Ebbinghaus, Kaupen-Haas,
     Heinz Roth, 162-163.
 
-[^24]: Ernst Klee, *‘Euthanasie' im NS-Staat*: *Die Vernichtung
+[^122]: Ernst Klee, *‘Euthanasie' im NS-Staat*: *Die Vernichtung
     lebensunwerten Lebens* (Berlijn: Fischer, 1985).
 
-[^25]: Ulrich Schultz, ‘Dichtkunst, Heilkunst, Forschung: Der Kinderarzt
+[^123]: Ulrich Schultz, ‘Dichtkunst, Heilkunst, Forschung: Der Kinderarzt
     Werner
 
     Catel,’ in *Beiträge zur nationalsozialistischen Gesundheits- und
     Sozialpolitik: 2: Reform und Gewissen: Euthanasie im Dienst des
     Fortschritts*, (Berlijn: Rotbuch Verlag, 1985), 107.
 
-[^26]: Karl Friedrich Masuhr en Götz Aly, ‘Der diagnostische Blick des
+[^124]: Karl Friedrich Masuhr en Götz Aly, ‘Der diagnostische Blick des
     Gerhard Kloos,’ in *Beiträge zur nationalsozialistischen
     Gesundheits- und Sozialpolitik: 2: Reform und Gewissen: Euthanasie
     im Dienst des Fortschritts*, (Berlijn: Rotbuch Verlag, 1985), 81.
 
-[^27]: Götz Aly, ‘Der saubere und der schmutzige Fortschritt,’ in
+[^125]: Götz Aly, ‘Der saubere und der schmutzige Fortschritt,’ in
     *Beiträge zur nationalsozialistischen Gesundheits- und
     Sozialpolitik: 2: Reform und Gewissen: Euthanasie im Dienst des
     Fortschritts*, (Berlijn: Rotbuch Verlag, 1985), 9-78.
 
-[^28]: Karl Heinz Roth en Götz Aly, ‘Das Gesetz über die Sterbehilfe bei
+[^126]: Karl Heinz Roth en Götz Aly, ‘Das Gesetz über die Sterbehilfe bei
     unheilbar Kranken: Protokolle der Diskussion über die Legalisierung
     der nationalsozialistischen Anstaltmorde in den Jahren 1938-1941,’
     in *Redaktionskollektiv ‘Autonomie’, Erfassung zur Vernichtung, von
     der Sozialhygiene zum ‘Gesetz über Sterbehilfe,’* red. Karl Heinz
     Roth (Berlin: 1984), 101.
 
-[^29]: Karl Heinz Roth, ‘Filmpropaganda für die Vernichtung der
+[^127]: Karl Heinz Roth, ‘Filmpropaganda für die Vernichtung der
     Geisteskranken und Behinderten im ‘‘Dritten Reich‘’,‘ in *Beiträge
     zur nationalsozialistischen Gesundheits- und Sozialpolitik: 2:
     Reform und Gewissen: Euthanasie im Dienst des Fortschritts*,
@@ -1397,22 +1397,20 @@ geacht worden.
     Nationalsozialismus: Studien zur Rassenpolitik und Frauenpolitik*
     (Berlijn: Opladen, 1986).
 
-[^30]: Karl Heinz Roth, ‘Menschen-Zucht und Gen-Ordnung,’ *Konkret* nr.
+[^128]: Karl Heinz Roth, ‘Menschen-Zucht und Gen-Ordnung,’ *Konkret* nr.
     1 (1986), 48.
 
-[^31]: Udo Sierck en Nati Radtke, *Die Wohltätermafia: vom
+[^129]: Udo Sierck en Nati Radtke, *Die Wohltätermafia: vom
     Erbgesundheitsgericht zur Humangenetischen Beratung* (Hamburg:
     1984).
 
-[^32]: Angelika Ebbinghaus, ‘Sterbehilfe Tötung auf wessen Verlangen?’
+[^130]: Angelika Ebbinghaus, ‘Sterbehilfe Tötung auf wessen Verlangen?’
     in: *Mitteilungen der Dokumentationstelle des Vereins zur
     Erforschung der nationalsozialistischen Gesundheitsund Sozialpolitik
     e.V*. vol. 1, nr.7-8 (september-oktober 1985), 3.
 
-[^33]: Götz Aly, ‘Selbstbestimmung als Vernichtungsutopie, Kommentar zum
-    Hearing
+[^131]: Götz Aly, ‘Selbstbestimmung als Vernichtungsutopie, Kommentar zum
+    Hearing über die Sterbehilfe,’ *Die Tageszeitung*, 17 mei 1985.
 
-    über die Sterbehilfe,’ *Die Tageszeitung*, 17 mei 1985.
-
-[^34]: Götz Aly, ‘Die Neuausrichtung der Gesundheitsdienste: Alternative
+[^132]: Götz Aly, ‘Die Neuausrichtung der Gesundheitsdienste: Alternative
     Gesundheitspolitik als Farm der Selbstbedienung.’

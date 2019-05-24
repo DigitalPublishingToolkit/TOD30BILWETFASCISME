@@ -4,7 +4,7 @@
 Theory on Demand #30 
 <br/>**Bilwet Fascismemap (1983-1994)**
 
-Auteurs: Bilwet, Geert Lovink, Arjen Mulder, Bas-Jan van Stam, Lex Woutersloot
+Auteurs: Bilwet, Geert Lovink, Arjen Mulder, Bas-Jan van Stam, Lex Wouterloot
 <br/>Redacteur: Sepp Eckenhaussen
 <br/>Cover design: Katja van Stiphout 
 <br/>Uitgegeven door het Institute of Network Cultures, Amsterdam, 2019
@@ -20,7 +20,7 @@ Deze publicatie is uitgegeven onder de Creative Commons Attribution-NonCommercia
 
 Deze publicatie kan besteld worden bij verschillende print-on-demand-services en is kostenloos te downloaden via http://www.networkcultures.org/publications.
 
-![](/Users/inc/Documents/GitHub/TOD30BILWETFASCISME/md/imgs/networkcultures.jpg)
+![](imgs/networkcultures.jpg)
 
 #Inhoudsopgave
 
@@ -67,7 +67,7 @@ Geert Lovink (1986)
 ## Cultuurspeculatie
 
 <a href="ch013.xhtml"> **9. Schoonheid is vergif: De illusoire nazificering van de Neue Slowenische Kunst** </a>    <br />
-Lex Woutersloot (1990)
+Lex Wouterloot (1990)
 
 <a href="ch014.xhtml"> **10. De redelijkheid van het uniform: Over mode voor filosofen** </a>    <br />
 Bas-Jan van Stam (1989)
@@ -117,9 +117,8 @@ schrijverskrakerscollectief Bilwet schreef tussen 1983 en 1999. Er zijn een lezi
 Dagen ’85, filmkritieken, een serie postkaarten, recensies van
 oorlogsromans, mijmeringen in Berlijn, een ambulant-wetenschappelijk
 artikel over filosofenmode en nog zo wat. Wat zijn de gemeenschappelijke
-kenmerken van deze bonte verzameling teksten? Belangrijker nog, hoe en
-waarom zou je die vandaag de dag nog lezen die meer dan dertig jaar oud
-zijn? In dit voorwoord leg ik, als redacteur en samensteller van de map,
+kenmerken van deze bonte verzameling teksten? En
+waarom zou je vandaag de dag nog lezen die meer dan dertig jaar oude teksten lezen? In dit voorwoord leg ik, als redacteur en samensteller van de map,
 allereerst in hoofdlijnen het idee achter de opbouw van de bundel uit en
 vervolgens de rol die elk hoofdstuk daarin speelt. Ten slotte volgt een
 korte verantwoording over taal- en notengebruik.
@@ -128,7 +127,7 @@ korte verantwoording over taal- en notengebruik.
 
 Belangrijk is bij het uitgeven van de Bilwet-fascismemap niet zozeer dat
 twintig of dertig jaar oude fascismeanalyses vandaag de dag nog
-simpelweg toepasbaar zouden zijn. Wel denken we dat er in de
+een op een toepasbaar zouden zijn. Wel denken we dat er in de
 antifascistische discussies, die links-progressieve kringen nog niet zo
 lang geleden gemeengoed waren, belangrijke lessen liggen voor het heden.
 Millenials en de post-9/11-generatie zijn veelal grootgebracht met
@@ -138,7 +137,9 @@ abortusrecht, LHBTQ-rechten, autonoom en antiautoritair denken…
 Voorbeelden van ‘progressieve waarden’ die pas twee generaties breed
 gedragen worden, maar toch al diep verankerd liggen in het collectieve
 denken. In de jaren ’70-’80 was ‘de verbeelding aan de macht’ en ‘moest
-alles anders’.[^1] Wanneer het gaat om de feministische aspecten van
+alles anders’.[^1]
+
+Wanneer het gaat om de feministische aspecten van
 deze collectieve waarden, is het bovendien duidelijk welke historische
 seksestrijd eraan ten grondslag ligt. De theorieën van Simone de
 Beauvoir, de Dollemina’s, de strijd voor het vrouwenkiesrecht, de eerste
@@ -148,7 +149,7 @@ verschil’ en de grote gevolgen: vrouwen over zichzelf, begin van een
 bevrijding* deden de gemoederen in de maatschappelijke discussie hoog
 oplopen.[^2] Door de opkomst van de continentaal-Europese discipline van de 
 vrouwenstudies en kennisinstituten zoals het ATRIA in Amsterdam is deze kennis bovendien
-op een actieve/activistische manier verduurzaamd.[^3]
+op een actieve manier verduurzaamd.[^3]
 
 De geschiedenis van de antifascistische discussies, die chronologisch
 samenviel met en verbonden was aan de feministische discussies, geniet
@@ -176,18 +177,17 @@ het algemeen.
 
 Een belangrijke vraag is natuurlijk wie of wat Bilwet nu eigenlijk was. Een definitie van Bilwet is schier onmogelijk, maar een beetje
 achtergrondinformatie is voor oningewijden en later geborenen onmisbaar.
-Daarom is het eerste hoofdstuk van dit boek, *Hoezo Bilwet?,* waarin het collectief zelf beschrijft wat Bilwet was, hoe het zich
+Daarom is het eerste hoofdstuk van dit boek *Hoezo Bilwet?*, waarin het collectief zelf beschrijft wat Bilwet was, hoe het zich
 bewoog en wat het zich afvroeg.
 
 ### Hoofdstuk 2: De vertoogmixer van Klaus Theweleit
 
-Maar naast de vraag ‘hoezo Bilwet?’ is er natuurlijk de belangrijkere
-vraag ‘hoezo fascismeanalyse?’ Het was op zich niet zo vreemd dat Bilwet
+Een uiteindelijk belangrijkere vraag dan ‘hoezo Bilwet?’ is ‘hoezo fascismeanalyse?’ Het was op zich niet zo vreemd dat Bilwet
 schreef over fascisme in de context van de kraakbeweging, de opkomst van
 extreemrechts in Nederland en de institutionalisering van antifascisme
 in herdenkingspraktijken, maar om wat voor soort fascisme-analyse was
 het ze precies te doen? Om daarachter te komen, begint deze uitgave met
-sporen van nog vóórdat het fascismebegrip om de hoek komt kijken, bij de
+terugvolgen van sporen van de fascismediscussie nog vóórdat het fascismebegrip zelf om de hoek komt kijken, bij de
 Duitse filosoof Klaus Theweleit en diens bespiegelingen op de
 maatschappelijke organisatie van de moderne tijd. Het eerste echte
 artikel in deze bundel is een recensie van Theweleits *Büch der
@@ -200,11 +200,11 @@ vraag is dat de schrijverskunst niet opereert uit autonome
 genialiteiten, maar uit Orfeuscomplexen: het onvermogen van de schrijver
 om te gaan met zijn eigen geschiedenis, wat leidt tot een schrijven ten
 koste van de grote liefde. Het resultaat van deze autopsychoanalyse van
-de schrijver Theweleit wordt door Bilwet omschreven als was het hun
+de Duitse schrijver wordt door Bilwet omschreven als was het hun
 eigen schrijversmotto: ‘Verhalen en begrippen duiken op, ballen samen,
 beginnen te knetteren, gaan verbindingen aan en krijgen voor de lezers
 een intensiteit, die na de schok der herkenning zoiets als een ervaring
-van de ‘’echte geschiedenis’’ oplevert.’ Wanneer Bilwet schrijft, staat
+van de "echte geschiedenis" oplevert.’ Wanneer Bilwet schrijft, staat
 hen dus niet een reductie van de geschiedenis of de hedendaagse conditie
 tot een gestroomlijnd narratief over de ander voor ogen, maar een
 knetterend openbreken van de taal en de eigen subjectiviteit door het
@@ -223,9 +223,9 @@ hang naar fascismeanalyse. Hoe zit dat precies? Logisch voortbouwend op
 de door Theweleit voorgestane zelfanalyse nam Bilwet ook Theweleits
 benadering van fascisme over. Theweleits interesse in fascisme was niet
 in eerste instantie historisch van inslag, maar veeleer geboren uit de
-noodzaak tot collectieve zelfanalyse die men na 1945 systematisch voor
-zich uit heeft weten te schuiven. In de volgende twee hoofdstukken, twee
-totaal verschillende Theweleitkritieken, blijven we daarom bij
+noodzaak tot collectieve zelfanalyse die men in de decennia na 1945 systematisch voor
+zich uit heeft weten te schuiven. In de volgende twee hoofdstukken, tevens twee
+Theweleitkritieken met twee heel verschillende inslagen, blijven we daarom bij
 Theweleit, maar maken we de overstap van zelfanalyse (of Bilwetanalyse)
 naar fascisme-analyse.
 
@@ -258,9 +258,9 @@ de daadwerkelijke fascismeanalyse van Bilwet, bij de unieke bijdrage aan
 de maatschappelijke discussie. Hier beginnen we te zien hoe Bilwet de
 vier van Theweleit geleende polen samenbrengt en hoe dat knettert.
 Grosso modo is deze tekst is een verkorte weergave van de inhoud
-van *Fascisme/Seksisme: rekonstruktie van een mannenideaal, *een boek
-dat in 1983 door Bas-Jan van Stam geschreven werd en dat de geboorteakte
-van Bilwet was.
+van *Fascisme/Seksisme: rekonstruktie van een mannenideaal*, een boek
+dat in 1983 door Bas-Jan van Stam geschreven werd en dat later geboorteakte
+van Bilwet bleek te zijn.
 
 Het is moeilijk *Fascisme/Seksisme *te kenmerken – het is dan ook uniek.
 Het was zo’n beetje een psychoculturele zelfanalyse van hedendaags
@@ -296,7 +296,7 @@ niet-fascistische lijn gezamenlijk verder uit. Het woord ‘fascisme’ komt
 in deze tekst niet een keer voor, maar de overlevering en doorwerken van
 oorlogstrauma’s uit WOII staat onaflatend centraal. Bas-Jan en Geert
 trappen af met een Theweleitiaanse lezing van twee oorlogskronieken,
-Norman Mailers *Helden zonder glorie* en Armando’s *De SS’ers*. Met
+Norman Mailers *Helden zonder glorie* en *De SS’ers* van Armando en Sleutelaar. Met
 Mailers psychonarratief over een groep Amerikaanse helden zonder glorie
 in Japan wordt het punt gemaakt van dat militarisme gelijkstaat aan
 perverse seksualiteit. En uit de soldatengetuigenissen van *De SS’ers*
@@ -340,7 +340,7 @@ Vietnamoorlog als eerste tv-oorlog) van de oorlog heeft het leger geen
 Soldaatmannen meer nodig, maar technisch specialisten. Tegelijkertijd is
 het militarisme geruisloos verspreid naar iedere plek van
 maatschappelijke vorming. Ook op school kan immers de Vietnamoorlog op
-tv gevolgd worden. Als gevolg is de *nieuwe oorlog,* zonder
+tv gevolgd worden. Als gevolg is de *nieuwe oorlog* zonder
 frontervaring, niet mannelijk of vrouwelijk, maar technisch. Het leger
 maakt tegenwoordig geen man, maar een technisch specialist van je!
 
@@ -360,7 +360,7 @@ eerste instantie vooral toe op hedendaags fascisme als overidentificatie
 met mannenidealen. Van daaruit volgde Bilwet verschillende lijnen van
 onderzoek, kijkend naar de Bilwetmatigheden van het nieuwe stromen in de
 nieuwe oorlog, nieuwe mannen, nieuwe machten, nieuwe media en nieuwe
-geschiedenis. Sommige van deze lijnen zijn heel specifiek, andere breed,
+geschiedenis. Sommige van deze lijnen zijn heel specifiek en andere breed, maar
 allemaal zijn ze uiteindelijk met elkaar vervlochten.
 
 In de tweede helft van deze publicatie volgen we drie van deze
@@ -383,8 +383,8 @@ boven, welke maatschappelijke en wetenschappelijke denkpatronen het
 historisch fascisme eigenlijk achtergelaten had. Voor Geert reden om een
 kennismaking te schrijven met het werk van de Hamburgse *Verein zur
 Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik,*
-dat sinds 1984 onderzoek deed naar de biopolitiek van het gezondheids-
-en bevolkingsbeleid in Nazi-Duitsland*.* Een paar van de nauwkeurige
+die sinds 1984 onderzoek deed naar de biopolitiek van het gezondheids-
+en bevolkingsbeleid in Nazi-Duitsland. Een paar van de nauwkeurige
 historische exposés van de *Verein* samenvattend, zet Geert de
 Nazilogica van ‘registreren, sorteren en deporteren’ uiteen, die in ’86
 blijkbaar nog niet zo algemeen bekend was als nu. Schokkend is vooral
@@ -399,7 +399,7 @@ een ‘verlate voorstudie’ voor de super 8-film *De zaak 40-61-84* (1984)
 van Geert Lovink en Just Vercruijsse. Deze film was, kortgezegd, een
 onderzoek naar de ‘derde fase’ van herdenken. De eerste fase is het
 herdenken gebeurt aan de hand van directe herinneringen en relikwieën
-zoals in bijvoorbeeld het hedendaagse Auschwitz-toerisme*.* De tweede
+zoals in bijvoorbeeld het hedendaagse Auschwitz-toerisme. De tweede
 fase van herdenken is het zoeken van de sporen, het vinden van de
 ‘schuldige boom’ à la Armando. De derde fase vangt aan nadat alle
 overlevenden en materiële sporen verdwenen zijn, wanneer alleen het
@@ -414,7 +414,7 @@ intern Bilmemo uit 1986 van Geert over de fascisme-map staat namelijk te
 lezen:
 
 > De stelling van deze map is dat het antifascisme dat in de laatste
-> vijf jaar zo groeide, niet zozeer voortkomt uit ‘’objectieve’’ groei
+> vijf jaar zo groeide, niet zozeer voortkomt uit "objectieve" groei
 > van het neofascisme of fascistische tendensen bij de staat, maar één
 > uitdrukking is van de overdracht van de herinnering van de eerste
 > generatie op de tweede. De maatschappelijke organisatie van de
@@ -459,8 +459,8 @@ dat de systematiek van vernietiging in het fascisme eigenlijk nooit aan
 plaats gebonden was geweest, maar onzichtbaar opging in ‘beweging’ of
 ‘verkeer’. De geschiedenis zelf, zo speculeerden zij, de geschiedenis
 van vaste plekken, was opgehouden te bestaan en overgegaan in plaatsloze
-stromen. Zo komt ook in dit boek de geschiedkunde tot haar einde en
-neemt het Bilweten weer de overhand.
+stromen. Zo komt ook in dit boek de wetenschappelijke geschiedkunde tot haar einde en
+neemt het speculatieve Bilweten weer de overhand.
 
 ### Hoofdstukken 9-13: Cultuurspeculatie
 
@@ -477,7 +477,7 @@ misschien cultuurspeculatie noemen. Ooit schreef Bilwet:
 > deconstrueren.[^7]
 
 Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante
-analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgen van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
+analyses tot gevolg. De eerste tekst in deze lijn, van Lex Wouterloot, is het terugvolgen van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: 'Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.'
 
 De tweede tekst is een stuk van Bas-Jan van Stam
 over ‘de redelijkheid van het uniform’ voor Bilwets *Arcade: Jaarboek
@@ -499,7 +499,7 @@ naar de oorsprong van die doctrine: Hitlers jeugd, zoals beschreven in
 *Mein Kampf.* De Bilweters analyseerden het oedipale schema dat
 ‘duimendik’ op Hitlers jeugdherinneringen ligt en waarbinnen de kunst
 voor Hitler in het incestueuze domein terechtkwam. Hitler projecteerde,
-aldus Bilwet, zijn vieze verlangen naar zijn eigen reine moeder op de
+aldus Bilwet, zijn vieze verlangen naar zijn reine moeder op de
 kunst, resulterend in zijn ideeën over schone en de ‘ontaarde’ kunst.
 Schone kunst is hygiënische kunst, gevrijwaard van het vieze incestueuze
 stromen.
@@ -536,22 +536,24 @@ geteisterde ziel met diepe wortels in de Germaanse cultuur, een tembaar
 machtsmiddel, of een woeste oerkracht van het Kwaad? Deze lezing mondt
 uit in de analyse van een fascistisch wolfsfiguur in het Kuifje-album
 *Mannen op de maan*, wat ons brengt bij de laatste Bilwet-analyselijn in
-dit boek: kuifosofie.
+dit boek: de kuifosofie.
 
 ### Hoofdstukken 14-18: Kuifosofie en Datadandy
 
 Dankzij Bas-Jan van Stam komt de lijn van cultuurspeculatie komt ten
 slotte, als knotsgek hoogtepunt, tot een heuse onderzoeksdiscipline: *de
-kuifosofie.* ‘Seksisme racisme: hoezo Kuifje dood?’ is een Freudiaanse
+kuifosofie.* In deze bundel is daarom als laatste deel een selectie van vijf kuifosofische teksten opgenomen.
+
+‘Seksisme racisme: hoezo Kuifje dood?’ is een Freudiaanse
 lezing van *Kuifje in Afrika,* waarin Bas-Jan de mythische en
-ongrijpbare vormen van het alledaags racisme bespreekt*.* De stelling is: 
-> Pas als je \[de\] hele omweg van de politiek-economische crisis,
-> het racisme van \[de jaren ‘30\], de ‘’dreiging’’ van de Sovjet-Unie, de
-> enorme werkloosheid, enzovoorts, naar de individuele droomwereld en zijn
-> sekspolitieke symbolen hebt afgelegd, pas dan krijg je zich op die
-> mythische machinerie van het fascisme. \[…\] Wat blijkt namelijk? Dat
-> Hergé door middel van zijn stripheld Kuifje de maatschappelijke
-> politiek-economische crisis vertaalt in een individuele, sekspolitieke
+ongrijpbare vormen van het alledaags racisme bespreekt. De stelling is: 
+>Pas als je \[de\] hele omweg van de politiek-economische crisis,
+het racisme van \[de jaren ‘30\], de "dreiging" van de Sovjet-Unie, de
+enorme werkloosheid, enzovoorts, naar de individuele droomwereld en zijn
+sekspolitieke symbolen hebt afgelegd, pas dan krijg je zich op die
+mythische machinerie van het fascisme. \[…\] Wat blijkt namelijk? Dat
+Hergé door middel van zijn stripheld Kuifje de maatschappelijke
+politiek-economische crisis vertaalt in een individuele, sekspolitieke
 crisis.[^9]
 
 Met andere woorden, Kuifje is het ultieme voorbeeld van
@@ -640,7 +642,7 @@ literatuurverwijzingen die uit de oorspronkelijke manuscripten komen.
 Deze zijn zo volledig mogelijk omgeschreven naar Chicago-stijl. Het moet
 hierbij opgemerkt worden dat Bilwet lang niet altijd referenties plaatse
 bij citaten. Die referentieloze citaten zijn ook in deze publicatie
-grotendeels zonder referentie. Daarnaast zijn er uitleggende noten voor
+grotendeels zonder referentie. Daarnaast zijn er explicatieve noten voor
 fenomenen als ‘Bunkerbuit’, ‘CPN’ en ‘Cor van der Laak’, die niet meer
 vanzelfsprekend als bekend mogen worden verondersteld.
 
@@ -715,12 +717,12 @@ Dan nog eerder de journalistiek in...? Ook dat werd niks, zo bleek wel.
 Bilwet kwam in voorjaar 1983 tot leven na het verschijnen van Bas-Jan
 van Stams boek *Seksisme/fascisme, rekonstruktie van een mannen-ideaal*.
 Dit onderwerp is niet toevallig. Begin jaren tachtig zat er flink wat
-beweging in het nadenken over wat historisch fascisme was, en hoe de
+beweging in het nadenken over wat historisch fascisme was en hoe de
 naoorlogse generaties, die het zelf niet aan den lijve hadden
-meegemaakt, en het publiek waren van de lawine aan herdenkingen, zich
+meegemaakt en het publiek waren van de lawine aan herdenkingen, zich
 hiertoe wilde verhouden. Dit geschiedde in de schaduw van de opkomst van
 een extreemrechts milieu dat minutieus in kaart werd gebracht door het
-fascisme-onderzoekcollectief FOK en andere groepen.[^1] Na een recensie
+fascisme-onderzoekcollectief FOK en andere groepen.[^10] Na een recensie
 van Bas-Jans boek in het aktieweekblad *bluf!* van de hand van Geert,
 kwam een ontmoeting tot stand en werd in een levendige correspondentie
 de grondslag gelegd voor Bilwet als groep. Rond dezelfde had Geert het
@@ -732,30 +734,30 @@ intensief de studie naar hedendaagse theorie in te zetten. De vraag hoe
 het historisch fascisme op een eigen manier kon worden geïnterpreteerd
 bleef daarbij op de voorgrond. In 1985 verscheen het eerste Bilwetboek,
 geschreven door Bas-Jan en Geert, *Het Beeldenrijk*, een vrolijke
-post-Freudiaanse analyse van drie hedendaagse films (*Paris, Texas*/*The
-Day After*/*The Right Stuff*) waarin getracht werd de psychoanalytische
+post-Freudiaanse analyse van drie hedendaagse films (*Paris, Texas*, *The
+Day After* en *The Right Stuff*) waarin getracht werd de psychoanalytische
 duiding van angsten en verlangens in het mediatijdperk op z'n Hollands
-vast te leggen.[^2]
+vast te leggen.[^11]
 
 ## II. Het ontstaan van de fascismemap
 
 ![](imgs/inleiding2.jpg)
 
-Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Woutersloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.
+Afb. 2: De officiële Bilwetfoto met Bas-Jan van Stam, Geert Lovink, Arjen Mulder, Ger Peeters en Lex Wouterloot (1988/1989). De groep poseert voor het voormalig station Ulrum en toenmalige huis van Bas-Jan in Noord-Groningen.
 
 Na het verschijnen van een lovende recensie van *Het Beeldenrijk* die
 Arjen Mulder, toenmalige filmrecensent van CPN-dagblad *De Waarheid*,
 schreef, trad hij toe bij de groep. Ook Ger Peeters (Nijmegen) en Lex
 Wouterloot werden niet veel later lid. Een van de eerste activiteiten
 van de nu vijf man sterke groep was een cursus voor krakers en andere
-activisten in Theweleits boek, dat net in een verkorte Nederlandse
+activisten over Theweleits boek, dat net in een verkorte Nederlandse
 vertaling door een Nijmeegse mannengroep was uitgegeven. De
 theoriecursus werd zowel in Amsterdam als in Nijmegen gehouden.
 
 In de periode van 1984-‘94 schreef de groep ongeveer twintig teksten
 over hedendaags fascisme, bij elkaar goed voor ongeveer 300 pagina’s. In
 de planning moest dit Bilwets tweede boek worden. In 1986 schreef Geert
-hiervoor een opzet (die in deze map is opgenomen).[^3] Echter, niet veel
+hiervoor een opzet (die als bijlage in deze map is opgenomen).[^12] Echter, niet veel
 later deed de personal computer zijn intrede. De artikelen die al waren
 geschreven op elektrische typemachines zouden eigenlijk overtypt moeten
 worden. Aangezien er toen nog geen tekstscanners (ORC) waren, viel het
@@ -768,11 +770,11 @@ strategieën* van Jean Baudrillard werd gelezen, in een Nederlandse
 vertaling, uitgeven door 1001. Qua schrijven verschoof de aandacht van
 Geert en Arjen naar het vastleggen van de geschiedenis van de
 kraakbeweging, die in 1987 in een rap tempo uit elkaar viel (niet veel
-later uitgegeven als Bilwets tweede boek, *Bewegingsleer*).[^4]
+later uitgegeven als Bilwets tweede boek, *Bewegingsleer*).[^13]
 
 De actualiteit van het historisch fascisme verdween langzaam maar zeker
 op de achtergrond en werd overgenomen door de opkomst van 'nieuwe media'
-en het naderende einde van de Koude Oorlog en de 20e eeuw. Het
+en het naderende einde van de Koude Oorlog en de 20ste eeuw. Het
 herdenken bleef ook begin jaren negentig nog prominent op de agenda met
 50 jaar dit en dat, maar werd overvleugeld door technologie, neoliberaal
 beleid, crisis en oorlog (in de Golf, Joegoslavië, Afrika) die de agenda
@@ -788,17 +790,17 @@ van de slachtoffers? Het bleek niet langer voldoende te beweren dat de
 oorsprong van het fascisme in het grootkapitaal lag, waarin een 'volkse'
 oplossing wordt aangedragen met als doel de macht te verdedigen met
 autoritaire middelen om zo de groeiende macht van de arbeidersklasse en
-andere sociale bewegingen te breken.[^5] De onderstromen en het
+andere sociale bewegingen te breken.[^14] De onderstromen en het
 doorleven van fascisme kwamen in plaats daarvan in de aandacht. In het
 boek *Anne Frank in the World,* in 1985 uitgegeven door de Anne Frank
 Stichting, wordt bijvoorbeeld niet alleen over de wrede herinneringen en
 geschiedenissen besproken, maar ook gewaarschuwd voor racisme,
-antisemitisme en vooroordelen in het heden.[^6] Bovendien kwam naast het
+antisemitisme en vooroordelen in het heden.[^15] Bovendien kwam naast het
 institutionele, op herdenken gerichte antifascisme (waarop de CPN zo’n
 beetje een monopolie had) het niet-institutionele antifascisme (dat
 later tot Antifa uitgroeide) op vanuit de krakersbeweging.
 
-Vanaf de jaren 80 zien we dus, grof gezegd, een verschuiving van de
+Vanaf de jaren '80 zien we dus, grof gezegd, een verschuiving van de
 aandacht van gevolgen naar oorzaken. De vraag was niet langer alleen hoe
 men de afschuw kan tonen voor concentratiekampen, totalitarisme,
 onderdrukking en neofascisme, maar hoe het kon dat grote delen van de
@@ -828,7 +830,7 @@ Geert Lovink: Het klopt dat wij daar parallel aan werkten. Dit ligt
 geheel in de lijn van het werk van de Duitse mediatheorie en dat van
 Friedrich Kittler in het bijzonder. In zijn boek *Grammophon Film
 Typewriter* uit 1986, komen oorlog, fascisme, technologie en media
-expliciet samen.[^7] Oorlog versnelt het onderzoek, denk maar even aan
+expliciet samen.[^16] Oorlog versnelt het onderzoek, denk maar even aan
 radar en de computer, maar ook aan de FM-band en de muziekcassette. De
 naoorlogse Electronica en de popmuziek zijn volgens Kittler
 ‘afvalproducten van WO II’.
@@ -838,15 +840,15 @@ te maken voor de hedendaagse context? Wat moeten we *nu *met dit boek?
 
 Geert: Allereerst is er het motief van Foucault, dat BAK – basis voor
 actuele kunst in Utrecht ook onlangs oppakte: het niet-fascistische
-leven.[^8] Maar wat is dat? Wat moeten we dan voorkomen, waar moeten we
+leven.[^17] Maar wat is dat? Wat moeten we dan voorkomen, waar moeten we
 waakzaam voor zijn, wat bestrijden? Of moeten dat allemaal juist achter
-ons laten. Kunnen we dat wel? Hebben we de hel van de 20e eeuw
+ons laten? Kunnen we dat wel? Hebben we de hel van de 20ste eeuw
 daadwerkelijk overstegen en is de collectieve psyché (en die van het
 individu) werkelijk zo veranderd, dat het niet meer ontvankelijk is voor
 massapsychose en het projecteren van maatschappelijke problemen op
 minderheden? Belangrijk is te snappen wat het individu vandaag de dag
 gaat doen zodra het in het defensief is gedrongen. De herverdeling van
-welvaart verloopt niet meer zoals 40-50 jaar geleden. Hierdoor zijn
+welvaart verloopt niet meer zoals 40 of 50 jaar geleden. Hierdoor zijn
 velen die buiten de boot vallen open gaan staan voor rechts-populisme.
 De vraag is welke psychologische constellatie hierbij hoort. De vraag
 zou dus niet moeten zijn of het historisch fascisme terugkeert maar hoe
@@ -859,24 +861,24 @@ Sepp: Het gaat inderdaad niet om het kunnen aanwijzen van *de* fascist.
 te maken voor fascist die zichzelf niet (openlijk) als fascist
 identificeren. Je vervalt dan alleen maar in een welles-nietes-discussie
 rond de definitie en toepassing van 'fascisme'. En dan ook nog eens
-geweld gaan gebruiken? Nee, ik denk dat de grote urgentie van
+geweld gaan gebruiken? Ik denk dat de grote urgentie van
 hedendaagse fascismeanalyse ligt in het kunnen begrijpen en verklaren
 van hedendaagse maatschappelijke tendensen en het anticiperen op
 structurele toekomstige gevaren. Maar dat is natuurlijk ook niet een
 neutrale analyse zonder politieke aannames of grondslagen. Bij
-fascismeanalyse hoort de antifascistische strijd, en wellicht ook de
-non-fascist. De belangrijkste vraag lijkt dan ook te zijn: wat betekent
+fascismeanalyse hoort de antifascistische strijd en wellicht ook de
+non-fascistische. De belangrijkste vraag lijkt dan ook te zijn: wat betekent
 het vandaag de dag om antifascist of non-fascist te zijn? In
-verschillende landen zien we Trump, Orbán, Duterte, Bolsonaro, de Gouden
+verschillende landen zien we sterke mannen als Trump, Orbán, Duterte, Bolsonaro, de Gouden
 Dagenraad en in Nederland Wilders en Baudet die een gooi doen naar zo'n
 positie. Hoe kijkt de non-fascist naar zulke verschillende bewegingen op
 de wereld? Wat zegt fascismeanalyse ons over de *strong men *van
 vandaag?
 
 Geert: Een cruciale overgangstekst hier is Laclau’s *On Populist Reason*
-uit 2005.[^9] Deze stamt niet uit de jaren 80, alhoewel zijn *Hegemony*
-*and* *Socialist Strategy* wel die tijd is geschreven, samen met Chantal
-Mouffe.[^10] Toch kunnen we *On Populist Reason* zien als een belangrijk
+uit 2005.[^18] Deze stamt niet uit de jaren '80, alhoewel zijn *Hegemony*
+*and* *Socialist Strategy* wel in die tijd is geschreven, samen met Chantal
+Mouffe.[^19] Toch kunnen we *On Populist Reason* zien als een belangrijk
 document dat vooral naar de toekomst wijst. Het punt is denk ik niet
 meer zozeer dat mensen zich aangesproken voelen als ‘volk’ of ‘natie’.
 Laclau wijst op de sociale heterogeniteit van vandaag de dag. Die kan
@@ -912,7 +914,7 @@ precies? Op wikikids.nl lees ik:
 > Wereldoorlog is bijvoorbeeld begonnen door het fascistische Duitsland
 > van Adolf Hitler. \[…\] Veel fascistische landen werkten samen in de
 > Tweede Wereldoorlog, maar nadat ze die oorlog hadden verloren werd het
-> fascisme nooit meer acceptabel gevonden.[^11]
+> fascisme nooit meer acceptabel gevonden.[^20]
 
 Dit is de Jip-en-Janneke-definitie van fascisme als een historisch
 netjes afgerond en ethisch afgesloten fenomeen. Die ging jullie niet ver
@@ -965,7 +967,7 @@ detail besproken, dus laten hier als voorbeeld Bifo even volgen:
 > the will, against the subjugation of human events to the automaton.
 > \[…\] Impotence is the distinctive quality of our time. Impotence and
 > rage that impotence provokes – especially amongst white men – is, in
-> my opinion, the deep and current return of fascism.[^12]
+> my opinion, the deep and current return of fascism.[^21]
 
 Hedendaags fascisme staat dus gelijk aan impotentie (inderdaad, een
 mannenkwaal). Het probleem met zulke *sweeping claims *is dat ze het
@@ -983,7 +985,7 @@ Zowel monomanie als inflatie van begrippen liggen op de loer, want juist
 verruimende vaagheid van begrippen is nodig voor een alomvattende
 tunnelvisie. In een Theweleitkritiek uit de jaren '80 schreef Arjen al:
 'Je kunt Theweleit wel verwijten dat hij in zijn enthousiasme soms lijkt
-te menen dat zijn model de enige juiste is, d.w.z. de ''werkelijke''
+te menen dat zijn model de enige juiste is, d.w.z. de "werkelijke"
 verklaring die alle andere verklaringen uitsluit en overbodig maakt.'
 
 Ik snap best dat Bilwet voorbij het nulpunt van betekenis wilde
@@ -1002,7 +1004,7 @@ Twittervorm van deconstructie. Het zou op zich een goed plan zijn om
 eens experimenten te gaan doen met het versnellen van diepte analyses.
 Kan dat überhaupt? Postmoderniteit staat bij jou, vermoed ik, voor
 relativering, maar daar kan binnen de fascisme analyse geen sprake
-zijn—daarvoor het thema te serieus en te urgent, denk maar aan de
+zijn — daarvoor het thema te serieus en te urgent, denk maar aan de
 opkomst van Wilders en Baudet. Racisme in Nederland bestaat wel degelijk
 en dat kan niet zomaar door een spraak- of denkpolitie via verboden in
 oude media zoals kranten en tv worden opgelost.
@@ -1020,7 +1022,7 @@ vertelde ooit in een interview met Jo van der Spek over jou:
 > totdat ik zei, dat 'niet' is een werkwoord, je moet zonder moeite
 > nieten. Toen was het acceptabel. Dus je moet verkeerd lezen, dan
 > schiet je op, dan kom je verder. Het is het weggooien van ballast, het
-> streven naar niks.[^13]
+> streven naar niks.[^22]
 
 Jullie hebben dan ook nogal eens een zeperd gemaakt. Klimaatbewustzijn
 wegzetten als ecofascistische biopolitiek bijvoorbeeld, of sporten
@@ -1047,9 +1049,9 @@ groepen dienen niet met elkaar in contact te komen.
 Sepp: In 1994 karakteriseerden jullie bij Bilwet de mediatheorie als
 ‘een expeditie om over de rand van de mediale planeet te vallen, in de
 wetenschap dat deze rond is. Het blijkt mogelijk de media-almacht te
-ontkennen door buitenaards te gaan. ‘’We are here to go.’’ De media zijn
+ontkennen door buitenaards te gaan. "We are here to go." De media zijn
 geen *primordial uncarved block, *het oppervlak ervan vertoont barstjes,
-patronen. Het alienstandpunt maakt die zichtbaar.’[^14] Zien we hier een
+patronen. Het alienstandpunt maakt die zichtbaar.’[^23] Zien we hier een
 nieuwe manier om een buitenpositie in te nemen, om een
 maatschappijkritiek van de ander te schrijven? In andere woorden, was de
 mediatheorie in beginsel niet precies dat soort analyse waar jullie,
@@ -1086,7 +1088,7 @@ fascisme-analyse en mediatheorie in gesprek gaan. In 2018 interviewden
 Sara-Lot van Uum en ik je samen voor het UvA-studentenblad *Simulacrum*
 over memes en hedendaags fascisme, een interview dat uiteindelijk
 neerkwam op de vraag: kunnen we een fascisme-psychoanalyse van
-hedendaagse mediafenomenen maken?[^15] Je was toen
+hedendaagse mediafenomenen maken?[^24] Je was toen
 ambivalent in je antwoord: de productiesnelheid van memes is te hoog
 voor een goede psychoanalyse, maar we kunnen ons ook niet doodstaren op
 die productiesnelheid zelf zoals Deleuzianen doen (‘Oh! Wat een
@@ -1094,11 +1096,11 @@ productie! Geweldig!’). De conclusie die uit die ambivalentie kwam was
 zoiets als (hou je vast): memes kunnen misschien wel een broeinest voor
 fascisme zijn, omdat ze getuigen van een crisis in mannenidealen
 (zogenaamd veroorzaakt door feminazis, *social justice warriors*,
-*reverse rape* etc.), maar door de ‘*weak links*’ op sociale media en de
+*reverse rape* etc.), maar door de *weak links* op sociale media en de
 instabiliteit in de betekenis van memes kunnen we deze analyse nooit
 hard maken en is er ook geen écht gevaar. Eigenlijk het enige dat we te
 winnen hebben bij zo'n analyse is, zo stelde je, bewustwording van wat
-die crisis in het mannenideaal vandaag de dag is: ‘*the void*’, het
+die crisis in het mannenideaal vandaag de dag is: *the void*, het
 nihilisme. Ambivalentie én een sweeping claim dus. Wat als we nu eens
 wel uitspraken willen doen over fascisme in de netwerksameleving, maar
 geen genoegen nemen met een ambivalent antwoord en ook geen *sweeping
@@ -1122,14 +1124,14 @@ niet uit.
 
 Sepp: Jij stelde ooit dat het fascisme-onderzoek van Bilwet in de kern
 ging om de overdracht van het WOII-trauma van de generatie die het aan
-den lijve meemaakte op de generatie die er alleen van gehoord had.[^16]
+den lijve meemaakte op de generatie die er alleen van gehoord had.[^25]
 De techniek die jullie voor dit onderzoek gebruikten was de *third
 mind:* ‘De auteur Bilwet is vanouds een *third mind: *twee jongens en
 een typemachine. De samengestelde tekst is niet de optelsom van
 individuen, maar iets totaal anders, een samenballing van inzichten en
-uitglijers waar de bilweter alleen nooit op was gekomen.’[^17] Jullie
+uitglijers waar de bilweter alleen nooit op was gekomen.’[^26s] Jullie
 schreven samen, zittend op witte stoelen, boekenkast binnen handbereik.
-Nu wij samen schrijven lijkt, rijst een soortgelijke kwestie van
+Nu wij samen schrijven, rijst een soortgelijke kwestie van
 generatie-overdracht. Toen jullie de teksten in deze bundel schreven,
 waren jullie namelijk ongeveer even oud als ikzelf nu ben. Dertig jaar
 later ben ik, naar jij zegt, de eerste die de wereld van Bilwet
@@ -1156,13 +1158,13 @@ Ming in Italië bestaat nog steeds, zij schrijven samen fictie onder die
 naam.
 
 Sepp: Ja ik denk dat je gelijk hebt met je analyse over collectief
-schrijverschap. Maar hoe zit het met die generatieoverdracht? De
-fascisme-discussie in de jaren '70 en '80 was een mannendiscussie. De
+schrijverschap. 't Is voor velen inderdaad nogal onaantrekkelijk geworden. Maar hoe zit het met die generatieoverdracht? Neem bijvoorbeeld het feit dat de
+fascisme-discussie in de jaren '70 en '80 een mannendiscussie was - wat kunnen we daarvan leren? De
 allermeeste auteurs die geciteerd worden in deze bundel,
 inleiding incluis, zijn mannen. De vertaling van Theweleit werd opgezet
 door 'mannentijdschrift' *Manuskript*. Er wordt meer dan eens verwezen
 naar 'mannenpraatgroepen'. En niet te vergeten, Bilwet was een
-mannenclub. Toch was de fascisme-analyse geen circel-jerk-discussie over
+mannenclub. Toch was de fascisme-analyse geen circel-jerk over
 mannenrechten zoals die vandaag de dag door 'incels' gevoerd wordt.
 Integendeel. Het was voor mij een openbaring toen mijn moeder me
 vertelde over de fascisme-discussies van toen. Het patriarchaat is
@@ -1203,59 +1205,59 @@ geïnspireerd door feministische geschriften en acties van de (radicale)
 vrouwenbeweging. En praatgroepen, die zijn er nog steeds. Punt is alleen
 dat we sinds alt-right ook figuren als Jordan Peterson en Thierry Baudet hebben... Dat is de nieuwe identiteitspolitiek die de niet-fascistische zelfanalyse verdrongen heeft. Wat krijg je als je de adelaar van het duizenjarige rijk politiek correct maakt in de 21e eeuw? De uil van Minerva.
 
-[^1]: Zie bijvoorbeeld Antifascistisch kollektief, *De rechterkant van
+[^10]: Zie bijvoorbeeld Antifascistisch kollektief, *De rechterkant van
     Nederland: een overzicht van extreemrechtse en fascistische
     verschijnselen in Nederland* (Amsterdam: SUA, 1983).
 
-[^2]: Bilwet, *Het Beeldenrijk: over stralingsangst en ruimteverlangen*
+[^11]: Bilwet, *Het Beeldenrijk: over stralingsangst en ruimteverlangen*
     (Amsterdam: Raket en lont, 1985).
 
-[^3]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
+[^12]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
 
-[^4]: Bilwet, *Bewegingsleer* (Amsterdam: Ravijn, 1990), ook online:
+[^13]: Bilwet, *Bewegingsleer* (Amsterdam: Ravijn, 1990), ook online:
     <http://www.thing.desk.nl/bilwet/bilwet/Bewegingsleer/index.html>.
 
-[^5]: Zulke klassiek-Marxistische verklaringen zijn te lezen in,
+[^14]: Zulke klassiek-Marxistische verklaringen zijn te lezen in,
     bijvoorbeeld, Reinhard Kühnl, red. *Texte zur Faschismussdiskussion
     I: Positionen und Kontroversen* (Reinbek bei Hamburg: Rowohlt
     Verlag, 1974).
 
-[^6]: *Anne Frank in the World,* red. Anne Frank Stichting (Amsterdam:
+[^15]: *Anne Frank in the World,* red. Anne Frank Stichting (Amsterdam:
     Bert Bakker, 1985), vooral 72-77.
 
-[^7]: Friedrich Kittler, *Grammophon Film Typewriter* (Berlijn:
+[^16]: Friedrich Kittler, *Grammophon Film Typewriter* (Berlijn:
     Brinkmann & Bose, 1986).
 
-[^8]: Michel Foucault, ‘Preface,’ in Gilles Deleuze en Félix Guattari,
+[^17]: Michel Foucault, ‘Preface,’ in Gilles Deleuze en Félix Guattari,
     *Anti-Oedipus: Capitalism and Schizophrenia* (London: Continuum,
     2004 (1984)), xv.
 
-[^9]: Ernesto Laclau, *On Populist Reason* (London & New York: Verso,
+[^18]: Ernesto Laclau, *On Populist Reason* (London & New York: Verso,
     2005).
 
-[^10]: Ernesto Laclau en Chantal Mouffe, *Hegemony and Socialist
+[^19]: Ernesto Laclau en Chantal Mouffe, *Hegemony and Socialist
     Strategy: Towards a Radical Democratic Politics* (London & New York:
     Verso, 1985).
 
-[^11]: ‘Fascisme,’ *WikiKids,* geraadpleegd op 11 februari 2019,
+[^20]: ‘Fascisme,’ *WikiKids,* geraadpleegd op 11 februari 2019,
     <https://wikikids.nl/Fascisme>.
 
-[^12]: Franco ‘Bifo’ Berardi, ‘Dynamics of Humiliation and Postmodern
+[^21]: Franco ‘Bifo’ Berardi, ‘Dynamics of Humiliation and Postmodern
     Fascism,’ in *A New Fascism?, *edited by Susanne Pfeffer (London:
     Koenig Books, 2018), 11-12.
 
-[^13]: ‘Interview van Jo van der Spek met Bilwet (Basjan van Stam en Lex
+[^22]: ‘Interview van Jo van der Spek met Bilwet (Basjan van Stam en Lex
     Wouterloot) Voor ARKZIN/Zagreb,’ *Thing.Desk.nl*, september
     1995, [*https://thing.desk.nl/bilwet/TXT/BILWET.INT.txt*](https://thing.desk.nl/bilwet/TXT/BILWET.INT.txt).
 
-[^14]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
+[^23]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
 
-[^15]: INC publiceerde een herziene Engelse vertaling van dit
+[^24]: INC publiceerde een herziene Engelse vertaling van dit
     interview: [*http://networkcultures.org/blog/2018/12/21/memes-and-everyday-fascism-a-triptych-on-the-collective-techno-subconscious-as-incubator-of-a-mens-ideal/*](http://networkcultures.org/blog/2018/12/21/memes-and-everyday-fascism-a-triptych-on-the-collective-techno-subconscious-as-incubator-of-a-mens-ideal/).
 
-[^16]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
+[^25]: Zie ‘Opzet Bilwet-fascismemap’ in de bijlage van deze bundel.
 
-[^17]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
+[^26]: Zie ‘Hoezo Bilwet? Een inleiding’ in deze bundel.
 
 
 
@@ -1430,7 +1432,7 @@ project waarmee hij aan wil tonen dat schrijvers schrijven omdat zij aan
 een ‘Orfeussyndroom’ lijden. Neem Gottfried Benn. Neem Bertolt Brecht.
 Neem Franz Kafka. Allemaal schrijvers die hun grote werken schrijven ten
 koste van hun geliefde. Na* Männerphantasien *schokt Theweleit opnieuw
-met een provocerend boek.*[^1] *Arjen Mulder en Geert Lovink
+met een provocerend boek.*[^27] *Arjen Mulder en Geert Lovink
 comprimeerden de twaalfhonderd pagina’s van het eerste deel van wat
 uiteindelijk een groots vierluik moet worden.*
 
@@ -1741,7 +1743,7 @@ Stroemfeld/Roter Stern, 38 DM. Vanaf 1989 verschijnen: Band 2: *Benn: Dr
 Orpheus am Machtpol*. Band 3: *Freud: Prof. Orpheus’ Ohr*. Band 4: K.
 Theweleit & M. Langbein, *Celine: in Charons Nachen*.
 
-[^1]: Zie voor besprekingen van dat eerdere boek *Mannenfantasie* de
+[^27]: Zie voor besprekingen van dat eerdere boek *Mannenfantasie* de
     volgende twee hoofdstukken.
 
 
@@ -2178,21 +2180,21 @@ de jaren ’20 en ’30. Theweleit omschrijft dit materiaal als:
 > van de auteur erin overweegt en ze dus nog geen “historische werken”
 > genoemd kunnen worden; bovendien om heroïsche beschrijvingen van de
 > vrijkorpsstrijd achteraf, die met name in de jaren ’30 begonnen te
-> verschijnen.[^1]
+> verschijnen.[^28]
 
 Het theoretische object van de studie - het onderwerp waarover Theweleit
 theorieën formuleert op basis van een bestudering van het
 feitenmateriaal - is de Soldaatman. ‘Een van de kenmerkende
 eigenschappen van de hier behandelde literatuur is haar
-gelijksoortigheid.’[^2] Het is of al deze teksten geschreven zijn door
-een en dezelfde auteur, ‘één enkele fictieve schrijver’.[^3] In de
+gelijksoortigheid.’[^29] Het is of al deze teksten geschreven zijn door
+een en dezelfde auteur, ‘één enkele fictieve schrijver’.[^30] In de
 teksten gaat het om ‘beschrijvingen van toestanden en verlangens, die
 karakteristiek waren voor de mensen die ze schreven. Alle “nationale”,
 “conservatieve”, “fascistische” literatuur in de tijd van de Republiek
 van Weimar vat zichzelf op als een weergave van het leven in zieke
 toestand! Deze schrijvers leden “aan Duitsland” en verlangden intens
 naar een gezonde toestand in het komende “Rijk”. Dit fundamentele gevoel
-heb ik serieus genomen en als werkelijk gerespecteerd.’[^4] Door nu een
+heb ik serieus genomen en als werkelijk gerespecteerd.’[^31] Door nu een
 theoretisch model op te stellen van de gemeenschappelijke auteur van
 deze teksten probeert Theweleit een verklaring te formuleren voor het in
 de teksten uitgedrukte fundamentele gevoel. Een gevoel dat hij
@@ -2215,7 +2217,7 @@ verklaringen uitsluit en overbodig maakt.
 
 Opgemerkt dient te worden dat Theweleits studieobject niet het fascisme
 is. Hij plaatst zijn werk te midden van ‘studies die de moeite nemen de
-ontstaansgeschiedenis van het fascisme te onderzoeken’.[^5] Hij laat
+ontstaansgeschiedenis van het fascisme te onderzoeken’.[^32] Hij laat
 hierop echter al snel volgen:
 
 > Ik zie de onderzochte literatuur als
@@ -2224,7 +2226,7 @@ ervan), als onderdeel van de fascistische manier om met het leven “klaar
 te komen”, als onderdeel ook van de fascistische actie. De verlangens
 die erin naar voren komen en de manier waarop ze naar voren komen zijn
 voor mij van betekenis; niet waar de literatuur “op uit was”, niet wat
-ze al dan niet (naar het heette) aanrichtte.[^6]
+ze al dan niet (naar het heette) aanrichtte.[^33]
 
 Hieruit blijkt al wel
 dat Theweleit geen scherp onderscheid maakt tussen de Soldaatman als
@@ -2235,7 +2237,7 @@ het ding en het ding zelf, blijkt het duidelijkst uit zijn centrale
 stelling over de Soldaatman, een stelling die zijn boek samenvat:
 ‘Niemand hoefde vanwege economische achteruitgang een politieke fascist
 te worden - als iemand het werd, dan was hij al een fascist, een fascist
-vanbinnen.’[^7]
+vanbinnen.’[^34]
 
 ## II. De onbewuste stroming
 
@@ -2316,7 +2318,7 @@ zijn onbewuste heen sloot. Het lichaamspantser kon zich openen zonder
 dat het stukging en de soldaatman vernietigde: dat is de essentie van de
 frontervaring. ‘De strijd is voor deze lichamen, voor deze mannen,
 misschien wel de enige kans te ervaren wat er eigenlijk precies met hen
-aan de hand is.’[^8] In hun extatische frontervaringen ervoeren deze
+aan de hand is.’[^35] In hun extatische frontervaringen ervoeren deze
 soldaten van vlees en bloed zichzelf ten slotte ook als het object
 Soldaatman: dat is wat Theweleit hier zegt.
 
@@ -2347,7 +2349,7 @@ erotische verlangens, het bewijst dat ik géén stroom ben, niets
 stromends in mij heb want ik leef nog en zij is dood. Een typisch
 voorbeeld van wat ‘anti-productie’ is. Anti-productie is te definiëren
 als ‘het afbreken van leven en aan de andere kant het opbouwen van een
-nieuwe orde met behulp van de levenloos gemaakte realiteit.’[^9] Die
+nieuwe orde met behulp van de levenloos gemaakte realiteit.’[^36] Die
 nieuwe orde is in dit verband het eigen, niet-stromende lichaam.
 
 Het tweede front werd gevormde door de ‘eigen’ vrouwen: de echtgenotes
@@ -2407,7 +2409,7 @@ manifestaties zijn rituele ensceneringen van een ander soort massa’s,
 openbare vertoningen van de massa van de eigen verboden innerlijke
 verlangens, die getoond durven worden doordat ze zo strak onder controle
 worden gehouden. ‘In het heilige ritueel kan het goddeloze vertoond
-worden, dat is het doel van het ritueel’, definieert Theweleit.[^10] De
+worden, dat is het doel van het ritueel’, definieert Theweleit.[^37] De
 fascistische massa is een anti-productie, een heilige, ‘zuivere’,
 ‘goede’ massa: de massa op een voetstuk geplaatst.
 
@@ -2422,7 +2424,7 @@ stond tegenover de massa:
 > uitzondering en haar recht. Ras is geluk en leven. Ras is kracht,
 > schoonheid en lust. Ras is strijd, wijsheid en spel. Ras is bij de man
 > de hartstocht van het willen. Ras is bij de vrouw de passie van de
-> overgave.’[^11]
+> overgave.’[^38]
 
 Ras is in één woord het lichaamspantser, het geweld waarmee het
 innerlijk in bedwang wordt gehouden, een geweld dat maar ‘weinigen’ op
@@ -2477,7 +2479,7 @@ een toverwoord. De natie is iets wat in de soldaatman zelf zit:
 > afzonderlijke, eenzijdige elementen van het leven, die elk voor zich
 > naar de ondergang leiden, weer samensmelten, nuchtere feitenkennis en
 > geloof zonder twijfels weer verenigen - dat is de Duitse opgave. In
-> die eenheid is de natie aanwezig.’[^12]
+> die eenheid is de natie aanwezig.’[^39]
 
 Nationalisme is hier expliciet een aanspraak van de fascisten op de
 macht over het eigen volk om daar een molaire eenheid van te maken, in
@@ -2525,7 +2527,7 @@ lichaam heeft zitten.
 > juist het tegendeel van ‘eenheid’, die moet zijn samengesteld uit
 > boven/onder, buiten/binnen enzovoort. Zo’n eenheid geeft de soldaatman
 > een ingang tot lust. Zij hoedt hem voor de dood door opsplitsing en
-> verval.’[^13]
+> verval.’[^40]
 
 De molaire legereenheid zorgde ervoor dat zelfs als de molaire eenheid
 van het lichaamspantser van de Soldaatman bij de frontaanval uit elkaar
@@ -2540,14 +2542,14 @@ hele aarde één molaire eenheid worden: zolang er nog eenheden samen
 konden worden gevoegd zat er groei en ontwikkeling in het fascisme: ‘Het
 fascisme heeft altijd grotere gehelen buiten zichzelf nodig, waarin het
 al het bestaande aaneen smeedt om daarin telkens zelf aan de top te
-staan.’[^14]
+staan.’[^41]
 
 Vanuit deze inzichten is Theweleit in staat de complete ‘fascistische
 actie’ in één regel samen te vatten, die op zijn beurt weer te verklaren
 is uit zijn model Soldaatman: ‘Steeds staan twee bewegingen centraal in
 de fascistische praktijk: aaneenvoegen (door de eigen groep) tot
 hiërarchieën, en afstoten, dat wil zeggen doden, wat zich niet laat
-samenvoegen.’[^15]
+samenvoegen.’[^42]
 
 ## V. Moederkoeien
 
@@ -2567,7 +2569,7 @@ lichaam.
 > mensheid impliceert de ontkenning van de kleine, nabij, de
 > microgeschiedenis. Hun vlucht in de verte, in het openbare,
 > maatschappelijke, wil de nabijheid ontwijken, het persoonlijke, het
-> individuele of misschien beter het afzonderlijke.[^16]
+> individuele of misschien beter het afzonderlijke.[^43]
 
 Tegelijkertijd is het merkwaardige van Theweleits fascismebeeld, dat in
 dit kader de soldaatmannen er eigenlijk niets aan konden doen dat ze er
@@ -2579,18 +2581,18 @@ bewonderenswaardige, of in ieder geval verbluffende wijze de gekke
 scheiding tussen binnen en buiten die ze aan hun lichaam ervoeren, te
 overleven. En dat ze daartoe zoveel mensen moesten moorden? Ach, ‘Mensen
 doodmaken, dat is niks, sterven moeten ze toch een keer. Maar je mag ze
-niet verloochenen. Nee, je mag ze niet verloochenen.’[^17] Wat hadden ze
+niet verloochenen. Nee, je mag ze niet verloochenen.’[^44] Wat hadden ze
 anders kunnen willen dan het fascisme dat ze op wisten te bouwen?
 Theweleit: ‘Hun moordpartijen (op vrouwen) lijken minder van doen te
 hebben met het afweren van castratiedreiging dan met pogingen om een
-fundamenteel gemis op te heffen.’[^18] Wie zou hen kunnen verwijten dat
+fundamenteel gemis op te heffen.’[^45] Wie zou hen kunnen verwijten dat
 ze dat gemis op wilden heffen? En dat ze daardoor verplicht waren bij
 diegenen te behoren ‘die het gevoel hadden dat, om zélf te kunnen leven,
 anderen moesten sterven’? Is dat niet eerder tragisch dan kwaadaardig?
 
 Theweleit legt dan ook de schuld voor de gruwelen van het fascisme niet
 bij de Soldaatmannen zelf. ‘De fascist die na de vernietigingsroes weer
-bij zijn positieven komt wilde eigenlijk niet slecht zijn.’[^19]
+bij zijn positieven komt wilde eigenlijk niet slecht zijn.’[^46]
 Enerzijds ziet hij de oorzaak van het fascisme in de historische
 ontwikkeling van de burgerlijke, patriarchale maatschappij. Anderzijds
 richt hij de aandacht op de moeders van de soldaatmannen, die op zich
@@ -2610,7 +2612,7 @@ richt hij de aandacht op de moeders van de soldaatmannen, die op zich
 > zijn minst na 1945 duidelijk moeten zijn geworden. Toch gebeurde dat
 > niet. En ook nu nog zijn tot op zekere hoogte zelfs vrouwen, die voor
 > de bevrijding van vrouwen werken en leven bang erover te
-> spreken.[^20]
+> spreken.[^47]
 
 En hij voegt hier tussen haakjes aan toe:
 
@@ -2618,7 +2620,7 @@ En hij voegt hier tussen haakjes aan toe:
 > vrouwelijke schuld aan alle kwaad te construeren. Anderzijds: hoe
 > gemakkelijk zou zich uit de twee-eenheid moeder-kind een nieuw
 > revolutionair bewustzijn kunnen ontwikkelen van vrouwen als
-> producenten van niet-moorddadige mensen.[^21]
+> producenten van niet-moorddadige mensen.[^48]
 
 Theweleit wil de moederkoe slachten. Maar tegelijk maakt hij in een
 historische schets duidelijk dat ze hooguit medeverantwoordelijk is voor
@@ -2637,7 +2639,7 @@ de 11e eeuw. Dit ontwikkelingsproces is op te vatten als
 > directe wijze uitgebuit en onderworpen, ze werden ook voor nog veel
 > erger gebruikt, namelijk om als absorptiefactor te dienen van de
 > productiekracht van mannen van de overheerste klassen ten gunste van
-> de heersende.[^22]
+> de heersende.[^49]
 
 De mannen uit de overheerste klassen mochten hun verlangens naar
 vrijheid en geluk niet op de voor hen onbereikbare macht richten, dat
@@ -2651,7 +2653,7 @@ van vrouwenonderdrukking.
 > haar grenzeloos te maken, onwerkelijk zodat ze een principe wordt, het
 > principe van het stromen, van de verte, van de onbestemde eindeloze
 > verlokking. Deze vrouwenverering gaat gepaard met een ontkenning van
-> de concrete, vleselijke realiteit van vrouwen.[^23]
+> de concrete, vleselijke realiteit van vrouwen.[^50]
 
 In deze tweezijdige onderdrukking zagen de moeders van het Duitsland van
 de laat-19^e^ eeuw zich geplaatst. Het lichaam van deze vrouwen werd
@@ -2708,7 +2710,7 @@ zichzelf, op z’n logische samenhang.
 Theweleit hanteert als basis van zijn theorievorming omtrent de stromen
 en het onbewuste de filosofie die Gilles Deleuze en Félix Guattari
 ontvouwd hebben in hun boek *Anti-Öedipus: Kapitalismus und
-Schizophrenie I*.[^24] In dit boekwerk is de meest uitgebreide en
+Schizophrenie I*.[^51] In dit boekwerk is de meest uitgebreide en
 complexe filosofie over de vrije wil van onze tijd uitgeschreven.
 Deleuze en Guattari spreken niet van vrije wil, maar gebruiken daarvoor
 het psychoanalytische begrip verlangen. Uit het boek klinkt een
@@ -2902,10 +2904,10 @@ maatschappelijke is een anti-productie ten opzichte van de productie van
 het verlangen, de productiekracht van het onbewuste.
 
 ‘Er bestaat slechts verlangen en het maatschappelijke, verder
-niets.’[^25] En omdat iets alleen voor je bestaat, concreet is, als je
+niets.’[^52] En omdat iets alleen voor je bestaat, concreet is, als je
 er iets mee kunt, als je het kunt koppelen aan je verlangen, stellen
 Deleuze en Guattari: ‘Het objectieve bestaan van het verlangen is de
-werkelijkheid *an sich*.’[^26]
+werkelijkheid *an sich*.’[^53]
 
 En daar zit je je dan te verbazen. Het is toch verbluffend, zo’n balpen,
 en wat ik er allemaal mee kan: schrijven (en wat kan ik allemaal niet
@@ -3042,7 +3044,7 @@ zijn gekte schreef: ‘Alle namen uit de geschiedenis, dat ben ik’ (alle
 namen, alle intensiteiten, dus niet: alle concrete personen). Als de
 schizo zich Jezus voelt, Dionysus, Jeanne d’Arc of Napoleon, een plant,
 vrouw of oorspronkelijke bewoner van Amerika, dan heeft hij dus gewoon
-gelijk.[^27]
+gelijk.[^54]
 
 ## XII. De nieuwe aarde
 
@@ -3051,7 +3053,7 @@ het verlangen en het maatschappelijke. ‘Er is geen maatschappelijke
 productie van de realiteit aan de ene kant en verlangenproductie van
 fantasie aan de andere kant. In werkelijkheid is de maatschappelijke
 productie alleen maar de verlangenproductie onder bepaalde
-voorwaarden.’[^28] Er is een directe schakeling tussen het verlangen en
+voorwaarden.’[^55] Er is een directe schakeling tussen het verlangen en
 het maatschappelijke. De kapitalist die een balpen uitvindt en die
 grootschalig in productie neemt, doet dat omdat hij dat wil: zo kan hij
 zijn (schizofrene) verlangen door het maatschappelijke veld laten
@@ -3063,7 +3065,7 @@ Toch bestaat er een onderscheid tussen het maatschappelijke en de
 verlangenproductie. Deleuze en Guattari benoemen dit onderscheid als het
 verschil tussen de ‘molaire machines enerzijds, of dit nu
 maatschappelijke, technische of organische machines zijn, en de
-wensmachines anderzijds, die tot de moleculaire orde behoren.’[^29] Het
+wensmachines anderzijds, die tot de moleculaire orde behoren.’[^56] Het
 verlangen organiseert zich in twee grondvormen: molaire eenheden (het
 maatschappelijke) en moleculaire veelheden (de verlangenketens). Molaire
 eenheden, dat zijn ‘ikken’, lichamen, lichaamspantsers, legers,
@@ -3081,7 +3083,7 @@ lichaam is geen macromachine maar een reuzenmolecuul). Het onbewuste,
 schreven Deleuze en Guattari, is een fabriek waarin wensmachines staan,
 die voortdurend verlangens produceren. Dit onbewuste is wat Freud het
 ‘Es’ noemde. Het Es, zei Freud, is polymorf pervers (dat wil zeggen: het
-is niet netjes): ‘Waar Es is, moet Ich komen.’[^30] In termen van
+is niet netjes): ‘Waar Es is, moet Ich komen.’[^57] In termen van
 Deleuze en Guattari: waar een ongebreidelde verlangenproductie is, daar
 mag maar één soort verlangen komen. Dat mensen van alles wilden, wist
 Freud ook wel, maar eigenlijk zei hij, wil de mens maar één ding: hij
@@ -3133,7 +3135,7 @@ partijen). Deleuze en Guattari besluiten hun anti-Oedipale arbeid aldus:
 > doeleinden voorhouden, ze bevindt zich overal, ze is één met de
 > voltooiing, de verwerkelijking van het proces van de
 > verlangenproductie, dit proces dat zich altijd al verwerkelijkt en
-> voltooit, in zoverre en zolang als het zich voltrekt…[^31]
+> voltooit, in zoverre en zolang als het zich voltrekt…[^58]
 
 Aan deze opdracht heeft Theweleit zich gehouden. Hij heeft (tot op
 zekere hoogte) een geslaagde schizoanalyse gegeven van de Soldaatman en
@@ -3169,7 +3171,7 @@ hun plaats in het kapitalisme. Beide gaan ervan uit dat ‘verlangen’ de
 natuurlijke toestand is, of dat verlangen nu schizofreen of oedipaal is.
 Verlangen, willen, doet de mens altijd, van nature. En denk aan wat
 Friedrich Nietzsche, de eerste filosoof van het verlangen zei: ‘De mens
-wil nog liever het niets willen, dan niet te willen…’[^32] Wie niet wil,
+wil nog liever het niets willen, dan niet te willen…’[^59] Wie niet wil,
 is geen mens.
 
 Theweleit gaf een wetenschappelijke, schizoanalytische verklaring van
@@ -3221,7 +3223,7 @@ Maar is dit de natuurlijke, de enig mogelijke gang van zaken?
 > mateloosheid van de productie. Dit “iets” is niet het “verlangen”,
 > maar iets dat bewerkt, dat de macht precies in die mate uiteenvalt,
 > als waarin ze zich onherroepelijk uitbreidt. En dat is tegenwoordig
-> overal het geval.[^33]
+> overal het geval.[^60]
 
 Iets in ons verzet zich tegen de productie, tegen de macht (ook tegen de
 macht van het verlangen). Is dat de paranoïde pool van de
@@ -3234,19 +3236,19 @@ Ook dit is filosofie. Maar is de veronderstelling dat niet-willen de
 natuurlijke toestand is, niet minstens even aanvaardbaar als de
 tegenovergestelde formule? En misschien wel meer aanvaardbaar, want een
 stuk vriendelijker? ‘Elke filosofie die de mens de uitoefening van zijn
-wil opdraagt, kan hem alleen maar doen verzinken in wanhoop.’[^34] Ook
+wil opdraagt, kan hem alleen maar doen verzinken in wanhoop.’[^61] Ook
 Theweleit kan niet beargumenteren waarom de mens wil ‘stromen’, wil
 verlangen, en niet wil dat dat stromen wordt ingeperkt. ‘Het lijkt mij
 in ieder geval onwaarschijnlijk dat de neiging om het vloeien van
 stromen te begrenzen uit de wens van de mensen zelf voortkomt,’
 formuleert hij zijn axioma, zijn mythe van het revolutionaire
-onbewuste.[^35] Zoals de communisten de mythe van de revolutionaire
+onbewuste.[^62] Zoals de communisten de mythe van de revolutionaire
 arbeider aanhingen: was eenmaal de onderdrukking weggenomen, dan barstte
 hij vanzelf los in de revolutie (maar wel onder leiding van de
 communisten). En Baudrillard kan ook niet beargumenteren waarom we het
 liefste niet willen en de spelingen van het lot het leukste vinden: ‘Ik
 geloof eenvoudig dat we boven alles de voorkeur geven aan de fatale
-samenhang.’[^36]
+samenhang.’[^63]
 
 Akkoord. Uiteindelijk is iedere theorie gebaseerd op een geloof, op het
 aanvaarden van een filosofie. Maar valt er nog iets te zeggen over het
@@ -3264,7 +3266,7 @@ keer. Maar je mag ze niet verloochenen. Nee, je mag ze niet
 verloochenen. Voor ons is het toch niet het ergste dat ze ons willen
 doden, maar dat ze ons onophoudelijk overgieten met hun haat, dat ze ons
 nooit anders noemen dan moffen, hunnen, barbaren. Dat stemt
-bitter.’[^37] Erger dan de dood is de vernedering van wat men is, van de
+bitter.’[^64] Erger dan de dood is de vernedering van wat men is, van de
 eigen, diepste, individuele wil. En hoe Theweleit de Soldaatmannen ook
 noemt, hij verloochent hun diepste verlangens nooit. De verheffing van
 de wil, van het verlangen tot de enige waarde leidt ertoe dat de dood
@@ -3274,7 +3276,7 @@ De dood heeft een geschiedenis. In de Renaissance (tot en met de Barok)
 had de dood ‘de betekenis van een vereffening: het onderscheid in lot,
 in rijkdom en levensvoorwaarden werd door het universele gebaar van de
 dood teniet gedaan: onherroepelijk voerde hij een ieder naar het lot van
-allen.’[^38] De dood maakte iedereen gelijk. De dood leidde het
+allen.’[^65] De dood maakte iedereen gelijk. De dood leidde het
 bijzondere lot naar het algemene lot: zo uitte zich het algemene in het
 bijzondere. In de Romantiek daarentegen stelde de dood het unieke in:
 
@@ -3282,7 +3284,7 @@ bijzondere. In de Romantiek daarentegen stelde de dood het unieke in:
 > monotonie en nivellering van de levensloop; in het langzame, half
 > ondergrondse en niettemin reeds zichtbare naderen van de Dood wordt
 > het gewone leven eindelijk tot Individualiteit; een zwarte ring
-> isoleert het, en verleent het de stijl van zijn waarheid.[^39]
+> isoleert het, en verleent het de stijl van zijn waarheid.[^66]
 
 Eenieder sterft alleen, de dood vereenzaamt ieder mens: hij voert het
 algemene naar het bijzondere lot: zo uit zich het bijzondere in het
@@ -3312,7 +3314,7 @@ van de Renaissance:
 > helling dat zijn de hemelen, de heuvel is de bovenhemelse wereld. En
 > om de dingen van de lagere wereld te begrijpen, is het noodzakelijk om
 > op te stijgen naar hogere dingen, van waaruit we, naar beneden ziend,
-> een zekerder kennis van de lagere dingen kunnen hebben.[^40]
+> een zekerder kennis van de lagere dingen kunnen hebben.[^67]
 
 Vanuit het hogere standpunt ontvangen de dingen hun vaste plaats en
 maat, hun vaststaande vorm. Het overzicht biedt een ware voorstelling
@@ -3354,7 +3356,7 @@ een cirkel vormen van beelden en betekenissen, die alle even ‘waar’ en
 > stort. En waarom zou dit zwijn weer niet het symbool kunnen zijn van
 > de mens die zijn eigen ongeluk veroorzaakt? - en de cirkel is rond. Om
 > opnieuw te worden getrokken me nóg een keer het zwijn, maar nu
-> bijvoorbeeld in de betekenis van “blinde woede”.[^41]
+> bijvoorbeeld in de betekenis van “blinde woede”.[^68]
 
 Terwijl ieder embleem, al die beelden van bijzondere gevallen, hun vaste
 plaats krijgen in het algemene betekenissysteem, en dus naar de Orde der
@@ -3389,7 +3391,7 @@ beschreef haar rond 1850:
 > weer geheel te horen moet hij opnieuw in het woud gaan, en wel op een
 > zomeravond. Hoe dwaas zou het zijn als hij één der lieflijke
 > woudzingers wilde vangen en thuis misschien laten africhten om hem een
-> brokstukje dier grote woudmelodie voor te fluiten![^42]
+> brokstukje dier grote woudmelodie voor te fluiten![^69]
 
 Wagner zit midden in het bos. Hier is geen overzicht meer mogelijk (of
 gewenst) over Gods schepping. Hier is geen vaste vorm meer waar te
@@ -3435,7 +3437,7 @@ geworden in een wereld waarin alles geschiedenis is geworden: alles
 ordeloosheid, ‘verval’ en ‘ziekte’. Alleen in de vereeuwiging en
 zuivering van de geschiedenis kan de wereld worden ‘genezen’. Deze
 genezing zet in een tweezijdige beweging in. Als er alleen nog maar
-historie is, moet alles worden onthouden: begin 19^e^ eeuw worden de
+historie is, moet alles worden onthouden: begin 19e eeuw worden de
 eerste musea geopend. De accumulatie van de geschiedenis begint tot het
 geheugen er overladen van raakte). Maar ten tweede: als de geschiedenis
 de enige zingever is, staat bevrijding uit die geschiedenis gelijk aan
@@ -3454,7 +3456,7 @@ van de wil heeft de vergankelijkheid van de dood, die de centrale rol
 speelde in de emblematiek van de Renaissance, niets meer van doen: een
 degradatie van de doodsfiguur, die alleen te verklaren is uit een
 obscene verheffing van de waarde: de waarde van de ene, echte betekenis,
-de waarde van het Verlangen.[^43]
+de waarde van het Verlangen.[^70]
 
 De dood is in de Romantiek aldus een dubbele figuur geworden. Enerzijds
 zoekt het individu de dood van het individuele door zijn wil op te laten
@@ -3482,7 +3484,7 @@ gaan. Ieder bijzonder, afzonderlijk raadsel kan echter ontraadseld
 worden door het te verbinden met de Wil, het Verlangen en de
 Werkelijkheid. Theweleit: ‘Pas als het lichaam niet meer geheim is
 krijgt een openbaar politiek leven een echte kans, omdat het dan pas een
-werkelijke basis heeft.’[^44] Zo is de werkzaamheid van Theweleit te
+werkelijke basis heeft.’[^71] Zo is de werkzaamheid van Theweleit te
 beschrijven: het raadsel van de Soldaatman, de geheime ervaring van zijn
 lichaam te ontraadselen tot een verhaal over hoe het werkelijk was, over
 wat hij werkelijk wilde. Pas dan… Dat een politiek leven zonder geheimen
@@ -3497,7 +3499,7 @@ ontstaan? Een vrij nauwkeurige datumbepaling blijkt mogelijk. Rond 1800
 begon Phillip Otto Runge met wat hij de landschapschilderkunst noemde,
 de ‘Landschafterey’. Hij noemde het landschap ‘de expressie van de
 diepste religieuze mystiek’, en zijn schilderijen waren ‘symbolen voor
-het eeuwige ritme van het Wereld-Al’.[^45] Het landschap was de muziek
+het eeuwige ritme van het Wereld-Al’.[^72] Het landschap was de muziek
 van de ziel.
 
 > In de schilderijen van Runge wordt, voor het eerst misschien, het
@@ -3512,7 +3514,7 @@ van de ziel.
 > verzinking in de aanschouwing. Daartoe moet ze een eind maken aan de
 > emblematiek van de uiterlijke verschijningen, die in de kunst van de
 > Barok had geheerst: alles moest onmiddellijke manifestatie zijn van
-> het goddelijke.[^46]
+> het goddelijke.[^73]
 
 Toen dat de opgave werd, de onmiddellijke manifestatie van het
 (vormeloze, stromende, ritmische) goddelijke, betekende vorm voortaan
@@ -3531,7 +3533,7 @@ gezindheid karakteriseert Wagner als revolutionair - als politiek
 revolutionair (op de barricades van Dresden in 1848), en als muzikale.
 Als anarchist, om kort te gaan, die de revolutie zag als een regeling
 van een historisch proces zonder fundering in een door God geschapen
-Orde.’[^47] Het doorbreken van de rationele vorm om de ‘irrationele’
+Orde.’[^74] Het doorbreken van de rationele vorm om de ‘irrationele’
 inhoud te laten stromen, dat is de revolutionaire slogan.
 
 ## XIX. Historisch onderbewuste
@@ -3610,7 +3612,7 @@ verlangen?
 > liberale orde waarin men niet weet wat men wil, en waarin men
 > gedwongen wordt te erkennen dat men niet weet wat men wil: want in het
 > eerste geval is men overgeleverd aan de grootst mogelijke
-> determinering, in het tweede geval aan de onverschilligheid.[^48]
+> determinering, in het tweede geval aan de onverschilligheid.[^75]
 
 ## XX. Bevallingen en initiaties
 
@@ -3646,7 +3648,7 @@ nooit losgekomen van zijn moeder.
 > zien zonder angst of verlangen om opnieuw opgeslokt te worden, en dit
 > ook in hun spreken te kennen geven. Bijgevolg duurt de
 > “buitenbaarmoederlijke” geboorte zo’n twee en een half jaar. Als die
-> afgelopen is, dan is het kind een “Ich” geworden.[^49]
+> afgelopen is, dan is het kind een “Ich” geworden.[^76]
 
 Een ‘volledig geboren mens’ is dus een zelfstandig individu, een wezen
 dat in staat is zijn verlangen te laten stromen zonder bang te zijn
@@ -3667,7 +3669,7 @@ onbelangrijk was, net als de biologische dood:
 > onverzoenlijke, onverzoende, toverachtige en vijandige krachten, die
 > de ziel en het lichaam omsluipen, die de levenden en de doden
 > beloeren: vroegere en kosmische energieën, die de groep niet de baas
-> wist te worden in de ruil.[^50]
+> wist te worden in de ruil.[^77]
 
 Wat is deze ‘symbolische ruil’, waardoor dood en geboorte ophouden
 biologische feiten te zijn? Om in de huidige tijd te beginnen. Op een
@@ -3685,7 +3687,7 @@ teruggeven. Wij leven nog, waarom zijn anderen al dood?
 wij hem hebben gegeven, jaagt de wilden geen schrik aan. Zij hebben de
 dood nooit “genaturaliseerd”, zij weten dat de dood (net als het lichaam
 of een natuurgebeuren) een maatschappelijke verhouding is, dat zijn
-definitie maatschappelijk is.’[^51] Wij noemen de dood een realiteit: de
+definitie maatschappelijk is.’[^78] Wij noemen de dood een realiteit: de
 dood is de laatste zekerheid. Maar eigenlijk is ze iets imaginairs, want
 wat de dood is weten we niet: niemand is ooit teruggekomen om het te
 vertellen. De wilden, zoals Baudrillard ze noemt, kennen geen realiteit
@@ -3717,7 +3719,7 @@ de stam.
 ‘De initiatie is het tegendeel van ons realiteitsprincipe. Het toont dat
 de realiteit van de geboorte enkel ontstaat door de scheiding van dood
 en geboorte; en dat de realiteit van het leven zelf ontstaat doordat het
-leven van de dood wordt gescheiden.’[^52] Wij kunnen iets alleen maar
+leven van de dood wordt gescheiden.’[^79] Wij kunnen iets alleen maar
 als reëel ervaren, als we het scheiden van iets anders dat daardoor
 imaginair wordt. De realiteit, de objectiviteit van de natuur ontstaat
 enkel door de scheiding van mens en natuur. Het lichaam wordt reëel door
@@ -3733,7 +3735,7 @@ als reëel ervaren door het tegenovergestelde imaginair te maken.
 > positieve waarde te leven, is het voortdurende fantasma van de dood:
 > ons leven is reëel omdat de dood ons imaginaire is. Alle scheidingen
 > tussen imaginair en reëel hebben hun oerbeeld in de scheiding van
-> leven en dood.[^53]
+> leven en dood.[^80]
 
 Het symbolische beëindigt overal deze wederzijdse aantrekking van het
 reële en het imaginaire, doordat ze iedere mogelijke scheiding vervangt
@@ -3774,7 +3776,7 @@ de primitieven: voor hen houdt de ruil niet met het leven op.
 > schuld, individueel). Daaruit komt een belangrijk onderscheid in
 > plezier voort; wij gaan met onze doden om in de vorm van de
 > melancholie, de primitieven leven met hen onder de voortekenen van het
-> ritueel en het feest.[^54]
+> ritueel en het feest.[^81]
 
 ## XXI. Het verleide verlangen
 
@@ -3868,7 +3870,7 @@ uitwist.
 > van de buitenwereld als agressie, van het ik als afweer- en
 > bezettingssysteem, van het genot als ontlading van de spanningen Freud
 > had maar één probleem: dat oncontroleerbare gebeuren van de verleiding
-> uitschakelen.[^55]
+> uitschakelen.[^82]
 
 Leed de Soldaatman van Theweleit dan aan de verleiding? Was hij nooit
 verleid, liet hij zich nooit verleiden? Als we Baudrillards filosofie
@@ -3888,7 +3890,7 @@ Alle Soldaatmannen lijken dit letterlijk te hebben ervaren. Een
 Soldaatman over een redevoering: ‘\[De redenaar\] daarboven kijkt mij
 een moment aan. Deze blauwe sterre-ogen treffen me als vurige stralen.
 Dat is een bevel. Vanaf dit moment ben ik opnieuw geboren. Er valt een
-last van me af.’[^56] Die last is de last van zijn individuele wil, zijn
+last van me af.’[^83] Die last is de last van zijn individuele wil, zijn
 individuele lot: hij is tot maatschappelijk wezen gebombardeerd,
 herboren tot deel van een symbolische orde. Maar ergens in hem voelt hij
 een geheime ongehoorzaamheid tegen het bevel en het spektakel van de
@@ -3911,7 +3913,7 @@ doodsgevaar doet zoeken? Is dat de verleiding van ieder geweld?
 
 ‘De gehoorzaamheid is eigenlijk een banale strategie, die geen
 opheldering behoeft, want elke gehoorzaamheid bevat in het geheim een
-fatale ongehoorzaamheid aan de symbolische orde.’[^57] En bleek die
+fatale ongehoorzaamheid aan de symbolische orde.’[^84] En bleek die
 ongehoorzaamheid aan de Macht niet ook uit de bereidheid waarmee het
 overgrote deel van het Duitse volk zich liet ‘entnazifizieren’ (al bleef
 de droom van het bevrijdende bevel wel voortbestaan in deze nieuwe
@@ -3978,7 +3980,7 @@ andere mannelijke uitvindingen of fantasieën van dien aard.
 ik ben op zoek naar de wetmatigheden…’’
 
 Zo hebben mannen lang genoeg gepraat. En zo praat de man in zekere zin
-ook hier.’[^58]
+ook hier.’[^85]
 
 Theweleit liet zijn eigen subjectiviteit meespreken in zijn boek als
 verzet tegen de mannelijke, ‘objectieve’ wetenschap. Dat deel van de
@@ -3992,142 +3994,142 @@ van de scheiding mens-natuur, subject-object, vrouwelijk Es-mannelijk
 Ich… Wat een opluchting als deze geschiedenis op een dag blijkt te zijn
 wat ze genoemd werd: mannenfantasie, mannenfantasie…
 
-[^1]: Klaus Theweleit, *Mannenfantasie: een ingekorte vertaling*
+[^28]: Klaus Theweleit, *Mannenfantasie: een ingekorte vertaling*
     (Eindhoven: Manuskript, 1977), 13.
 
-[^2]: Idem.
+[^29]: Idem.
 
-[^3]: Ibidem, 59.
+[^30]: Ibidem, 59.
 
-[^4]: Ibidem, 15.
+[^31]: Ibidem, 15.
 
-[^5]: Ibidem, 14.
+[^32]: Ibidem, 14.
 
-[^6]: Ibidem, 15.
+[^33]: Ibidem, 15.
 
-[^7]: Ibidem, 433.
+[^34]: Ibidem, 433.
 
-[^8]: Ibidem, 340.
+[^35]: Ibidem, 340.
 
-[^9]: Ibidem, 119.
+[^36]: Ibidem, 119.
 
-[^10]: Ibidem, 231.
+[^37]: Ibidem, 231.
 
-[^11]: Ibidem, 271.
+[^38]: Ibidem, 271.
 
-[^12]: Ibidem, 278.
+[^39]: Ibidem, 278.
 
-[^13]: Ibidem, 281.
+[^40]: Ibidem, 281.
 
-[^14]: Ibidem, 287.
+[^41]: Ibidem, 287.
 
-[^15]: Ibidem, 299.
+[^42]: Ibidem, 299.
 
-[^16]: Ibidem, 59.
+[^43]: Ibidem, 59.
 
-[^17]: Ernst Jünger, zoals geciteerd in Manfred Nagl, *Science-fiction
+[^44]: Ernst Jünger, zoals geciteerd in Manfred Nagl, *Science-fiction
     in Deutschland* (Tübingen: 1972), 176, zoals geciteerd in Theweleit,
     *Mannenfantasie,* 212.
 
-[^18]: Theweleit, *Mannenfantasie,* 115.
+[^45]: Theweleit, *Mannenfantasie,* 115.
 
-[^19]: Ibidem, 188.
+[^46]: Ibidem, 188.
 
-[^20]: Ibidem, 436-437.
+[^47]: Ibidem, 436-437.
 
-[^21]: Idem.
+[^48]: Idem.
 
-[^22]: Ibidem, 152-153.
+[^49]: Ibidem, 152-153.
 
-[^23]: Ibidem, 155.
+[^50]: Ibidem, 155.
 
-[^24]: Gilles Deleuze en Félix Guattari, *Anti-Öedipus: Kapitalismus und
+[^51]: Gilles Deleuze en Félix Guattari, *Anti-Öedipus: Kapitalismus und
     Schizophrenie I* (Frankfurt am Main: Suhrkamp, 1974 (1972)). Citaten
     zijn door de auteur uit het Duits vertaald.
 
-[^25]: Ibidem, 39.
+[^52]: Ibidem, 39.
 
-[^26]: Ibidem, 36.
+[^53]: Ibidem, 36.
 
-[^27]: De gebruikelijke maar stigmatiserende benaming van
+[^54]: De gebruikelijke maar stigmatiserende benaming van
     oorspronkelijke bewoners van het Noord-Amerikaanse continent is hier
     redactioneel vervangen.
 
-[^28]: Deleuze en Guattari, *Anti-Ödipus,* 38-39.
+[^55]: Deleuze en Guattari, *Anti-Ödipus,* 38-39.
 
-[^29]: Ibidem, 369.
+[^56]: Ibidem, 369.
 
-[^30]: Sigmund Freud, ‘31^e^ lezing ter inleiding in de psychoanalyse,’
+[^57]: Sigmund Freud, ‘31^e^ lezing ter inleiding in de psychoanalyse,’
     1915-1917, auditorium van de Weense psychiatrische kliniek.
 
-[^31]: Deleuze en Guattari, *Anti-Ödipus,* 496.
+[^58]: Deleuze en Guattari, *Anti-Ödipus,* 496.
 
-[^32]: Dit is de laatste zin uit Friedrich Nietzsches *Genealogie van de
+[^59]: Dit is de laatste zin uit Friedrich Nietzsches *Genealogie van de
     moraal* uit 1887. Zie voor een Engelse vertaling Friedrich
     Nietzsche, *On the Genealogy of Morals,* (Cambridge: Cambridge UP,
     1994 (1887)), 120,
     <http://www.inp.uw.edu.pl/mdsie/Political_Thought/GeneologyofMorals.pdf>.
 
-[^33]: Jean Baudrillard, *Oublier Foucault* (München: Gesellschaft für
+[^60]: Jean Baudrillard, *Oublier Foucault* (München: Gesellschaft für
     sozialwissenschaftliche ökologische Forschung, 1978 (1977)), 50-51.
     Uit het Duits vertaald door Arjen Mulder.
 
-[^34]: Jean Beaudrillard, *De fatale strategieën* (Amsterdam: Duizend &
+[^61]: Jean Beaudrillard, *De fatale strategieën* (Amsterdam: Duizend &
     Een, 1985 (1983)), 148.
 
-[^35]: Theweleit, *Mannenfantasie,* 148.
+[^62]: Theweleit, *Mannenfantasie,* 148.
 
-[^36]: Baudrillard, *De fatale strategieën,* 249.
+[^63]: Baudrillard, *De fatale strategieën,* 249.
 
-[^37]: Theweleit, *Mannenfantasie,* 212.
+[^64]: Theweleit, *Mannenfantasie,* 212.
 
-[^38]: Michel Foucault, *Geboorte van de kliniek* (1963).
+[^65]: Michel Foucault, *Geboorte van de kliniek* (1963).
 
-[^39]: Idem.
+[^66]: Idem.
 
-[^40]: Kees Vollemans en Agnes Schreiner, *Een golf van bloed: over
+[^67]: Kees Vollemans en Agnes Schreiner, *Een golf van bloed: over
     Wagner en wagnerisme* (Den Helder: Tasma en Hekking, 1981).
 
-[^41]: Vollemans en Schreiner, *Een golf van bloed,* 29.
+[^68]: Vollemans en Schreiner, *Een golf van bloed,* 29.
 
-[^42]: Ibidem, 44-45.
+[^69]: Ibidem, 44-45.
 
-[^43]: Ibidem, 54.
+[^70]: Ibidem, 54.
 
-[^44]: Theweleit, *Mannenfantasie,* 290.
+[^71]: Theweleit, *Mannenfantasie,* 290.
 
-[^45]: Philipp Otto Runge, zoals geciteerd in Vollemans en Schreiner,
+[^72]: Philipp Otto Runge, zoals geciteerd in Vollemans en Schreiner,
     *Een golf van bloed*.
 
-[^46]: Vollemans en Schreiner, *Een golf van bloed,* 112.
+[^73]: Vollemans en Schreiner, *Een golf van bloed,* 112.
 
-[^47]: Ibidem, 133.
+[^74]: Ibidem, 133.
 
-[^48]: Baudrillard, *De fatale strategieën,* 261.
+[^75]: Baudrillard, *De fatale strategieën,* 261.
 
-[^49]: Theweleit, *Mannenfantasie,* 351.
+[^76]: Theweleit, *Mannenfantasie,* 351.
 
-[^50]: Jean Baudrillard, *Der symbolische Tausch und der Tod* (München:
+[^77]: Jean Baudrillard, *Der symbolische Tausch und der Tod* (München:
     Matthes & Seitz, 1982 (1976)), 206. Door de auteur uit het Duits
     vertaald.
 
-[^51]: Idem.
+[^78]: Idem.
 
-[^52]: Idem.
+[^79]: Idem.
 
-[^53]: Ibidem, 211.
+[^80]: Ibidem, 211.
 
-[^54]: Ibidem, 212-213.
+[^81]: Ibidem, 212-213.
 
-[^55]: Baudrillard, *De fatale strategieën,* 214.
+[^82]: Baudrillard, *De fatale strategieën,* 214.
 
-[^56]: Spreker hier is de fictieve protagonist in Josef Goebbels,
+[^83]: Spreker hier is de fictieve protagonist in Josef Goebbels,
     *Michael: Ein Deutches Schicksal in Tagebuchblättern* (München:
     1929), zoals geciteerd in Theweleit, *Mannenfantasie,* 298.
 
-[^57]: Baudrillard, *De fatale strategieën,* 281.
+[^84]: Baudrillard, *De fatale strategieën,* 281.
 
-[^58]: Theweleit, *Mannenfantasie,* 191.
+[^85]: Theweleit, *Mannenfantasie,* 191.
 
 
 
@@ -4392,7 +4394,7 @@ internationale:
 > van het proletariaat op nationale en internationale schaal, - ziedaar
 > het machtige wapen, dat de arbeidersklasse niet alleen tot een
 > succesvolle verdediging in staat stelt, maar ook tot een succesvol
-> tegenoffensief tegen het fascisme, tegen den klasse-vijand.[^1]
+> tegenoffensief tegen het fascisme, tegen den klasse-vijand.[^86]
 
 Vrij duidelijk, lijkt me: wanneer je ‘fascisme’ inderdaad uitsluitend
 ziet in termen van klasse-vijand en de meest brutale vorm van
@@ -4411,7 +4413,7 @@ Dimitroff:
 > wij constateren, dat alle stellingen, waar het op aan komt, eenparig
 > door het congres zijn goedgekeurd. Geen der sprekers heeft tegen de
 > door ons aangegeven tactische stellingname en de voorgestelde
-> resolutie bezwaren ingebracht.[^2]
+> resolutie bezwaren ingebracht.[^87]
 
 Dat is voor mij dus een vorm van discussiëren waar de fascisten even
 bedreven in waren en die naderhand geijkt is met de uitdrukking *‘Befehl
@@ -4563,7 +4565,7 @@ zoveel kunnen opsteken, dat zij in Nederland plotseling geen soort
 supermensen zijn maar gevaarlijk, onaangepast, asociaal, agressief en
 weet ik veel wat niet nog meer. Waaróm zijn die ‘engeltjes’ dan ineens
 achterlijk, vies, onbetrouwbaar enzovoorts? ‘Van die dingen dus, ja?’ om
-met (wijlen?) Cor van der Laak te spreken.[^3]
+met (wijlen?) Cor van der Laak te spreken.[^88]
 
 Cor van der Laak dus. Hij heeft iets van de doorsnee-iets-boven-modale
 burgerman: netjes rijtjeshuis, gewoon maar toch kritisch AVRO­lid,
@@ -4851,7 +4853,7 @@ racisme dus.
 >
 > something about it.’
 >
-> (John Lennon en Yoko Ono) [^4]
+> (John Lennon en Yoko Ono) [^89]
 
 Aan het eind van paragraaf zeven schreef ik, dat als er iets niet in
 orde is geweest in die ‘zwarte periode’ van de eerste vier levensjaren,
@@ -4999,7 +5001,7 @@ geven:
 > lijnen, en een storende ontroering zou teweeggebracht hebben’. Vreemd,
 > denk je dan, maar dan komt het: ‘In het raam van een christelijke
 > opvoeding die de geslachten als rassen van elkaar scheidde, was de
-> vrouw, voor Hergé, eerst een vreemd land, een andere wereld.’[^5]
+> vrouw, voor Hergé, eerst een vreemd land, een andere wereld.’[^90]
 
 Het Vrouwelijke - Het Verleidelijke - De Ontroering - De Voorstelling:
 en pats! Hergé zou direct gestoord raken en opgenomen dienen te worden
@@ -5325,24 +5327,24 @@ voor fascisme/racisme/seksis-
 
 LAATSTE ONTBREEKT!
 
-[^1]: Georgi Dimitroff, ‘Arbeitersklasse gegen Faschismus (1935), in
+[^86]: Georgi Dimitroff, ‘Arbeitersklasse gegen Faschismus (1935), in
     *Texte zur Faschismusdiskussion I: Positionen und Kontroversen,*
     red. Reinhard Kühnl (Reinbek: Rowohlt Taschenbuch Verlag, 1974),
     58-68. Citaat uit het Duits vertaald door de auteur.
 
-[^2]: Idem.
+[^87]: Idem.
 
-[^3]: Cor van der Laak was een ‘Krities AVRO-lid’ en typetje van Koot en
+[^88]: Cor van der Laak was een ‘Krities AVRO-lid’ en typetje van Koot en
     Bie uit de eerste helft van de jaren ’80. Het was een driftig
     mannetje dat altijd zijn gelijk probeerde te krijgen en in de clinch
     lag met de oude AVRO, de NS en de rest van Nederland. Zie
     bijvoorbeeld: <https://www.youtube.com/watch?v=vG96OFA9M1w>.
 
-[^4]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^89]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
 
-[^5]: Pierre Sterckx in Hergé, Pierre Sterckx en Georges Ade, *Het
+[^90]: Pierre Sterckx in Hergé, Pierre Sterckx en Georges Ade, *Het
     Imaginair Museum van Kuifje*, (Brussel: Casterman, 1980), 21-22.
 
 
@@ -5357,7 +5359,7 @@ Door Geert Lovink en Bas-Jan van Stam. Eerder verschenen in
 ### ‘De beste roman van over de Tweede Wereldoorlog’
 
 *Helden zonder glorie* kwam voor het eerst uit in 1948 in Amerika; in
-Nederland zes jaar later.[^1] In dit boek heeft Norman Mailer observaties en
+Nederland zes jaar later.[^91] In dit boek heeft Norman Mailer observaties en
 ervaringen verwerkt uit de periode 1944-1946 toen hij in dienst was van
 het Amerikaanse leger in het gebied van de Grote Oceaan. De strijd tegen
 de Japanners dus. Over die tijd en dat gebied gaat het boek. Dat wil
@@ -5779,7 +5781,7 @@ subjecten.
 > veranderen in tijgers.
 
 Aldus de tekst op de achterkant van *De SS’ers* van Armando en Hans
-Sleutelaar.[^2] Het boek verscheen in 1967 en draagt als ondertitel:
+Sleutelaar.[^92] Het boek verscheen in 1967 en draagt als ondertitel:
 ‘Nederlandse vrijwilligers in de Tweede Wereldoorlog.’
 
 Het schrijven over soldaten die aan de foute kant hebben meegevochten
@@ -6284,7 +6286,7 @@ militarisme wil daarmee de al te vanzelfsprekende link tussen
 psychoseksuele en politiek-maatschappelijke identiteiten doorbreken. In
 zo’n aan het alledaagse spraakgebruik ontleende stelling als ‘het leger
 maakt een man van je’ ligt zowel de ontdekking als de strategie
-besloten.[^3] Met behulp van een aan de psychoanalyse ontleend
+besloten.[^93] Met behulp van een aan de psychoanalyse ontleend
 therapeutisch model zouden de onderdrukte en gedisciplineerde verlangens
 en gevoelens van mannen aan de praat gebracht en bevrijd kunnen worden.
 Het militarisme, c.q. het leger, representeert namelijk niet alleen het
@@ -6369,7 +6371,7 @@ overleven zonder gek van angst te worden? De psychoanalyse wist hier wel
 raad mee: vragen voorleggen over situaties die met seksualiteit te maken
 hebben, bijvoorbeeld: ‘hoe zou je het vinden als je zus met een
 n\*\*\*\* omgang heeft?’, en uit het antwoord rolt of ze wel of niet een
-stabiele persoonlijkheid bezitten.[^4]
+stabiele persoonlijkheid bezitten.[^94]
 
 Ook na de Tweede Wereldoorlog is de rol van de psychoanalyse geen andere
 geweest dan dat ze zich met succes trachtte te integreren binnen het
@@ -6378,7 +6380,7 @@ steeds) zo dat bij de keuring van dienstplichtigen een niet exclusief
 heteroseksueel ‘verkeer’ reden is tot buitengewoon
 dienstplichtigstelling. Bij de S-5 procedure wordt altijd een
 psychiatrisch rapport opgesteld, waarin het afwijkende getraceerd wordt
-in het verleden.[^5]
+in het verleden.[^95]
 
 Als integraal onderdeel van het leger, c.q. het militarisme, is de taak
 van de psychoanalyse en psychologie de psychische stabiliteit van
@@ -6504,7 +6506,7 @@ deze buiten de eigenlijke gevechtshandelingen geplaatst. ‘De oorlog is
 een machine, een bewegende machine, waarbij de plaats van handeling, het
 front, is opgeheven.’
 
-In de nieuwe oorlog staan beweging en snelheid centraal.[^6] Discipline
+In de nieuwe oorlog staan beweging en snelheid centraal.[^96] Discipline
 en kameraadschap zijn niet langer nodig om de fysieke confrontatie met
 de fysiek aanwezige vijand aan te kunnen gaan (er is geen front meer,
 dus ook geen confrontatie); maar discipline en kameraadschap zijn nodig
@@ -6529,10 +6531,10 @@ overgebleven zijn uit de Tweede Wereldoorlog, aan te sluiten op de
 machines/systemen van de nieuwe oorlog. Het militaire apparaat oefent
 niet voor de nieuwe oorlog, maar voor zijn inpassing in en aanpassing
 aan de nieuwe oorlog. Deze in- en aanpassing wordt goed beschreven in
-BUNKERBUIT van Onkruit.[^7] Daarin gaat het vooral om de controle over
+BUNKERBUIT van Onkruit.[^97] Daarin gaat het vooral om de controle over
 ziekenhuizen, snelwegen en treinen met behulp van
 informatie-overbrengings-systemen. Niet voor niets is de PTT daarin
-uiterst belangrijk.[^8] Waar het in BUNKERBUIT om gaat zijn dan ook niet
+uiterst belangrijk.[^98] Waar het in BUNKERBUIT om gaat zijn dan ook niet
 oorlogsscenario’s maar aanpassingsscenario's. Het leger past zich aan
 aan de nieuwe oorlog.
 
@@ -6707,18 +6709,18 @@ aantrekkelijkheid voor zowel mannen als voor vrouwen. Ook lijkt het ons
 beter de hopeloze zoektocht naar dé identiteit te staken en de ernst
 ervan te veranderen in een spel van verleiding.
 
-[^1]: Normal Mailer, *Helden zonder glorie* (Utrecht: A.W. Bruna & Zoon,
+[^91]: Normal Mailer, *Helden zonder glorie* (Utrecht: A.W. Bruna & Zoon,
     1968 (1957)).
 
-[^2]: Armando en Hans Sleutelaar, *De SS'ers: Nederlandse vrijwilligers in de Tweede Wereldoorlog* (Amsterdam: De bezige bij, 1967).
+[^92]: Armando en Hans Sleutelaar, *De SS'ers: Nederlandse vrijwilligers in de Tweede Wereldoorlog* (Amsterdam: De bezige bij, 1967).
 
-[^3]: Zie voor dit denken Marcel Bullinga, *Het leger maakt een man van
+[^93]: Zie voor dit denken Marcel Bullinga, *Het leger maakt een man van
     je* (1958).
 
-[^4]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^94]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van deze bundel.
 
-[^5]: Bij de keuring van dienstplichtigen in Nederland werd de
+[^95]: Bij de keuring van dienstplichtigen in Nederland werd de
     ABOHZIS-gezondheidsclassificatie gehanteerd, die werkte met een
     schaal van 1 (niets aan de hand) en 5 (ongeschikt voor
     dienstplicht). De ‘S’ stond voor ‘stabiliteit’. S5 betekent dus: te
@@ -6726,22 +6728,22 @@ ervan te veranderen in een spel van verleiding.
     toegekend aan o.a. sterk ongemotiveerde dienstplichtigen, geestelijk
     gehandicapten en homoseksuelen.
 
-[^6]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
+[^96]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
     Muur* (Rotterdam: Uitgeverij 010, 1984), recentelijk opnieuw
     uitgegeven door het Institute of Network Cultures:
     <http://networkcultures.org/blog/publication/de-muur/>.
 
-[^7]: Onkruit, een groep antimilitaristische activisten, stal in 1983
+[^97]: Onkruit, een groep antimilitaristische activisten, stal in 1983
     een aantal documenten uit twee commandobunkers in Noordwijk en
     Katwijk en actieweekblad *Bluf!* publiceerde een selectie hiervan in
     *Bunker in bunkerbuit: de plannen die de oorlog mogelijk maken*
     (Amsterdam: Bluf!, 1983).
 
-[^8]: PTT was de voorganger van PostNL, het nationale postorderbedrijf.
+[^98]: PTT was de voorganger van PostNL, het nationale postorderbedrijf.
 
 
 
-# 7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik
+# 7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen  Gesundheits- und Sozialpolitik
 
 Door Geert Lovink. Geschreven in juli 1986.
 
@@ -6762,7 +6764,7 @@ opgedragen, dan aan hun mediatieve onkunde. In het gebruik van de moraal
 zijn zij nog vooroorlogs. Dessaur daarentegen kijkt vooruit, naar ‘het
 eind van de eeuw’: ‘in een sfeer van blind terrorisme,
 natuurvergiftiging en economische dreiging begint de twintigste eeuw aan
-haar laatste decennia.’[^1] Met aan de ene kant de ‘onverbiddelijke
+haar laatste decennia.’[^99] Met aan de ene kant de ‘onverbiddelijke
 optimisten’ en aan de andere kant ‘de zwarte brigade, wier oplossing
 voor alle euvelen is: *more of the same*. Meer bureaucratie, meer
 technocratie, meer mechanisering en automatisering, meer dehumanisering,
@@ -6827,18 +6829,18 @@ zie als de 'Stand der Dinge'. De vijfde alinea gaat als volgt:
 > (universele) abortus en (vanzelfsprekende) euthanasie uit te leggen
 > wat hun bezwaren zijn tegen de engeltjesmakers, of de do-gooders die
 > met injectienaald en spuit maar al te gaarne hun medemensen uit hun
-> aardse lijden willen verlossen.[^2]
+> aardse lijden willen verlossen.[^100]
 
 Even verderop blijkt dat de inhoud van de eugenetische ideologie typisch
 nationaalsocialistisch is: 'Het is in het belang van moeder en/of kind,
 respectievelijk van de ernstig zieke of de niet meer productieve
 bejaarde, dat medici en verpleegkundigen of hen te hulp snellende leken
-zich in dienst te stellen van de dood.’[^3] En het pamflet eindigt dan
+zich in dienst te stellen van de dood.’[^101] En het pamflet eindigt dan
 met een klaagzang over het verval van ‘onze beschaving’: ‘Het
 nationaalsocialistische geestelijke erfgoed, verpakt in de rode vlag van
 het groepsheil of in het plastic van het individuele hedonisme, kan tot
 niets anders leiden dan totale barbarij, totale angst van allen voor
-allen, totale vernietiging van wat eens onze beschaving was.’[^4]
+allen, totale vernietiging van wat eens onze beschaving was.’[^102]
 
 In een gesprek met NRC-Handelsblad voegt ze daar nog wat aan toe:
 
@@ -6858,7 +6860,7 @@ dat de uitdragers van het ‘euthanasiasme’ allemaal Nazi's zouden zijn:
 > mensen van iedere politieke signatuur. Maar ik heb gezegd: de geest
 > die zich vijftig jaar geleden manifesteerde, onder meer in het
 > nationaalsocialisme, manifesteert zich nu in sommige andere culturele
-> bewegingen.[^5]
+> bewegingen.[^103]
 
 Een nuancering die een paar vragen later weer verdwijnt als het gaat om
 de demagogie van de voorstanders:
@@ -6868,7 +6870,7 @@ de demagogie van de voorstanders:
 > stond. Er was daar geen Arbeit en er was ook geen Freiheit. Met
 > levenstestament bedoelen ze een verklaring hoe de drager ervan door de
 > hand van een ander wenst te sterven. Een demagogisch eufemisme
-> dus.[^6]
+> dus.[^104]
 
 Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet:
 
@@ -6880,7 +6882,7 @@ Op de vraag of ze naar *Shoah* gekeken heeft, antwoordt ze van niet:
 > belangrijker is hoe de Duitsers nu omgaan met hun Turkse gastarbeiders
 > dan dat er zo’n historische fout gemaakt wordt. Zo is het ook wat
 > Shoah betreft belangrijker te constateren dat zoveel mensen nu nog in
-> diezelfde mentaliteit leven van afzijdigheid en misdadigheid.[^7]
+> diezelfde mentaliteit leven van afzijdigheid en misdadigheid.[^105]
 
 Boudewijn Büch is iemand die het voor haar opneemt:
 
@@ -6895,7 +6897,7 @@ Boudewijn Büch is iemand die het voor haar opneemt:
 En hij besluit zijn column in *Het Parool* met ‘Dood wordt nooit modern,
 dus moeten we onmiddellijk stoppen met zogenaamd moderne opvattingen
 over euthanasie te ventileren. Mevrouw Dessaur heeft met *Mag de dokter
-doden?* alweer een goed boek geschreven.’[^8] Büch zegt ten aanzien van
+doden?* alweer een goed boek geschreven.’[^106] Büch zegt ten aanzien van
 de dood een conservatief standpunt in te nemen. Zou hij ook onder de
 typering van Carel Peeters vallen, een ‘Staphorster intellectueel’ te
 zijn? Zo tenminste noemt hij Dessaur in zijn aanval op haar recente
@@ -6915,7 +6917,7 @@ tijd tot tijd erupties van ‘kwaad’ teweegbrengen:
 > atavistische volkerenpsychologie te bedrijven?’ vraagt Peeters zich
 > af. ‘Als dit “intellectuele subtiliteit” van vóór Plato is dan is het
 > maar goed dat het erg lang geleden is. Maar bij mijn weten was Efeze
-> toen geen Staphorst.[^9]
+> toen geen Staphorst.[^107]
 
 Waarom komt er dan uit Efeze geen kritische beschouwing over euthanasie
 en moet een boeddhist zich opwerpen als de beschermengel van ‘onze
@@ -6946,7 +6948,7 @@ Dessaur:
 > het begin via eugenetische abortus, selectie aan het eind via
 > euthanasie op geïndoctrineerde bejaarden en straks selectie halverwege
 > op al diegenen die anderen niet gezond en gelukkig toeschijnen. Zo
-> wint Hitlers geest toch nog de wereldoorlog.[^10]
+> wint Hitlers geest toch nog de wereldoorlog.[^108]
 
 ## II. De Dokumentationsstelle zur NS-Sozialpolitik
 
@@ -7036,7 +7038,7 @@ gen-manipulatie of het ‘Erbgesundheitsgericht’ van toen dat nu
 gedaan zijn vanuit een politiek perspectief, en aantonen hoe groot de
 personele en ideologische continuïteit in de gezondheidszorg is en hoe
 weinig er tot dusver is uitgezocht over deze, niet afgesloten
-geschiedenis.[^11]
+geschiedenis.[^109]
 
 ## III. Vernietiging en modernisering
 
@@ -7062,7 +7064,7 @@ geschiedenis.[^11]
 > Deze laat zich door omschrijvingen niet vatten. Het is niet genoeg om
 > zijn verlammende gewicht enigszins verdraaglijk te maken. Hij moet
 > uiteengebarsten worden. En dat kan alleen als we z'n substantie
-> blootleggen.[^12]
+> blootleggen.[^110]
 
 Een intentieverklaring die aangeeft in welke richting het onderzoek
 gaat. De samenstelling van de molensteen bestaat voor hen uit twee
@@ -7120,7 +7122,7 @@ waarbinnen de Nazi-bevolkingspolitiek zou passen. Daarin gaat het om de
 Grossraumwirtschaft’. Kar-Heinz Roth schreef hierover drie artikelen.
 ‘De drievoudige uitbuiting van buitenlandse arbeiders’ over het schuiven
 met loon- en spaargelden door de banken (die voor aflossing van
-buitenlandse schulden gebruikt werd).[^13] ‘Bevolkingspolitiek en
+buitenlandse schulden gebruikt werd).[^111] ‘Bevolkingspolitiek en
 dwangarbeid in het “Generalplan Ost”’ is een referaat dat hij voor een
 congres in Warschau hield. Gevoed door ‘mannelijke seksuele angsten
 wordt de haat tegen de Polen omgezet in een experiment dat Roth ziet als
@@ -7130,7 +7132,7 @@ waren nergens anders dan in Polen zo geïntegreerd en gerealiseerd. Ze
 stonden in het kader van het ‘Generalplan Ost’ waarin Polen de functie
 kreeg van leverancier van werkslaven en koloniale grondstoffen.
 Extensieve landbouw moest ingevoerd worden en de industrie
-ontmanteld.[^14]
+ontmanteld.[^112]
 
 In het artikel ‘Vernietiging en ontwikkeling: de Nazistische
 “Neuordnung”’, dat Roth samen met Bretton Woods schreef voor het
@@ -7147,7 +7149,7 @@ hierop kan nog een kritiek vermeld worden van Michael Hepp op het boek
 van Albert Speer, *Der Sklavenstaat* waarin ook een schets wordt gegeven
 wat Europa en in het bijzonder de Oost-Europese landen te wachten stond.
 Niets meer dan een verlate wraak op Himmler en een verontschuldiging vol
-met fouten van een man die zijn eigen rol verzwijgt, aldus Hepp.[^15]
+met fouten van een man die zijn eigen rol verzwijgt, aldus Hepp.[^113]
 
 In Roths artikel over de betalingen aan buitenlandse arbeiders kwam de
 rol van de Deutsche Bank ook ter sprake. In het diepste geheim werkte de
@@ -7184,7 +7186,7 @@ voor gemaakt kan worden. Daarnaast zijn er onder andere in Bremen en
 West-Berlijn initiatieven om het sneller op lokaal niveau te regelen en
 tot een schadeloosstelling te komen. Het spreekt voor zich dat hierbij
 de publicaties van de Dokumentationsstelle een belangrijke rol
-spelen.[^16]
+spelen.[^114]
 
 ## IV. Registratie en selectie
 
@@ -7311,7 +7313,7 @@ Madagaskar te deporteren wordt doorgerekend. Drie jaar later worden de
 deportaties die wel doorgang vonden in opdracht van Himmler door de
 statisticus Korherr voorgerekend. Opgedeeld naar regio of land telt hij:
 ‘Evakuierungen insgesamt einschl. Sonderbehandlung… 1 873 519
-Juden’.[^17]
+Juden’.[^115]
 
 De schrijvers verbazen zich erover dat in al die boeken over de
 Jodenvervolging dit wezenlijke aspect ontbreekt. Zelfs de historicus
@@ -7344,7 +7346,7 @@ tegenstelling tot ‘Führer’ allerminst uit de Duitse taal is verdwenen:
 > welgeteld liefst zevenmaal voor; eenmaal staat er zelfs ‘’besonders
 > erfasst’’. Men vindt het bijna steeds aan het eind van een zin, zodat
 > alleen het uitroepteken lijkt te mankeren. De kat had de muis
-> erfasst.[^18]
+> erfasst.[^116]
 
 Dat schrijft Jaques Presser in zijn indrukwekkende boek *Ondergang: De
 vervolging en verdelging van het Nederlandse Jodendom 1940-1945*. Daarin
@@ -7381,7 +7383,7 @@ inzicht bestond in de naoorlogse jaren niet eens.
 
 Een artikel behandelt het sociaal-Darwinisme, een leer die in de
 twintiger jaren onder artsen populair was. Ook het standaardwerk over
-euthanasie van Ernst Klee opent hiermee.[^20] In de Hamburgse
+euthanasie van Ernst Klee opent hiermee.[^118] In de Hamburgse
 publicaties is daar tot dusver geen aandacht aan besteed. Misschien
 omdat daar genoeg over bekend is en men tegenwoordig voorzichtig is in
 het doen van zulke uitlatingen. Het kan eraan liggen dat discriminatie
@@ -7415,7 +7417,7 @@ maatregel tegen ‘asocialen’ werd alleen in Hamburg zo rigoureus de
 sloophamer ingezet (het ‘Gängeviertel’ werd in z’n geheel afgebroken).
 Verder is opvallend dat de maatregelen tegen alcoholici, daklozen,
 steuntrekkers, hoeren, et cetera, zo vroeg werden genomen. In ’35/’36
-waren ze ‘erfasst’.[^21]
+waren ze ‘erfasst’.[^119]
 
 Karl Heinz Roth opent met een verhandeling over de armoedepolitiek in de
 jaren dertig in Hamburg waar nog jaren na ’33 de noodtoestand van kracht
@@ -7453,7 +7455,7 @@ Naast documenten en ‘Täterbiografien’ vond ik twee opmerkelijke
 artikelen, beide in het gedeelte ‘Aussonderung und Vernichtung in den
 Anstalten.’ Het eerste is van de hand van Angelika Ebbinghaus die de
 ‘Aktive Therapie’ plaatst in een breder kader van bezuinigingen en moord
-in de psychiatrische inrichtingen. [^22] Het gaat hier om de toepassing
+in de psychiatrische inrichtingen. [^120] Het gaat hier om de toepassing
 van de elektroshock, die na onderzoek in jaren dertig niet langer op het
 hele lichaam, maar alleen op de hersenen werd verricht. Een
 ‘wetenschappelijke’ foltermethode die voor veel patiënten de dood
@@ -7470,7 +7472,7 @@ gebruik van het therapeutisch activisme kon niet worden aangebracht.
 Het tweede artikel is een openhartige zelfkritiek van een vooraanstaande
 naoorlogse psychiater, Klaus Dörner die ook al op de Gesundheitstag in
 1980 vraagtekens zette bij de mede door hem opgestelde en doorgevoerde
-hervorming van de Duitse psychiatrie in de jaren zeventig.[^23] Doordat
+hervorming van de Duitse psychiatrie in de jaren zeventig.[^121] Doordat
 het Naziverleden niet verwerkt is dreigt deze hervorming een kant op te
 gaan die veel overeenkomsten heeft met de Nazi-hervormingen en
 ‘oplossingen’. Vrijwel iedereen had weet van de dodentransporten van
@@ -7540,7 +7542,7 @@ zoals bij T-4 via ‘Gutachten’ het geval was, door ‘Einsatztruppen’
 doodgeschoten. Een summiere voorgeschiedenis en een uitgebreide uitleg
 over de verschillende stappen van de ‘T-4 Aktion’ is te vinden in het
 eerste overzicht dat Ernst Klee in 1983 schreef, *‘Euthanasie' im
-NS-Staat*.[^24] De documentatie is zelfs apart uitgegeven. Het is een
+NS-Staat*.[^122] De documentatie is zelfs apart uitgegeven. Het is een
 goed naslagwerk zonder enige analyse en het houdt zoals gezegd op in
 1941.
 
@@ -7569,7 +7571,7 @@ hebben en daarom ook geen leed met zich mee dragen, ‘eine massa carnis
 die niemals die Stufe eines Menschen erreichen kann’. In *Beiträge 2:
 Reform und Gewissen* van de Dokumentationsstelle, merkt Ulrich Schultz
 op dat in Catels werk op kinderkliniek in Leipzig een duidelijk verband
-te leggen is tussen actieve therapie, onderzoek en moord.[^25]
+te leggen is tussen actieve therapie, onderzoek en moord.[^123]
 
 In datzelfde nummer van de *Beiträge zur Nationalsozialistischen
 Gesundheits- und Sozialpolitik* (die sinds voorjaar ’85 bij Rotbuch
@@ -7595,7 +7597,7 @@ wel een strafrechtelijk vooronderzoek naar hem verricht, maar dat leidde
 niet tot een veroordeling. In de herdrukken van zijn handboek verdwenen
 Nazistische rassentermen, maar onvermeld bleef waar hij zijn ‘materiaal’
 (‘het liefst zo vers mogelijk’) vandaan had waar hij zijn observaties op
-had losgelaten.[^26]
+had losgelaten.[^124]
 
 Deze en andere biografieën tonen de persoonlijke inzet toen en de
 continuïteit tot aan het nu. Ze zijn van controversiële aard, als de
@@ -7610,7 +7612,7 @@ geven.
 In datzelfde nummer 2 van de *Beiträge* staat ook het artikel van Götz
 Aly, ‘Der saubere und schmutzige Fortschritt’ dat het duidelijkst
 aantoont dat hervormingen in de psychiatrie, selectie en moord één
-geheel vormden.[^27]
+geheel vormden.[^125]
 
 Zijn veelzijdige betoog begint met de hervormers uit de Weimar
 republiek. In hoofdzaak bekritiseerden zij de doodse, passieve toestand
@@ -7684,7 +7686,7 @@ gelovige bevolking munt wilde slaan om zo het Naziregime te ondermijnen.
 was gekomen en de ‘Gesetz über die Leidensbeendigung bei unheilbaren
 Kranken und Lebensunfähigen’ een te moorddadige, conservatieve indruk
 zou achterlaten. Het leek beter dit tot na de oorlog uit te
-stellen.[^28]
+stellen.[^126]
 
 Een tussenstap om justitie en de kerken van de noodzaak tot wetgeving te
 overtuigen was de speelfilm *Ich Klage an*. Duidelijk moest worden dat
@@ -7694,7 +7696,7 @@ geïnstitutionaliseerde ‘euthanasie’ nu aangebroken was. Aan de bevolking
 moest duidelijk gemaakt worden dat het niet om moord maar om
 ‘Sterbehilfe’ ging, de zogenaamde ‘Tötung auf Verlangen’. Het laatste
 artikel van *Beiträge* no. 2 betreft een uitvoerige analyse van deze
-film door Karl Heinz Roth, waarmee ik dit gedeelte wilde afsluiten.[^29]
+film door Karl Heinz Roth, waarmee ik dit gedeelte wilde afsluiten.[^127]
 
 De voorlichtingsfilms over psychiatrie hebben ’n geschiedenis. Zowel
 voor als na ’33 werd dit medium gebruikt, maar dan op kleine schaal voor
@@ -7864,7 +7866,7 @@ willen of niet:
 > maken, maar laat ons ook de volgende stap zetten en de
 > reproductievoorwaarden gaan onteigenen. Het laatste doel van de hele
 > eugenetische sociale techniek is de fundamentele a-socialiteit van het
-> menselijke leven.[^30]
+> menselijke leven.[^128]
 
 De maatschappij zal beroofd worden van z'n historiciteit doordat het
 sociale leven vernietigd wordt, een ‘Brave New World’ waarin de medische
@@ -7880,7 +7882,7 @@ zelfde werk- en denkwijze als in de Nazitijd: homoseksualiteit,
 criminaliteit en alcoholisme dreigen ook onder het werkterrein te vallen
 en net als vroeger zijn deze bureaus bijzonder vlijtig in het verzamelen
 van persoonlijke gegevens. Ze ontdekten dat tientallen medewerkers
-direct of indirect medeschuldig zijn geweest aan Nazimisdaden.[^31]
+direct of indirect medeschuldig zijn geweest aan Nazimisdaden.[^129]
 
 Naast de continuïteit is er nog het verleden zelf dat in de laatste
 jaren in West-Duitsland op de voorgrond is komen te staan. Een moeizame
@@ -7934,7 +7936,7 @@ allereerst oude en aan de rand van de maatschappij levende mensen in
 gevaar. Ze zouden onder een psychologische druk gezet worden en
 inderdaad naar de dood gaan verlangen als ze het gevoel zouden krijgen
 dat hun familie en het verplegend personeel van hen verwachten dat ze
-‘vrijwillig’ en ‘bijtijds’ uit het leven stappen.[^32]
+‘vrijwillig’ en ‘bijtijds’ uit het leven stappen.[^130]
 
 Voorts zou de vertrouwensrelatie tussen arts en patiënt onherroepelijk verstoord
 worden. In plaats van een debat over de verandering van de wetgeving te
@@ -7950,7 +7952,7 @@ Sterben’ elkaar gevonden hebben. Gedaan wordt er volgens Götz Aly in een
 redaktioneel kommentaar dat hij schreef voor de TAZ naar aanleiding van
 een hearing in het Bundeshaus te Bonn, alsof deze zelfbeschikking buiten
 de maatschappelijke / gewelddadige verhoudingen om geformuleerd zou
-kunnen worden.[^33] En alsof het doodsverlangen uit de diepte van het
+kunnen worden.[^131] En alsof het doodsverlangen uit de diepte van het
 individu zou komen, terwijl men eigenlijk door het idee van de
 ‘nutteloze verlenging van het leven’ tot zo’n verklaring gedwongen
 wordt.
@@ -7976,7 +7978,7 @@ wordt in hun ‘Gesund Sein 2000 Wege und Vorschläge’ met geen woord
 gerept. Het toverwoord luidt ‘Selbstbedienung’ en dat in tijd waarin het
 inkomen van grote groepen van de bevolking achteruitgaat. Een
 middenklasse-utopie die vraagt om een klassieke marxistische
-kritiek.[^34] Het ontwerpen en beheren van de armoedepolitiek wordt zo
+kritiek.[^132] Het ontwerpen en beheren van de armoedepolitiek wordt zo
 in handen gelegd van een groep goedbedoelende ecologen die er altijd
 alleen achteraf achter komen dat ze in de harde realiteit het sociale
 machtsinstrumentaria in de hand gedrukt hebben gekregen. Als zij hun
@@ -7987,32 +7989,32 @@ gaat worden met de tradities en denkwijzen die de Nazi's met zoveel
 voortvarendheid hebben omgezet in moorddadige praktijken moet dan klein
 geacht worden.
 
-[^1]: C.I. Dessaur, ‘Het einde van de eeuw,’ in *Mag de dokter doden?,*
+[^99]: C.I. Dessaur, ‘Het einde van de eeuw,’ in *Mag de dokter doden?,*
     geredigeerd door C I. Dessaur en C.J.C. Rutenfrans (Amsterdam:
     Querido, 1986), 137.
 
-[^2]: Idem.
+[^100]: Idem.
 
-[^3]: Idem.
+[^101]: Idem.
 
-[^4]: Idem.
+[^102]: Idem.
 
-[^5]: Wam de Moor, ‘Andreas Burnier – Prof. dr C. Dessaur,’ *De Tijd*,
+[^103]: Wam de Moor, ‘Andreas Burnier – Prof. dr C. Dessaur,’ *De Tijd*,
     31 januari 1986, 32-37.
 
-[^6]: Idem.
+[^104]: Idem.
 
-[^7]: Idem.
+[^105]: Idem.
 
-[^8]: Boudewijn Büch, ‘De dood wordt nooit modern,’ *Het Parool*, 12 mei
+[^106]: Boudewijn Büch, ‘De dood wordt nooit modern,’ *Het Parool*, 12 mei
     1986.
 
-[^9]: Carel Peeters, ‘De harde taal van de hogere sferen,’
+[^107]: Carel Peeters, ‘De harde taal van de hogere sferen,’
     *VN-boekenbijlage*, 3 mei 1986.
 
-[^10]: Dessaur, ‘Het einde van de eeuw,’ 140.
+[^108]: Dessaur, ‘Het einde van de eeuw,’ 140.
 
-[^11]: Als voorbeeld kan hier genoemd worden: Angelika Ebbinghaus,
+[^109]: Als voorbeeld kan hier genoemd worden: Angelika Ebbinghaus,
     Heindrun Kaupen-Haas en Karl Heinz Roth, red. *Heilen und Vernichten
     im Mustergau Hamburg: Bevölkerung- und Gesundheidspolitik im Dritten
     Reich* (Hamburg: Konkret Literatur Verlag, 1984). Achterin dit boek
@@ -8020,24 +8022,24 @@ geacht worden.
     Hamburg’ voorgesteld, die een achttal werkgroepen heeft en voor een
     gedeelte zorgde van de artikelen in deze bundel.
 
-[^12]: Statement van de Dokumentationsstelle, uit het Duits vertaald
+[^110]: Statement van de Dokumentationsstelle, uit het Duits vertaald
     door de auteur.
 
-[^13]: Karl Heinz Roth, ‘Dreifache Ausbeutung der Fremdarbeiter: eine
+[^111]: Karl Heinz Roth, ‘Dreifache Ausbeutung der Fremdarbeiter: eine
     Dokumentation über Okonomie und Politik des Lohnersparnistransfers
     in der ‘‘europäischen Grossraumwirtschaft’’ 1940-1944,’ in
     *Mitteilungen der Dokumentationstelle des Vereins zur Erforschung
     der nationalsozialistischen Gesundheitsund Sozialpolitik e.V*., no.
     1, vol. (september-oktober 1985), 69.
 
-[^14]: Karl Heinz Roth, Bevölkerungspolitik und Zwangarbeit im
+[^112]: Karl Heinz Roth, Bevölkerungspolitik und Zwangarbeit im
     ‘Generalplan
 
     Ost’, *Mitteilungen der Dokumentationstelle des Vereins zur
     Erforschung der nationalsozialistischen Gesundheitsund Sozialpolitik
     e.V*., no. 1 (september-oktober 1985), 70.
 
-[^15]: Karl Heinz Roth en Bretton Woods, ‘Vernichtung und Entwicklung:
+[^113]: Karl Heinz Roth en Bretton Woods, ‘Vernichtung und Entwicklung:
     die nazistische ‘‘Neuordnung’’,’ *Mitteilungen der
     Dokumentationstelle des Vereins zur Erforschung der
     nationalsozialistischen Gesundheitsund Sozialpolitik e.V*., no. 1,
@@ -8045,73 +8047,73 @@ geacht worden.
 
     (juni 1985), 1.
 
-[^16]: Michael Hepp, ‘Fälschung und Wahrheit: Albert Speer und der
+[^114]: Michael Hepp, ‘Fälschung und Wahrheit: Albert Speer und der
     ‘‘Sklaven-staat’’,’ *Mitteilungen der Dokumentationstelle des
     Vereins zur Erforschung der nationalsozialistischen Gesundheitsund
     Sozialpolitik e.V*., vol. 1, no. 3 (mei 1985), 1.
 
-[^17]: Götz Aly en Karl Heinz Roth, *De restlose Erfassung: Volkszählen,
+[^115]: Götz Aly en Karl Heinz Roth, *De restlose Erfassung: Volkszählen,
     Identifizieren, Aussondern im Nationalsozialismus* (Berlin: 1984).
     Projektgruppe Autonomie, ‘‘‘Volkszählung’’, ‘‘Vernummerung’’ und
     Datenerfassung bei den Nazis,’ *Die Tageszeitung,* 18 mei 1983.
 
-[^18]: Jaques Presser, *Ondergang: De vervolging en verdelging van het
+[^116]: Jacques Presser, *Ondergang: De vervolging en verdelging van het
     Nederlandse*
 
     *Jodendom 1940-1945* (Den Haag: Staatsuitgeverij, 1965), 58.
 
-[^19]: Gerhard Baader en Ulrich Schultz, red. *Medizin und
+[^117]: Gerhard Baader en Ulrich Schultz, red. *Medizin und
     Nationalsozialismus:*
 
     *Tabuisierte VergangenheitUngebrochene Tradition?*, (Berlin: 1980).
 
-[^20]: Friedemann Pfäfflin, ‘Zwangssterilation in Hamburg: Ein
+[^118]: Friedemann Pfäfflin, ‘Zwangssterilation in Hamburg: Ein
     Überblick,’ in *Reilen und Vernichten im Mustergau Hamburg*, red.
     Ebbinghaus, Kaupen-Haas, Heinz Roth, 26-29.
 
-[^21]: Karl Heinz Roth, ‘Ein Mustergau gegen die Armen:
+[^119]: Karl Heinz Roth, ‘Ein Mustergau gegen die Armen:
     Leistungschwachen und ‘‘Gemeinschaftsunfähigen’’,’ in *Reilen und
     Vernichten im Mustergau Hamburg*, red. Ebbinghaus, Kaupen-Haas,
     Heinz Roth, 7-17.
 
-[^22]: Angelika Ebbinghaus, ‘Kostensenkung, ‘‘Aktive Therapie’ und
+[^120]: Angelika Ebbinghaus, ‘Kostensenkung, ‘‘Aktive Therapie’ und
     Vernichtung: Konsequenzen für das Anstaltswesen,’ in *Reilen und
     Vernichten im Mustergau Hamburg*, red. Ebbinghaus, Kaupen-Haas,
     Heinz Roth, 136-146.
 
-[^23]: Klaus Dörner, ‘Ist die Psychiatrie-Reform der siebziger Jahre in
+[^121]: Klaus Dörner, ‘Ist die Psychiatrie-Reform der siebziger Jahre in
     Gefahr, zu einer ‘Euthanasie’ Reform zu werden?’ in *Reilen und
     Vernichten im Mustergau Hamburg*, red. Ebbinghaus, Kaupen-Haas,
     Heinz Roth, 162-163.
 
-[^24]: Ernst Klee, *‘Euthanasie' im NS-Staat*: *Die Vernichtung
+[^122]: Ernst Klee, *‘Euthanasie' im NS-Staat*: *Die Vernichtung
     lebensunwerten Lebens* (Berlijn: Fischer, 1985).
 
-[^25]: Ulrich Schultz, ‘Dichtkunst, Heilkunst, Forschung: Der Kinderarzt
+[^123]: Ulrich Schultz, ‘Dichtkunst, Heilkunst, Forschung: Der Kinderarzt
     Werner
 
     Catel,’ in *Beiträge zur nationalsozialistischen Gesundheits- und
     Sozialpolitik: 2: Reform und Gewissen: Euthanasie im Dienst des
     Fortschritts*, (Berlijn: Rotbuch Verlag, 1985), 107.
 
-[^26]: Karl Friedrich Masuhr en Götz Aly, ‘Der diagnostische Blick des
+[^124]: Karl Friedrich Masuhr en Götz Aly, ‘Der diagnostische Blick des
     Gerhard Kloos,’ in *Beiträge zur nationalsozialistischen
     Gesundheits- und Sozialpolitik: 2: Reform und Gewissen: Euthanasie
     im Dienst des Fortschritts*, (Berlijn: Rotbuch Verlag, 1985), 81.
 
-[^27]: Götz Aly, ‘Der saubere und der schmutzige Fortschritt,’ in
+[^125]: Götz Aly, ‘Der saubere und der schmutzige Fortschritt,’ in
     *Beiträge zur nationalsozialistischen Gesundheits- und
     Sozialpolitik: 2: Reform und Gewissen: Euthanasie im Dienst des
     Fortschritts*, (Berlijn: Rotbuch Verlag, 1985), 9-78.
 
-[^28]: Karl Heinz Roth en Götz Aly, ‘Das Gesetz über die Sterbehilfe bei
+[^126]: Karl Heinz Roth en Götz Aly, ‘Das Gesetz über die Sterbehilfe bei
     unheilbar Kranken: Protokolle der Diskussion über die Legalisierung
     der nationalsozialistischen Anstaltmorde in den Jahren 1938-1941,’
     in *Redaktionskollektiv ‘Autonomie’, Erfassung zur Vernichtung, von
     der Sozialhygiene zum ‘Gesetz über Sterbehilfe,’* red. Karl Heinz
     Roth (Berlin: 1984), 101.
 
-[^29]: Karl Heinz Roth, ‘Filmpropaganda für die Vernichtung der
+[^127]: Karl Heinz Roth, ‘Filmpropaganda für die Vernichtung der
     Geisteskranken und Behinderten im ‘‘Dritten Reich‘’,‘ in *Beiträge
     zur nationalsozialistischen Gesundheits- und Sozialpolitik: 2:
     Reform und Gewissen: Euthanasie im Dienst des Fortschritts*,
@@ -8121,24 +8123,22 @@ geacht worden.
     Nationalsozialismus: Studien zur Rassenpolitik und Frauenpolitik*
     (Berlijn: Opladen, 1986).
 
-[^30]: Karl Heinz Roth, ‘Menschen-Zucht und Gen-Ordnung,’ *Konkret* nr.
+[^128]: Karl Heinz Roth, ‘Menschen-Zucht und Gen-Ordnung,’ *Konkret* nr.
     1 (1986), 48.
 
-[^31]: Udo Sierck en Nati Radtke, *Die Wohltätermafia: vom
+[^129]: Udo Sierck en Nati Radtke, *Die Wohltätermafia: vom
     Erbgesundheitsgericht zur Humangenetischen Beratung* (Hamburg:
     1984).
 
-[^32]: Angelika Ebbinghaus, ‘Sterbehilfe Tötung auf wessen Verlangen?’
+[^130]: Angelika Ebbinghaus, ‘Sterbehilfe Tötung auf wessen Verlangen?’
     in: *Mitteilungen der Dokumentationstelle des Vereins zur
     Erforschung der nationalsozialistischen Gesundheitsund Sozialpolitik
     e.V*. vol. 1, nr.7-8 (september-oktober 1985), 3.
 
-[^33]: Götz Aly, ‘Selbstbestimmung als Vernichtungsutopie, Kommentar zum
-    Hearing
+[^131]: Götz Aly, ‘Selbstbestimmung als Vernichtungsutopie, Kommentar zum
+    Hearing über die Sterbehilfe,’ *Die Tageszeitung*, 17 mei 1985.
 
-    über die Sterbehilfe,’ *Die Tageszeitung*, 17 mei 1985.
-
-[^34]: Götz Aly, ‘Die Neuausrichtung der Gesundheitsdienste: Alternative
+[^132]: Götz Aly, ‘Die Neuausrichtung der Gesundheitsdienste: Alternative
     Gesundheitspolitik als Farm der Selbstbedienung.’
 
 
@@ -8281,7 +8281,7 @@ is. Elias Canetti noemt dit een pijnigende voorstelling: ‘dat vanaf een
 bepaald punt in de tijd de geschiedenis ophield reëel te zijn. Zonder
 het te merken heeft de hele mensheid plotseling de realiteit verlaten;
 alles wat sindsdien is gebeurd is absoluut niet waar, maar we kunnen het
-niet merken.’[^1] Zo verdwijnt in Berlijn de geschiedenis van straat en
+niet merken.’[^133] Zo verdwijnt in Berlijn de geschiedenis van straat en
 verschijnt vervolgens weer ten tonele in het Openlucht Museum. Idem dito
 met de geschiedschrijving, die alleen nog z’n waarde heeft als catalogus
 bij de rondleiding. De banden met onze tijd en waarneming van de
@@ -8295,7 +8295,7 @@ De grootste opgave die het fascisme-onderzoek zichzelf gesteld heeft, is
 te leren van de geschiedenis. Maar wat gebeurt er als de sporen van het
 verleden verdwenen zijn? Of nog een stap verder, als de geschiedenis als
 zodanig verdwenen is en we Mulisch’ uitspraak dat ‘Auschwitz de
-geschiedenis van Europa voorgoed verknoeid heeft’ letterlijk nemen?[^2]
+geschiedenis van Europa voorgoed verknoeid heeft’ letterlijk nemen?[^134]
 Dan wordt het naar mijn idee van belang om ook het fenomeen
 ‘geschiedenis’ in dit onderzoek op te nemen én te gaan kijken naar de
 breuken, de dingen die verdwenen in plaats van stil te staan bij de
@@ -8321,7 +8321,7 @@ opgespoord en door de Israëliërs ontvoerd. Na een langdurig verhoor en
 het opsporen van overlevenden die konden getuigen, begon in maart ’61
 het proces. Maandenlang kreeg het grote aandacht in de massamedia. Op 31 mei 1962 werd hij opgehangen. Het proces tegen Eichmann was een kristallisatiepunt geworden van
 bekentenissen, filosofische uitspraken en juridische uitspraken over de
-vervolging van (Nazi) oorlogsmisdadigers.[^3] Op het hoogtepunt van de
+vervolging van (Nazi) oorlogsmisdadigers.[^135] Op het hoogtepunt van de
 Koude Oorlog, tijdens de eerste bemande ruimtevluchten en de bouw van de
 Berlijnse Muur werd dit proces aanleiding tot een eerste herziening van
 het beeld dat er toentertijd van de fascisten en het fascisme was.
@@ -8395,11 +8395,11 @@ de geografische gecompliceerdheid van Eichmanns bekenning: ‘Een man
 wordt ontvoerd uit Buenos Aires; twee maanden later beschrijft hij in
 Haifa een gebouw in Berlijn; ik lees het in Amsterdam, terwijl hijzelf
 op dat moment luistert naar een verhaal van iemand uit Warschau, terwijl
-hijzelf toen (b.v.) in Parijs was.’[^4] Daarna volgt een verhandeling
+hijzelf toen (b.v.) in Parijs was.’[^136] Daarna volgt een verhandeling
 over de Duitse beweging die volgens Mulisch ‘mystiek en gevaarlijk’ is.
 ‘Voor Duitsers heeft ‘beweging’ altijd meer betekend dan voor anderen;
 zij is niet alleen noodzakelijke verplaatsing, door haar krijgt men ook
-deel aan verse bronnen van de ziel.’[^5] Het antwoord op de vraag
+deel aan verse bronnen van de ziel.’[^137] Het antwoord op de vraag
 waaruit deze fascinatie voor (de) beweging is voortgekomen krijgen we
 niet direct maar in de vorm van reis. Een zoektocht naar de bron, het
 centrum van waaruit de meest afschuwelijke beweging die de Nazi’s op
@@ -8466,7 +8466,7 @@ reconstrueert de indeling zoals die volgens Eichmann geweest moet zijn:
 > uit de muur. Was het dus Eichmanns kamer? Misschien was het Eichmanns
 > kamer.
 >
-> Ik voel mij zoals rechter Moshe Landau zich moet voelen.[^6]
+> Ik voel mij zoals rechter Moshe Landau zich moet voelen.[^138]
 
 ## IV. Onzichtbare en zwijgzame tekens
 
@@ -8480,7 +8480,7 @@ moeilijk te omschrijven. ‘Naar zo’n plek gaan we omdat we denken dat het
 helpt bij onze pogingen, om iets onvoorstelbaars voor te stellen. ‘‘Hier
 stonden zij toen, hier sta ik nu.’’ Ik heb geen spijt van dat ik het
 gedaan heb, en toch is het vergeefs en ik ga onverrichterzake
-terug.’[^7] Een typering van het bezoeken van gedenkplaatsen voor
+terug.’[^139] Een typering van het bezoeken van gedenkplaatsen voor
 slachtoffers van het fascisme die ik laatst ergens las.
 
 Claude Lanzmann heeft in zijn film *Shoah* hetzelfde thema, het vragen
@@ -8490,7 +8490,7 @@ aankomst van de trein op het rangeerterrein van Treblinka of een weiland
 met een bosrand op de achtergrond, roept een ongekende intensiteit op,
 terwijl d’r niets te zien is en niks gebeurt. ‘De afstand tussen heden
 en verleden werd zo opgeheven, alles werd voor mij weer werkelijkheid’,
-zei hij in een interview over de werking van deze beelden.[^8]
+zei hij in een interview over de werking van deze beelden.[^140]
 Historisch-documentaire opnames kunnen die verplaatsing in de
 slachtoffers (die nog van niets weten, maar wel een voorgevoel hebben
 wat hen te wachten staat) niet bewerkstelligen. Volgens Lanzmann komt
@@ -8500,7 +8500,7 @@ verdwenen. Daar komt nog bij dat wat er wél is, geen verbeeldingskracht
 betekenis en daar wilde hij niet op uitkomen of mee werken. ‘Er moesten
 open vragen blijven, raadsels waarbij voor het oplossen daarvan een
 voorstellingsvermogen gevraagd wordt: het gaat er niet om, alles te
-verklaren.’[^9]
+verklaren.’[^141]
 
 Wezenlijk bij het beeld was voor hem het ‘probleem van de plaatsen’. Het
 praten met de overlevenden en het bezoeken van de plaatsen vaagde bij
@@ -8513,7 +8513,7 @@ niet uit een serie herinneringen. ‘Ze schrikken mij af, ze zijn zwak.
 Herinneringen ziet men dagelijks op tv. Niets is saaier dan dat. Het is
 niet voldoende mensen te laten vertellen hoe. Ze moesten ze spelen. Dat
 betekent: irreëel maken. Deze act van het irreëel maken definieert het
-imaginaire.’[^10]
+imaginaire.’[^142]
 
 De enscenering is een kunst die de schrijver en schilder Armando precies
 zo in de vingers heeft. Hij laat alleen niet de slachtoffers aan het
@@ -8549,11 +8549,11 @@ VN:
 > te slijpen, eindeloos slijpen. Die aantekeningen maak ik overal, in de
 > bus, de tram, een concertzaal. En als ik me ergens verveel dan kan ik
 > zo gaan zitten slijpen. Een hele dag punteslijpen. Nee, een stuk zo
-> achter elkaar opschrijven, dat kan ik niet.[^11]
+> achter elkaar opschrijven, dat kan ik niet.[^143]
 
 Het puntigste dat hij naar mijn idee heeft geslepen zijn de
 *Aantekeningen over de vijand*, samengesteld tijdens het begin van zijn
-verblijf in Berlijn (1981).[^12] Een boek waar hij naar eigen zeggen erg
+verblijf in Berlijn (1981).[^144] Een boek waar hij naar eigen zeggen erg
 tevreden over is omdat qua vorm er een spanning in zit tussen abstractie
 en alledaagsheid. Het bevat honderden zinsnedes, dialogen en flarden,
 kleine beschrijvingen en overpeinzingen waar veelal een verbazing uit
@@ -8567,7 +8567,7 @@ zoveel vrijheid hadden ze niet. Hun openhartigheid werd gedempt door de
 verdedigende houding die ze moesten aannemen. Bij ideologische
 vraagstukken draaiden ze zich in alle mogelijke bochten en dat deed een
 behoorlijke afbreuk aan hun prettige herinneringen aan die tijd, de
-frontervaringen, de kameraadschap, ondanks alles…[^13]
+frontervaringen, de kameraadschap, ondanks alles…[^145]
 
 Afgezien van het feit dat ‘n aantal *Aantekeningen over de vijand*
 vrijwel letterlijk zijn terug te vinden in *De SS’ers*, is er nog een
@@ -8656,7 +8656,7 @@ schijn. Een paar aantekeningen kunnen dit illustreren:
 > \*
 >
 > We kregen aan het front 7 sigaretten of 2 sigaren. Je kon natuurlijk
-> ruilen, werd veel gedaan.[^14]
+> ruilen, werd veel gedaan.[^146]
 
 Armando worstelt met het afscheid nemen van de plek. Hij overlaadt ze
 niet met geschiedenissen en maakt ook geen reconstructie van de plek,
@@ -8669,14 +8669,14 @@ laatste begint Armando.
 Hij heeft wel weet van de geschiedenis. Achterin zijn eerste bundel
 artikelen, *Armando uit Berlijn*, geeft hij een keuze uit de boeken die
 hij ‘met instemming, genoegen of verbazing heeft gelezen of
-geraadpleegd.[^15] ‘Een volkomen willekeurige, nietszeggende lijst, maar
-wie weet.’[^16] Elders verklaart hij graag eigenaardige boeken te lezen,
+geraadpleegd.[^147] ‘Een volkomen willekeurige, nietszeggende lijst, maar
+wie weet.’[^148] Elders verklaart hij graag eigenaardige boeken te lezen,
 ‘die zich in kringen afspelen of die onderwerpen behandelen, die mij
 door vreemde lotsbeschikking bespaard zijn, waar ik dus onvoldoende weet
 van heb. Boeken ook van schrijvers, wier mentaliteit mij boeit, omdat
-zij mij met wilde vraagtekens achterlaten.’[^17] Het zoekt de verbazing
+zij mij met wilde vraagtekens achterlaten.’[^149] Het zoekt de verbazing
 over het verdwijnen op. ‘Ik kan wel naar de plek toe gaan als je dat
-wilt. Maar ik weet van tevoren wat ik er zal vinden: niets.’[^18] Toch
+wilt. Maar ik weet van tevoren wat ik er zal vinden: niets.’[^150] Toch
 gaat hij, om zich te kunnen verbazen. Zo neemt hij op gepaste wijze
 afscheid van de mensen die de oorlog nog hebben meegemaakt. Ongetwijfeld
 zal hij kunnen meegaan in de inmiddels gangbaar geworden opvatting dat
@@ -8829,7 +8829,7 @@ het voorwoord bij de familiefoto’s wordt daar ook op gewezen:
 > complexiteit van de ‘’toestand’’ die daarop uitgebeeld is. Wat we
 > echter ook wilden is het begrip ‘’alledaagsheid’’ haar willekeurigheid
 > in zoverre te ontnemen dat we binnen een vaste tijd, plaats en
-> biografie bleven.[^20]
+> biografie bleven.[^152]
 
 Het gevaar waar de Werkstatt hier op wijst is dat alles ‘Alltag’ wordt.
 In dit geval wordt dat vermeden door onder de familiefoto’s kleine
@@ -8883,7 +8883,7 @@ en passief verzet, meegaan en collaboreren, bejubelen en zwijgen. Maar
 vallen de grenzen daartussen nu ook weg?
 
 Analoog aan de Brio-reclame kunnen we zien dat eenieder zo tegenstrijdig
-(of veelzijdig?) is, als hij of zij zich voelt.[^21] Maar over
+(of veelzijdig?) is, als hij of zij zich voelt.[^153] Maar over
 massamoord hoeft niet dubbelzinnig gedaan te worden. Al direct na de
 overwinning op Nazi-Duitsland is een duidelijk antwoord gekomen op de
 schuldvraag: iedereen was schuldig, collectief én individueel, zowel de
@@ -8947,7 +8947,7 @@ schrikaanjagend begrip was, zegt nu niemand meer iets:
 > immigreerden. Niemand weet meer dat er in ‘t hart van de oude
 > ‘’Reichshauptstadt’’ tot in de jaren dertig een vreemdsoortig eiland
 > met een Oost-Europees Jodenleven bestond, dat zowel de plaats was van
-> Talmoed-scholen als een buurt van misdadigers.[^22]
+> Talmoed-scholen als een buurt van misdadigers.[^154]
 
 Daaronder staat een foto van een orthodoxe Jood, een in het zwartgeklede
 man die in een langzame pas, naar de grond kijkend, vijf kinderen mee
@@ -8988,7 +8988,7 @@ Duitsland en de gangbare manieren om het fascisme te bekijken. Zijn
 leermeester in deze is Adorno, zijn tijdgenoot waar hij in stijl en
 betoogtrant als twee druppels water op lijkt is de essayist Wolfgang
 Pohrt, die toentertijd ook in Hannover woonde. Achter in het boek vinden
-we hem terug als een van de medewerkers.[^23] Ze delen met elkaar de
+we hem terug als een van de medewerkers.[^155] Ze delen met elkaar de
 hoon tegen al wat alternatief, groen of zacht-geweldloos is. Dat zijn
 zo’n beetje de ergste Duitsers die er op aarde rondlopen. Zij, de
 generatie van ‘68, de kinderen van Auschwitz, hebben niet alleen de
@@ -8999,7 +8999,7 @@ verziekt) calculeren deze pacifisten-ecologen nogmaals met de dood van
 miljoenen anderen. Ze slikken bezuinigingen en verarming voor zoete
 koek. Hier willen Pohrt en Geisel een onverbiddelijk radicaal, rationeel
 en kritische analyse tegenover zetten. Dikwijls doen ze dat via de omweg
-van het fascisme.[^24] *Im Scheunenviertel* zie ik als de meest geslaagde
+van het fascisme.[^156] *Im Scheunenviertel* zie ik als de meest geslaagde
 poging daartoe, geschiedenis en kritiek met elkaar te verbinden.
 
 Als tweede onderdeel zijn er een twintigtal tekstfragmenten van beroemde
@@ -9026,7 +9026,7 @@ staan geparkeerd.
 In zijn ‘beschrijving van een cenotaaf’ (letterlijk leeg graf, grafsteen
 voor doden die elders begraven liggen) geeft Geisel, in iedere zin
 polemiserend met de conserverende geschiedschrijving, enkele gegevens
-over wat eens was. De schuren en stallen die daar het 19^e^-eeuwse
+over wat eens was. De schuren en stallen die daar het 19e-eeuwse
 voorstadium vormden van de inlijving van de naar de stad gekomen
 boerenbevolking in de moderne productie- en verkeersverhoudingen. Als
 vanouds een doorgangsstation dus, van de boerderij naar de
@@ -9228,7 +9228,7 @@ Eichmann en Auto:
 > springen met het besef, vijf miljoen Joden…’’ Maar de coureur stapt
 > uit zijn wagen, wordt een mens en heeft op dat ogenblik het juichen
 > van het stadion nodig. Eichmann kan nooit uitstappen, -want hij is
-> zelf de wagen.[^25]
+> zelf de wagen.[^158]
 
 Dus geen honkvaste kantoorklerk, maar een rondjes rijdende machine. Dat
 was voor ons reden om onze aandacht te verleggen van plek (waar niets is
@@ -9300,7 +9300,7 @@ Links staan zeer uitgekiende foto’s van de Muur, gemaakt door de
 architectuur-fotograaf Piet Rook, en rechts de tekst.
 
 Het boek heet eenvoudigweg *De Muur* en is geschreven door Donald van
-Dansik, Jan de Graaf en Wim Nijenhuis.[^26] Volgens mij het meest
+Dansik, Jan de Graaf en Wim Nijenhuis.[^158] Volgens mij het meest
 eigenwijze boek over het Berlijn anno nu. Gezien door de ogen van de
 nuchtere Hollander net zo absurd als Peter Schneider’s *Der
 Mauerspringer.* Maar dan niet fantastisch – ’t is de hyperrealiteit waar
@@ -9361,7 +9361,7 @@ tegen elkaar te zetten. Sindsdien regelen muren de in- en uitsluiting
 kunnen ontsnappen). Daar kwam pas verandering in toen de stadsmuren
 geslecht en de verdedigingswerken weliswaar in samenwerking met elkaar,
 maar los, ver buiten de stad gebouwd werden. Dat gebeurde omstreeks de
-18^e^ eeuw en sindsdien is het doel van de militaire strategie niet meer
+18e eeuw en sindsdien is het doel van de militaire strategie niet meer
 belegering en beleg, maar ‘het politionele beheer van het
 maatschappelijke verkeer’ geworden. Deze historische omweg is nodig om
 de vraag te kunnen beantwoorden wat voor een muur dat toch is die van
@@ -9375,7 +9375,7 @@ leiden, het gros van de mensen drüben heeft zich er bij neer gelegd en
 voor de modale mediaconsument in het Westen is het een symbool geworden.
 Een toeristische attractie die veel bekijks trekt. Een wond waarvan een
 litteken is overgebleven, iets dat volgens van Dansik e.a. ‘al sinds
-mensenheugenis het beste voertuig voor herinnering is.’[^27] De stad is
+mensenheugenis het beste voertuig voor herinnering is.’[^159] De stad is
 volgens hen tegenwoordig het sediment van het collectieve geheugen en
 dat zou onmiskenbaar voor Berlijn opgaan. ‘De stad lijdt, voor de goede
 zaak, daarom waant Berlijn zich martelaar.’
@@ -9386,16 +9386,16 @@ militairen en de politiek om de massa te activeren, om te voorkomen dat
 ze door de onverschilligheid van massa vergeten worden. Na fascisme en
 wereldoorlog pogen zij ‘de desolate resten tot leven te brengen en tot
 expressie te bewegen teneinde het innerlijk van de massa te kunnen
-peilen.’[^28] Dat komt omdat het naoorlogse Duitsland een gebrekkige
+peilen.’[^160] Dat komt omdat het naoorlogse Duitsland een gebrekkige
 identiteit heeft. De economie onder Adenauer heeft weliswaar de beloften
 die sinds ‘33 gedaan zijn waargemaakt, ‘maar politiek gezien blijft de
-massa ondoorgrondelijk’.[^29] Ze wordt object van permanente peiling. In
+massa ondoorgrondelijk’.[^161] Ze wordt object van permanente peiling. In
 het tijdperk van de zachte technologie gebeurt dat alleen niet meer
 d.m.v. onderdrukking en geweld. De tegenwoordige verhoudingen zijn
 circulair, uitwisselbaar. De politiek staat dus niet meer boven en de
 massa ligt niet meer onder, maar ze draaien om elkaar heen. Cryptisch
 gezegd: ‘De chantage van de politiek wordt geconfronteerd met de
-chantage van de massa.’[^30]
+chantage van de massa.’[^162]
 
 In dit licht kan de Berlijnse crisis van ‘61 gezien worden als een
 activering en binding aan de macht van het binaire internationalisme.
@@ -9403,7 +9403,7 @@ activering en binding aan de macht van het binaire internationalisme.
 op het slagveld van de Berlijnse Muur herrees enkele weken later de
 Politiek als Phoenix uit de as.’ De macht van de Internationale, zoals
 wij dat in *Het Beeldenrijk* noemden is alleen niet tastbaar, maar
-abstract.[^31] ‘Alleen in Berlijn is ze nog concreet. Daarom koesteren
+abstract.[^163] ‘Alleen in Berlijn is ze nog concreet. Daarom koesteren
 we Berlijn als een geschenk uit de hemel; en Greenham Commen en
 Woensdrecht.’ Startbahn West en Wackersdorf zouden we daar nog aan
 kunnen toevoegen. Door dat soort muren kunnen we nog tegen de macht te
@@ -9413,7 +9413,7 @@ de hand. ‘In Berlijn is de stad niet getroffen maar gered. Overal ter
 wereld verglijden de steden vanuit hun centra in het niet, maar dankzij
 het beleg wordt de vorm van Berlijn beschaagd vanuit de rand. Het is het
 vlak waar de wereldmachten elkaar raken en dus iets van elkaar
-opsteken.’[^32]
+opsteken.’[^164]
 
 In tijden van internationale spanningen vormt Berlijn het testgebied van
 de grootmachten. Dus de duidelijke scheiding door de Muur, geeft de
@@ -9468,67 +9468,65 @@ was ons zwaar gevallen, de film wilde maar niet afkomen. Nu, twee jaar
 later kan ik gissen waarom de Muur wraak nam op ons filmproject omdat
 hij niet in het scenario voorkwam.
 
-[^1]: Elias Canetti, *Die Provinz des Menschen: Aufzeignungen 1942-1972*
+[^133]: Elias Canetti, *Die Provinz des Menschen: Aufzeignungen 1942-1972*
     (Frankfurt: Fischer, 1976), 79, zoals geciteerd in Jean
     Beaudrillard, *De fatale strategieën* (Amsterdam: Duizend & Een,
     1985 (1983)), 19.
 
-[^2]: Harry Mulisch, *De zaak 40-61: een reportage* (Amsterdam: De
+[^134]: Harry Mulisch, *De zaak 40-61: een reportage* (Amsterdam: De
     bezige bij, 1979 (1961)).
 
-[^3]: De bekendste in deze soort is Hannah Arendts *Eichmann in
+[^135]: De bekendste in deze soort is Hannah Arendts *Eichmann in
     Jeruzalem: de banaliteit van het kwaad* (1965).
 
-[^4]: Sterk ingekort citaat uit de zes bladzijdes lange zoektocht, in
+[^136]: Sterk ingekort citaat uit de zes bladzijdes lange zoektocht, in
     Mulisch, *De Zaak 40-61*, 94-97.
 
-[^5]: Idem.
+[^136]: Idem.
 
-[^6]: Ibidem*,* 95-97.
+[^138]: Ibidem, 95-97.
 
-[^7]: Idem.
+[^139]: Idem.
 
-[^8]: Marc Chevie en Hervé le Roux, ‘Interview met Claude Lanzmann,’
+[^140]: Marc Chevie en Hervé le Roux, ‘Interview met Claude Lanzmann,’
     *Cahiers du cinéma,* nr. 374 (zomer 1985).
 
-[^9]: Idem.
+[^141]: Idem.
 
-[^10]: Idem.
+[^142]: Idem.
 
-[^11]: Interview met Armando door Aukje Holtrop in: *Vrij Nederland*,
+[^143]: Interview met Armando door Aukje Holtrop in: *Vrij Nederland*,
     10-12-1983.
 
-[^12]: Armando, *Aantekeningen over de vijand* (Amsterdam: Querido,
+[^144]: Armando, *Aantekeningen over de vijand* (Amsterdam: Querido,
     1985).
 
-[^13]: Zie Armando en Hans Sleutelaar, *De SS’ers* (Amsterdam: De bezige
+[^145]: Zie Armando en Hans Sleutelaar, *De SS’ers* (Amsterdam: De bezige
     bij, 1967). De frontervaringen van deze mannen hebben wij nader
     bekeken in ons artikel ‘De gewonnen, de verloren, de permanente
     oorlog’, in: *Manuskript* 12, themanummer over mannelijkheid en
     militarisme, Eindhoven januari 1986.
 
-[^14]: Armando en Sleutelaar, *De SS’ers.*
+[^146]: Armando en Sleutelaar, *De SS’ers.*
 
-[^15]: Armando, *Armando uit Berlijn* (Amsterdam: De bezige bij, 1982),
+[^147]: Armando, *Armando uit Berlijn* (Amsterdam: De bezige bij, 1982),
     197-199.
 
-[^16]: Ibidem, 197.
+[^148]: Ibidem, 197.
 
-[^17]: Armando, *Krijgsgewoel* (Amsterdam: De bezige bij, 1986).
+[^149]: Armando, *Krijgsgewoel* (Amsterdam: De bezige bij, 1986).
 
-[^18]: Armando, *Aantekeningen over de vijand*.
+[^150]: Armando, *Aantekeningen over de vijand*.
 
-[^19]: Te vinden in: Berliner Geschichtswerkstatt e.V., Projekt:
-    Spurensicherung,
-
-    Alltag und Wiederstand im Berlin der 30er Jahre, Berlin 1983. De
+[^151]: Te vinden in: Berliner Geschichtswerkstatt e.V., Projekt:
+    Spurensicherung, Alltag und Wiederstand im Berlin der 30er Jahre, Berlin 1983. De
     foto’s uit het familiealbum zijn voor een gedeelte ook te zien in de
     film ‘De Zaak 40/61/84’, evenals een interview met Andreas Ludwig en
     Eva Brücker, die het boek en de tentoonstelling samenstelden.
 
-[^20]: Idem.
+[^152]: Idem.
 
-[^21]: Zie voor deze reclamespot ‘Brio (reclame 1985),’ *YouTube,* 10
+[^153]: Zie voor deze reclamespot ‘Brio (reclame 1985),’ *YouTube,* 10
     augustus 2015, <https://www.youtube.com/watch?v=ksWOUS0t5EE>. De
     beschrijving legt uit: ‘Margarinemerk Brio werd in 2001 door
     Unilever van de markt gehaald toen het concern flink in haar
@@ -9542,44 +9540,44 @@ hij niet in het scenario voorkwam.
     huiduitslag en koorts. Planta Margarine werd van de markt gehaald en
     vervangen door Brio.’
 
-[^22]: Eike Geisel, *Im Scheunenviertel* (Berlijn: Severin und Siedler
+[^154]: Eike Geisel, *Im Scheunenviertel* (Berlijn: Severin und Siedler
     Verlag, 1981).
 
-[^23]: Idem. Een bundel artikelen van Geisel hand kwam in 1984 uit bij
+[^155]: Idem. Een bundel artikelen van Geisel hand kwam in 1984 uit bij
     de Tiamat uitgeverij in West-Berlijn (Lastenausgleich, Umschuldung).
     Dezelfde uitgeverij overigens van Wolfgang Pohrt. In het voorjaar
     van ’87 komt bij de SUA een vertaling uit van Pohrts werk.
 
-[^24]: Zowel Pohrt als Geisel schrijven veelvuldig over het fascisme. Zo
+[^156]: Zowel Pohrt als Geisel schrijven veelvuldig over het fascisme. Zo
     is er een aantal artikelen daarover gebundeld in Pohrts eerste boek,
     *Ausverkauf*, Berlin, 1980, o.a. over Rudolf Höss en de literatuur
     over KZ-ervaringen.
 
-[^25]: Mulisch, *De Zaak 40-61*, 127-128.
+[^157]: Mulisch, *De Zaak 40-61*, 127-128.
 
-[^26]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
+[^158]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
     Muur* (Rotterdam: Uitgeverij 010, 1984), recentelijk opnieuw
     uitgegeven door het Institute of Network Cultures:
     <http://networkcultures.org/blog/publication/de-muur/>.
 
-[^27]: Idem.
+[^159]: Idem.
 
-[^28]: Idem.
+[^160]: Idem.
 
-[^29]: Idem.
+[^161]: Idem.
 
-[^30]: Idem.
+[^162]: Idem.
 
-[^31]: ‘Wij’ is hier Bilwet. Zie Bilwet, *Het Beeldenrijk: over
+[^163]: ‘Wij’ is hier Bilwet. Zie Bilwet, *Het Beeldenrijk: over
     stralingsangst en ruimteverlangen* (Amsterdam: Raket en Lont, 1985),
     95-96.
 
-[^32]: Van Dansik, De Graaf, Nijenhuis en Rook, *De Muur*.
+[^164]: Van Dansik, De Graaf, Nijenhuis en Rook, *De Muur*.
 
 
 #9. Schoonheid is vergif: De illusoire nazificering van Neue Slowenische Kunst
 
-Door Lex Woutersloot. Verschenen in *Arcade: Jaarboek voor de Ambulante Wetenschappen*, nr. 2, 1990.
+Door Lex Wouterloot. Verschenen in *Arcade: Jaarboek voor de Ambulante Wetenschappen*, nr. 2, 1990.
 
 Laibach is de Duitse aanduiding voor de Joegolavische stad Ljubljana. Het is tevens de naam van een Sloveense band. De popgroep Laibach maakt deel uit van een samenwerkingsverband van kunstenaars dat presenteert als Neue Slowenische Kunst. Tijdens het Amsterdamse Zomerfestijn 1987 trok het collectief de aandacht met een reeks manifestaties. Laibach trad op in Paradiso. Het schildercollectief Irwin exposeerde onder de titel *Was ist Kunst?* in het historische kantoorpandpand van Monumentenzorg aan de Keizersgracht. Het café van het Shaffy toonde theateraffiches van de Neue Kunsthandlung Design Studio. En de leegstaande Posthoornkerk vormde het toneel voor de theatergroepen Red Pilot en Scipion Nasice. Het Amsterdamse publiek toonde zich geïnteresseerd in deze uitingen van hedendaagse Oost-Europese kunst en de kritiek oordeelde positief.
 
@@ -11025,7 +11023,7 @@ ernst werden.’ De hemel behoede ons voor deze ernst.
 
 Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
-In het voorwoord van zijn Duitsche Bewegingsleer[^1] schrijft A. Hitler
+In het voorwoord van zijn Duitsche Bewegingsleer[^165] schrijft A. Hitler
 (1898-1945) dat hij het gedeelte over zijn jeugdjaren met name daarom
 heeft opgenomen om ‘de vele hatelijke sagen en legenden, die de Joodsche
 pers om mijn persoon heeft geweven,’ (als een spin) ‘tot hun ware
@@ -11037,7 +11035,7 @@ levensloop’ zou *Mijn Kamp* niet zo goed begrepen kunnen worden als met
 dit voorafje.
 
 Onderstaande selectie van citaten uit *Mijn Kamp* is toegespitst op
-Hitlers roeping tot de kunst en wat daaraan vastzit.[^2] De opvattingen
+Hitlers roeping tot de kunst en wat daaraan vastzit.[^166] De opvattingen
 die hij in zijn Duitsche bajesboek over kunst ten beste geeft stellen
 net zo weinig voor als zijn tekeningen en schilderijen, die zelfs in een
 nieuw Duitschland het exposeren niet waard zijn. De normaliteit van
@@ -11368,9 +11366,9 @@ dat niet deugen wil en een zekere inconsequentie niet ontzegd kan
 worden. Vraag het negatieve denken nooit waar het voor is, maar enkel
 waar het tegen is, want het is voor niets en tegen alles en iedereen.
 
-[^1]: Bilwet doelt hiermee op *Mein Kampf.*
+[^165]: Bilwet doelt hiermee op *Mein Kampf.*
 
-[^2]: Bilwet citeerde uit een Nederlandse vertaling, vermoedelijk uit de
+[^166]: Bilwet citeerde uit een Nederlandse vertaling, vermoedelijk uit de
     jaren ’40.
 
 
@@ -11884,7 +11882,7 @@ mythe van de eeuwige terugkeer van Goed en Kwaad.
 Door Bas-Jan van Stam. Verschenen in *Bluf!* nr. 67, 5 mei 1983.
 
 Seksisme/Fascisme: rekonstruktie van een mannen-ideaal*, dat is de titel
-van een boekje dat ik heb geschreven.*[^1] *Daarin doe ik een greep uit
+van een boekje dat ik heb geschreven.*[^167] *Daarin doe ik een greep uit
 enkele centrale mythen van de Westerse beschaving: de mythe van de
 rationaliteit, de mythe van de heldhaftigheid, en die van de Westerse
 superioriteit. Die mythes onderzoek ik op hun seksistische grond. Naar
@@ -11978,10 +11976,10 @@ politiek-economische crisis van die jaren. Weg met die rooien, dus!
 
 Welke oplossing zag Hergé dan wel zitten? Een belangrijk element van
 zijn oplossing is natuurlijk te vinden in het openlijk racistische
-karakter van *Kuifje in Afrika.*[^2] De zwarte Afrikaanse bevolking
+karakter van *Kuifje in Afrika.*[^168] De zwarte Afrikaanse bevolking
 wordt voorgesteld als buitengewoon dom en lui. Die ‘eigenschappen’ van
 het ‘n\*\*\*\*ras’ blijken voor Hergé een bron van vermaak op te
-leveren.[^3] Met deze racistische grappen liet Hergé zijn lezertjes en
+leveren.[^169] Met deze racistische grappen liet Hergé zijn lezertjes en
 lezeresjes als vertegenwoordigertjes van het superieure blanke ras
 vrolijk schateren om de domme streken van een ander ras. Allemaal nette,
 welopgevoede Rooms-Katholiekjes, die nu als vette, weldoorvoede
@@ -12118,7 +12116,7 @@ stenen gegooid worden.
 ## IV. De mythe van de tram
 
 Eén van de meest vreemde dingen rond de ontruiming van de Lucky Luyk
-indertijd, vond ik wel ‘De Tram’, of beter: ‘De Mythe van de Tram’.[^4]
+indertijd, vond ik wel ‘De Tram’, of beter: ‘De Mythe van de Tram’.[^170]
 Dat verhaal van die tram noem ik een mythe, omdat het een omvorming van
 emoties liet zien in een bepaald symbool. In dat symbool, de tram dus,
 verenigden mensen zich die elkaar totaal niet kenden en vonden ze bij
@@ -12135,7 +12133,7 @@ mensen. Ooggetuigen zouden gezien hebben, dat de bestuurder dwars door
 knetterende vlammen en dikke wolken walmende rook (veel plastic troep en
 rubber en zo) zich nog een weg baande naar achteren om te controleren of
 al zijn passagiers zich wel in veiligheid hadden weten te brengen. Het
-leek Beilen wel, maar dan een beetje erger.[^5] Dit was namelijk pure
+leek Beilen wel, maar dan een beetje erger.[^171] Dit was namelijk pure
 anarchie. Dit had niets meer met kraken te maken. Dat waren geen normale
 krakers meer, maar stukken ongedierte, die uit het hele land waren
 samengestroomd om hier even de boet te ontregelen en onschuldige burgers
@@ -12208,7 +12206,7 @@ zijn gehijg over een kraakster aan de overkant, die hem haar tieten had
 laten zien omdat ze expres bukte toen ze wist dat hij keek. ‘Die Turk,’
 zei hij, ‘is al bezig aan zijn derde wijf. De eerste twee heeft hij
 doodgeneukt. Doodgeneukt, hoor je? Godver, ik heb ze vaak horen gillen,
-die krengen. En nou ligt zij in het OVG.[^6] Ach man, laat ik jou dit
+die krengen. En nou ligt zij in het OVG.[^172] Ach man, laat ik jou dit
 vertellen, die gasten horen hier niet. Laat ze dat Godverdomme bij hun
 eigen in Turkije doen. Daar mag het misschien.’
 
@@ -12232,7 +12230,7 @@ van de vraag, waarom vertrouwelijkheid deze racistische vorm kiest.
 De politieke productie van mythes is niet aan ‘rechts’ of aan racisten
 voorbehouden. Eén van de fraaiste voorbeelden van mythevorming bij
 ‘links’ is Ton H, het 2,80 meter lange ‘ware gezicht’ van de Centrum
-Partij.[^7] Vooral toen hij die bom gegooid zou hebben in het
+Partij.[^173] Vooral toen hij die bom gegooid zou hebben in het
 Ajax-stadion. *De Waarheid* deed lustig mee aan deze mythevorming rond
 Ton H.’s persoon. En gleed toen ook gevoelig onderuit. Ze hadden nog
 niet koud de ‘bewijzen’ breed uit op de voorpagina uitgemeten, of prompt
@@ -12312,7 +12310,7 @@ praat raakt, dan resulteert dat meestal in een uiterst moeizaam
 gemanoeuvreer met formuleringen van ‘minimale prioriteiten’ en
 ‘minimumdoelstellingen’, waarbij je ondertussen ook verduveld goed moet
 opletten per ongeluk in een formulering niet weer een of andere
-bedreigde groep te vergeten. Het AFFRA weet daarover mee te praten.[^8]
+bedreigde groep te vergeten. Het AFFRA weet daarover mee te praten.[^174]
 
 Ik heb niet de pretentie hieruit te zijn. Wel heb ik het idee dat die
 eindeloze discussie over wat je nu het eerst moet bestrijden en wat het
@@ -12374,17 +12372,17 @@ in orde.
 
 Afb. 4: Ridder Kuifje.
 
-[^1]: Bas-Jan van Stam, *Seksisme Fascisme: rekonstruktie van een
+[^167]: Bas-Jan van Stam, *Seksisme Fascisme: rekonstruktie van een
     mannenideaal: over de korrespondentie tussen een ouwe Griek, een
     fiere held en een jonge reporter* (Amsterdam: Stam, 1983).
 
-[^2]: Hergé, *Kuifje in Afrika* (1931-‘32).
+[^168]: Hergé, *Kuifje in Afrika* (1931-‘32).
 
-[^3]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^169]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
 
-[^4]: De Lucky Luyk was een in 1981 gekraakt pand aan de Jan
+[^170]: De Lucky Luyk was een in 1981 gekraakt pand aan de Jan
     Luijkenstraat in het Museumkwartier, Amsterdam Zuid. De ontruiming
     van dit pand in oktober 1982 ging gepaard met zulke grote rellen,
     dat burgemeester Wim Polak voor het eerst sinds de Tweede
@@ -12395,14 +12393,14 @@ Afb. 4: Ridder Kuifje.
     gezien als een keerpunt in de geschiedenis van de kraakbeweging,
     waarbij de beweging veel van haar steun bij de samenleving verloor.
 
-[^5]: Op 2 december 1975 begon de twaalfdaagse Treinkaping bij Wijster
+[^171]: Op 2 december 1975 begon de twaalfdaagse Treinkaping bij Wijster
     door een groep Zuid-Molukse jongeren (niet te verwarren met de veel
     bloedigere tweede treinkaping bij De Punt in 1977) waarbij drie
     doden vielen. Wijster ligt tussen treinstations Hoogeveen en Beilen.
 
-[^6]: Het Onze-Lieve-Vrouwe-Gasthuis in Amsterdam.
+[^172]: Het Onze-Lieve-Vrouwe-Gasthuis in Amsterdam.
 
-[^7]: De Haagse Ton H., een grote kerel en lid van de Centrumpartij,
+[^173]: De Haagse Ton H., een grote kerel en lid van de Centrumpartij,
     werd in januari 1983 verdacht van het gooien van twee bommen in het
     Ajax-stadion tijdens de wedstrijd Ajax-FC Den Haag. Omdat van H. ook
     werd gedacht de lijfwacht van Janmaat te zijn geweest, werd hij
@@ -12410,7 +12408,7 @@ Afb. 4: Ridder Kuifje.
     onschuldig te zijn en bovendien nooit als Janmaats lijfwacht te
     hebben gediend.
 
-[^8]: AFFRA, het Anti-Fascistisch Front Amsterdam, werd in 1982
+[^174]: AFFRA, het Anti-Fascistisch Front Amsterdam, werd in 1982
     opgericht als koepelorganisatie voor krakerscollectieven,
     homorechtenactivisten, buurtcommités, werknemersorganisaties, enz.
     Het zette een centrale meldlijn voor fascistische activiteiten op,
@@ -12541,7 +12539,7 @@ geflirt met het expressionisme schafte hij voornamelijk schilderijen aan
 die gelijkenis vertoonden met zijn eigen Klare Lijn, zoals die van
 Warhol, Lichtenstein, Noland, Fontana, Léger, Hockney en Giacometti.
 Zijn woning leek sprekend op een kunstgalerie. Hij was zonder twijfel
-een van de belangrijkste verzamelaars van zijn tijd.’[^1] Andy Warhol
+een van de belangrijkste verzamelaars van zijn tijd.’[^175] Andy Warhol
 maakte zelfs een portret van Hergé in zijn beroemde
 zeefdruk-portrettengalerij.
 
@@ -12624,7 +12622,7 @@ hij doen en laten wat hij wil en alle kanten op metamorfoseren, zonder
 daarbij in de weg gezeten te worden door de Klare Kunst van de Brusselse
 Hergé-maffia.
 
-[^1]: Harry Thompson, *Hergé, Kuifje: een dubbelbiografie* (Amsterdam:
+[^175]: Harry Thompson, *Hergé, Kuifje: een dubbelbiografie* (Amsterdam:
     Balans/Kritak, 1991).
 
 
@@ -12645,7 +12643,7 @@ het officiële staatsieportret van de staatsman A. Hitler. De
 voorstelling vormt een aanzet tot een 3D-visie op de geschiedenis.
 Vanwege de rood-groene blik der n\*\*\*\*\* stemt de brutale
 verwisseling van de reporter Kuifje met de dictator Hitler tot
-uitbundige vrolijkheid.[^1] De Führer zelve is afgebeeld als een
+uitbundige vrolijkheid.[^176] De Führer zelve is afgebeeld als een
 weerwolf zonder pupillen, die zich allesbehalve op z'n gemak voelt te
 midden van zulk overdadig racisme. De ongepaste mix van de Westerse
 karikaturale afbeelding van de wilde zwarten en de beschaafde
@@ -12753,7 +12751,7 @@ overgave aan de beeldendienst verschilt niet van vroeger en het
 aanschouwen van de religieuze voorstelling zorgt voor een roes, die ons
 inwijdt in de oneindigheid.
 
-[^1]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^176]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
 
@@ -13276,7 +13274,7 @@ Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebrac
 
 Na zijn moeizame reis door de Sovjet-Unie, wordt Kuifje naar de Congo
 gestuurd. Dat is spannend. Daar zijn leeuwen en olifanten en luipaarden
-en apen natuurlijk, en n\*\*\*\*meisjes met blote tietjes.[^1] En er
+en apen natuurlijk, en n\*\*\*\*meisjes met blote tietjes.[^177] En er
 zijn missieposten met paters, een modelboerderij, een hospitaal, een
 kapel en daar worden de ‘n\*\*\*\*\*\*’ opgevoed tot beschaafde Belgen.
 ‘Het was 1930,’ zegt Kuifje-auteur Hergé in een terugblik op zijn
@@ -13634,7 +13632,7 @@ Door de publicatie van zijn innerlijke roerselen heeft Hergé zijn naam
 gevestigd en wordt aangezien als een volwassen striptekenaar. De
 serieproductie van albums kan beginnen.
 
-[^1]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^177]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
 

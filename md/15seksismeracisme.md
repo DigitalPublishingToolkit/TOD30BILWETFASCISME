@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
 Door Bas-Jan van Stam. Verschenen in *Bluf!* nr. 67, 5 mei 1983.
 
 Seksisme/Fascisme: rekonstruktie van een mannen-ideaal*, dat is de titel
-van een boekje dat ik heb geschreven.*[^1] *Daarin doe ik een greep uit
+van een boekje dat ik heb geschreven.*[^167] *Daarin doe ik een greep uit
 enkele centrale mythen van de Westerse beschaving: de mythe van de
 rationaliteit, de mythe van de heldhaftigheid, en die van de Westerse
 superioriteit. Die mythes onderzoek ik op hun seksistische grond. Naar
@@ -116,10 +116,10 @@ politiek-economische crisis van die jaren. Weg met die rooien, dus!
 
 Welke oplossing zag Hergé dan wel zitten? Een belangrijk element van
 zijn oplossing is natuurlijk te vinden in het openlijk racistische
-karakter van *Kuifje in Afrika.*[^2] De zwarte Afrikaanse bevolking
+karakter van *Kuifje in Afrika.*[^168] De zwarte Afrikaanse bevolking
 wordt voorgesteld als buitengewoon dom en lui. Die ‘eigenschappen’ van
 het ‘n\*\*\*\*ras’ blijken voor Hergé een bron van vermaak op te
-leveren.[^3] Met deze racistische grappen liet Hergé zijn lezertjes en
+leveren.[^169] Met deze racistische grappen liet Hergé zijn lezertjes en
 lezeresjes als vertegenwoordigertjes van het superieure blanke ras
 vrolijk schateren om de domme streken van een ander ras. Allemaal nette,
 welopgevoede Rooms-Katholiekjes, die nu als vette, weldoorvoede
@@ -256,7 +256,7 @@ stenen gegooid worden.
 ## IV. De mythe van de tram
 
 Eén van de meest vreemde dingen rond de ontruiming van de Lucky Luyk
-indertijd, vond ik wel ‘De Tram’, of beter: ‘De Mythe van de Tram’.[^4]
+indertijd, vond ik wel ‘De Tram’, of beter: ‘De Mythe van de Tram’.[^170]
 Dat verhaal van die tram noem ik een mythe, omdat het een omvorming van
 emoties liet zien in een bepaald symbool. In dat symbool, de tram dus,
 verenigden mensen zich die elkaar totaal niet kenden en vonden ze bij
@@ -273,7 +273,7 @@ mensen. Ooggetuigen zouden gezien hebben, dat de bestuurder dwars door
 knetterende vlammen en dikke wolken walmende rook (veel plastic troep en
 rubber en zo) zich nog een weg baande naar achteren om te controleren of
 al zijn passagiers zich wel in veiligheid hadden weten te brengen. Het
-leek Beilen wel, maar dan een beetje erger.[^5] Dit was namelijk pure
+leek Beilen wel, maar dan een beetje erger.[^171] Dit was namelijk pure
 anarchie. Dit had niets meer met kraken te maken. Dat waren geen normale
 krakers meer, maar stukken ongedierte, die uit het hele land waren
 samengestroomd om hier even de boet te ontregelen en onschuldige burgers
@@ -346,7 +346,7 @@ zijn gehijg over een kraakster aan de overkant, die hem haar tieten had
 laten zien omdat ze expres bukte toen ze wist dat hij keek. ‘Die Turk,’
 zei hij, ‘is al bezig aan zijn derde wijf. De eerste twee heeft hij
 doodgeneukt. Doodgeneukt, hoor je? Godver, ik heb ze vaak horen gillen,
-die krengen. En nou ligt zij in het OVG.[^6] Ach man, laat ik jou dit
+die krengen. En nou ligt zij in het OVG.[^172] Ach man, laat ik jou dit
 vertellen, die gasten horen hier niet. Laat ze dat Godverdomme bij hun
 eigen in Turkije doen. Daar mag het misschien.’
 
@@ -370,7 +370,7 @@ van de vraag, waarom vertrouwelijkheid deze racistische vorm kiest.
 De politieke productie van mythes is niet aan ‘rechts’ of aan racisten
 voorbehouden. Eén van de fraaiste voorbeelden van mythevorming bij
 ‘links’ is Ton H, het 2,80 meter lange ‘ware gezicht’ van de Centrum
-Partij.[^7] Vooral toen hij die bom gegooid zou hebben in het
+Partij.[^173] Vooral toen hij die bom gegooid zou hebben in het
 Ajax-stadion. *De Waarheid* deed lustig mee aan deze mythevorming rond
 Ton H.’s persoon. En gleed toen ook gevoelig onderuit. Ze hadden nog
 niet koud de ‘bewijzen’ breed uit op de voorpagina uitgemeten, of prompt
@@ -450,7 +450,7 @@ praat raakt, dan resulteert dat meestal in een uiterst moeizaam
 gemanoeuvreer met formuleringen van ‘minimale prioriteiten’ en
 ‘minimumdoelstellingen’, waarbij je ondertussen ook verduveld goed moet
 opletten per ongeluk in een formulering niet weer een of andere
-bedreigde groep te vergeten. Het AFFRA weet daarover mee te praten.[^8]
+bedreigde groep te vergeten. Het AFFRA weet daarover mee te praten.[^174]
 
 Ik heb niet de pretentie hieruit te zijn. Wel heb ik het idee dat die
 eindeloze discussie over wat je nu het eerst moet bestrijden en wat het
@@ -512,17 +512,17 @@ in orde.
 
 Afb. 4: Ridder Kuifje.
 
-[^1]: Bas-Jan van Stam, *Seksisme Fascisme: rekonstruktie van een
+[^167]: Bas-Jan van Stam, *Seksisme Fascisme: rekonstruktie van een
     mannenideaal: over de korrespondentie tussen een ouwe Griek, een
     fiere held en een jonge reporter* (Amsterdam: Stam, 1983).
 
-[^2]: Hergé, *Kuifje in Afrika* (1931-‘32).
+[^168]: Hergé, *Kuifje in Afrika* (1931-‘32).
 
-[^3]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^169]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
 
-[^4]: De Lucky Luyk was een in 1981 gekraakt pand aan de Jan
+[^170]: De Lucky Luyk was een in 1981 gekraakt pand aan de Jan
     Luijkenstraat in het Museumkwartier, Amsterdam Zuid. De ontruiming
     van dit pand in oktober 1982 ging gepaard met zulke grote rellen,
     dat burgemeester Wim Polak voor het eerst sinds de Tweede
@@ -533,14 +533,14 @@ Afb. 4: Ridder Kuifje.
     gezien als een keerpunt in de geschiedenis van de kraakbeweging,
     waarbij de beweging veel van haar steun bij de samenleving verloor.
 
-[^5]: Op 2 december 1975 begon de twaalfdaagse Treinkaping bij Wijster
+[^171]: Op 2 december 1975 begon de twaalfdaagse Treinkaping bij Wijster
     door een groep Zuid-Molukse jongeren (niet te verwarren met de veel
     bloedigere tweede treinkaping bij De Punt in 1977) waarbij drie
     doden vielen. Wijster ligt tussen treinstations Hoogeveen en Beilen.
 
-[^6]: Het Onze-Lieve-Vrouwe-Gasthuis in Amsterdam.
+[^172]: Het Onze-Lieve-Vrouwe-Gasthuis in Amsterdam.
 
-[^7]: De Haagse Ton H., een grote kerel en lid van de Centrumpartij,
+[^173]: De Haagse Ton H., een grote kerel en lid van de Centrumpartij,
     werd in januari 1983 verdacht van het gooien van twee bommen in het
     Ajax-stadion tijdens de wedstrijd Ajax-FC Den Haag. Omdat van H. ook
     werd gedacht de lijfwacht van Janmaat te zijn geweest, werd hij
@@ -548,7 +548,7 @@ Afb. 4: Ridder Kuifje.
     onschuldig te zijn en bovendien nooit als Janmaats lijfwacht te
     hebben gediend.
 
-[^8]: AFFRA, het Anti-Fascistisch Front Amsterdam, werd in 1982
+[^174]: AFFRA, het Anti-Fascistisch Front Amsterdam, werd in 1982
     opgericht als koepelorganisatie voor krakerscollectieven,
     homorechtenactivisten, buurtcommités, werknemersorganisaties, enz.
     Het zette een centrale meldlijn voor fascistische activiteiten op,

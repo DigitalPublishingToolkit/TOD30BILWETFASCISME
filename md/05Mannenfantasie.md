@@ -52,21 +52,21 @@ de jaren ’20 en ’30. Theweleit omschrijft dit materiaal als:
 > van de auteur erin overweegt en ze dus nog geen “historische werken”
 > genoemd kunnen worden; bovendien om heroïsche beschrijvingen van de
 > vrijkorpsstrijd achteraf, die met name in de jaren ’30 begonnen te
-> verschijnen.[^1]
+> verschijnen.[^28]
 
 Het theoretische object van de studie - het onderwerp waarover Theweleit
 theorieën formuleert op basis van een bestudering van het
 feitenmateriaal - is de Soldaatman. ‘Een van de kenmerkende
 eigenschappen van de hier behandelde literatuur is haar
-gelijksoortigheid.’[^2] Het is of al deze teksten geschreven zijn door
-een en dezelfde auteur, ‘één enkele fictieve schrijver’.[^3] In de
+gelijksoortigheid.’[^29] Het is of al deze teksten geschreven zijn door
+een en dezelfde auteur, ‘één enkele fictieve schrijver’.[^30] In de
 teksten gaat het om ‘beschrijvingen van toestanden en verlangens, die
 karakteristiek waren voor de mensen die ze schreven. Alle “nationale”,
 “conservatieve”, “fascistische” literatuur in de tijd van de Republiek
 van Weimar vat zichzelf op als een weergave van het leven in zieke
 toestand! Deze schrijvers leden “aan Duitsland” en verlangden intens
 naar een gezonde toestand in het komende “Rijk”. Dit fundamentele gevoel
-heb ik serieus genomen en als werkelijk gerespecteerd.’[^4] Door nu een
+heb ik serieus genomen en als werkelijk gerespecteerd.’[^31] Door nu een
 theoretisch model op te stellen van de gemeenschappelijke auteur van
 deze teksten probeert Theweleit een verklaring te formuleren voor het in
 de teksten uitgedrukte fundamentele gevoel. Een gevoel dat hij
@@ -89,7 +89,7 @@ verklaringen uitsluit en overbodig maakt.
 
 Opgemerkt dient te worden dat Theweleits studieobject niet het fascisme
 is. Hij plaatst zijn werk te midden van ‘studies die de moeite nemen de
-ontstaansgeschiedenis van het fascisme te onderzoeken’.[^5] Hij laat
+ontstaansgeschiedenis van het fascisme te onderzoeken’.[^32] Hij laat
 hierop echter al snel volgen:
 
 > Ik zie de onderzochte literatuur als
@@ -98,7 +98,7 @@ ervan), als onderdeel van de fascistische manier om met het leven “klaar
 te komen”, als onderdeel ook van de fascistische actie. De verlangens
 die erin naar voren komen en de manier waarop ze naar voren komen zijn
 voor mij van betekenis; niet waar de literatuur “op uit was”, niet wat
-ze al dan niet (naar het heette) aanrichtte.[^6]
+ze al dan niet (naar het heette) aanrichtte.[^33]
 
 Hieruit blijkt al wel
 dat Theweleit geen scherp onderscheid maakt tussen de Soldaatman als
@@ -109,7 +109,7 @@ het ding en het ding zelf, blijkt het duidelijkst uit zijn centrale
 stelling over de Soldaatman, een stelling die zijn boek samenvat:
 ‘Niemand hoefde vanwege economische achteruitgang een politieke fascist
 te worden - als iemand het werd, dan was hij al een fascist, een fascist
-vanbinnen.’[^7]
+vanbinnen.’[^34]
 
 ## II. De onbewuste stroming
 
@@ -190,7 +190,7 @@ zijn onbewuste heen sloot. Het lichaamspantser kon zich openen zonder
 dat het stukging en de soldaatman vernietigde: dat is de essentie van de
 frontervaring. ‘De strijd is voor deze lichamen, voor deze mannen,
 misschien wel de enige kans te ervaren wat er eigenlijk precies met hen
-aan de hand is.’[^8] In hun extatische frontervaringen ervoeren deze
+aan de hand is.’[^35] In hun extatische frontervaringen ervoeren deze
 soldaten van vlees en bloed zichzelf ten slotte ook als het object
 Soldaatman: dat is wat Theweleit hier zegt.
 
@@ -221,7 +221,7 @@ erotische verlangens, het bewijst dat ik géén stroom ben, niets
 stromends in mij heb want ik leef nog en zij is dood. Een typisch
 voorbeeld van wat ‘anti-productie’ is. Anti-productie is te definiëren
 als ‘het afbreken van leven en aan de andere kant het opbouwen van een
-nieuwe orde met behulp van de levenloos gemaakte realiteit.’[^9] Die
+nieuwe orde met behulp van de levenloos gemaakte realiteit.’[^36] Die
 nieuwe orde is in dit verband het eigen, niet-stromende lichaam.
 
 Het tweede front werd gevormde door de ‘eigen’ vrouwen: de echtgenotes
@@ -281,7 +281,7 @@ manifestaties zijn rituele ensceneringen van een ander soort massa’s,
 openbare vertoningen van de massa van de eigen verboden innerlijke
 verlangens, die getoond durven worden doordat ze zo strak onder controle
 worden gehouden. ‘In het heilige ritueel kan het goddeloze vertoond
-worden, dat is het doel van het ritueel’, definieert Theweleit.[^10] De
+worden, dat is het doel van het ritueel’, definieert Theweleit.[^37] De
 fascistische massa is een anti-productie, een heilige, ‘zuivere’,
 ‘goede’ massa: de massa op een voetstuk geplaatst.
 
@@ -296,7 +296,7 @@ stond tegenover de massa:
 > uitzondering en haar recht. Ras is geluk en leven. Ras is kracht,
 > schoonheid en lust. Ras is strijd, wijsheid en spel. Ras is bij de man
 > de hartstocht van het willen. Ras is bij de vrouw de passie van de
-> overgave.’[^11]
+> overgave.’[^38]
 
 Ras is in één woord het lichaamspantser, het geweld waarmee het
 innerlijk in bedwang wordt gehouden, een geweld dat maar ‘weinigen’ op
@@ -351,7 +351,7 @@ een toverwoord. De natie is iets wat in de soldaatman zelf zit:
 > afzonderlijke, eenzijdige elementen van het leven, die elk voor zich
 > naar de ondergang leiden, weer samensmelten, nuchtere feitenkennis en
 > geloof zonder twijfels weer verenigen - dat is de Duitse opgave. In
-> die eenheid is de natie aanwezig.’[^12]
+> die eenheid is de natie aanwezig.’[^39]
 
 Nationalisme is hier expliciet een aanspraak van de fascisten op de
 macht over het eigen volk om daar een molaire eenheid van te maken, in
@@ -399,7 +399,7 @@ lichaam heeft zitten.
 > juist het tegendeel van ‘eenheid’, die moet zijn samengesteld uit
 > boven/onder, buiten/binnen enzovoort. Zo’n eenheid geeft de soldaatman
 > een ingang tot lust. Zij hoedt hem voor de dood door opsplitsing en
-> verval.’[^13]
+> verval.’[^40]
 
 De molaire legereenheid zorgde ervoor dat zelfs als de molaire eenheid
 van het lichaamspantser van de Soldaatman bij de frontaanval uit elkaar
@@ -414,14 +414,14 @@ hele aarde één molaire eenheid worden: zolang er nog eenheden samen
 konden worden gevoegd zat er groei en ontwikkeling in het fascisme: ‘Het
 fascisme heeft altijd grotere gehelen buiten zichzelf nodig, waarin het
 al het bestaande aaneen smeedt om daarin telkens zelf aan de top te
-staan.’[^14]
+staan.’[^41]
 
 Vanuit deze inzichten is Theweleit in staat de complete ‘fascistische
 actie’ in één regel samen te vatten, die op zijn beurt weer te verklaren
 is uit zijn model Soldaatman: ‘Steeds staan twee bewegingen centraal in
 de fascistische praktijk: aaneenvoegen (door de eigen groep) tot
 hiërarchieën, en afstoten, dat wil zeggen doden, wat zich niet laat
-samenvoegen.’[^15]
+samenvoegen.’[^42]
 
 ## V. Moederkoeien
 
@@ -441,7 +441,7 @@ lichaam.
 > mensheid impliceert de ontkenning van de kleine, nabij, de
 > microgeschiedenis. Hun vlucht in de verte, in het openbare,
 > maatschappelijke, wil de nabijheid ontwijken, het persoonlijke, het
-> individuele of misschien beter het afzonderlijke.[^16]
+> individuele of misschien beter het afzonderlijke.[^43]
 
 Tegelijkertijd is het merkwaardige van Theweleits fascismebeeld, dat in
 dit kader de soldaatmannen er eigenlijk niets aan konden doen dat ze er
@@ -453,18 +453,18 @@ bewonderenswaardige, of in ieder geval verbluffende wijze de gekke
 scheiding tussen binnen en buiten die ze aan hun lichaam ervoeren, te
 overleven. En dat ze daartoe zoveel mensen moesten moorden? Ach, ‘Mensen
 doodmaken, dat is niks, sterven moeten ze toch een keer. Maar je mag ze
-niet verloochenen. Nee, je mag ze niet verloochenen.’[^17] Wat hadden ze
+niet verloochenen. Nee, je mag ze niet verloochenen.’[^44] Wat hadden ze
 anders kunnen willen dan het fascisme dat ze op wisten te bouwen?
 Theweleit: ‘Hun moordpartijen (op vrouwen) lijken minder van doen te
 hebben met het afweren van castratiedreiging dan met pogingen om een
-fundamenteel gemis op te heffen.’[^18] Wie zou hen kunnen verwijten dat
+fundamenteel gemis op te heffen.’[^45] Wie zou hen kunnen verwijten dat
 ze dat gemis op wilden heffen? En dat ze daardoor verplicht waren bij
 diegenen te behoren ‘die het gevoel hadden dat, om zélf te kunnen leven,
 anderen moesten sterven’? Is dat niet eerder tragisch dan kwaadaardig?
 
 Theweleit legt dan ook de schuld voor de gruwelen van het fascisme niet
 bij de Soldaatmannen zelf. ‘De fascist die na de vernietigingsroes weer
-bij zijn positieven komt wilde eigenlijk niet slecht zijn.’[^19]
+bij zijn positieven komt wilde eigenlijk niet slecht zijn.’[^46]
 Enerzijds ziet hij de oorzaak van het fascisme in de historische
 ontwikkeling van de burgerlijke, patriarchale maatschappij. Anderzijds
 richt hij de aandacht op de moeders van de soldaatmannen, die op zich
@@ -484,7 +484,7 @@ richt hij de aandacht op de moeders van de soldaatmannen, die op zich
 > zijn minst na 1945 duidelijk moeten zijn geworden. Toch gebeurde dat
 > niet. En ook nu nog zijn tot op zekere hoogte zelfs vrouwen, die voor
 > de bevrijding van vrouwen werken en leven bang erover te
-> spreken.[^20]
+> spreken.[^47]
 
 En hij voegt hier tussen haakjes aan toe:
 
@@ -492,7 +492,7 @@ En hij voegt hier tussen haakjes aan toe:
 > vrouwelijke schuld aan alle kwaad te construeren. Anderzijds: hoe
 > gemakkelijk zou zich uit de twee-eenheid moeder-kind een nieuw
 > revolutionair bewustzijn kunnen ontwikkelen van vrouwen als
-> producenten van niet-moorddadige mensen.[^21]
+> producenten van niet-moorddadige mensen.[^48]
 
 Theweleit wil de moederkoe slachten. Maar tegelijk maakt hij in een
 historische schets duidelijk dat ze hooguit medeverantwoordelijk is voor
@@ -511,7 +511,7 @@ de 11e eeuw. Dit ontwikkelingsproces is op te vatten als
 > directe wijze uitgebuit en onderworpen, ze werden ook voor nog veel
 > erger gebruikt, namelijk om als absorptiefactor te dienen van de
 > productiekracht van mannen van de overheerste klassen ten gunste van
-> de heersende.[^22]
+> de heersende.[^49]
 
 De mannen uit de overheerste klassen mochten hun verlangens naar
 vrijheid en geluk niet op de voor hen onbereikbare macht richten, dat
@@ -525,7 +525,7 @@ van vrouwenonderdrukking.
 > haar grenzeloos te maken, onwerkelijk zodat ze een principe wordt, het
 > principe van het stromen, van de verte, van de onbestemde eindeloze
 > verlokking. Deze vrouwenverering gaat gepaard met een ontkenning van
-> de concrete, vleselijke realiteit van vrouwen.[^23]
+> de concrete, vleselijke realiteit van vrouwen.[^50]
 
 In deze tweezijdige onderdrukking zagen de moeders van het Duitsland van
 de laat-19^e^ eeuw zich geplaatst. Het lichaam van deze vrouwen werd
@@ -582,7 +582,7 @@ zichzelf, op z’n logische samenhang.
 Theweleit hanteert als basis van zijn theorievorming omtrent de stromen
 en het onbewuste de filosofie die Gilles Deleuze en Félix Guattari
 ontvouwd hebben in hun boek *Anti-Öedipus: Kapitalismus und
-Schizophrenie I*.[^24] In dit boekwerk is de meest uitgebreide en
+Schizophrenie I*.[^51] In dit boekwerk is de meest uitgebreide en
 complexe filosofie over de vrije wil van onze tijd uitgeschreven.
 Deleuze en Guattari spreken niet van vrije wil, maar gebruiken daarvoor
 het psychoanalytische begrip verlangen. Uit het boek klinkt een
@@ -776,10 +776,10 @@ maatschappelijke is een anti-productie ten opzichte van de productie van
 het verlangen, de productiekracht van het onbewuste.
 
 ‘Er bestaat slechts verlangen en het maatschappelijke, verder
-niets.’[^25] En omdat iets alleen voor je bestaat, concreet is, als je
+niets.’[^52] En omdat iets alleen voor je bestaat, concreet is, als je
 er iets mee kunt, als je het kunt koppelen aan je verlangen, stellen
 Deleuze en Guattari: ‘Het objectieve bestaan van het verlangen is de
-werkelijkheid *an sich*.’[^26]
+werkelijkheid *an sich*.’[^53]
 
 En daar zit je je dan te verbazen. Het is toch verbluffend, zo’n balpen,
 en wat ik er allemaal mee kan: schrijven (en wat kan ik allemaal niet
@@ -916,7 +916,7 @@ zijn gekte schreef: ‘Alle namen uit de geschiedenis, dat ben ik’ (alle
 namen, alle intensiteiten, dus niet: alle concrete personen). Als de
 schizo zich Jezus voelt, Dionysus, Jeanne d’Arc of Napoleon, een plant,
 vrouw of oorspronkelijke bewoner van Amerika, dan heeft hij dus gewoon
-gelijk.[^27]
+gelijk.[^54]
 
 ## XII. De nieuwe aarde
 
@@ -925,7 +925,7 @@ het verlangen en het maatschappelijke. ‘Er is geen maatschappelijke
 productie van de realiteit aan de ene kant en verlangenproductie van
 fantasie aan de andere kant. In werkelijkheid is de maatschappelijke
 productie alleen maar de verlangenproductie onder bepaalde
-voorwaarden.’[^28] Er is een directe schakeling tussen het verlangen en
+voorwaarden.’[^55] Er is een directe schakeling tussen het verlangen en
 het maatschappelijke. De kapitalist die een balpen uitvindt en die
 grootschalig in productie neemt, doet dat omdat hij dat wil: zo kan hij
 zijn (schizofrene) verlangen door het maatschappelijke veld laten
@@ -937,7 +937,7 @@ Toch bestaat er een onderscheid tussen het maatschappelijke en de
 verlangenproductie. Deleuze en Guattari benoemen dit onderscheid als het
 verschil tussen de ‘molaire machines enerzijds, of dit nu
 maatschappelijke, technische of organische machines zijn, en de
-wensmachines anderzijds, die tot de moleculaire orde behoren.’[^29] Het
+wensmachines anderzijds, die tot de moleculaire orde behoren.’[^56] Het
 verlangen organiseert zich in twee grondvormen: molaire eenheden (het
 maatschappelijke) en moleculaire veelheden (de verlangenketens). Molaire
 eenheden, dat zijn ‘ikken’, lichamen, lichaamspantsers, legers,
@@ -955,7 +955,7 @@ lichaam is geen macromachine maar een reuzenmolecuul). Het onbewuste,
 schreven Deleuze en Guattari, is een fabriek waarin wensmachines staan,
 die voortdurend verlangens produceren. Dit onbewuste is wat Freud het
 ‘Es’ noemde. Het Es, zei Freud, is polymorf pervers (dat wil zeggen: het
-is niet netjes): ‘Waar Es is, moet Ich komen.’[^30] In termen van
+is niet netjes): ‘Waar Es is, moet Ich komen.’[^57] In termen van
 Deleuze en Guattari: waar een ongebreidelde verlangenproductie is, daar
 mag maar één soort verlangen komen. Dat mensen van alles wilden, wist
 Freud ook wel, maar eigenlijk zei hij, wil de mens maar één ding: hij
@@ -1007,7 +1007,7 @@ partijen). Deleuze en Guattari besluiten hun anti-Oedipale arbeid aldus:
 > doeleinden voorhouden, ze bevindt zich overal, ze is één met de
 > voltooiing, de verwerkelijking van het proces van de
 > verlangenproductie, dit proces dat zich altijd al verwerkelijkt en
-> voltooit, in zoverre en zolang als het zich voltrekt…[^31]
+> voltooit, in zoverre en zolang als het zich voltrekt…[^58]
 
 Aan deze opdracht heeft Theweleit zich gehouden. Hij heeft (tot op
 zekere hoogte) een geslaagde schizoanalyse gegeven van de Soldaatman en
@@ -1043,7 +1043,7 @@ hun plaats in het kapitalisme. Beide gaan ervan uit dat ‘verlangen’ de
 natuurlijke toestand is, of dat verlangen nu schizofreen of oedipaal is.
 Verlangen, willen, doet de mens altijd, van nature. En denk aan wat
 Friedrich Nietzsche, de eerste filosoof van het verlangen zei: ‘De mens
-wil nog liever het niets willen, dan niet te willen…’[^32] Wie niet wil,
+wil nog liever het niets willen, dan niet te willen…’[^59] Wie niet wil,
 is geen mens.
 
 Theweleit gaf een wetenschappelijke, schizoanalytische verklaring van
@@ -1095,7 +1095,7 @@ Maar is dit de natuurlijke, de enig mogelijke gang van zaken?
 > mateloosheid van de productie. Dit “iets” is niet het “verlangen”,
 > maar iets dat bewerkt, dat de macht precies in die mate uiteenvalt,
 > als waarin ze zich onherroepelijk uitbreidt. En dat is tegenwoordig
-> overal het geval.[^33]
+> overal het geval.[^60]
 
 Iets in ons verzet zich tegen de productie, tegen de macht (ook tegen de
 macht van het verlangen). Is dat de paranoïde pool van de
@@ -1108,19 +1108,19 @@ Ook dit is filosofie. Maar is de veronderstelling dat niet-willen de
 natuurlijke toestand is, niet minstens even aanvaardbaar als de
 tegenovergestelde formule? En misschien wel meer aanvaardbaar, want een
 stuk vriendelijker? ‘Elke filosofie die de mens de uitoefening van zijn
-wil opdraagt, kan hem alleen maar doen verzinken in wanhoop.’[^34] Ook
+wil opdraagt, kan hem alleen maar doen verzinken in wanhoop.’[^61] Ook
 Theweleit kan niet beargumenteren waarom de mens wil ‘stromen’, wil
 verlangen, en niet wil dat dat stromen wordt ingeperkt. ‘Het lijkt mij
 in ieder geval onwaarschijnlijk dat de neiging om het vloeien van
 stromen te begrenzen uit de wens van de mensen zelf voortkomt,’
 formuleert hij zijn axioma, zijn mythe van het revolutionaire
-onbewuste.[^35] Zoals de communisten de mythe van de revolutionaire
+onbewuste.[^62] Zoals de communisten de mythe van de revolutionaire
 arbeider aanhingen: was eenmaal de onderdrukking weggenomen, dan barstte
 hij vanzelf los in de revolutie (maar wel onder leiding van de
 communisten). En Baudrillard kan ook niet beargumenteren waarom we het
 liefste niet willen en de spelingen van het lot het leukste vinden: ‘Ik
 geloof eenvoudig dat we boven alles de voorkeur geven aan de fatale
-samenhang.’[^36]
+samenhang.’[^63]
 
 Akkoord. Uiteindelijk is iedere theorie gebaseerd op een geloof, op het
 aanvaarden van een filosofie. Maar valt er nog iets te zeggen over het
@@ -1138,7 +1138,7 @@ keer. Maar je mag ze niet verloochenen. Nee, je mag ze niet
 verloochenen. Voor ons is het toch niet het ergste dat ze ons willen
 doden, maar dat ze ons onophoudelijk overgieten met hun haat, dat ze ons
 nooit anders noemen dan moffen, hunnen, barbaren. Dat stemt
-bitter.’[^37] Erger dan de dood is de vernedering van wat men is, van de
+bitter.’[^64] Erger dan de dood is de vernedering van wat men is, van de
 eigen, diepste, individuele wil. En hoe Theweleit de Soldaatmannen ook
 noemt, hij verloochent hun diepste verlangens nooit. De verheffing van
 de wil, van het verlangen tot de enige waarde leidt ertoe dat de dood
@@ -1148,7 +1148,7 @@ De dood heeft een geschiedenis. In de Renaissance (tot en met de Barok)
 had de dood ‘de betekenis van een vereffening: het onderscheid in lot,
 in rijkdom en levensvoorwaarden werd door het universele gebaar van de
 dood teniet gedaan: onherroepelijk voerde hij een ieder naar het lot van
-allen.’[^38] De dood maakte iedereen gelijk. De dood leidde het
+allen.’[^65] De dood maakte iedereen gelijk. De dood leidde het
 bijzondere lot naar het algemene lot: zo uitte zich het algemene in het
 bijzondere. In de Romantiek daarentegen stelde de dood het unieke in:
 
@@ -1156,7 +1156,7 @@ bijzondere. In de Romantiek daarentegen stelde de dood het unieke in:
 > monotonie en nivellering van de levensloop; in het langzame, half
 > ondergrondse en niettemin reeds zichtbare naderen van de Dood wordt
 > het gewone leven eindelijk tot Individualiteit; een zwarte ring
-> isoleert het, en verleent het de stijl van zijn waarheid.[^39]
+> isoleert het, en verleent het de stijl van zijn waarheid.[^66]
 
 Eenieder sterft alleen, de dood vereenzaamt ieder mens: hij voert het
 algemene naar het bijzondere lot: zo uit zich het bijzondere in het
@@ -1186,7 +1186,7 @@ van de Renaissance:
 > helling dat zijn de hemelen, de heuvel is de bovenhemelse wereld. En
 > om de dingen van de lagere wereld te begrijpen, is het noodzakelijk om
 > op te stijgen naar hogere dingen, van waaruit we, naar beneden ziend,
-> een zekerder kennis van de lagere dingen kunnen hebben.[^40]
+> een zekerder kennis van de lagere dingen kunnen hebben.[^67]
 
 Vanuit het hogere standpunt ontvangen de dingen hun vaste plaats en
 maat, hun vaststaande vorm. Het overzicht biedt een ware voorstelling
@@ -1228,7 +1228,7 @@ een cirkel vormen van beelden en betekenissen, die alle even ‘waar’ en
 > stort. En waarom zou dit zwijn weer niet het symbool kunnen zijn van
 > de mens die zijn eigen ongeluk veroorzaakt? - en de cirkel is rond. Om
 > opnieuw te worden getrokken me nóg een keer het zwijn, maar nu
-> bijvoorbeeld in de betekenis van “blinde woede”.[^41]
+> bijvoorbeeld in de betekenis van “blinde woede”.[^68]
 
 Terwijl ieder embleem, al die beelden van bijzondere gevallen, hun vaste
 plaats krijgen in het algemene betekenissysteem, en dus naar de Orde der
@@ -1263,7 +1263,7 @@ beschreef haar rond 1850:
 > weer geheel te horen moet hij opnieuw in het woud gaan, en wel op een
 > zomeravond. Hoe dwaas zou het zijn als hij één der lieflijke
 > woudzingers wilde vangen en thuis misschien laten africhten om hem een
-> brokstukje dier grote woudmelodie voor te fluiten![^42]
+> brokstukje dier grote woudmelodie voor te fluiten![^69]
 
 Wagner zit midden in het bos. Hier is geen overzicht meer mogelijk (of
 gewenst) over Gods schepping. Hier is geen vaste vorm meer waar te
@@ -1309,7 +1309,7 @@ geworden in een wereld waarin alles geschiedenis is geworden: alles
 ordeloosheid, ‘verval’ en ‘ziekte’. Alleen in de vereeuwiging en
 zuivering van de geschiedenis kan de wereld worden ‘genezen’. Deze
 genezing zet in een tweezijdige beweging in. Als er alleen nog maar
-historie is, moet alles worden onthouden: begin 19^e^ eeuw worden de
+historie is, moet alles worden onthouden: begin 19e eeuw worden de
 eerste musea geopend. De accumulatie van de geschiedenis begint tot het
 geheugen er overladen van raakte). Maar ten tweede: als de geschiedenis
 de enige zingever is, staat bevrijding uit die geschiedenis gelijk aan
@@ -1328,7 +1328,7 @@ van de wil heeft de vergankelijkheid van de dood, die de centrale rol
 speelde in de emblematiek van de Renaissance, niets meer van doen: een
 degradatie van de doodsfiguur, die alleen te verklaren is uit een
 obscene verheffing van de waarde: de waarde van de ene, echte betekenis,
-de waarde van het Verlangen.[^43]
+de waarde van het Verlangen.[^70]
 
 De dood is in de Romantiek aldus een dubbele figuur geworden. Enerzijds
 zoekt het individu de dood van het individuele door zijn wil op te laten
@@ -1356,7 +1356,7 @@ gaan. Ieder bijzonder, afzonderlijk raadsel kan echter ontraadseld
 worden door het te verbinden met de Wil, het Verlangen en de
 Werkelijkheid. Theweleit: ‘Pas als het lichaam niet meer geheim is
 krijgt een openbaar politiek leven een echte kans, omdat het dan pas een
-werkelijke basis heeft.’[^44] Zo is de werkzaamheid van Theweleit te
+werkelijke basis heeft.’[^71] Zo is de werkzaamheid van Theweleit te
 beschrijven: het raadsel van de Soldaatman, de geheime ervaring van zijn
 lichaam te ontraadselen tot een verhaal over hoe het werkelijk was, over
 wat hij werkelijk wilde. Pas dan… Dat een politiek leven zonder geheimen
@@ -1371,7 +1371,7 @@ ontstaan? Een vrij nauwkeurige datumbepaling blijkt mogelijk. Rond 1800
 begon Phillip Otto Runge met wat hij de landschapschilderkunst noemde,
 de ‘Landschafterey’. Hij noemde het landschap ‘de expressie van de
 diepste religieuze mystiek’, en zijn schilderijen waren ‘symbolen voor
-het eeuwige ritme van het Wereld-Al’.[^45] Het landschap was de muziek
+het eeuwige ritme van het Wereld-Al’.[^72] Het landschap was de muziek
 van de ziel.
 
 > In de schilderijen van Runge wordt, voor het eerst misschien, het
@@ -1386,7 +1386,7 @@ van de ziel.
 > verzinking in de aanschouwing. Daartoe moet ze een eind maken aan de
 > emblematiek van de uiterlijke verschijningen, die in de kunst van de
 > Barok had geheerst: alles moest onmiddellijke manifestatie zijn van
-> het goddelijke.[^46]
+> het goddelijke.[^73]
 
 Toen dat de opgave werd, de onmiddellijke manifestatie van het
 (vormeloze, stromende, ritmische) goddelijke, betekende vorm voortaan
@@ -1405,7 +1405,7 @@ gezindheid karakteriseert Wagner als revolutionair - als politiek
 revolutionair (op de barricades van Dresden in 1848), en als muzikale.
 Als anarchist, om kort te gaan, die de revolutie zag als een regeling
 van een historisch proces zonder fundering in een door God geschapen
-Orde.’[^47] Het doorbreken van de rationele vorm om de ‘irrationele’
+Orde.’[^74] Het doorbreken van de rationele vorm om de ‘irrationele’
 inhoud te laten stromen, dat is de revolutionaire slogan.
 
 ## XIX. Historisch onderbewuste
@@ -1484,7 +1484,7 @@ verlangen?
 > liberale orde waarin men niet weet wat men wil, en waarin men
 > gedwongen wordt te erkennen dat men niet weet wat men wil: want in het
 > eerste geval is men overgeleverd aan de grootst mogelijke
-> determinering, in het tweede geval aan de onverschilligheid.[^48]
+> determinering, in het tweede geval aan de onverschilligheid.[^75]
 
 ## XX. Bevallingen en initiaties
 
@@ -1520,7 +1520,7 @@ nooit losgekomen van zijn moeder.
 > zien zonder angst of verlangen om opnieuw opgeslokt te worden, en dit
 > ook in hun spreken te kennen geven. Bijgevolg duurt de
 > “buitenbaarmoederlijke” geboorte zo’n twee en een half jaar. Als die
-> afgelopen is, dan is het kind een “Ich” geworden.[^49]
+> afgelopen is, dan is het kind een “Ich” geworden.[^76]
 
 Een ‘volledig geboren mens’ is dus een zelfstandig individu, een wezen
 dat in staat is zijn verlangen te laten stromen zonder bang te zijn
@@ -1541,7 +1541,7 @@ onbelangrijk was, net als de biologische dood:
 > onverzoenlijke, onverzoende, toverachtige en vijandige krachten, die
 > de ziel en het lichaam omsluipen, die de levenden en de doden
 > beloeren: vroegere en kosmische energieën, die de groep niet de baas
-> wist te worden in de ruil.[^50]
+> wist te worden in de ruil.[^77]
 
 Wat is deze ‘symbolische ruil’, waardoor dood en geboorte ophouden
 biologische feiten te zijn? Om in de huidige tijd te beginnen. Op een
@@ -1559,7 +1559,7 @@ teruggeven. Wij leven nog, waarom zijn anderen al dood?
 wij hem hebben gegeven, jaagt de wilden geen schrik aan. Zij hebben de
 dood nooit “genaturaliseerd”, zij weten dat de dood (net als het lichaam
 of een natuurgebeuren) een maatschappelijke verhouding is, dat zijn
-definitie maatschappelijk is.’[^51] Wij noemen de dood een realiteit: de
+definitie maatschappelijk is.’[^78] Wij noemen de dood een realiteit: de
 dood is de laatste zekerheid. Maar eigenlijk is ze iets imaginairs, want
 wat de dood is weten we niet: niemand is ooit teruggekomen om het te
 vertellen. De wilden, zoals Baudrillard ze noemt, kennen geen realiteit
@@ -1591,7 +1591,7 @@ de stam.
 ‘De initiatie is het tegendeel van ons realiteitsprincipe. Het toont dat
 de realiteit van de geboorte enkel ontstaat door de scheiding van dood
 en geboorte; en dat de realiteit van het leven zelf ontstaat doordat het
-leven van de dood wordt gescheiden.’[^52] Wij kunnen iets alleen maar
+leven van de dood wordt gescheiden.’[^79] Wij kunnen iets alleen maar
 als reëel ervaren, als we het scheiden van iets anders dat daardoor
 imaginair wordt. De realiteit, de objectiviteit van de natuur ontstaat
 enkel door de scheiding van mens en natuur. Het lichaam wordt reëel door
@@ -1607,7 +1607,7 @@ als reëel ervaren door het tegenovergestelde imaginair te maken.
 > positieve waarde te leven, is het voortdurende fantasma van de dood:
 > ons leven is reëel omdat de dood ons imaginaire is. Alle scheidingen
 > tussen imaginair en reëel hebben hun oerbeeld in de scheiding van
-> leven en dood.[^53]
+> leven en dood.[^80]
 
 Het symbolische beëindigt overal deze wederzijdse aantrekking van het
 reële en het imaginaire, doordat ze iedere mogelijke scheiding vervangt
@@ -1648,7 +1648,7 @@ de primitieven: voor hen houdt de ruil niet met het leven op.
 > schuld, individueel). Daaruit komt een belangrijk onderscheid in
 > plezier voort; wij gaan met onze doden om in de vorm van de
 > melancholie, de primitieven leven met hen onder de voortekenen van het
-> ritueel en het feest.[^54]
+> ritueel en het feest.[^81]
 
 ## XXI. Het verleide verlangen
 
@@ -1742,7 +1742,7 @@ uitwist.
 > van de buitenwereld als agressie, van het ik als afweer- en
 > bezettingssysteem, van het genot als ontlading van de spanningen Freud
 > had maar één probleem: dat oncontroleerbare gebeuren van de verleiding
-> uitschakelen.[^55]
+> uitschakelen.[^82]
 
 Leed de Soldaatman van Theweleit dan aan de verleiding? Was hij nooit
 verleid, liet hij zich nooit verleiden? Als we Baudrillards filosofie
@@ -1762,7 +1762,7 @@ Alle Soldaatmannen lijken dit letterlijk te hebben ervaren. Een
 Soldaatman over een redevoering: ‘\[De redenaar\] daarboven kijkt mij
 een moment aan. Deze blauwe sterre-ogen treffen me als vurige stralen.
 Dat is een bevel. Vanaf dit moment ben ik opnieuw geboren. Er valt een
-last van me af.’[^56] Die last is de last van zijn individuele wil, zijn
+last van me af.’[^83] Die last is de last van zijn individuele wil, zijn
 individuele lot: hij is tot maatschappelijk wezen gebombardeerd,
 herboren tot deel van een symbolische orde. Maar ergens in hem voelt hij
 een geheime ongehoorzaamheid tegen het bevel en het spektakel van de
@@ -1785,7 +1785,7 @@ doodsgevaar doet zoeken? Is dat de verleiding van ieder geweld?
 
 ‘De gehoorzaamheid is eigenlijk een banale strategie, die geen
 opheldering behoeft, want elke gehoorzaamheid bevat in het geheim een
-fatale ongehoorzaamheid aan de symbolische orde.’[^57] En bleek die
+fatale ongehoorzaamheid aan de symbolische orde.’[^84] En bleek die
 ongehoorzaamheid aan de Macht niet ook uit de bereidheid waarmee het
 overgrote deel van het Duitse volk zich liet ‘entnazifizieren’ (al bleef
 de droom van het bevrijdende bevel wel voortbestaan in deze nieuwe
@@ -1852,7 +1852,7 @@ andere mannelijke uitvindingen of fantasieën van dien aard.
 ik ben op zoek naar de wetmatigheden…’’
 
 Zo hebben mannen lang genoeg gepraat. En zo praat de man in zekere zin
-ook hier.’[^58]
+ook hier.’[^85]
 
 Theweleit liet zijn eigen subjectiviteit meespreken in zijn boek als
 verzet tegen de mannelijke, ‘objectieve’ wetenschap. Dat deel van de
@@ -1866,139 +1866,139 @@ van de scheiding mens-natuur, subject-object, vrouwelijk Es-mannelijk
 Ich… Wat een opluchting als deze geschiedenis op een dag blijkt te zijn
 wat ze genoemd werd: mannenfantasie, mannenfantasie…
 
-[^1]: Klaus Theweleit, *Mannenfantasie: een ingekorte vertaling*
+[^28]: Klaus Theweleit, *Mannenfantasie: een ingekorte vertaling*
     (Eindhoven: Manuskript, 1977), 13.
 
-[^2]: Idem.
+[^29]: Idem.
 
-[^3]: Ibidem, 59.
+[^30]: Ibidem, 59.
 
-[^4]: Ibidem, 15.
+[^31]: Ibidem, 15.
 
-[^5]: Ibidem, 14.
+[^32]: Ibidem, 14.
 
-[^6]: Ibidem, 15.
+[^33]: Ibidem, 15.
 
-[^7]: Ibidem, 433.
+[^34]: Ibidem, 433.
 
-[^8]: Ibidem, 340.
+[^35]: Ibidem, 340.
 
-[^9]: Ibidem, 119.
+[^36]: Ibidem, 119.
 
-[^10]: Ibidem, 231.
+[^37]: Ibidem, 231.
 
-[^11]: Ibidem, 271.
+[^38]: Ibidem, 271.
 
-[^12]: Ibidem, 278.
+[^39]: Ibidem, 278.
 
-[^13]: Ibidem, 281.
+[^40]: Ibidem, 281.
 
-[^14]: Ibidem, 287.
+[^41]: Ibidem, 287.
 
-[^15]: Ibidem, 299.
+[^42]: Ibidem, 299.
 
-[^16]: Ibidem, 59.
+[^43]: Ibidem, 59.
 
-[^17]: Ernst Jünger, zoals geciteerd in Manfred Nagl, *Science-fiction
+[^44]: Ernst Jünger, zoals geciteerd in Manfred Nagl, *Science-fiction
     in Deutschland* (Tübingen: 1972), 176, zoals geciteerd in Theweleit,
     *Mannenfantasie,* 212.
 
-[^18]: Theweleit, *Mannenfantasie,* 115.
+[^45]: Theweleit, *Mannenfantasie,* 115.
 
-[^19]: Ibidem, 188.
+[^46]: Ibidem, 188.
 
-[^20]: Ibidem, 436-437.
+[^47]: Ibidem, 436-437.
 
-[^21]: Idem.
+[^48]: Idem.
 
-[^22]: Ibidem, 152-153.
+[^49]: Ibidem, 152-153.
 
-[^23]: Ibidem, 155.
+[^50]: Ibidem, 155.
 
-[^24]: Gilles Deleuze en Félix Guattari, *Anti-Öedipus: Kapitalismus und
+[^51]: Gilles Deleuze en Félix Guattari, *Anti-Öedipus: Kapitalismus und
     Schizophrenie I* (Frankfurt am Main: Suhrkamp, 1974 (1972)). Citaten
     zijn door de auteur uit het Duits vertaald.
 
-[^25]: Ibidem, 39.
+[^52]: Ibidem, 39.
 
-[^26]: Ibidem, 36.
+[^53]: Ibidem, 36.
 
-[^27]: De gebruikelijke maar stigmatiserende benaming van
+[^54]: De gebruikelijke maar stigmatiserende benaming van
     oorspronkelijke bewoners van het Noord-Amerikaanse continent is hier
     redactioneel vervangen.
 
-[^28]: Deleuze en Guattari, *Anti-Ödipus,* 38-39.
+[^55]: Deleuze en Guattari, *Anti-Ödipus,* 38-39.
 
-[^29]: Ibidem, 369.
+[^56]: Ibidem, 369.
 
-[^30]: Sigmund Freud, ‘31^e^ lezing ter inleiding in de psychoanalyse,’
+[^57]: Sigmund Freud, ‘31^e^ lezing ter inleiding in de psychoanalyse,’
     1915-1917, auditorium van de Weense psychiatrische kliniek.
 
-[^31]: Deleuze en Guattari, *Anti-Ödipus,* 496.
+[^58]: Deleuze en Guattari, *Anti-Ödipus,* 496.
 
-[^32]: Dit is de laatste zin uit Friedrich Nietzsches *Genealogie van de
+[^59]: Dit is de laatste zin uit Friedrich Nietzsches *Genealogie van de
     moraal* uit 1887. Zie voor een Engelse vertaling Friedrich
     Nietzsche, *On the Genealogy of Morals,* (Cambridge: Cambridge UP,
     1994 (1887)), 120,
     <http://www.inp.uw.edu.pl/mdsie/Political_Thought/GeneologyofMorals.pdf>.
 
-[^33]: Jean Baudrillard, *Oublier Foucault* (München: Gesellschaft für
+[^60]: Jean Baudrillard, *Oublier Foucault* (München: Gesellschaft für
     sozialwissenschaftliche ökologische Forschung, 1978 (1977)), 50-51.
     Uit het Duits vertaald door Arjen Mulder.
 
-[^34]: Jean Beaudrillard, *De fatale strategieën* (Amsterdam: Duizend &
+[^61]: Jean Beaudrillard, *De fatale strategieën* (Amsterdam: Duizend &
     Een, 1985 (1983)), 148.
 
-[^35]: Theweleit, *Mannenfantasie,* 148.
+[^62]: Theweleit, *Mannenfantasie,* 148.
 
-[^36]: Baudrillard, *De fatale strategieën,* 249.
+[^63]: Baudrillard, *De fatale strategieën,* 249.
 
-[^37]: Theweleit, *Mannenfantasie,* 212.
+[^64]: Theweleit, *Mannenfantasie,* 212.
 
-[^38]: Michel Foucault, *Geboorte van de kliniek* (1963).
+[^65]: Michel Foucault, *Geboorte van de kliniek* (1963).
 
-[^39]: Idem.
+[^66]: Idem.
 
-[^40]: Kees Vollemans en Agnes Schreiner, *Een golf van bloed: over
+[^67]: Kees Vollemans en Agnes Schreiner, *Een golf van bloed: over
     Wagner en wagnerisme* (Den Helder: Tasma en Hekking, 1981).
 
-[^41]: Vollemans en Schreiner, *Een golf van bloed,* 29.
+[^68]: Vollemans en Schreiner, *Een golf van bloed,* 29.
 
-[^42]: Ibidem, 44-45.
+[^69]: Ibidem, 44-45.
 
-[^43]: Ibidem, 54.
+[^70]: Ibidem, 54.
 
-[^44]: Theweleit, *Mannenfantasie,* 290.
+[^71]: Theweleit, *Mannenfantasie,* 290.
 
-[^45]: Philipp Otto Runge, zoals geciteerd in Vollemans en Schreiner,
+[^72]: Philipp Otto Runge, zoals geciteerd in Vollemans en Schreiner,
     *Een golf van bloed*.
 
-[^46]: Vollemans en Schreiner, *Een golf van bloed,* 112.
+[^73]: Vollemans en Schreiner, *Een golf van bloed,* 112.
 
-[^47]: Ibidem, 133.
+[^74]: Ibidem, 133.
 
-[^48]: Baudrillard, *De fatale strategieën,* 261.
+[^75]: Baudrillard, *De fatale strategieën,* 261.
 
-[^49]: Theweleit, *Mannenfantasie,* 351.
+[^76]: Theweleit, *Mannenfantasie,* 351.
 
-[^50]: Jean Baudrillard, *Der symbolische Tausch und der Tod* (München:
+[^77]: Jean Baudrillard, *Der symbolische Tausch und der Tod* (München:
     Matthes & Seitz, 1982 (1976)), 206. Door de auteur uit het Duits
     vertaald.
 
-[^51]: Idem.
+[^78]: Idem.
 
-[^52]: Idem.
+[^79]: Idem.
 
-[^53]: Ibidem, 211.
+[^80]: Ibidem, 211.
 
-[^54]: Ibidem, 212-213.
+[^81]: Ibidem, 212-213.
 
-[^55]: Baudrillard, *De fatale strategieën,* 214.
+[^82]: Baudrillard, *De fatale strategieën,* 214.
 
-[^56]: Spreker hier is de fictieve protagonist in Josef Goebbels,
+[^83]: Spreker hier is de fictieve protagonist in Josef Goebbels,
     *Michael: Ein Deutches Schicksal in Tagebuchblättern* (München:
     1929), zoals geciteerd in Theweleit, *Mannenfantasie,* 298.
 
-[^57]: Baudrillard, *De fatale strategieën,* 281.
+[^84]: Baudrillard, *De fatale strategieën,* 281.
 
-[^58]: Theweleit, *Mannenfantasie,* 191.
+[^85]: Theweleit, *Mannenfantasie,* 191.

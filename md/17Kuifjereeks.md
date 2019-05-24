@@ -33,7 +33,7 @@ het officiële staatsieportret van de staatsman A. Hitler. De
 voorstelling vormt een aanzet tot een 3D-visie op de geschiedenis.
 Vanwege de rood-groene blik der n\*\*\*\*\* stemt de brutale
 verwisseling van de reporter Kuifje met de dictator Hitler tot
-uitbundige vrolijkheid.[^1] De Führer zelve is afgebeeld als een
+uitbundige vrolijkheid.[^176] De Führer zelve is afgebeeld als een
 weerwolf zonder pupillen, die zich allesbehalve op z'n gemak voelt te
 midden van zulk overdadig racisme. De ongepaste mix van de Westerse
 karikaturale afbeelding van de wilde zwarten en de beschaafde
@@ -141,6 +141,6 @@ overgave aan de beeldendienst verschilt niet van vroeger en het
 aanschouwen van de religieuze voorstelling zorgt voor een roes, die ons
 inwijdt in de oneindigheid.
 
-[^1]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^176]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.

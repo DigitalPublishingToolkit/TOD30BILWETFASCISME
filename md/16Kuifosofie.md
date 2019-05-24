@@ -133,7 +133,7 @@ geflirt met het expressionisme schafte hij voornamelijk schilderijen aan
 die gelijkenis vertoonden met zijn eigen Klare Lijn, zoals die van
 Warhol, Lichtenstein, Noland, Fontana, Léger, Hockney en Giacometti.
 Zijn woning leek sprekend op een kunstgalerie. Hij was zonder twijfel
-een van de belangrijkste verzamelaars van zijn tijd.’[^1] Andy Warhol
+een van de belangrijkste verzamelaars van zijn tijd.’[^175] Andy Warhol
 maakte zelfs een portret van Hergé in zijn beroemde
 zeefdruk-portrettengalerij.
 
@@ -216,5 +216,5 @@ hij doen en laten wat hij wil en alle kanten op metamorfoseren, zonder
 daarbij in de weg gezeten te worden door de Klare Kunst van de Brusselse
 Hergé-maffia.
 
-[^1]: Harry Thompson, *Hergé, Kuifje: een dubbelbiografie* (Amsterdam:
+[^175]: Harry Thompson, *Hergé, Kuifje: een dubbelbiografie* (Amsterdam:
     Balans/Kritak, 1991).

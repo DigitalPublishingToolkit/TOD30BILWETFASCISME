@@ -155,7 +155,7 @@ is. Elias Canetti noemt dit een pijnigende voorstelling: ‘dat vanaf een
 bepaald punt in de tijd de geschiedenis ophield reëel te zijn. Zonder
 het te merken heeft de hele mensheid plotseling de realiteit verlaten;
 alles wat sindsdien is gebeurd is absoluut niet waar, maar we kunnen het
-niet merken.’[^1] Zo verdwijnt in Berlijn de geschiedenis van straat en
+niet merken.’[^133] Zo verdwijnt in Berlijn de geschiedenis van straat en
 verschijnt vervolgens weer ten tonele in het Openlucht Museum. Idem dito
 met de geschiedschrijving, die alleen nog z’n waarde heeft als catalogus
 bij de rondleiding. De banden met onze tijd en waarneming van de
@@ -169,7 +169,7 @@ De grootste opgave die het fascisme-onderzoek zichzelf gesteld heeft, is
 te leren van de geschiedenis. Maar wat gebeurt er als de sporen van het
 verleden verdwenen zijn? Of nog een stap verder, als de geschiedenis als
 zodanig verdwenen is en we Mulisch’ uitspraak dat ‘Auschwitz de
-geschiedenis van Europa voorgoed verknoeid heeft’ letterlijk nemen?[^2]
+geschiedenis van Europa voorgoed verknoeid heeft’ letterlijk nemen?[^134]
 Dan wordt het naar mijn idee van belang om ook het fenomeen
 ‘geschiedenis’ in dit onderzoek op te nemen én te gaan kijken naar de
 breuken, de dingen die verdwenen in plaats van stil te staan bij de
@@ -195,7 +195,7 @@ opgespoord en door de Israëliërs ontvoerd. Na een langdurig verhoor en
 het opsporen van overlevenden die konden getuigen, begon in maart ’61
 het proces. Maandenlang kreeg het grote aandacht in de massamedia. Op 31 mei 1962 werd hij opgehangen. Het proces tegen Eichmann was een kristallisatiepunt geworden van
 bekentenissen, filosofische uitspraken en juridische uitspraken over de
-vervolging van (Nazi) oorlogsmisdadigers.[^3] Op het hoogtepunt van de
+vervolging van (Nazi) oorlogsmisdadigers.[^135] Op het hoogtepunt van de
 Koude Oorlog, tijdens de eerste bemande ruimtevluchten en de bouw van de
 Berlijnse Muur werd dit proces aanleiding tot een eerste herziening van
 het beeld dat er toentertijd van de fascisten en het fascisme was.
@@ -269,11 +269,11 @@ de geografische gecompliceerdheid van Eichmanns bekenning: ‘Een man
 wordt ontvoerd uit Buenos Aires; twee maanden later beschrijft hij in
 Haifa een gebouw in Berlijn; ik lees het in Amsterdam, terwijl hijzelf
 op dat moment luistert naar een verhaal van iemand uit Warschau, terwijl
-hijzelf toen (b.v.) in Parijs was.’[^4] Daarna volgt een verhandeling
+hijzelf toen (b.v.) in Parijs was.’[^136] Daarna volgt een verhandeling
 over de Duitse beweging die volgens Mulisch ‘mystiek en gevaarlijk’ is.
 ‘Voor Duitsers heeft ‘beweging’ altijd meer betekend dan voor anderen;
 zij is niet alleen noodzakelijke verplaatsing, door haar krijgt men ook
-deel aan verse bronnen van de ziel.’[^5] Het antwoord op de vraag
+deel aan verse bronnen van de ziel.’[^137] Het antwoord op de vraag
 waaruit deze fascinatie voor (de) beweging is voortgekomen krijgen we
 niet direct maar in de vorm van reis. Een zoektocht naar de bron, het
 centrum van waaruit de meest afschuwelijke beweging die de Nazi’s op
@@ -340,7 +340,7 @@ reconstrueert de indeling zoals die volgens Eichmann geweest moet zijn:
 > uit de muur. Was het dus Eichmanns kamer? Misschien was het Eichmanns
 > kamer.
 >
-> Ik voel mij zoals rechter Moshe Landau zich moet voelen.[^6]
+> Ik voel mij zoals rechter Moshe Landau zich moet voelen.[^138]
 
 ## IV. Onzichtbare en zwijgzame tekens
 
@@ -354,7 +354,7 @@ moeilijk te omschrijven. ‘Naar zo’n plek gaan we omdat we denken dat het
 helpt bij onze pogingen, om iets onvoorstelbaars voor te stellen. ‘‘Hier
 stonden zij toen, hier sta ik nu.’’ Ik heb geen spijt van dat ik het
 gedaan heb, en toch is het vergeefs en ik ga onverrichterzake
-terug.’[^7] Een typering van het bezoeken van gedenkplaatsen voor
+terug.’[^139] Een typering van het bezoeken van gedenkplaatsen voor
 slachtoffers van het fascisme die ik laatst ergens las.
 
 Claude Lanzmann heeft in zijn film *Shoah* hetzelfde thema, het vragen
@@ -364,7 +364,7 @@ aankomst van de trein op het rangeerterrein van Treblinka of een weiland
 met een bosrand op de achtergrond, roept een ongekende intensiteit op,
 terwijl d’r niets te zien is en niks gebeurt. ‘De afstand tussen heden
 en verleden werd zo opgeheven, alles werd voor mij weer werkelijkheid’,
-zei hij in een interview over de werking van deze beelden.[^8]
+zei hij in een interview over de werking van deze beelden.[^140]
 Historisch-documentaire opnames kunnen die verplaatsing in de
 slachtoffers (die nog van niets weten, maar wel een voorgevoel hebben
 wat hen te wachten staat) niet bewerkstelligen. Volgens Lanzmann komt
@@ -374,7 +374,7 @@ verdwenen. Daar komt nog bij dat wat er wél is, geen verbeeldingskracht
 betekenis en daar wilde hij niet op uitkomen of mee werken. ‘Er moesten
 open vragen blijven, raadsels waarbij voor het oplossen daarvan een
 voorstellingsvermogen gevraagd wordt: het gaat er niet om, alles te
-verklaren.’[^9]
+verklaren.’[^141]
 
 Wezenlijk bij het beeld was voor hem het ‘probleem van de plaatsen’. Het
 praten met de overlevenden en het bezoeken van de plaatsen vaagde bij
@@ -387,7 +387,7 @@ niet uit een serie herinneringen. ‘Ze schrikken mij af, ze zijn zwak.
 Herinneringen ziet men dagelijks op tv. Niets is saaier dan dat. Het is
 niet voldoende mensen te laten vertellen hoe. Ze moesten ze spelen. Dat
 betekent: irreëel maken. Deze act van het irreëel maken definieert het
-imaginaire.’[^10]
+imaginaire.’[^142]
 
 De enscenering is een kunst die de schrijver en schilder Armando precies
 zo in de vingers heeft. Hij laat alleen niet de slachtoffers aan het
@@ -423,11 +423,11 @@ VN:
 > te slijpen, eindeloos slijpen. Die aantekeningen maak ik overal, in de
 > bus, de tram, een concertzaal. En als ik me ergens verveel dan kan ik
 > zo gaan zitten slijpen. Een hele dag punteslijpen. Nee, een stuk zo
-> achter elkaar opschrijven, dat kan ik niet.[^11]
+> achter elkaar opschrijven, dat kan ik niet.[^143]
 
 Het puntigste dat hij naar mijn idee heeft geslepen zijn de
 *Aantekeningen over de vijand*, samengesteld tijdens het begin van zijn
-verblijf in Berlijn (1981).[^12] Een boek waar hij naar eigen zeggen erg
+verblijf in Berlijn (1981).[^144] Een boek waar hij naar eigen zeggen erg
 tevreden over is omdat qua vorm er een spanning in zit tussen abstractie
 en alledaagsheid. Het bevat honderden zinsnedes, dialogen en flarden,
 kleine beschrijvingen en overpeinzingen waar veelal een verbazing uit
@@ -441,7 +441,7 @@ zoveel vrijheid hadden ze niet. Hun openhartigheid werd gedempt door de
 verdedigende houding die ze moesten aannemen. Bij ideologische
 vraagstukken draaiden ze zich in alle mogelijke bochten en dat deed een
 behoorlijke afbreuk aan hun prettige herinneringen aan die tijd, de
-frontervaringen, de kameraadschap, ondanks alles…[^13]
+frontervaringen, de kameraadschap, ondanks alles…[^145]
 
 Afgezien van het feit dat ‘n aantal *Aantekeningen over de vijand*
 vrijwel letterlijk zijn terug te vinden in *De SS’ers*, is er nog een
@@ -530,7 +530,7 @@ schijn. Een paar aantekeningen kunnen dit illustreren:
 > \*
 >
 > We kregen aan het front 7 sigaretten of 2 sigaren. Je kon natuurlijk
-> ruilen, werd veel gedaan.[^14]
+> ruilen, werd veel gedaan.[^146]
 
 Armando worstelt met het afscheid nemen van de plek. Hij overlaadt ze
 niet met geschiedenissen en maakt ook geen reconstructie van de plek,
@@ -543,14 +543,14 @@ laatste begint Armando.
 Hij heeft wel weet van de geschiedenis. Achterin zijn eerste bundel
 artikelen, *Armando uit Berlijn*, geeft hij een keuze uit de boeken die
 hij ‘met instemming, genoegen of verbazing heeft gelezen of
-geraadpleegd.[^15] ‘Een volkomen willekeurige, nietszeggende lijst, maar
-wie weet.’[^16] Elders verklaart hij graag eigenaardige boeken te lezen,
+geraadpleegd.[^147] ‘Een volkomen willekeurige, nietszeggende lijst, maar
+wie weet.’[^148] Elders verklaart hij graag eigenaardige boeken te lezen,
 ‘die zich in kringen afspelen of die onderwerpen behandelen, die mij
 door vreemde lotsbeschikking bespaard zijn, waar ik dus onvoldoende weet
 van heb. Boeken ook van schrijvers, wier mentaliteit mij boeit, omdat
-zij mij met wilde vraagtekens achterlaten.’[^17] Het zoekt de verbazing
+zij mij met wilde vraagtekens achterlaten.’[^149] Het zoekt de verbazing
 over het verdwijnen op. ‘Ik kan wel naar de plek toe gaan als je dat
-wilt. Maar ik weet van tevoren wat ik er zal vinden: niets.’[^18] Toch
+wilt. Maar ik weet van tevoren wat ik er zal vinden: niets.’[^150] Toch
 gaat hij, om zich te kunnen verbazen. Zo neemt hij op gepaste wijze
 afscheid van de mensen die de oorlog nog hebben meegemaakt. Ongetwijfeld
 zal hij kunnen meegaan in de inmiddels gangbaar geworden opvatting dat
@@ -703,7 +703,7 @@ het voorwoord bij de familiefoto’s wordt daar ook op gewezen:
 > complexiteit van de ‘’toestand’’ die daarop uitgebeeld is. Wat we
 > echter ook wilden is het begrip ‘’alledaagsheid’’ haar willekeurigheid
 > in zoverre te ontnemen dat we binnen een vaste tijd, plaats en
-> biografie bleven.[^20]
+> biografie bleven.[^152]
 
 Het gevaar waar de Werkstatt hier op wijst is dat alles ‘Alltag’ wordt.
 In dit geval wordt dat vermeden door onder de familiefoto’s kleine
@@ -757,7 +757,7 @@ en passief verzet, meegaan en collaboreren, bejubelen en zwijgen. Maar
 vallen de grenzen daartussen nu ook weg?
 
 Analoog aan de Brio-reclame kunnen we zien dat eenieder zo tegenstrijdig
-(of veelzijdig?) is, als hij of zij zich voelt.[^21] Maar over
+(of veelzijdig?) is, als hij of zij zich voelt.[^153] Maar over
 massamoord hoeft niet dubbelzinnig gedaan te worden. Al direct na de
 overwinning op Nazi-Duitsland is een duidelijk antwoord gekomen op de
 schuldvraag: iedereen was schuldig, collectief én individueel, zowel de
@@ -821,7 +821,7 @@ schrikaanjagend begrip was, zegt nu niemand meer iets:
 > immigreerden. Niemand weet meer dat er in ‘t hart van de oude
 > ‘’Reichshauptstadt’’ tot in de jaren dertig een vreemdsoortig eiland
 > met een Oost-Europees Jodenleven bestond, dat zowel de plaats was van
-> Talmoed-scholen als een buurt van misdadigers.[^22]
+> Talmoed-scholen als een buurt van misdadigers.[^154]
 
 Daaronder staat een foto van een orthodoxe Jood, een in het zwartgeklede
 man die in een langzame pas, naar de grond kijkend, vijf kinderen mee
@@ -862,7 +862,7 @@ Duitsland en de gangbare manieren om het fascisme te bekijken. Zijn
 leermeester in deze is Adorno, zijn tijdgenoot waar hij in stijl en
 betoogtrant als twee druppels water op lijkt is de essayist Wolfgang
 Pohrt, die toentertijd ook in Hannover woonde. Achter in het boek vinden
-we hem terug als een van de medewerkers.[^23] Ze delen met elkaar de
+we hem terug als een van de medewerkers.[^155] Ze delen met elkaar de
 hoon tegen al wat alternatief, groen of zacht-geweldloos is. Dat zijn
 zo’n beetje de ergste Duitsers die er op aarde rondlopen. Zij, de
 generatie van ‘68, de kinderen van Auschwitz, hebben niet alleen de
@@ -873,7 +873,7 @@ verziekt) calculeren deze pacifisten-ecologen nogmaals met de dood van
 miljoenen anderen. Ze slikken bezuinigingen en verarming voor zoete
 koek. Hier willen Pohrt en Geisel een onverbiddelijk radicaal, rationeel
 en kritische analyse tegenover zetten. Dikwijls doen ze dat via de omweg
-van het fascisme.[^24] *Im Scheunenviertel* zie ik als de meest geslaagde
+van het fascisme.[^156] *Im Scheunenviertel* zie ik als de meest geslaagde
 poging daartoe, geschiedenis en kritiek met elkaar te verbinden.
 
 Als tweede onderdeel zijn er een twintigtal tekstfragmenten van beroemde
@@ -900,7 +900,7 @@ staan geparkeerd.
 In zijn ‘beschrijving van een cenotaaf’ (letterlijk leeg graf, grafsteen
 voor doden die elders begraven liggen) geeft Geisel, in iedere zin
 polemiserend met de conserverende geschiedschrijving, enkele gegevens
-over wat eens was. De schuren en stallen die daar het 19^e^-eeuwse
+over wat eens was. De schuren en stallen die daar het 19e-eeuwse
 voorstadium vormden van de inlijving van de naar de stad gekomen
 boerenbevolking in de moderne productie- en verkeersverhoudingen. Als
 vanouds een doorgangsstation dus, van de boerderij naar de
@@ -1102,7 +1102,7 @@ Eichmann en Auto:
 > springen met het besef, vijf miljoen Joden…’’ Maar de coureur stapt
 > uit zijn wagen, wordt een mens en heeft op dat ogenblik het juichen
 > van het stadion nodig. Eichmann kan nooit uitstappen, -want hij is
-> zelf de wagen.[^25]
+> zelf de wagen.[^158]
 
 Dus geen honkvaste kantoorklerk, maar een rondjes rijdende machine. Dat
 was voor ons reden om onze aandacht te verleggen van plek (waar niets is
@@ -1174,7 +1174,7 @@ Links staan zeer uitgekiende foto’s van de Muur, gemaakt door de
 architectuur-fotograaf Piet Rook, en rechts de tekst.
 
 Het boek heet eenvoudigweg *De Muur* en is geschreven door Donald van
-Dansik, Jan de Graaf en Wim Nijenhuis.[^26] Volgens mij het meest
+Dansik, Jan de Graaf en Wim Nijenhuis.[^158] Volgens mij het meest
 eigenwijze boek over het Berlijn anno nu. Gezien door de ogen van de
 nuchtere Hollander net zo absurd als Peter Schneider’s *Der
 Mauerspringer.* Maar dan niet fantastisch – ’t is de hyperrealiteit waar
@@ -1235,7 +1235,7 @@ tegen elkaar te zetten. Sindsdien regelen muren de in- en uitsluiting
 kunnen ontsnappen). Daar kwam pas verandering in toen de stadsmuren
 geslecht en de verdedigingswerken weliswaar in samenwerking met elkaar,
 maar los, ver buiten de stad gebouwd werden. Dat gebeurde omstreeks de
-18^e^ eeuw en sindsdien is het doel van de militaire strategie niet meer
+18e eeuw en sindsdien is het doel van de militaire strategie niet meer
 belegering en beleg, maar ‘het politionele beheer van het
 maatschappelijke verkeer’ geworden. Deze historische omweg is nodig om
 de vraag te kunnen beantwoorden wat voor een muur dat toch is die van
@@ -1249,7 +1249,7 @@ leiden, het gros van de mensen drüben heeft zich er bij neer gelegd en
 voor de modale mediaconsument in het Westen is het een symbool geworden.
 Een toeristische attractie die veel bekijks trekt. Een wond waarvan een
 litteken is overgebleven, iets dat volgens van Dansik e.a. ‘al sinds
-mensenheugenis het beste voertuig voor herinnering is.’[^27] De stad is
+mensenheugenis het beste voertuig voor herinnering is.’[^159] De stad is
 volgens hen tegenwoordig het sediment van het collectieve geheugen en
 dat zou onmiskenbaar voor Berlijn opgaan. ‘De stad lijdt, voor de goede
 zaak, daarom waant Berlijn zich martelaar.’
@@ -1260,16 +1260,16 @@ militairen en de politiek om de massa te activeren, om te voorkomen dat
 ze door de onverschilligheid van massa vergeten worden. Na fascisme en
 wereldoorlog pogen zij ‘de desolate resten tot leven te brengen en tot
 expressie te bewegen teneinde het innerlijk van de massa te kunnen
-peilen.’[^28] Dat komt omdat het naoorlogse Duitsland een gebrekkige
+peilen.’[^160] Dat komt omdat het naoorlogse Duitsland een gebrekkige
 identiteit heeft. De economie onder Adenauer heeft weliswaar de beloften
 die sinds ‘33 gedaan zijn waargemaakt, ‘maar politiek gezien blijft de
-massa ondoorgrondelijk’.[^29] Ze wordt object van permanente peiling. In
+massa ondoorgrondelijk’.[^161] Ze wordt object van permanente peiling. In
 het tijdperk van de zachte technologie gebeurt dat alleen niet meer
 d.m.v. onderdrukking en geweld. De tegenwoordige verhoudingen zijn
 circulair, uitwisselbaar. De politiek staat dus niet meer boven en de
 massa ligt niet meer onder, maar ze draaien om elkaar heen. Cryptisch
 gezegd: ‘De chantage van de politiek wordt geconfronteerd met de
-chantage van de massa.’[^30]
+chantage van de massa.’[^162]
 
 In dit licht kan de Berlijnse crisis van ‘61 gezien worden als een
 activering en binding aan de macht van het binaire internationalisme.
@@ -1277,7 +1277,7 @@ activering en binding aan de macht van het binaire internationalisme.
 op het slagveld van de Berlijnse Muur herrees enkele weken later de
 Politiek als Phoenix uit de as.’ De macht van de Internationale, zoals
 wij dat in *Het Beeldenrijk* noemden is alleen niet tastbaar, maar
-abstract.[^31] ‘Alleen in Berlijn is ze nog concreet. Daarom koesteren
+abstract.[^163] ‘Alleen in Berlijn is ze nog concreet. Daarom koesteren
 we Berlijn als een geschenk uit de hemel; en Greenham Commen en
 Woensdrecht.’ Startbahn West en Wackersdorf zouden we daar nog aan
 kunnen toevoegen. Door dat soort muren kunnen we nog tegen de macht te
@@ -1287,7 +1287,7 @@ de hand. ‘In Berlijn is de stad niet getroffen maar gered. Overal ter
 wereld verglijden de steden vanuit hun centra in het niet, maar dankzij
 het beleg wordt de vorm van Berlijn beschaagd vanuit de rand. Het is het
 vlak waar de wereldmachten elkaar raken en dus iets van elkaar
-opsteken.’[^32]
+opsteken.’[^164]
 
 In tijden van internationale spanningen vormt Berlijn het testgebied van
 de grootmachten. Dus de duidelijke scheiding door de Muur, geeft de
@@ -1342,67 +1342,65 @@ was ons zwaar gevallen, de film wilde maar niet afkomen. Nu, twee jaar
 later kan ik gissen waarom de Muur wraak nam op ons filmproject omdat
 hij niet in het scenario voorkwam.
 
-[^1]: Elias Canetti, *Die Provinz des Menschen: Aufzeignungen 1942-1972*
+[^133]: Elias Canetti, *Die Provinz des Menschen: Aufzeignungen 1942-1972*
     (Frankfurt: Fischer, 1976), 79, zoals geciteerd in Jean
     Beaudrillard, *De fatale strategieën* (Amsterdam: Duizend & Een,
     1985 (1983)), 19.
 
-[^2]: Harry Mulisch, *De zaak 40-61: een reportage* (Amsterdam: De
+[^134]: Harry Mulisch, *De zaak 40-61: een reportage* (Amsterdam: De
     bezige bij, 1979 (1961)).
 
-[^3]: De bekendste in deze soort is Hannah Arendts *Eichmann in
+[^135]: De bekendste in deze soort is Hannah Arendts *Eichmann in
     Jeruzalem: de banaliteit van het kwaad* (1965).
 
-[^4]: Sterk ingekort citaat uit de zes bladzijdes lange zoektocht, in
+[^136]: Sterk ingekort citaat uit de zes bladzijdes lange zoektocht, in
     Mulisch, *De Zaak 40-61*, 94-97.
 
-[^5]: Idem.
+[^136]: Idem.
 
-[^6]: Ibidem*,* 95-97.
+[^138]: Ibidem, 95-97.
 
-[^7]: Idem.
+[^139]: Idem.
 
-[^8]: Marc Chevie en Hervé le Roux, ‘Interview met Claude Lanzmann,’
+[^140]: Marc Chevie en Hervé le Roux, ‘Interview met Claude Lanzmann,’
     *Cahiers du cinéma,* nr. 374 (zomer 1985).
 
-[^9]: Idem.
+[^141]: Idem.
 
-[^10]: Idem.
+[^142]: Idem.
 
-[^11]: Interview met Armando door Aukje Holtrop in: *Vrij Nederland*,
+[^143]: Interview met Armando door Aukje Holtrop in: *Vrij Nederland*,
     10-12-1983.
 
-[^12]: Armando, *Aantekeningen over de vijand* (Amsterdam: Querido,
+[^144]: Armando, *Aantekeningen over de vijand* (Amsterdam: Querido,
     1985).
 
-[^13]: Zie Armando en Hans Sleutelaar, *De SS’ers* (Amsterdam: De bezige
+[^145]: Zie Armando en Hans Sleutelaar, *De SS’ers* (Amsterdam: De bezige
     bij, 1967). De frontervaringen van deze mannen hebben wij nader
     bekeken in ons artikel ‘De gewonnen, de verloren, de permanente
     oorlog’, in: *Manuskript* 12, themanummer over mannelijkheid en
     militarisme, Eindhoven januari 1986.
 
-[^14]: Armando en Sleutelaar, *De SS’ers.*
+[^146]: Armando en Sleutelaar, *De SS’ers.*
 
-[^15]: Armando, *Armando uit Berlijn* (Amsterdam: De bezige bij, 1982),
+[^147]: Armando, *Armando uit Berlijn* (Amsterdam: De bezige bij, 1982),
     197-199.
 
-[^16]: Ibidem, 197.
+[^148]: Ibidem, 197.
 
-[^17]: Armando, *Krijgsgewoel* (Amsterdam: De bezige bij, 1986).
+[^149]: Armando, *Krijgsgewoel* (Amsterdam: De bezige bij, 1986).
 
-[^18]: Armando, *Aantekeningen over de vijand*.
+[^150]: Armando, *Aantekeningen over de vijand*.
 
-[^19]: Te vinden in: Berliner Geschichtswerkstatt e.V., Projekt:
-    Spurensicherung,
-
-    Alltag und Wiederstand im Berlin der 30er Jahre, Berlin 1983. De
+[^151]: Te vinden in: Berliner Geschichtswerkstatt e.V., Projekt:
+    Spurensicherung, Alltag und Wiederstand im Berlin der 30er Jahre, Berlin 1983. De
     foto’s uit het familiealbum zijn voor een gedeelte ook te zien in de
     film ‘De Zaak 40/61/84’, evenals een interview met Andreas Ludwig en
     Eva Brücker, die het boek en de tentoonstelling samenstelden.
 
-[^20]: Idem.
+[^152]: Idem.
 
-[^21]: Zie voor deze reclamespot ‘Brio (reclame 1985),’ *YouTube,* 10
+[^153]: Zie voor deze reclamespot ‘Brio (reclame 1985),’ *YouTube,* 10
     augustus 2015, <https://www.youtube.com/watch?v=ksWOUS0t5EE>. De
     beschrijving legt uit: ‘Margarinemerk Brio werd in 2001 door
     Unilever van de markt gehaald toen het concern flink in haar
@@ -1416,36 +1414,36 @@ hij niet in het scenario voorkwam.
     huiduitslag en koorts. Planta Margarine werd van de markt gehaald en
     vervangen door Brio.’
 
-[^22]: Eike Geisel, *Im Scheunenviertel* (Berlijn: Severin und Siedler
+[^154]: Eike Geisel, *Im Scheunenviertel* (Berlijn: Severin und Siedler
     Verlag, 1981).
 
-[^23]: Idem. Een bundel artikelen van Geisel hand kwam in 1984 uit bij
+[^155]: Idem. Een bundel artikelen van Geisel hand kwam in 1984 uit bij
     de Tiamat uitgeverij in West-Berlijn (Lastenausgleich, Umschuldung).
     Dezelfde uitgeverij overigens van Wolfgang Pohrt. In het voorjaar
     van ’87 komt bij de SUA een vertaling uit van Pohrts werk.
 
-[^24]: Zowel Pohrt als Geisel schrijven veelvuldig over het fascisme. Zo
+[^156]: Zowel Pohrt als Geisel schrijven veelvuldig over het fascisme. Zo
     is er een aantal artikelen daarover gebundeld in Pohrts eerste boek,
     *Ausverkauf*, Berlin, 1980, o.a. over Rudolf Höss en de literatuur
     over KZ-ervaringen.
 
-[^25]: Mulisch, *De Zaak 40-61*, 127-128.
+[^157]: Mulisch, *De Zaak 40-61*, 127-128.
 
-[^26]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
+[^158]: Donald van Dansik, Jan de Graaf, Wim Nijenhuis en Piet Rook, *De
     Muur* (Rotterdam: Uitgeverij 010, 1984), recentelijk opnieuw
     uitgegeven door het Institute of Network Cultures:
     <http://networkcultures.org/blog/publication/de-muur/>.
 
-[^27]: Idem.
+[^159]: Idem.
 
-[^28]: Idem.
+[^160]: Idem.
 
-[^29]: Idem.
+[^161]: Idem.
 
-[^30]: Idem.
+[^162]: Idem.
 
-[^31]: ‘Wij’ is hier Bilwet. Zie Bilwet, *Het Beeldenrijk: over
+[^163]: ‘Wij’ is hier Bilwet. Zie Bilwet, *Het Beeldenrijk: over
     stralingsangst en ruimteverlangen* (Amsterdam: Raket en Lont, 1985),
     95-96.
 
-[^32]: Van Dansik, De Graaf, Nijenhuis en Rook, *De Muur*.
+[^164]: Van Dansik, De Graaf, Nijenhuis en Rook, *De Muur*.

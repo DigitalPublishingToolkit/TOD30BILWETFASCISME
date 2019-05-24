@@ -278,7 +278,7 @@ internationale:
 > van het proletariaat op nationale en internationale schaal, - ziedaar
 > het machtige wapen, dat de arbeidersklasse niet alleen tot een
 > succesvolle verdediging in staat stelt, maar ook tot een succesvol
-> tegenoffensief tegen het fascisme, tegen den klasse-vijand.[^1]
+> tegenoffensief tegen het fascisme, tegen den klasse-vijand.[^86]
 
 Vrij duidelijk, lijkt me: wanneer je ‘fascisme’ inderdaad uitsluitend
 ziet in termen van klasse-vijand en de meest brutale vorm van
@@ -297,7 +297,7 @@ Dimitroff:
 > wij constateren, dat alle stellingen, waar het op aan komt, eenparig
 > door het congres zijn goedgekeurd. Geen der sprekers heeft tegen de
 > door ons aangegeven tactische stellingname en de voorgestelde
-> resolutie bezwaren ingebracht.[^2]
+> resolutie bezwaren ingebracht.[^87]
 
 Dat is voor mij dus een vorm van discussiëren waar de fascisten even
 bedreven in waren en die naderhand geijkt is met de uitdrukking *‘Befehl
@@ -449,7 +449,7 @@ zoveel kunnen opsteken, dat zij in Nederland plotseling geen soort
 supermensen zijn maar gevaarlijk, onaangepast, asociaal, agressief en
 weet ik veel wat niet nog meer. Waaróm zijn die ‘engeltjes’ dan ineens
 achterlijk, vies, onbetrouwbaar enzovoorts? ‘Van die dingen dus, ja?’ om
-met (wijlen?) Cor van der Laak te spreken.[^3]
+met (wijlen?) Cor van der Laak te spreken.[^88]
 
 Cor van der Laak dus. Hij heeft iets van de doorsnee-iets-boven-modale
 burgerman: netjes rijtjeshuis, gewoon maar toch kritisch AVRO­lid,
@@ -737,7 +737,7 @@ racisme dus.
 >
 > something about it.’
 >
-> (John Lennon en Yoko Ono) [^4]
+> (John Lennon en Yoko Ono) [^89]
 
 Aan het eind van paragraaf zeven schreef ik, dat als er iets niet in
 orde is geweest in die ‘zwarte periode’ van de eerste vier levensjaren,
@@ -885,7 +885,7 @@ geven:
 > lijnen, en een storende ontroering zou teweeggebracht hebben’. Vreemd,
 > denk je dan, maar dan komt het: ‘In het raam van een christelijke
 > opvoeding die de geslachten als rassen van elkaar scheidde, was de
-> vrouw, voor Hergé, eerst een vreemd land, een andere wereld.’[^5]
+> vrouw, voor Hergé, eerst een vreemd land, een andere wereld.’[^90]
 
 Het Vrouwelijke - Het Verleidelijke - De Ontroering - De Voorstelling:
 en pats! Hergé zou direct gestoord raken en opgenomen dienen te worden
@@ -1211,22 +1211,22 @@ voor fascisme/racisme/seksis-
 
 LAATSTE ONTBREEKT!
 
-[^1]: Georgi Dimitroff, ‘Arbeitersklasse gegen Faschismus (1935), in
+[^86]: Georgi Dimitroff, ‘Arbeitersklasse gegen Faschismus (1935), in
     *Texte zur Faschismusdiskussion I: Positionen und Kontroversen,*
     red. Reinhard Kühnl (Reinbek: Rowohlt Taschenbuch Verlag, 1974),
     58-68. Citaat uit het Duits vertaald door de auteur.
 
-[^2]: Idem.
+[^87]: Idem.
 
-[^3]: Cor van der Laak was een ‘Krities AVRO-lid’ en typetje van Koot en
+[^88]: Cor van der Laak was een ‘Krities AVRO-lid’ en typetje van Koot en
     Bie uit de eerste helft van de jaren ’80. Het was een driftig
     mannetje dat altijd zijn gelijk probeerde te krijgen en in de clinch
     lag met de oude AVRO, de NS en de rest van Nederland. Zie
     bijvoorbeeld: <https://www.youtube.com/watch?v=vG96OFA9M1w>.
 
-[^4]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^89]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
 
-[^5]: Pierre Sterckx in Hergé, Pierre Sterckx en Georges Ade, *Het
+[^90]: Pierre Sterckx in Hergé, Pierre Sterckx en Georges Ade, *Het
     Imaginair Museum van Kuifje*, (Brussel: Casterman, 1980), 21-22.

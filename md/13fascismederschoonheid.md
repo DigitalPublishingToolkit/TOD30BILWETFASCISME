@@ -21,7 +21,7 @@ Rights: CC BY-NC-SA 4.0
 
 Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebracht in het Duits als Bilwet, *Der Datendandy* (Bensheim: Bollmann Verlag, 1994).
 
-In het voorwoord van zijn Duitsche Bewegingsleer[^1] schrijft A. Hitler
+In het voorwoord van zijn Duitsche Bewegingsleer[^165] schrijft A. Hitler
 (1898-1945) dat hij het gedeelte over zijn jeugdjaren met name daarom
 heeft opgenomen om ‘de vele hatelijke sagen en legenden, die de Joodsche
 pers om mijn persoon heeft geweven,’ (als een spin) ‘tot hun ware
@@ -33,7 +33,7 @@ levensloop’ zou *Mijn Kamp* niet zo goed begrepen kunnen worden als met
 dit voorafje.
 
 Onderstaande selectie van citaten uit *Mijn Kamp* is toegespitst op
-Hitlers roeping tot de kunst en wat daaraan vastzit.[^2] De opvattingen
+Hitlers roeping tot de kunst en wat daaraan vastzit.[^166] De opvattingen
 die hij in zijn Duitsche bajesboek over kunst ten beste geeft stellen
 net zo weinig voor als zijn tekeningen en schilderijen, die zelfs in een
 nieuw Duitschland het exposeren niet waard zijn. De normaliteit van
@@ -364,7 +364,7 @@ dat niet deugen wil en een zekere inconsequentie niet ontzegd kan
 worden. Vraag het negatieve denken nooit waar het voor is, maar enkel
 waar het tegen is, want het is voor niets en tegen alles en iedereen.
 
-[^1]: Bilwet doelt hiermee op *Mein Kampf.*
+[^165]: Bilwet doelt hiermee op *Mein Kampf.*
 
-[^2]: Bilwet citeerde uit een Nederlandse vertaling, vermoedelijk uit de
+[^166]: Bilwet citeerde uit een Nederlandse vertaling, vermoedelijk uit de
     jaren ’40.

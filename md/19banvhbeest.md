@@ -25,7 +25,7 @@ Door Bilwet. Uit *De datadandy,* in het Nederlands geschreven in 1994. Uitgebrac
 
 Na zijn moeizame reis door de Sovjet-Unie, wordt Kuifje naar de Congo
 gestuurd. Dat is spannend. Daar zijn leeuwen en olifanten en luipaarden
-en apen natuurlijk, en n\*\*\*\*meisjes met blote tietjes.[^1] En er
+en apen natuurlijk, en n\*\*\*\*meisjes met blote tietjes.[^177] En er
 zijn missieposten met paters, een modelboerderij, een hospitaal, een
 kapel en daar worden de ‘n\*\*\*\*\*\*’ opgevoed tot beschaafde Belgen.
 ‘Het was 1930,’ zegt Kuifje-auteur Hergé in een terugblik op zijn
@@ -383,6 +383,6 @@ Door de publicatie van zijn innerlijke roerselen heeft Hergé zijn naam
 gevestigd en wordt aangezien als een volwassen striptekenaar. De
 serieproductie van albums kan beginnen.
 
-[^1]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
+[^177]: Letters van n-woorden in de oorspronkelijke tekst zijn vervangen
     door sterretjes (\*). Zie voor een verantwoording het voorwoord van
     deze bundel.
