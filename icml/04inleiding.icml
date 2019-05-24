@@ -168,7 +168,7 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="e36aa57c-28d8-48b4-9651-67810fc01958" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="a72cd576-8fa4-41b2-941a-90e5f9751560" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -221,7 +221,7 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="a8db39e8-e2ca-40a7-b258-e143475cbd74" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="b3e829da-9e5e-4b70-8028-434c962267d7" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -229,7 +229,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" StyleUniqueId="6ce49d84-5ad7-465f-8eee-7e93c995cbbd" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="17.007874015748033" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" StyleUniqueId="64d3ced6-b4fc-48c7-b7ce-10d115d6c8aa" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="17.007874015748033" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -238,17 +238,16 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="974e7c27-9f2d-4ee5-8a85-f82a5e4e07de" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="cd389538-8bf5-425b-a795-61cd8231aacb" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">10</Leading>
-						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" Imported="false" NextStyle="ParagraphStyle/Figure" SplitDocument="false" EmitCss="true" StyleUniqueId="ece2bca3-19bc-4052-9e62-1fc129f5c724" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" Imported="false" NextStyle="ParagraphStyle/Figure" SplitDocument="false" EmitCss="true" StyleUniqueId="76949bf4-68a2-4982-9251-c1d48c08e5f6" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -9531,9 +9530,9 @@ r3v3Xuve/de697917r//2Q==]]></GraphicProxy>
 				<Content>de</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> fascist. &apos;Punch a Nazi&apos; is het toppunt van domheid. Het heeft geen zin mensen uit te maken voor fascist die zichzelf niet (openlijk) als fascist identificeren. Je vervalt dan alleen maar in een welles-nietes-discussie rond de definitie en toepassing van &apos;fascisme&apos;. En dan ook nog eens geweld gaan gebruiken? Nee, ik denk dat de grote urgentie van hedendaagse fascismeanalyse ligt in het kunnen begrijpen en verklaren van hedendaagse maatschappelijke tendensen en het anticiperen op structurele toekomstige gevaren. Maar dat is natuurlijk ook niet een neutrale analyse zonder politieke aannames of grondslagen. Bij fascismeanalyse hoort de antifascistische strijd, en wellicht ook de non-fascist. De belangrijkste vraag lijkt dan ook te zijn: wat betekent het vandaag de dag om antifascist of non-fascist te zijn? In verschillende landen zien we Trump, Orbán, Duterte, Bolsonaro, de Gouden Dagenraad en in Nederland Wilders en Baudet die </Content>
+				<Content> fascist. &apos;Punch a Nazi&apos; is het toppunt van domheid. Het heeft geen zin mensen uit te maken voor fascist die zichzelf niet (openlijk) als fascist identificeren. Je vervalt dan alleen maar in een welles-nietes-discussie rond de definitie en toepassing van &apos;fascisme&apos;. En dan ook nog eens geweld gaan gebruiken? Ik denk dat de grote urgentie van hedendaagse fascismeanalyse ligt in het kunnen begrijpen en verklaren van hedendaagse maatschappelijke tendensen en het anticiperen op structurele toekomstige gevaren. Maar dat is natuurlijk ook niet een neutrale analyse zonder politieke aannames of grondslagen. Bij fascismeanalyse hoort de antifascistische strijd, en wellicht ook de non-fascist. De belangrijkste vraag lijkt dan ook te zijn: wat betekent het vandaag de dag om antifascist of non-fascist te zijn? In verschillende landen zien we sterke mannen als Trump, Orbán, Duterte, Bolsonaro, de Gouden Dagenraad en in Nederland </Content>
 				<Br />
-				<Content>een gooi doen naar zo&apos;n positie. Hoe kijkt de non-fascist naar zulke verschillende bewegingen op de wereld? Wat zegt fascismeanalyse ons over de </Content>
+				<Content>Wilders en Baudet die een gooi doen naar zo&apos;n positie. Hoe kijkt de non-fascist naar zulke verschillende bewegingen op de wereld? Wat zegt fascismeanalyse ons over de </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>strong men </Content>
@@ -13139,7 +13138,7 @@ f82P+Qf+hvbq8W+3rXXov0t/y0j/AOtftxeP5j/L1d+PUOo/zA/6cf8AQ497Hwt1pv8AKepUn6m/
 				<Br />
 				<Content>Geert: De psychoanalytische a.k.a. hermeneutische methode heeft nu eenmaal tijd en ruimte nodig. Je gaat graven en volgt sporen, lijnen, associaties, elementen uit dromen. Er bestaat niet zoiets als een Twittervorm van deconstructie. Het zou op zich een goed plan zijn om eens experimenten te gaan doen met het versnellen van diepte analyses. Kan dat überhaupt? Postmoderniteit staat bij jou, vermoed ik, voor relativering, maar daar kan binnen de fascisme analyse geen sprake zijn—daarvoor het thema te serieus en te urgent, denk maar aan de opkomst van Wilders en Baudet. Racisme in Nederland bestaat wel degelijk en dat kan niet zomaar door een spraak- of denkpolitie via verboden in oude media zoals kranten en tv worden opgelost.</Content>
 				<Br />
-				<Content>Sepp: Ik zal niet langer de purist/jurist uithangen, want de onduidelijkheid waar we het over hebben had ook een positieve kant. Bilwet was namelijk altijd opzoek naar de productieve uitglijers, of de opluchtende uitglijers, of ten minste de grappige uitglijers. Bas-Jan vertelde ooit in een interview met Jo van der Spek over jou:</Content>
+				<Content>Sepp: Ik zal niet langer de jurist uithangen, want de onduidelijkheid waar we het over hebben had ook een positieve kant. Bilwet was namelijk altijd opzoek naar de productieve uitglijers, of de opluchtende uitglijers, of ten minste de grappige uitglijers. Bas-Jan vertelde ooit in een interview met Jo van der Spek over jou:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -13345,13 +13344,13 @@ f82P+Qf+hvbq8W+3rXXov0t/y0j/AOtftxeP5j/L1d+PUOo/zA/6cf8AQ497Hwt1pv8AKepUn6m/
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> optreden. Het gaat hier niet om het louter optellen van twee of meer talenten. Je moet je echt inspannen dat het eindproduct een hele andere kant opgaat. Collectieven komen in de kunst nog steeds regelmatig voor maar zijn redelijk zelden als het om schrijven gaat. Uitzondering vormen Tiqqun en The Invisible Committee. Zij schrijven over collectieve ervaringen en politieke strategie. Wu Ming in Italië bestaat nog steeds, zij schrijven samen fictie onder die naam.</Content>
 				<Br />
-				<Content>Sepp: Ja ik denk dat je gelijk hebt met je analyse over collectief schrijverschap. Maar hoe zit het met die generatieoverdracht? De fascisme-discussie in de jaren &apos;70 en &apos;80 was een mannendiscussie. De allermeeste auteurs die geciteerd worden in deze bundel, inleiding incluis, zijn mannen. De vertaling van Theweleit werd opgezet door &apos;mannentijdschrift&apos; </Content>
+				<Content>Sepp: Ja ik denk dat je gelijk hebt met je analyse over collectief schrijverschap. ‘t Is er niet aantrekkelijker op geworden.Maar hoe zit het met die generatieoverdracht? Neem bijvoorbeeld het feit dat de fascisme-discussie in de jaren &apos;70 en &apos;80 een mannendiscussie was - wat kunnen we daarvan leren?. De allermeeste auteurs die geciteerd worden in deze bundel, inleiding incluis, zijn mannen. De vertaling van Theweleit werd opgezet door &apos;mannentijdschrift&apos; </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Manuskript</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. Er wordt meer dan eens verwezen naar &apos;mannenpraatgroepen&apos;. En niet te vergeten, Bilwet was een mannenclub. Toch was de fascisme-analyse geen circel-jerk-discussie over mannenrechten zoals die vandaag de dag door &apos;incels&apos; gevoerd wordt. Integendeel. Het was voor mij een openbaring toen mijn moeder me vertelde over de fascisme-discussies van toen. Het patriarchaat is aannemelijkerwijs niet millenia lang in stand gehouden door vrouwen, maar (deels onbewust) gereproduceerd door zorgvuldig gedisciplineerde mannen. Bovendien rees het inzicht dat patriarchale machtsstructuren ook voor mannen in zekere zin onderdrukkend zijn. Voor feministen als mijn moeder was het daarom duidelijk dat in de sekse-emancipatie ook mannen een duidelijke taak hadden, namelijk zelfanalyse. Waar makkelijker te beginnen met zo&apos;n mannenfeminisitische zelfanalyse dan bij het toppunt van uit de hand gelopen mannenidealen, het fascisme?</Content>
+				<Content>. Er wordt meer dan eens verwezen naar &apos;mannenpraatgroepen&apos;. En niet te vergeten, Bilwet was een mannenclub. Toch was de fascisme-analyse geen circel-jerk over mannenrechten zoals die vandaag de dag door &apos;incels&apos; gevoerd wordt. Integendeel. Het was voor mij een openbaring toen mijn moeder me vertelde over de fascisme-discussies van toen. Het patriarchaat is aannemelijkerwijs niet millenia lang in stand gehouden door vrouwen, maar (deels onbewust) gereproduceerd door zorgvuldig gedisciplineerde mannen. Bovendien rees het inzicht dat patriarchale machtsstructuren ook voor mannen in zekere zin onderdrukkend zijn. Voor feministen als mijn moeder was het daarom duidelijk dat in de sekse-emancipatie ook mannen een duidelijke taak hadden, namelijk zelfanalyse. Waar makkelijker te beginnen met zo&apos;n mannenfeminisitische zelfanalyse dan bij het toppunt van uit de hand gelopen mannenidealen, het fascisme?</Content>
 				<Br />
 				<Content>Het lijkt er dus op dat het in de fascismeanalyse van jullie generatie niet echt om ging wie </Content>
 			</CharacterStyleRange>
