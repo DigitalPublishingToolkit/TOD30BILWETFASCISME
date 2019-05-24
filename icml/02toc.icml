@@ -205,16 +205,16 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aTable of Contents" Name="$ID/Page &gt; Running Text:Table of Contents">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" Name="Page &gt; Running Text:Table of Contents:Chapter" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" SplitDocument="false" EmitCss="true" StyleUniqueId="072df1ac-0b44-4af9-9b80-762fa5bada43" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" Name="Page &gt; Running Text:Table of Contents:Chapter" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapter" SplitDocument="false" EmitCss="true" StyleUniqueId="2e6db8f1-bc59-416f-a4fa-565568b8b2bf" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">9</Leading>
-						<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 						<ParagraphShadingColor type="object">Color/#989c96</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" Name="Page &gt; Running Text:Table of Contents:Subtitle" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" SplitDocument="false" EmitCss="true" StyleUniqueId="551b72dd-235d-43d7-acb6-39eb2ee76cdf" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="14.173228346456694" RuleBelowLineWeight="0.5" RuleBelowOffset="2.834645669291339" RuleBelow="true" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" Name="Page &gt; Running Text:Table of Contents:Subtitle" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" SplitDocument="false" EmitCss="true" StyleUniqueId="4922e141-825e-49ee-b339-f89cc1373a19" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="14.173228346456694" RuleBelowLineWeight="0.5" RuleBelowOffset="2.834645669291339" RuleBelow="true" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -341,9 +341,6 @@
 				<Content>Voorwoord: Kuifosofie, antifascisme en mannenfeminisme                                           </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -361,9 +358,6 @@
 				<Content>Inleiding: Dialoog tijdens het redigeren van de Bilwet-fascismemap                                </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -387,9 +381,6 @@
 				<Content>1. Hoezo Bilwet? Een inleiding                                                                                       </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -407,9 +398,6 @@
 				<Content>2. De vertoogmixer van Klaus Theweleit: Een boek bij de dood van Orfeus                      </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -435,9 +423,6 @@
 				<Content>phantasien                                                                                                           </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -458,9 +443,6 @@
 				<Content>4. Mannenfantasie mannenfantasie: Een Theweleitkritiek                                          </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -484,9 +466,6 @@
 				<Content>5. Emotionaliteit, alledaagsheid en verzet: Een andere kijk op fascisme/racisme/seksisme</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -527,9 +506,6 @@
 				<Content>7. Erfassung, Aussonderung, Vernichtung: Een kennismaking met het werk van de Hamburgse Verein zur Erforschung der Nationalsozialistischen Gesundheits- und Sozialpolitik</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -573,7 +549,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Lex Woutersloot (1990)							 186</Content>
+				<Content>Lex Wouterloot (1990)							 186</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
 				<Properties>
@@ -590,9 +566,6 @@
 				<Content>10. De redelijkheid van het uniform: Over mode voor filosofen 			</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -616,9 +589,6 @@
 				<Content>Himmel über Berlin 			</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -639,9 +609,6 @@
 				<Content>Mijn kamp 		</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -659,9 +626,6 @@
 				<Content>13. &apos;Alleen door een wonder kan ik behouden worden&apos;: Over Boris, Bor en de Wolf 	</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -702,9 +666,6 @@
 				<Content>15. Kuifosofie: Over Hergé en de Alfa-kunst 					</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -722,9 +683,6 @@
 				<Content>16. De Kuifjereeks: Zes kleurplaten van Bilwet 					</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -742,9 +700,6 @@
 				<Content>17. Pissen voor de Führer: Het onschuldig fascisme van Hergé 			</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -785,9 +740,6 @@
 				<Content>Bijlage 1: Opzet Bilwet-fascismemap 						</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Properties>
-					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

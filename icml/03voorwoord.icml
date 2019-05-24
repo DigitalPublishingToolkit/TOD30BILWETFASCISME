@@ -126,6 +126,12 @@
 		<Font Self="di4023FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
 		<Font Self="di4023FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e3" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di404d" Name="TradeGothic LT">
+		<Font Self="di404dFontnTradeGothic LT Regular" FontFamily="TradeGothic LT" Name="TradeGothic LT Regular" PostScriptName="TradeGothicLT" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT" FullNameNative="Trade Gothic LT" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di404dFontnTradeGothic LT Italic" FontFamily="TradeGothic LT" Name="TradeGothic LT Italic" PostScriptName="TradeGothicLT-Oblique" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Oblique" FullNameNative="Trade Gothic LT Oblique" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di404dFontnTradeGothic LT Bold" FontFamily="TradeGothic LT" Name="TradeGothic LT Bold" PostScriptName="TradeGothicLT-BoldTwo" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold No. 2" FullNameNative="Trade Gothic LT Bold No. 2" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+		<Font Self="di404dFontnTradeGothic LT Bold Italic" FontFamily="TradeGothic LT" Name="TradeGothic LT Bold Italic" PostScriptName="TradeGothicLT-BoldTwoOblique" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold No. 2 Oblique" FullNameNative="Trade Gothic LT Bold No. 2 Oblique" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -165,11 +171,11 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="98c15659-14b3-4408-b44b-ba792913e4c5" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="e607119a-e41f-4af1-9da0-00a3ca46b984" IncludeClass="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				<AppliedFont type="string">TradeGothic LT</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Link" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="Link">
@@ -219,7 +225,7 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="f58bc13f-64aa-4fc3-afb2-b3c0d7dcae5a" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" StyleUniqueId="b3e829da-9e5e-4b70-8028-434c962267d7" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -227,7 +233,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" StyleUniqueId="9dfc38c7-5b20-4598-9aeb-6269a0ac0df7" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="17.007874015748033" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" StyleUniqueId="64d3ced6-b4fc-48c7-b7ce-10d115d6c8aa" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="17.007874015748033" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -236,12 +242,11 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="c1b413d7-804c-41bb-9ff6-eeec1d20009f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" StyleUniqueId="cd389538-8bf5-425b-a795-61cd8231aacb" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
 					<Properties>
 						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
 						<Leading type="unit">10</Leading>
-						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
@@ -844,7 +849,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante analyses tot gevolg. De eerste tekst in deze lijn, van Lex Woutersloot, is het terugvolgend van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: ‘Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.’</Content>
+				<Content>Bilwet blijft dit devies nauwgezet trouw, met verrassend relevante analyses tot gevolg. De eerste tekst in deze lijn, van Lex Wouterloot, is het terugvolgend van historische sporen in de esthetiek. Lex verklaarde het geflirt van popgroep Laibach met het fascisme als dramatisering van het verleden. Hij stelde: ‘Tegenover het geweld dat de fascistische massabeweging gekenmerkt heeft staat niet een expliciet politiek programma maar een mystieke wereldbeschouwing. In het schemergebied van militaristische mystiek en artistieke politiek, dat die wereldbeschouwing omvat, kunnen de creaties van Neue Slowenische Kunst ook geplaatst worden.’</Content>
 				<Br />
 				<Content>De tweede tekst is een stuk van Bas-Jan van Stam over ‘de redelijkheid van het uniform’ voor Bilwets </Content>
 			</CharacterStyleRange>
